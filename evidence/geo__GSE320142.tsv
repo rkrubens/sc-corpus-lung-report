@@ -1,0 +1,6 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-cb0ac239dca9/GSE320142_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9535604	geo:GSE320142:GSM9535604	tissue_free_text	Primary lung cancer	file	raw/fp-cb0ac239dca9/GSE320142_family.soft.gz	GSM9535604	!Sample_characteristics_ch1 = tissue: Primary lung cancer	True
+GSM9535604	geo:GSE320142:GSM9535604	treatment	untreated	file	raw/fp-cb0ac239dca9/GSE320142_family.soft.gz	GSM9535604	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM9535605	geo:GSE320142:GSM9535605	tissue_free_text	Primary lung cancer	file	raw/fp-cb0ac239dca9/GSE320142_family.soft.gz	GSM9535605	!Sample_characteristics_ch1 = tissue: Primary lung cancer	True
+GSM9535605	geo:GSE320142:GSM9535605	treatment	untreated	file	raw/fp-cb0ac239dca9/GSE320142_family.soft.gz	GSM9535605	!Sample_characteristics_ch1 = treatment: untreated	True

@@ -1,0 +1,92 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5733429	geo:GSE190889:GSM5733429	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5733429	geo:GSE190889:GSM5733429	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM5733429	geo:GSE190889:GSM5733429	author_cell_type	<column cell_type>	column	work/fp-6570a06cede7/author_annotation/LTC46_annotation.tsv/cell_type			True
+GSM5733430	geo:GSE190889:GSM5733430	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5733430	geo:GSE190889:GSM5733430	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM5733430	geo:GSE190889:GSM5733430	author_cell_type	<column cell_type>	column	work/fp-6570a06cede7/author_annotation/LTC50_annotation.tsv/cell_type			True
+GSM5733431	geo:GSE190889:GSM5733431	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5733431	geo:GSE190889:GSM5733431	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM5733431	geo:GSE190889:GSM5733431	author_cell_type	<column cell_type>	column	work/fp-6570a06cede7/author_annotation/LTC55_annotation.tsv/cell_type			True
+GSM5733432	geo:GSE190889:GSM5733432	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5733432	geo:GSE190889:GSM5733432	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM5733432	geo:GSE190889:GSM5733432	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM5733432	geo:GSE190889:GSM5733432	author_cell_type	<column cell_type>	column	work/fp-6570a06cede7/author_annotation/LTC22_annotation.tsv/cell_type			True
+GSM5733433	geo:GSE190889:GSM5733433	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5733433	geo:GSE190889:GSM5733433	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM5733433	geo:GSE190889:GSM5733433	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM5733433	geo:GSE190889:GSM5733433	author_cell_type	<column cell_type>	column	work/fp-6570a06cede7/author_annotation/LTC34_annotation.tsv/cell_type			True
+GSM5733434	geo:GSE190889:GSM5733434	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5733434	geo:GSE190889:GSM5733434	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM5733434	geo:GSE190889:GSM5733434	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM5733434	geo:GSE190889:GSM5733434	author_cell_type	<column cell_type>	column	work/fp-6570a06cede7/author_annotation/LTC52_annotation.tsv/cell_type			True
+		organism	Homo sapiens	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5733429	geo:GSE190889:GSM5733429	disease_ontology_term_id	PATO:0000461	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	disease state: Healthy	True
+GSM5733429	geo:GSE190889:GSM5733429	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	tissue: lung	True
+GSM5733429	geo:GSE190889:GSM5733429	tissue_type	tissue	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	Human lung tissue (IPF/age-matched donors, each n=3) was homogenized	True
+GSM5733429	geo:GSE190889:GSM5733429	suspension_type	cell	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	Single-cell suspensions were loaded onto a Chromium single cell chip	True
+GSM5733429	geo:GSE190889:GSM5733429	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	MACS sorting with CD45 Microbeads	True
+GSM5733429	geo:GSE190889:GSM5733429	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	Epcam+/DAPI- live single epithelial cell	True
+GSM5733429	geo:GSE190889:GSM5733429	assay_ontology_term_id	EFO:0009899	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	Single Cell 3' Reagent Kit, v2 Chemistry	True
+GSM5733429	geo:GSE190889:GSM5733429	disease_free_text	Healthy	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM5733429	geo:GSE190889:GSM5733429	sex	male	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	!Sample_characteristics_ch1 = Sex: male	True
+GSM5733429	geo:GSE190889:GSM5733429	age	66	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	!Sample_characteristics_ch1 = age: 66	True
+GSM5733429	geo:GSE190889:GSM5733429	tissue_free_text	lung	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733429	!Sample_characteristics_ch1 = tissue: lung	True
+GSM5733430	geo:GSE190889:GSM5733430	disease_ontology_term_id	PATO:0000461	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	disease state: Healthy	True
+GSM5733430	geo:GSE190889:GSM5733430	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	tissue: lung	True
+GSM5733430	geo:GSE190889:GSM5733430	tissue_type	tissue	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	Human lung tissue (IPF/age-matched donors, each n=3) was homogenized	True
+GSM5733430	geo:GSE190889:GSM5733430	suspension_type	cell	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	Single-cell suspensions were loaded onto a Chromium single cell chip	True
+GSM5733430	geo:GSE190889:GSM5733430	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	MACS sorting with CD45 Microbeads	True
+GSM5733430	geo:GSE190889:GSM5733430	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	Epcam+/DAPI- live single epithelial cell	True
+GSM5733430	geo:GSE190889:GSM5733430	assay_ontology_term_id	EFO:0009899	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	Single Cell 3' Reagent Kit, v2 Chemistry	True
+GSM5733430	geo:GSE190889:GSM5733430	disease_free_text	Healthy	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM5733430	geo:GSE190889:GSM5733430	sex	male	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	!Sample_characteristics_ch1 = Sex: male	True
+GSM5733430	geo:GSE190889:GSM5733430	age	66	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	!Sample_characteristics_ch1 = age: 66	True
+GSM5733430	geo:GSE190889:GSM5733430	tissue_free_text	lung	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733430	!Sample_characteristics_ch1 = tissue: lung	True
+GSM5733431	geo:GSE190889:GSM5733431	disease_ontology_term_id	PATO:0000461	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	disease state: Healthy	True
+GSM5733431	geo:GSE190889:GSM5733431	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	tissue: lung	True
+GSM5733431	geo:GSE190889:GSM5733431	tissue_type	tissue	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	Human lung tissue (IPF/age-matched donors, each n=3) was homogenized	True
+GSM5733431	geo:GSE190889:GSM5733431	suspension_type	cell	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	Single-cell suspensions were loaded onto a Chromium single cell chip	True
+GSM5733431	geo:GSE190889:GSM5733431	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	MACS sorting with CD45 Microbeads	True
+GSM5733431	geo:GSE190889:GSM5733431	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	Epcam+/DAPI- live single epithelial cell	True
+GSM5733431	geo:GSE190889:GSM5733431	assay_ontology_term_id	EFO:0009899	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	Single Cell 3' Reagent Kit, v2 Chemistry	True
+GSM5733431	geo:GSE190889:GSM5733431	disease_free_text	Healthy	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM5733431	geo:GSE190889:GSM5733431	sex	female	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	!Sample_characteristics_ch1 = Sex: female	True
+GSM5733431	geo:GSE190889:GSM5733431	age	68	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	!Sample_characteristics_ch1 = age: 68	True
+GSM5733431	geo:GSE190889:GSM5733431	tissue_free_text	lung	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733431	!Sample_characteristics_ch1 = tissue: lung	True
+GSM5733432	geo:GSE190889:GSM5733432	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	disease state: IPF	True
+GSM5733432	geo:GSE190889:GSM5733432	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz		Idiopathic Pulmonary Fibrosis (IPF) is a devastating and life-threatening lung disease	True
+GSM5733432	geo:GSE190889:GSM5733432	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	tissue: lung	True
+GSM5733432	geo:GSE190889:GSM5733432	tissue_type	tissue	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	Human lung tissue (IPF/age-matched donors, each n=3) was homogenized	True
+GSM5733432	geo:GSE190889:GSM5733432	suspension_type	cell	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	Single-cell suspensions were loaded onto a Chromium single cell chip	True
+GSM5733432	geo:GSE190889:GSM5733432	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	MACS sorting with CD45 Microbeads	True
+GSM5733432	geo:GSE190889:GSM5733432	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	Epcam+/DAPI- live single epithelial cell	True
+GSM5733432	geo:GSE190889:GSM5733432	assay_ontology_term_id	EFO:0009899	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	Single Cell 3' Reagent Kit, v2 Chemistry	True
+GSM5733432	geo:GSE190889:GSM5733432	disease_free_text	IPF	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM5733432	geo:GSE190889:GSM5733432	sex	male	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	!Sample_characteristics_ch1 = Sex: male	True
+GSM5733432	geo:GSE190889:GSM5733432	age	45	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	!Sample_characteristics_ch1 = age: 45	True
+GSM5733432	geo:GSE190889:GSM5733432	tissue_free_text	lung	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733432	!Sample_characteristics_ch1 = tissue: lung	True
+GSM5733433	geo:GSE190889:GSM5733433	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	disease state: IPF	True
+GSM5733433	geo:GSE190889:GSM5733433	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz		Idiopathic Pulmonary Fibrosis (IPF) is a devastating and life-threatening lung disease	True
+GSM5733433	geo:GSE190889:GSM5733433	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	tissue: lung	True
+GSM5733433	geo:GSE190889:GSM5733433	tissue_type	tissue	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	Human lung tissue (IPF/age-matched donors, each n=3) was homogenized	True
+GSM5733433	geo:GSE190889:GSM5733433	suspension_type	cell	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	Single-cell suspensions were loaded onto a Chromium single cell chip	True
+GSM5733433	geo:GSE190889:GSM5733433	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	MACS sorting with CD45 Microbeads	True
+GSM5733433	geo:GSE190889:GSM5733433	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	Epcam+/DAPI- live single epithelial cell	True
+GSM5733433	geo:GSE190889:GSM5733433	assay_ontology_term_id	EFO:0009899	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	Single Cell 3' Reagent Kit, v2 Chemistry	True
+GSM5733433	geo:GSE190889:GSM5733433	disease_free_text	IPF	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM5733433	geo:GSE190889:GSM5733433	sex	male	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	!Sample_characteristics_ch1 = Sex: male	True
+GSM5733433	geo:GSE190889:GSM5733433	age	64	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	!Sample_characteristics_ch1 = age: 64	True
+GSM5733433	geo:GSE190889:GSM5733433	tissue_free_text	lung	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733433	!Sample_characteristics_ch1 = tissue: lung	True
+GSM5733434	geo:GSE190889:GSM5733434	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	disease state: IPF	True
+GSM5733434	geo:GSE190889:GSM5733434	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz		Idiopathic Pulmonary Fibrosis (IPF) is a devastating and life-threatening lung disease	True
+GSM5733434	geo:GSE190889:GSM5733434	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	tissue: lung	True
+GSM5733434	geo:GSE190889:GSM5733434	tissue_type	tissue	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	Human lung tissue (IPF/age-matched donors, each n=3) was homogenized	True
+GSM5733434	geo:GSE190889:GSM5733434	suspension_type	cell	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	Single-cell suspensions were loaded onto a Chromium single cell chip	True
+GSM5733434	geo:GSE190889:GSM5733434	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	MACS sorting with CD45 Microbeads	True
+GSM5733434	geo:GSE190889:GSM5733434	cell_enrichment	EpCAM+ epithelial cells (CD45-depleted)	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	Epcam+/DAPI- live single epithelial cell	True
+GSM5733434	geo:GSE190889:GSM5733434	assay_ontology_term_id	EFO:0009899	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	Single Cell 3' Reagent Kit, v2 Chemistry	True
+GSM5733434	geo:GSE190889:GSM5733434	disease_free_text	IPF	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM5733434	geo:GSE190889:GSM5733434	sex	female	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	!Sample_characteristics_ch1 = Sex: female	True
+GSM5733434	geo:GSE190889:GSM5733434	age	68	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	!Sample_characteristics_ch1 = age: 68	True
+GSM5733434	geo:GSE190889:GSM5733434	tissue_free_text	lung	file	raw/fp-6570a06cede7/GSE190889_family.soft.gz	GSM5733434	!Sample_characteristics_ch1 = tissue: lung	True

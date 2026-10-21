@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9111335	geo:GSE302794:GSM9111335	treatment	Never smoker, healthy	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111335	!Sample_characteristics_ch1 = treatment: Never smoker, healthy	True
+GSM9111335	geo:GSE302794:GSM9111335	tissue_free_text	Bronchial epithelial cells	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111335	!Sample_characteristics_ch1 = cell type: Bronchial epithelial cells	True
+GSM9111335	geo:GSE302794:GSM9111335	disease_free_text	Never smoker, healthy	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111335	!Sample_characteristics_ch1 = treatment: Never smoker, healthy	True
+GSM9111336	geo:GSE302794:GSM9111336	treatment	Ex smoker, COPD	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111336	!Sample_characteristics_ch1 = treatment: Ex smoker, COPD	True
+GSM9111336	geo:GSE302794:GSM9111336	tissue_free_text	Bronchial epithelial cells	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111336	!Sample_characteristics_ch1 = cell type: Bronchial epithelial cells	True
+GSM9111336	geo:GSE302794:GSM9111336	disease_free_text	Ex smoker, COPD	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111336	!Sample_characteristics_ch1 = treatment: Ex smoker, COPD	True
+GSM9111337	geo:GSE302794:GSM9111337	treatment	Ex smoker, COPD	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111337	!Sample_characteristics_ch1 = treatment: Ex smoker, COPD	True
+GSM9111337	geo:GSE302794:GSM9111337	tissue_free_text	Bronchial epithelial cells	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111337	!Sample_characteristics_ch1 = cell type: Bronchial epithelial cells	True
+GSM9111337	geo:GSE302794:GSM9111337	disease_free_text	Ex smoker, COPD	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111337	!Sample_characteristics_ch1 = treatment: Ex smoker, COPD	True
+GSM9111338	geo:GSE302794:GSM9111338	treatment	Current smoker, COPD	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111338	!Sample_characteristics_ch1 = treatment: Current smoker, COPD	True
+GSM9111338	geo:GSE302794:GSM9111338	tissue_free_text	Bronchial epithelial cells	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111338	!Sample_characteristics_ch1 = cell type: Bronchial epithelial cells	True
+GSM9111338	geo:GSE302794:GSM9111338	disease_free_text	Current smoker, COPD	file	raw/fp-aeb73103b06b/GSE302794_family.soft.gz	GSM9111338	!Sample_characteristics_ch1 = treatment: Current smoker, COPD	True

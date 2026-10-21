@@ -1,0 +1,11 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5393313	geo:GSE178519:GSM5393313	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM5393314	geo:GSE178519:GSM5393314	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM5393315	geo:GSE178519:GSM5393315	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+		organism	Homo sapiens	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5393313	geo:GSE178519:GSM5393313	age	Adult	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz	GSM5393313	!Sample_characteristics_ch1 = age: Adult	True
+GSM5393313	geo:GSE178519:GSM5393313	disease_free_text	Normal	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz	GSM5393313	!Sample_characteristics_ch1 = disease: Normal	True
+GSM5393314	geo:GSE178519:GSM5393314	age	Adult	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz	GSM5393314	!Sample_characteristics_ch1 = age: Adult	True
+GSM5393314	geo:GSE178519:GSM5393314	disease_free_text	Normal	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz	GSM5393314	!Sample_characteristics_ch1 = disease: Normal	True
+GSM5393315	geo:GSE178519:GSM5393315	age	Adult	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz	GSM5393315	!Sample_characteristics_ch1 = age: Adult	True
+GSM5393315	geo:GSE178519:GSM5393315	disease_free_text	Normal	file	raw/fp-03b6998ca3df/GSE178519_family.soft.gz	GSM5393315	!Sample_characteristics_ch1 = disease: Normal	True

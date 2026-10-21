@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5100998	geo:GSE167295:GSM5100998	disease_free_text	COPD	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100998	disease: COPD	True
+GSM5100998	geo:GSE167295:GSM5100998	disease_ontology_term_id	MONDO:0005002	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100998	disease: COPD	True
+GSM5100998	geo:GSE167295:GSM5100998	tissue_free_text	Lung	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100998	tissue: Lung	True
+GSM5100998	geo:GSE167295:GSM5100998	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100998	tissue: Lung	True
+GSM5100998	geo:GSE167295:GSM5100998	tissue_type	tissue	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100998	whole lung tissue, single cell suspension	True
+GSM5100998	geo:GSE167295:GSM5100998	suspension_type	cell	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100998	whole lung tissue, single cell suspension	True
+GSM5100999	geo:GSE167295:GSM5100999	disease_free_text	COPD	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100999	disease: COPD	True
+GSM5100999	geo:GSE167295:GSM5100999	disease_ontology_term_id	MONDO:0005002	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100999	disease: COPD	True
+GSM5100999	geo:GSE167295:GSM5100999	tissue_free_text	Lung	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100999	tissue: Lung	True
+GSM5100999	geo:GSE167295:GSM5100999	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100999	tissue: Lung	True
+GSM5100999	geo:GSE167295:GSM5100999	tissue_type	tissue	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100999	whole lung tissue, single cell suspension	True
+GSM5100999	geo:GSE167295:GSM5100999	suspension_type	cell	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5100999	whole lung tissue, single cell suspension	True
+GSM5101000	geo:GSE167295:GSM5101000	disease_free_text	COPD	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5101000	disease: COPD	True
+GSM5101000	geo:GSE167295:GSM5101000	disease_ontology_term_id	MONDO:0005002	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5101000	disease: COPD	True
+GSM5101000	geo:GSE167295:GSM5101000	tissue_free_text	Lung	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5101000	tissue: Lung	True
+GSM5101000	geo:GSE167295:GSM5101000	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5101000	tissue: Lung	True
+GSM5101000	geo:GSE167295:GSM5101000	tissue_type	tissue	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5101000	whole lung tissue, single cell suspension	True
+GSM5101000	geo:GSE167295:GSM5101000	suspension_type	cell	file	raw/fp-bd30d5948ebd/GSE167295_family.soft.gz	GSM5101000	whole lung tissue, single cell suspension	True

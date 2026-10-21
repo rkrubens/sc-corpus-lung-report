@@ -1,0 +1,3 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-f98b97ea1a6a/GSE168127_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5129495	geo:GSE168127:GSM5129495	donor_id	nonsmoker donor 8	file	raw/fp-f98b97ea1a6a/GSE168127_family.soft.gz	GSM5129495	!Sample_characteristics_ch1 = patient: nonsmoker donor 8	True

@@ -1,0 +1,1090 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9226168	geo:GSE307534:GSM9226168	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226168	geo:GSE307534:GSM9226168	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226168	geo:GSE307534:GSM9226168	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9226168	geo:GSE307534:GSM9226168	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226168	geo:GSE307534:GSM9226168	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226169	geo:GSE307534:GSM9226169	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226169	geo:GSE307534:GSM9226169	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226169	geo:GSE307534:GSM9226169	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9226169	geo:GSE307534:GSM9226169	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226169	geo:GSE307534:GSM9226169	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226170	geo:GSE307534:GSM9226170	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226170	geo:GSE307534:GSM9226170	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226170	geo:GSE307534:GSM9226170	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM9226170	geo:GSE307534:GSM9226170	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226170	geo:GSE307534:GSM9226170	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226171	geo:GSE307534:GSM9226171	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226171	geo:GSE307534:GSM9226171	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226171	geo:GSE307534:GSM9226171	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM9226171	geo:GSE307534:GSM9226171	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226171	geo:GSE307534:GSM9226171	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226172	geo:GSE307534:GSM9226172	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226172	geo:GSE307534:GSM9226172	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226172	geo:GSE307534:GSM9226172	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226172	geo:GSE307534:GSM9226172	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226172	geo:GSE307534:GSM9226172	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226173	geo:GSE307534:GSM9226173	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226173	geo:GSE307534:GSM9226173	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226173	geo:GSE307534:GSM9226173	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226173	geo:GSE307534:GSM9226173	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226173	geo:GSE307534:GSM9226173	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226174	geo:GSE307534:GSM9226174	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226174	geo:GSE307534:GSM9226174	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226174	geo:GSE307534:GSM9226174	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226174	geo:GSE307534:GSM9226174	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226174	geo:GSE307534:GSM9226174	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226175	geo:GSE307534:GSM9226175	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226175	geo:GSE307534:GSM9226175	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226175	geo:GSE307534:GSM9226175	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226175	geo:GSE307534:GSM9226175	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226175	geo:GSE307534:GSM9226175	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226176	geo:GSE307534:GSM9226176	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226176	geo:GSE307534:GSM9226176	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226176	geo:GSE307534:GSM9226176	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226176	geo:GSE307534:GSM9226176	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226176	geo:GSE307534:GSM9226176	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226177	geo:GSE307534:GSM9226177	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226177	geo:GSE307534:GSM9226177	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226177	geo:GSE307534:GSM9226177	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226177	geo:GSE307534:GSM9226177	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226177	geo:GSE307534:GSM9226177	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226178	geo:GSE307534:GSM9226178	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226178	geo:GSE307534:GSM9226178	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226178	geo:GSE307534:GSM9226178	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+GSM9226178	geo:GSE307534:GSM9226178	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226178	geo:GSE307534:GSM9226178	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226179	geo:GSE307534:GSM9226179	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226179	geo:GSE307534:GSM9226179	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226179	geo:GSE307534:GSM9226179	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+GSM9226179	geo:GSE307534:GSM9226179	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226179	geo:GSE307534:GSM9226179	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226180	geo:GSE307534:GSM9226180	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226180	geo:GSE307534:GSM9226180	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226180	geo:GSE307534:GSM9226180	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM9226180	geo:GSE307534:GSM9226180	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226180	geo:GSE307534:GSM9226180	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226181	geo:GSE307534:GSM9226181	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226181	geo:GSE307534:GSM9226181	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226181	geo:GSE307534:GSM9226181	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM9226181	geo:GSE307534:GSM9226181	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226181	geo:GSE307534:GSM9226181	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226182	geo:GSE307534:GSM9226182	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226182	geo:GSE307534:GSM9226182	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226182	geo:GSE307534:GSM9226182	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM9226182	geo:GSE307534:GSM9226182	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226182	geo:GSE307534:GSM9226182	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226183	geo:GSE307534:GSM9226183	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226183	geo:GSE307534:GSM9226183	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226183	geo:GSE307534:GSM9226183	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM9226183	geo:GSE307534:GSM9226183	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226183	geo:GSE307534:GSM9226183	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226184	geo:GSE307534:GSM9226184	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226184	geo:GSE307534:GSM9226184	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226184	geo:GSE307534:GSM9226184	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226184	geo:GSE307534:GSM9226184	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226184	geo:GSE307534:GSM9226184	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226185	geo:GSE307534:GSM9226185	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226185	geo:GSE307534:GSM9226185	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226185	geo:GSE307534:GSM9226185	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226185	geo:GSE307534:GSM9226185	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226185	geo:GSE307534:GSM9226185	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226186	geo:GSE307534:GSM9226186	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226186	geo:GSE307534:GSM9226186	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226186	geo:GSE307534:GSM9226186	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226186	geo:GSE307534:GSM9226186	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226186	geo:GSE307534:GSM9226186	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226187	geo:GSE307534:GSM9226187	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226187	geo:GSE307534:GSM9226187	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226187	geo:GSE307534:GSM9226187	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226187	geo:GSE307534:GSM9226187	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226187	geo:GSE307534:GSM9226187	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226188	geo:GSE307534:GSM9226188	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226188	geo:GSE307534:GSM9226188	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226188	geo:GSE307534:GSM9226188	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226188	geo:GSE307534:GSM9226188	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226188	geo:GSE307534:GSM9226188	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226189	geo:GSE307534:GSM9226189	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226189	geo:GSE307534:GSM9226189	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226189	geo:GSE307534:GSM9226189	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM9226189	geo:GSE307534:GSM9226189	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226189	geo:GSE307534:GSM9226189	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226190	geo:GSE307534:GSM9226190	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226190	geo:GSE307534:GSM9226190	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226190	geo:GSE307534:GSM9226190	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM9226190	geo:GSE307534:GSM9226190	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226190	geo:GSE307534:GSM9226190	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226191	geo:GSE307534:GSM9226191	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226191	geo:GSE307534:GSM9226191	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226191	geo:GSE307534:GSM9226191	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9226191	geo:GSE307534:GSM9226191	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226191	geo:GSE307534:GSM9226191	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226192	geo:GSE307534:GSM9226192	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226192	geo:GSE307534:GSM9226192	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226192	geo:GSE307534:GSM9226192	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9226192	geo:GSE307534:GSM9226192	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226192	geo:GSE307534:GSM9226192	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226193	geo:GSE307534:GSM9226193	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226193	geo:GSE307534:GSM9226193	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226193	geo:GSE307534:GSM9226193	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226193	geo:GSE307534:GSM9226193	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226193	geo:GSE307534:GSM9226193	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226194	geo:GSE307534:GSM9226194	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226194	geo:GSE307534:GSM9226194	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226194	geo:GSE307534:GSM9226194	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226194	geo:GSE307534:GSM9226194	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226194	geo:GSE307534:GSM9226194	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226195	geo:GSE307534:GSM9226195	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226195	geo:GSE307534:GSM9226195	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226195	geo:GSE307534:GSM9226195	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9226195	geo:GSE307534:GSM9226195	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226195	geo:GSE307534:GSM9226195	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226196	geo:GSE307534:GSM9226196	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226196	geo:GSE307534:GSM9226196	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226196	geo:GSE307534:GSM9226196	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9226196	geo:GSE307534:GSM9226196	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226196	geo:GSE307534:GSM9226196	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226197	geo:GSE307534:GSM9226197	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226197	geo:GSE307534:GSM9226197	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226197	geo:GSE307534:GSM9226197	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM9226197	geo:GSE307534:GSM9226197	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226197	geo:GSE307534:GSM9226197	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226198	geo:GSE307534:GSM9226198	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226198	geo:GSE307534:GSM9226198	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226198	geo:GSE307534:GSM9226198	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM9226198	geo:GSE307534:GSM9226198	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226198	geo:GSE307534:GSM9226198	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226199	geo:GSE307534:GSM9226199	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226199	geo:GSE307534:GSM9226199	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226199	geo:GSE307534:GSM9226199	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226199	geo:GSE307534:GSM9226199	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226199	geo:GSE307534:GSM9226199	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226200	geo:GSE307534:GSM9226200	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226200	geo:GSE307534:GSM9226200	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226200	geo:GSE307534:GSM9226200	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9226200	geo:GSE307534:GSM9226200	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226200	geo:GSE307534:GSM9226200	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226201	geo:GSE307534:GSM9226201	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226201	geo:GSE307534:GSM9226201	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226201	geo:GSE307534:GSM9226201	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9226201	geo:GSE307534:GSM9226201	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226201	geo:GSE307534:GSM9226201	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226202	geo:GSE307534:GSM9226202	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226202	geo:GSE307534:GSM9226202	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226202	geo:GSE307534:GSM9226202	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9226202	geo:GSE307534:GSM9226202	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226202	geo:GSE307534:GSM9226202	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226203	geo:GSE307534:GSM9226203	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226203	geo:GSE307534:GSM9226203	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226203	geo:GSE307534:GSM9226203	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9226203	geo:GSE307534:GSM9226203	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226203	geo:GSE307534:GSM9226203	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226204	geo:GSE307534:GSM9226204	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226204	geo:GSE307534:GSM9226204	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226204	geo:GSE307534:GSM9226204	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9226204	geo:GSE307534:GSM9226204	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226204	geo:GSE307534:GSM9226204	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226205	geo:GSE307534:GSM9226205	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226205	geo:GSE307534:GSM9226205	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226205	geo:GSE307534:GSM9226205	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9226205	geo:GSE307534:GSM9226205	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226205	geo:GSE307534:GSM9226205	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226206	geo:GSE307534:GSM9226206	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226206	geo:GSE307534:GSM9226206	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226206	geo:GSE307534:GSM9226206	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9226206	geo:GSE307534:GSM9226206	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226206	geo:GSE307534:GSM9226206	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226207	geo:GSE307534:GSM9226207	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226207	geo:GSE307534:GSM9226207	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226207	geo:GSE307534:GSM9226207	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM9226207	geo:GSE307534:GSM9226207	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226207	geo:GSE307534:GSM9226207	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226208	geo:GSE307534:GSM9226208	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226208	geo:GSE307534:GSM9226208	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226208	geo:GSE307534:GSM9226208	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM9226208	geo:GSE307534:GSM9226208	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226208	geo:GSE307534:GSM9226208	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226209	geo:GSE307534:GSM9226209	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226209	geo:GSE307534:GSM9226209	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226209	geo:GSE307534:GSM9226209	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226209	geo:GSE307534:GSM9226209	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226209	geo:GSE307534:GSM9226209	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226210	geo:GSE307534:GSM9226210	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226210	geo:GSE307534:GSM9226210	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226210	geo:GSE307534:GSM9226210	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226210	geo:GSE307534:GSM9226210	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226210	geo:GSE307534:GSM9226210	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226211	geo:GSE307534:GSM9226211	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226211	geo:GSE307534:GSM9226211	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226211	geo:GSE307534:GSM9226211	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9226211	geo:GSE307534:GSM9226211	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226211	geo:GSE307534:GSM9226211	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226212	geo:GSE307534:GSM9226212	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226212	geo:GSE307534:GSM9226212	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226212	geo:GSE307534:GSM9226212	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9226212	geo:GSE307534:GSM9226212	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226212	geo:GSE307534:GSM9226212	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226213	geo:GSE307534:GSM9226213	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226213	geo:GSE307534:GSM9226213	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226213	geo:GSE307534:GSM9226213	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9226213	geo:GSE307534:GSM9226213	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226213	geo:GSE307534:GSM9226213	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226214	geo:GSE307534:GSM9226214	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226214	geo:GSE307534:GSM9226214	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226214	geo:GSE307534:GSM9226214	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9226214	geo:GSE307534:GSM9226214	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226214	geo:GSE307534:GSM9226214	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226215	geo:GSE307534:GSM9226215	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226215	geo:GSE307534:GSM9226215	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226215	geo:GSE307534:GSM9226215	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9226215	geo:GSE307534:GSM9226215	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226215	geo:GSE307534:GSM9226215	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226216	geo:GSE307534:GSM9226216	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9226216	geo:GSE307534:GSM9226216	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226216	geo:GSE307534:GSM9226216	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9226216	geo:GSE307534:GSM9226216	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226216	geo:GSE307534:GSM9226216	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226217	geo:GSE307534:GSM9226217	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226217	geo:GSE307534:GSM9226217	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226217	geo:GSE307534:GSM9226217	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226217	geo:GSE307534:GSM9226217	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226217	geo:GSE307534:GSM9226217	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226218	geo:GSE307534:GSM9226218	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226218	geo:GSE307534:GSM9226218	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226218	geo:GSE307534:GSM9226218	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226218	geo:GSE307534:GSM9226218	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226218	geo:GSE307534:GSM9226218	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226219	geo:GSE307534:GSM9226219	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226219	geo:GSE307534:GSM9226219	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226219	geo:GSE307534:GSM9226219	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9226219	geo:GSE307534:GSM9226219	self_reported_ethnicity_ontology_term_id	HANCESTRO:0849	derived	ols:hancestro		East Asian	True
+GSM9226219	geo:GSE307534:GSM9226219	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226220	geo:GSE307534:GSM9226220	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226220	geo:GSE307534:GSM9226220	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226220	geo:GSE307534:GSM9226220	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9226220	geo:GSE307534:GSM9226220	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226221	geo:GSE307534:GSM9226221	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226221	geo:GSE307534:GSM9226221	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226221	geo:GSE307534:GSM9226221	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9226221	geo:GSE307534:GSM9226221	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226222	geo:GSE307534:GSM9226222	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226222	geo:GSE307534:GSM9226222	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226222	geo:GSE307534:GSM9226222	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9226222	geo:GSE307534:GSM9226222	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9226223	geo:GSE307534:GSM9226223	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9226223	geo:GSE307534:GSM9226223	assay_ontology_term_id	EFO:0022860	derived	ols:efo		Visium CytAssist Spatial Gene Expression, 11mm	True
+GSM9226223	geo:GSE307534:GSM9226223	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9226223	geo:GSE307534:GSM9226223	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9226168	geo:GSE307534:GSM9226168	donor_id	patient 1	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_title = Lung tissue with AAH of patient 1 [ST]	True
+GSM9226168	geo:GSE307534:GSM9226168	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226168	geo:GSE307534:GSM9226168	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226168	geo:GSE307534:GSM9226168	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_title = Lung tissue with AAH of patient 1 [ST]	True
+GSM9226168	geo:GSE307534:GSM9226168	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226168	geo:GSE307534:GSM9226168	age	65	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_characteristics_ch1 = age: 65	True
+GSM9226168	geo:GSE307534:GSM9226168	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226168	geo:GSE307534:GSM9226168	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226168	geo:GSE307534:GSM9226168	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226168	geo:GSE307534:GSM9226168	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226168	geo:GSE307534:GSM9226168	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226168	geo:GSE307534:GSM9226168	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226168	geo:GSE307534:GSM9226168	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226168	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226169	geo:GSE307534:GSM9226169	donor_id	patient 1	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_title = Lung tissue with LUAD of patient 1 [ST]	True
+GSM9226169	geo:GSE307534:GSM9226169	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226169	geo:GSE307534:GSM9226169	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226169	geo:GSE307534:GSM9226169	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_title = Lung tissue with LUAD of patient 1 [ST]	True
+GSM9226169	geo:GSE307534:GSM9226169	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226169	geo:GSE307534:GSM9226169	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_title = Lung tissue with LUAD of patient 1 [ST]	True
+GSM9226169	geo:GSE307534:GSM9226169	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226169	geo:GSE307534:GSM9226169	age	65	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_characteristics_ch1 = age: 65	True
+GSM9226169	geo:GSE307534:GSM9226169	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226169	geo:GSE307534:GSM9226169	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226169	geo:GSE307534:GSM9226169	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226169	geo:GSE307534:GSM9226169	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226169	geo:GSE307534:GSM9226169	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226169	geo:GSE307534:GSM9226169	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226169	geo:GSE307534:GSM9226169	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226169	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226170	geo:GSE307534:GSM9226170	donor_id	patient 2	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_title = Lung tissue with AAH of patient 2 [ST]	True
+GSM9226170	geo:GSE307534:GSM9226170	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226170	geo:GSE307534:GSM9226170	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226170	geo:GSE307534:GSM9226170	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_title = Lung tissue with AAH of patient 2 [ST]	True
+GSM9226170	geo:GSE307534:GSM9226170	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226170	geo:GSE307534:GSM9226170	age	73	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_characteristics_ch1 = age: 73	True
+GSM9226170	geo:GSE307534:GSM9226170	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226170	geo:GSE307534:GSM9226170	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226170	geo:GSE307534:GSM9226170	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226170	geo:GSE307534:GSM9226170	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226170	geo:GSE307534:GSM9226170	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226170	geo:GSE307534:GSM9226170	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226170	geo:GSE307534:GSM9226170	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226170	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226171	geo:GSE307534:GSM9226171	donor_id	patient 2	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_title = Lung tissue with LUAD of patient 2 [ST]	True
+GSM9226171	geo:GSE307534:GSM9226171	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226171	geo:GSE307534:GSM9226171	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226171	geo:GSE307534:GSM9226171	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_title = Lung tissue with LUAD of patient 2 [ST]	True
+GSM9226171	geo:GSE307534:GSM9226171	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226171	geo:GSE307534:GSM9226171	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_title = Lung tissue with LUAD of patient 2 [ST]	True
+GSM9226171	geo:GSE307534:GSM9226171	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226171	geo:GSE307534:GSM9226171	age	73	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_characteristics_ch1 = age: 73	True
+GSM9226171	geo:GSE307534:GSM9226171	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226171	geo:GSE307534:GSM9226171	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226171	geo:GSE307534:GSM9226171	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226171	geo:GSE307534:GSM9226171	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226171	geo:GSE307534:GSM9226171	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226171	geo:GSE307534:GSM9226171	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226171	geo:GSE307534:GSM9226171	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226171	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226172	geo:GSE307534:GSM9226172	donor_id	patient 3	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_title = Lung tissue with AIS of patient 3 [ST]	True
+GSM9226172	geo:GSE307534:GSM9226172	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226172	geo:GSE307534:GSM9226172	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226172	geo:GSE307534:GSM9226172	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_title = Lung tissue with AIS of patient 3 [ST]	True
+GSM9226172	geo:GSE307534:GSM9226172	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226172	geo:GSE307534:GSM9226172	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_title = Lung tissue with AIS of patient 3 [ST]	True
+GSM9226172	geo:GSE307534:GSM9226172	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226172	geo:GSE307534:GSM9226172	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_characteristics_ch1 = age: 74	True
+GSM9226172	geo:GSE307534:GSM9226172	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226172	geo:GSE307534:GSM9226172	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226172	geo:GSE307534:GSM9226172	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226172	geo:GSE307534:GSM9226172	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226172	geo:GSE307534:GSM9226172	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226172	geo:GSE307534:GSM9226172	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226172	geo:GSE307534:GSM9226172	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226172	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226173	geo:GSE307534:GSM9226173	donor_id	patient 3	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_title = Lung tissue with LUAD of patient 3 [ST]	True
+GSM9226173	geo:GSE307534:GSM9226173	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226173	geo:GSE307534:GSM9226173	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226173	geo:GSE307534:GSM9226173	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_title = Lung tissue with LUAD of patient 3 [ST]	True
+GSM9226173	geo:GSE307534:GSM9226173	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226173	geo:GSE307534:GSM9226173	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_title = Lung tissue with LUAD of patient 3 [ST]	True
+GSM9226173	geo:GSE307534:GSM9226173	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226173	geo:GSE307534:GSM9226173	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_characteristics_ch1 = age: 74	True
+GSM9226173	geo:GSE307534:GSM9226173	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226173	geo:GSE307534:GSM9226173	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226173	geo:GSE307534:GSM9226173	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226173	geo:GSE307534:GSM9226173	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226173	geo:GSE307534:GSM9226173	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226173	geo:GSE307534:GSM9226173	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226173	geo:GSE307534:GSM9226173	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226173	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226174	geo:GSE307534:GSM9226174	donor_id	patient 4	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_title = Normal lung tissue of patient 4 [ST]	True
+GSM9226174	geo:GSE307534:GSM9226174	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226174	geo:GSE307534:GSM9226174	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226174	geo:GSE307534:GSM9226174	disease_free_text	normal	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_title = Normal lung tissue of patient 4 [ST]	True
+GSM9226174	geo:GSE307534:GSM9226174	disease_ontology_term_id	PATO:0000461	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_title = Normal lung tissue of patient 4 [ST]	True
+GSM9226174	geo:GSE307534:GSM9226174	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_characteristics_ch1 = age: 74	True
+GSM9226174	geo:GSE307534:GSM9226174	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226174	geo:GSE307534:GSM9226174	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226174	geo:GSE307534:GSM9226174	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226174	geo:GSE307534:GSM9226174	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226174	geo:GSE307534:GSM9226174	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226174	geo:GSE307534:GSM9226174	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226174	geo:GSE307534:GSM9226174	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226174	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226175	geo:GSE307534:GSM9226175	donor_id	patient 4	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_title = Lung tissue with AAH of patient 4 [ST]	True
+GSM9226175	geo:GSE307534:GSM9226175	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226175	geo:GSE307534:GSM9226175	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226175	geo:GSE307534:GSM9226175	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_title = Lung tissue with AAH of patient 4 [ST]	True
+GSM9226175	geo:GSE307534:GSM9226175	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226175	geo:GSE307534:GSM9226175	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_characteristics_ch1 = age: 74	True
+GSM9226175	geo:GSE307534:GSM9226175	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226175	geo:GSE307534:GSM9226175	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226175	geo:GSE307534:GSM9226175	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226175	geo:GSE307534:GSM9226175	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226175	geo:GSE307534:GSM9226175	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226175	geo:GSE307534:GSM9226175	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226175	geo:GSE307534:GSM9226175	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226175	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226176	geo:GSE307534:GSM9226176	donor_id	patient 4	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_title = Lung tissue with second AAH of patient 4 [ST]	True
+GSM9226176	geo:GSE307534:GSM9226176	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226176	geo:GSE307534:GSM9226176	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226176	geo:GSE307534:GSM9226176	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_title = Lung tissue with second AAH of patient 4 [ST]	True
+GSM9226176	geo:GSE307534:GSM9226176	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226176	geo:GSE307534:GSM9226176	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_characteristics_ch1 = age: 74	True
+GSM9226176	geo:GSE307534:GSM9226176	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226176	geo:GSE307534:GSM9226176	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226176	geo:GSE307534:GSM9226176	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226176	geo:GSE307534:GSM9226176	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226176	geo:GSE307534:GSM9226176	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226176	geo:GSE307534:GSM9226176	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226176	geo:GSE307534:GSM9226176	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226176	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226177	geo:GSE307534:GSM9226177	donor_id	patient 4	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_title = Lung tissue with LUAD of patient 4 [ST]	True
+GSM9226177	geo:GSE307534:GSM9226177	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226177	geo:GSE307534:GSM9226177	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226177	geo:GSE307534:GSM9226177	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_title = Lung tissue with LUAD of patient 4 [ST]	True
+GSM9226177	geo:GSE307534:GSM9226177	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226177	geo:GSE307534:GSM9226177	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_title = Lung tissue with LUAD of patient 4 [ST]	True
+GSM9226177	geo:GSE307534:GSM9226177	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226177	geo:GSE307534:GSM9226177	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_characteristics_ch1 = age: 74	True
+GSM9226177	geo:GSE307534:GSM9226177	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226177	geo:GSE307534:GSM9226177	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226177	geo:GSE307534:GSM9226177	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226177	geo:GSE307534:GSM9226177	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226177	geo:GSE307534:GSM9226177	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226177	geo:GSE307534:GSM9226177	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226177	geo:GSE307534:GSM9226177	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226177	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226178	geo:GSE307534:GSM9226178	donor_id	patient 5	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_title = Lung tissue with AIS of patient 5 [ST]	True
+GSM9226178	geo:GSE307534:GSM9226178	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226178	geo:GSE307534:GSM9226178	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226178	geo:GSE307534:GSM9226178	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_title = Lung tissue with AIS of patient 5 [ST]	True
+GSM9226178	geo:GSE307534:GSM9226178	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226178	geo:GSE307534:GSM9226178	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_title = Lung tissue with AIS of patient 5 [ST]	True
+GSM9226178	geo:GSE307534:GSM9226178	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226178	geo:GSE307534:GSM9226178	age	81	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_characteristics_ch1 = age: 81	True
+GSM9226178	geo:GSE307534:GSM9226178	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226178	geo:GSE307534:GSM9226178	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226178	geo:GSE307534:GSM9226178	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226178	geo:GSE307534:GSM9226178	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226178	geo:GSE307534:GSM9226178	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226178	geo:GSE307534:GSM9226178	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226178	geo:GSE307534:GSM9226178	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226178	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226179	geo:GSE307534:GSM9226179	donor_id	patient 5	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_title = Lung tissue with LUAD of patient 5 [ST]	True
+GSM9226179	geo:GSE307534:GSM9226179	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226179	geo:GSE307534:GSM9226179	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226179	geo:GSE307534:GSM9226179	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_title = Lung tissue with LUAD of patient 5 [ST]	True
+GSM9226179	geo:GSE307534:GSM9226179	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226179	geo:GSE307534:GSM9226179	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_title = Lung tissue with LUAD of patient 5 [ST]	True
+GSM9226179	geo:GSE307534:GSM9226179	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226179	geo:GSE307534:GSM9226179	age	81	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_characteristics_ch1 = age: 81	True
+GSM9226179	geo:GSE307534:GSM9226179	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226179	geo:GSE307534:GSM9226179	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226179	geo:GSE307534:GSM9226179	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226179	geo:GSE307534:GSM9226179	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226179	geo:GSE307534:GSM9226179	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226179	geo:GSE307534:GSM9226179	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226179	geo:GSE307534:GSM9226179	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226179	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226180	geo:GSE307534:GSM9226180	donor_id	patient 6	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_title = Lung tissue with AAH of patient 6 [ST]	True
+GSM9226180	geo:GSE307534:GSM9226180	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226180	geo:GSE307534:GSM9226180	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226180	geo:GSE307534:GSM9226180	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_title = Lung tissue with AAH of patient 6 [ST]	True
+GSM9226180	geo:GSE307534:GSM9226180	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226180	geo:GSE307534:GSM9226180	age	66	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_characteristics_ch1 = age: 66	True
+GSM9226180	geo:GSE307534:GSM9226180	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226180	geo:GSE307534:GSM9226180	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226180	geo:GSE307534:GSM9226180	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226180	geo:GSE307534:GSM9226180	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226180	geo:GSE307534:GSM9226180	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226180	geo:GSE307534:GSM9226180	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226180	geo:GSE307534:GSM9226180	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226180	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226181	geo:GSE307534:GSM9226181	donor_id	patient 6	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_title = Lung tissue with LUAD of patient 6 [ST]	True
+GSM9226181	geo:GSE307534:GSM9226181	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226181	geo:GSE307534:GSM9226181	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226181	geo:GSE307534:GSM9226181	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_title = Lung tissue with LUAD of patient 6 [ST]	True
+GSM9226181	geo:GSE307534:GSM9226181	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226181	geo:GSE307534:GSM9226181	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_title = Lung tissue with LUAD of patient 6 [ST]	True
+GSM9226181	geo:GSE307534:GSM9226181	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226181	geo:GSE307534:GSM9226181	age	66	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_characteristics_ch1 = age: 66	True
+GSM9226181	geo:GSE307534:GSM9226181	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226181	geo:GSE307534:GSM9226181	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226181	geo:GSE307534:GSM9226181	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226181	geo:GSE307534:GSM9226181	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226181	geo:GSE307534:GSM9226181	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226181	geo:GSE307534:GSM9226181	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226181	geo:GSE307534:GSM9226181	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226181	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226182	geo:GSE307534:GSM9226182	donor_id	patient 7	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_title = Lung tissue with LUAD of patient 7 [ST]	True
+GSM9226182	geo:GSE307534:GSM9226182	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226182	geo:GSE307534:GSM9226182	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226182	geo:GSE307534:GSM9226182	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_title = Lung tissue with LUAD of patient 7 [ST]	True
+GSM9226182	geo:GSE307534:GSM9226182	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226182	geo:GSE307534:GSM9226182	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_title = Lung tissue with LUAD of patient 7 [ST]	True
+GSM9226182	geo:GSE307534:GSM9226182	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226182	geo:GSE307534:GSM9226182	age	46	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_characteristics_ch1 = age: 46	True
+GSM9226182	geo:GSE307534:GSM9226182	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226182	geo:GSE307534:GSM9226182	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226182	geo:GSE307534:GSM9226182	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226182	geo:GSE307534:GSM9226182	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226182	geo:GSE307534:GSM9226182	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226182	geo:GSE307534:GSM9226182	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226182	geo:GSE307534:GSM9226182	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226182	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226183	geo:GSE307534:GSM9226183	donor_id	patient 7	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_title = Lung tissue with second LUAD of patient 7 [ST]	True
+GSM9226183	geo:GSE307534:GSM9226183	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226183	geo:GSE307534:GSM9226183	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226183	geo:GSE307534:GSM9226183	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_title = Lung tissue with second LUAD of patient 7 [ST]	True
+GSM9226183	geo:GSE307534:GSM9226183	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226183	geo:GSE307534:GSM9226183	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_title = Lung tissue with second LUAD of patient 7 [ST]	True
+GSM9226183	geo:GSE307534:GSM9226183	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226183	geo:GSE307534:GSM9226183	age	46	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_characteristics_ch1 = age: 46	True
+GSM9226183	geo:GSE307534:GSM9226183	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226183	geo:GSE307534:GSM9226183	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226183	geo:GSE307534:GSM9226183	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226183	geo:GSE307534:GSM9226183	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226183	geo:GSE307534:GSM9226183	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226183	geo:GSE307534:GSM9226183	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226183	geo:GSE307534:GSM9226183	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226183	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226184	geo:GSE307534:GSM9226184	donor_id	patient 8	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_title = Lung tissue with AIS of patient 8 [ST]	True
+GSM9226184	geo:GSE307534:GSM9226184	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226184	geo:GSE307534:GSM9226184	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226184	geo:GSE307534:GSM9226184	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_title = Lung tissue with AIS of patient 8 [ST]	True
+GSM9226184	geo:GSE307534:GSM9226184	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226184	geo:GSE307534:GSM9226184	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_title = Lung tissue with AIS of patient 8 [ST]	True
+GSM9226184	geo:GSE307534:GSM9226184	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226184	geo:GSE307534:GSM9226184	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_characteristics_ch1 = age: 63	True
+GSM9226184	geo:GSE307534:GSM9226184	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226184	geo:GSE307534:GSM9226184	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226184	geo:GSE307534:GSM9226184	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226184	geo:GSE307534:GSM9226184	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226184	geo:GSE307534:GSM9226184	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226184	geo:GSE307534:GSM9226184	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226184	geo:GSE307534:GSM9226184	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226184	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226185	geo:GSE307534:GSM9226185	donor_id	patient 8	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_title = Lung tissue with LUAD of patient 8 [ST]	True
+GSM9226185	geo:GSE307534:GSM9226185	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226185	geo:GSE307534:GSM9226185	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226185	geo:GSE307534:GSM9226185	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_title = Lung tissue with LUAD of patient 8 [ST]	True
+GSM9226185	geo:GSE307534:GSM9226185	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226185	geo:GSE307534:GSM9226185	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_title = Lung tissue with LUAD of patient 8 [ST]	True
+GSM9226185	geo:GSE307534:GSM9226185	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226185	geo:GSE307534:GSM9226185	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_characteristics_ch1 = age: 63	True
+GSM9226185	geo:GSE307534:GSM9226185	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226185	geo:GSE307534:GSM9226185	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226185	geo:GSE307534:GSM9226185	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226185	geo:GSE307534:GSM9226185	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226185	geo:GSE307534:GSM9226185	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226185	geo:GSE307534:GSM9226185	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226185	geo:GSE307534:GSM9226185	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226185	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226186	geo:GSE307534:GSM9226186	donor_id	patient 9	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_title = Lung tissue with AAH of patient 9 [ST]	True
+GSM9226186	geo:GSE307534:GSM9226186	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226186	geo:GSE307534:GSM9226186	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226186	geo:GSE307534:GSM9226186	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_title = Lung tissue with AAH of patient 9 [ST]	True
+GSM9226186	geo:GSE307534:GSM9226186	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226186	geo:GSE307534:GSM9226186	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_characteristics_ch1 = age: 63	True
+GSM9226186	geo:GSE307534:GSM9226186	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226186	geo:GSE307534:GSM9226186	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226186	geo:GSE307534:GSM9226186	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226186	geo:GSE307534:GSM9226186	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226186	geo:GSE307534:GSM9226186	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226186	geo:GSE307534:GSM9226186	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226186	geo:GSE307534:GSM9226186	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226186	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226187	geo:GSE307534:GSM9226187	donor_id	patient 9	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_title = Lung tissue with AIS of patient 9 [ST]	True
+GSM9226187	geo:GSE307534:GSM9226187	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226187	geo:GSE307534:GSM9226187	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226187	geo:GSE307534:GSM9226187	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_title = Lung tissue with AIS of patient 9 [ST]	True
+GSM9226187	geo:GSE307534:GSM9226187	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226187	geo:GSE307534:GSM9226187	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_title = Lung tissue with AIS of patient 9 [ST]	True
+GSM9226187	geo:GSE307534:GSM9226187	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226187	geo:GSE307534:GSM9226187	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_characteristics_ch1 = age: 63	True
+GSM9226187	geo:GSE307534:GSM9226187	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226187	geo:GSE307534:GSM9226187	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226187	geo:GSE307534:GSM9226187	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226187	geo:GSE307534:GSM9226187	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226187	geo:GSE307534:GSM9226187	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226187	geo:GSE307534:GSM9226187	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226187	geo:GSE307534:GSM9226187	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226187	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226188	geo:GSE307534:GSM9226188	donor_id	patient 9	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_title = Lung tissue with LUAD of patient 9 [ST]	True
+GSM9226188	geo:GSE307534:GSM9226188	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226188	geo:GSE307534:GSM9226188	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226188	geo:GSE307534:GSM9226188	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_title = Lung tissue with LUAD of patient 9 [ST]	True
+GSM9226188	geo:GSE307534:GSM9226188	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226188	geo:GSE307534:GSM9226188	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_title = Lung tissue with LUAD of patient 9 [ST]	True
+GSM9226188	geo:GSE307534:GSM9226188	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226188	geo:GSE307534:GSM9226188	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_characteristics_ch1 = age: 63	True
+GSM9226188	geo:GSE307534:GSM9226188	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226188	geo:GSE307534:GSM9226188	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226188	geo:GSE307534:GSM9226188	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226188	geo:GSE307534:GSM9226188	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226188	geo:GSE307534:GSM9226188	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226188	geo:GSE307534:GSM9226188	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226188	geo:GSE307534:GSM9226188	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226188	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226189	geo:GSE307534:GSM9226189	donor_id	patient 10	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_title = Lung tissue with MIA of patient 10 [ST]	True
+GSM9226189	geo:GSE307534:GSM9226189	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226189	geo:GSE307534:GSM9226189	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226189	geo:GSE307534:GSM9226189	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_title = Lung tissue with MIA of patient 10 [ST]	True
+GSM9226189	geo:GSE307534:GSM9226189	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226189	geo:GSE307534:GSM9226189	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_title = Lung tissue with MIA of patient 10 [ST]	True
+GSM9226189	geo:GSE307534:GSM9226189	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226189	geo:GSE307534:GSM9226189	age	58	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_characteristics_ch1 = age: 58	True
+GSM9226189	geo:GSE307534:GSM9226189	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226189	geo:GSE307534:GSM9226189	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226189	geo:GSE307534:GSM9226189	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226189	geo:GSE307534:GSM9226189	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226189	geo:GSE307534:GSM9226189	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226189	geo:GSE307534:GSM9226189	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226189	geo:GSE307534:GSM9226189	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226189	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226190	geo:GSE307534:GSM9226190	donor_id	patient 10	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_title = Lung tissue with LUAD of patient 10 [ST]	True
+GSM9226190	geo:GSE307534:GSM9226190	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226190	geo:GSE307534:GSM9226190	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226190	geo:GSE307534:GSM9226190	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_title = Lung tissue with LUAD of patient 10 [ST]	True
+GSM9226190	geo:GSE307534:GSM9226190	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226190	geo:GSE307534:GSM9226190	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_title = Lung tissue with LUAD of patient 10 [ST]	True
+GSM9226190	geo:GSE307534:GSM9226190	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226190	geo:GSE307534:GSM9226190	age	58	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_characteristics_ch1 = age: 58	True
+GSM9226190	geo:GSE307534:GSM9226190	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226190	geo:GSE307534:GSM9226190	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226190	geo:GSE307534:GSM9226190	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226190	geo:GSE307534:GSM9226190	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226190	geo:GSE307534:GSM9226190	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226190	geo:GSE307534:GSM9226190	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226190	geo:GSE307534:GSM9226190	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226190	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226191	geo:GSE307534:GSM9226191	donor_id	patient 11	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_title = Lung tissue with AAH of patient 11 [ST]	True
+GSM9226191	geo:GSE307534:GSM9226191	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226191	geo:GSE307534:GSM9226191	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226191	geo:GSE307534:GSM9226191	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_title = Lung tissue with AAH of patient 11 [ST]	True
+GSM9226191	geo:GSE307534:GSM9226191	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226191	geo:GSE307534:GSM9226191	age	70	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_characteristics_ch1 = age: 70	True
+GSM9226191	geo:GSE307534:GSM9226191	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226191	geo:GSE307534:GSM9226191	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226191	geo:GSE307534:GSM9226191	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226191	geo:GSE307534:GSM9226191	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226191	geo:GSE307534:GSM9226191	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226191	geo:GSE307534:GSM9226191	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226191	geo:GSE307534:GSM9226191	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226191	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226192	geo:GSE307534:GSM9226192	donor_id	patient 11	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_title = Lung tissue with LUAD of patient 11 [ST]	True
+GSM9226192	geo:GSE307534:GSM9226192	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226192	geo:GSE307534:GSM9226192	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226192	geo:GSE307534:GSM9226192	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_title = Lung tissue with LUAD of patient 11 [ST]	True
+GSM9226192	geo:GSE307534:GSM9226192	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226192	geo:GSE307534:GSM9226192	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_title = Lung tissue with LUAD of patient 11 [ST]	True
+GSM9226192	geo:GSE307534:GSM9226192	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226192	geo:GSE307534:GSM9226192	age	70	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_characteristics_ch1 = age: 70	True
+GSM9226192	geo:GSE307534:GSM9226192	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226192	geo:GSE307534:GSM9226192	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226192	geo:GSE307534:GSM9226192	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226192	geo:GSE307534:GSM9226192	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226192	geo:GSE307534:GSM9226192	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226192	geo:GSE307534:GSM9226192	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226192	geo:GSE307534:GSM9226192	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226192	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226193	geo:GSE307534:GSM9226193	donor_id	patient 12	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_title = Lung tissue with AIS of patient 12 [ST]	True
+GSM9226193	geo:GSE307534:GSM9226193	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226193	geo:GSE307534:GSM9226193	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226193	geo:GSE307534:GSM9226193	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_title = Lung tissue with AIS of patient 12 [ST]	True
+GSM9226193	geo:GSE307534:GSM9226193	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226193	geo:GSE307534:GSM9226193	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_title = Lung tissue with AIS of patient 12 [ST]	True
+GSM9226193	geo:GSE307534:GSM9226193	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226193	geo:GSE307534:GSM9226193	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_characteristics_ch1 = age: 74	True
+GSM9226193	geo:GSE307534:GSM9226193	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226193	geo:GSE307534:GSM9226193	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226193	geo:GSE307534:GSM9226193	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226193	geo:GSE307534:GSM9226193	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226193	geo:GSE307534:GSM9226193	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226193	geo:GSE307534:GSM9226193	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226193	geo:GSE307534:GSM9226193	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226193	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226194	geo:GSE307534:GSM9226194	donor_id	patient 12	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_title = Lung tissue with LUAD of patient 12 [ST]	True
+GSM9226194	geo:GSE307534:GSM9226194	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226194	geo:GSE307534:GSM9226194	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226194	geo:GSE307534:GSM9226194	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_title = Lung tissue with LUAD of patient 12 [ST]	True
+GSM9226194	geo:GSE307534:GSM9226194	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226194	geo:GSE307534:GSM9226194	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_title = Lung tissue with LUAD of patient 12 [ST]	True
+GSM9226194	geo:GSE307534:GSM9226194	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226194	geo:GSE307534:GSM9226194	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_characteristics_ch1 = age: 74	True
+GSM9226194	geo:GSE307534:GSM9226194	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226194	geo:GSE307534:GSM9226194	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226194	geo:GSE307534:GSM9226194	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226194	geo:GSE307534:GSM9226194	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226194	geo:GSE307534:GSM9226194	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226194	geo:GSE307534:GSM9226194	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226194	geo:GSE307534:GSM9226194	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226194	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226195	geo:GSE307534:GSM9226195	donor_id	patient 13	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_title = Lung tissue with MIA of patient 13 [ST]	True
+GSM9226195	geo:GSE307534:GSM9226195	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226195	geo:GSE307534:GSM9226195	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226195	geo:GSE307534:GSM9226195	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_title = Lung tissue with MIA of patient 13 [ST]	True
+GSM9226195	geo:GSE307534:GSM9226195	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226195	geo:GSE307534:GSM9226195	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_title = Lung tissue with MIA of patient 13 [ST]	True
+GSM9226195	geo:GSE307534:GSM9226195	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226195	geo:GSE307534:GSM9226195	age	77	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_characteristics_ch1 = age: 77	True
+GSM9226195	geo:GSE307534:GSM9226195	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226195	geo:GSE307534:GSM9226195	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226195	geo:GSE307534:GSM9226195	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226195	geo:GSE307534:GSM9226195	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226195	geo:GSE307534:GSM9226195	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226195	geo:GSE307534:GSM9226195	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226195	geo:GSE307534:GSM9226195	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226195	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226196	geo:GSE307534:GSM9226196	donor_id	patient 13	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_title = Lung tissue with LUAD of patient 13 [ST]	True
+GSM9226196	geo:GSE307534:GSM9226196	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226196	geo:GSE307534:GSM9226196	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226196	geo:GSE307534:GSM9226196	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_title = Lung tissue with LUAD of patient 13 [ST]	True
+GSM9226196	geo:GSE307534:GSM9226196	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226196	geo:GSE307534:GSM9226196	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_title = Lung tissue with LUAD of patient 13 [ST]	True
+GSM9226196	geo:GSE307534:GSM9226196	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226196	geo:GSE307534:GSM9226196	age	77	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_characteristics_ch1 = age: 77	True
+GSM9226196	geo:GSE307534:GSM9226196	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226196	geo:GSE307534:GSM9226196	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226196	geo:GSE307534:GSM9226196	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226196	geo:GSE307534:GSM9226196	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226196	geo:GSE307534:GSM9226196	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226196	geo:GSE307534:GSM9226196	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226196	geo:GSE307534:GSM9226196	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226196	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226197	geo:GSE307534:GSM9226197	donor_id	patient 14	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_title = Lung tissue with AIS of patient 14 [ST]	True
+GSM9226197	geo:GSE307534:GSM9226197	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226197	geo:GSE307534:GSM9226197	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226197	geo:GSE307534:GSM9226197	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_title = Lung tissue with AIS of patient 14 [ST]	True
+GSM9226197	geo:GSE307534:GSM9226197	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226197	geo:GSE307534:GSM9226197	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_title = Lung tissue with AIS of patient 14 [ST]	True
+GSM9226197	geo:GSE307534:GSM9226197	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226197	geo:GSE307534:GSM9226197	age	53	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_characteristics_ch1 = age: 53	True
+GSM9226197	geo:GSE307534:GSM9226197	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226197	geo:GSE307534:GSM9226197	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226197	geo:GSE307534:GSM9226197	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226197	geo:GSE307534:GSM9226197	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226197	geo:GSE307534:GSM9226197	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226197	geo:GSE307534:GSM9226197	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226197	geo:GSE307534:GSM9226197	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226197	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226198	geo:GSE307534:GSM9226198	donor_id	patient 14	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_title = Lung tissue with LUAD of patient 14 [ST]	True
+GSM9226198	geo:GSE307534:GSM9226198	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226198	geo:GSE307534:GSM9226198	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226198	geo:GSE307534:GSM9226198	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_title = Lung tissue with LUAD of patient 14 [ST]	True
+GSM9226198	geo:GSE307534:GSM9226198	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226198	geo:GSE307534:GSM9226198	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_title = Lung tissue with LUAD of patient 14 [ST]	True
+GSM9226198	geo:GSE307534:GSM9226198	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226198	geo:GSE307534:GSM9226198	age	53	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_characteristics_ch1 = age: 53	True
+GSM9226198	geo:GSE307534:GSM9226198	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226198	geo:GSE307534:GSM9226198	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226198	geo:GSE307534:GSM9226198	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226198	geo:GSE307534:GSM9226198	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226198	geo:GSE307534:GSM9226198	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226198	geo:GSE307534:GSM9226198	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226198	geo:GSE307534:GSM9226198	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226198	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226199	geo:GSE307534:GSM9226199	donor_id	patient 15	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_title = Lung tissue with MIA of patient 15 [ST]	True
+GSM9226199	geo:GSE307534:GSM9226199	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226199	geo:GSE307534:GSM9226199	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226199	geo:GSE307534:GSM9226199	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_title = Lung tissue with MIA of patient 15 [ST]	True
+GSM9226199	geo:GSE307534:GSM9226199	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226199	geo:GSE307534:GSM9226199	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_title = Lung tissue with MIA of patient 15 [ST]	True
+GSM9226199	geo:GSE307534:GSM9226199	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226199	geo:GSE307534:GSM9226199	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_characteristics_ch1 = age: 63	True
+GSM9226199	geo:GSE307534:GSM9226199	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226199	geo:GSE307534:GSM9226199	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226199	geo:GSE307534:GSM9226199	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226199	geo:GSE307534:GSM9226199	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226199	geo:GSE307534:GSM9226199	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226199	geo:GSE307534:GSM9226199	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226199	geo:GSE307534:GSM9226199	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226199	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226200	geo:GSE307534:GSM9226200	donor_id	patient 15	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_title = Lung tissue with LUAD of patient 15 [ST]	True
+GSM9226200	geo:GSE307534:GSM9226200	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226200	geo:GSE307534:GSM9226200	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226200	geo:GSE307534:GSM9226200	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_title = Lung tissue with LUAD of patient 15 [ST]	True
+GSM9226200	geo:GSE307534:GSM9226200	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226200	geo:GSE307534:GSM9226200	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_title = Lung tissue with LUAD of patient 15 [ST]	True
+GSM9226200	geo:GSE307534:GSM9226200	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226200	geo:GSE307534:GSM9226200	age	63	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_characteristics_ch1 = age: 63	True
+GSM9226200	geo:GSE307534:GSM9226200	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226200	geo:GSE307534:GSM9226200	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226200	geo:GSE307534:GSM9226200	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226200	geo:GSE307534:GSM9226200	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226200	geo:GSE307534:GSM9226200	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226200	geo:GSE307534:GSM9226200	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226200	geo:GSE307534:GSM9226200	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226200	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226201	geo:GSE307534:GSM9226201	donor_id	patient 16	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_title = Lung tissue with AIS of patient 16 [ST]	True
+GSM9226201	geo:GSE307534:GSM9226201	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226201	geo:GSE307534:GSM9226201	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226201	geo:GSE307534:GSM9226201	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_title = Lung tissue with AIS of patient 16 [ST]	True
+GSM9226201	geo:GSE307534:GSM9226201	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226201	geo:GSE307534:GSM9226201	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_title = Lung tissue with AIS of patient 16 [ST]	True
+GSM9226201	geo:GSE307534:GSM9226201	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226201	geo:GSE307534:GSM9226201	age	68	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_characteristics_ch1 = age: 68	True
+GSM9226201	geo:GSE307534:GSM9226201	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226201	geo:GSE307534:GSM9226201	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226201	geo:GSE307534:GSM9226201	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226201	geo:GSE307534:GSM9226201	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226201	geo:GSE307534:GSM9226201	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226201	geo:GSE307534:GSM9226201	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226201	geo:GSE307534:GSM9226201	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226201	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226202	geo:GSE307534:GSM9226202	donor_id	patient 16	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_title = Lung tissue with LUAD of patient 16 [ST]	True
+GSM9226202	geo:GSE307534:GSM9226202	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226202	geo:GSE307534:GSM9226202	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226202	geo:GSE307534:GSM9226202	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_title = Lung tissue with LUAD of patient 16 [ST]	True
+GSM9226202	geo:GSE307534:GSM9226202	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226202	geo:GSE307534:GSM9226202	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_title = Lung tissue with LUAD of patient 16 [ST]	True
+GSM9226202	geo:GSE307534:GSM9226202	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226202	geo:GSE307534:GSM9226202	age	68	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_characteristics_ch1 = age: 68	True
+GSM9226202	geo:GSE307534:GSM9226202	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226202	geo:GSE307534:GSM9226202	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226202	geo:GSE307534:GSM9226202	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226202	geo:GSE307534:GSM9226202	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226202	geo:GSE307534:GSM9226202	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226202	geo:GSE307534:GSM9226202	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226202	geo:GSE307534:GSM9226202	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226202	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226203	geo:GSE307534:GSM9226203	donor_id	patient 17	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_title = Lung tissue with AIS of patient 17 [ST]	True
+GSM9226203	geo:GSE307534:GSM9226203	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226203	geo:GSE307534:GSM9226203	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226203	geo:GSE307534:GSM9226203	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_title = Lung tissue with AIS of patient 17 [ST]	True
+GSM9226203	geo:GSE307534:GSM9226203	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226203	geo:GSE307534:GSM9226203	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_title = Lung tissue with AIS of patient 17 [ST]	True
+GSM9226203	geo:GSE307534:GSM9226203	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226203	geo:GSE307534:GSM9226203	age	72	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_characteristics_ch1 = age: 72	True
+GSM9226203	geo:GSE307534:GSM9226203	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226203	geo:GSE307534:GSM9226203	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226203	geo:GSE307534:GSM9226203	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226203	geo:GSE307534:GSM9226203	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226203	geo:GSE307534:GSM9226203	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226203	geo:GSE307534:GSM9226203	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226203	geo:GSE307534:GSM9226203	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226203	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226204	geo:GSE307534:GSM9226204	donor_id	patient 17	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_title = Lung tissue with LUAD of patient 17 [ST]	True
+GSM9226204	geo:GSE307534:GSM9226204	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226204	geo:GSE307534:GSM9226204	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226204	geo:GSE307534:GSM9226204	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_title = Lung tissue with LUAD of patient 17 [ST]	True
+GSM9226204	geo:GSE307534:GSM9226204	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226204	geo:GSE307534:GSM9226204	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_title = Lung tissue with LUAD of patient 17 [ST]	True
+GSM9226204	geo:GSE307534:GSM9226204	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226204	geo:GSE307534:GSM9226204	age	72	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_characteristics_ch1 = age: 72	True
+GSM9226204	geo:GSE307534:GSM9226204	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226204	geo:GSE307534:GSM9226204	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226204	geo:GSE307534:GSM9226204	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226204	geo:GSE307534:GSM9226204	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226204	geo:GSE307534:GSM9226204	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226204	geo:GSE307534:GSM9226204	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226204	geo:GSE307534:GSM9226204	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226204	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226205	geo:GSE307534:GSM9226205	donor_id	patient 18	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_title = Lung tissue with MIA of patient 18 [ST]	True
+GSM9226205	geo:GSE307534:GSM9226205	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226205	geo:GSE307534:GSM9226205	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226205	geo:GSE307534:GSM9226205	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_title = Lung tissue with MIA of patient 18 [ST]	True
+GSM9226205	geo:GSE307534:GSM9226205	disease_free_text	minimally invasive adenocarcinoma (MIA)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226205	geo:GSE307534:GSM9226205	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_title = Lung tissue with MIA of patient 18 [ST]	True
+GSM9226205	geo:GSE307534:GSM9226205	disease_ontology_term_id	MONDO:0004991	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226205	geo:GSE307534:GSM9226205	age	77	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_characteristics_ch1 = age: 77	True
+GSM9226205	geo:GSE307534:GSM9226205	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226205	geo:GSE307534:GSM9226205	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226205	geo:GSE307534:GSM9226205	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226205	geo:GSE307534:GSM9226205	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226205	geo:GSE307534:GSM9226205	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226205	geo:GSE307534:GSM9226205	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226205	geo:GSE307534:GSM9226205	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226205	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226206	geo:GSE307534:GSM9226206	donor_id	patient 18	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_title = Lung tissue with LUAD of patient 18 [ST]	True
+GSM9226206	geo:GSE307534:GSM9226206	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226206	geo:GSE307534:GSM9226206	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226206	geo:GSE307534:GSM9226206	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_title = Lung tissue with LUAD of patient 18 [ST]	True
+GSM9226206	geo:GSE307534:GSM9226206	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226206	geo:GSE307534:GSM9226206	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_title = Lung tissue with LUAD of patient 18 [ST]	True
+GSM9226206	geo:GSE307534:GSM9226206	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226206	geo:GSE307534:GSM9226206	age	77	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_characteristics_ch1 = age: 77	True
+GSM9226206	geo:GSE307534:GSM9226206	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226206	geo:GSE307534:GSM9226206	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226206	geo:GSE307534:GSM9226206	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226206	geo:GSE307534:GSM9226206	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226206	geo:GSE307534:GSM9226206	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226206	geo:GSE307534:GSM9226206	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226206	geo:GSE307534:GSM9226206	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226206	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226207	geo:GSE307534:GSM9226207	donor_id	patient 19	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_title = Lung tissue with AIS of patient 19 [ST]	True
+GSM9226207	geo:GSE307534:GSM9226207	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226207	geo:GSE307534:GSM9226207	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226207	geo:GSE307534:GSM9226207	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_title = Lung tissue with AIS of patient 19 [ST]	True
+GSM9226207	geo:GSE307534:GSM9226207	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226207	geo:GSE307534:GSM9226207	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_title = Lung tissue with AIS of patient 19 [ST]	True
+GSM9226207	geo:GSE307534:GSM9226207	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226207	geo:GSE307534:GSM9226207	age	76	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_characteristics_ch1 = age: 76	True
+GSM9226207	geo:GSE307534:GSM9226207	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226207	geo:GSE307534:GSM9226207	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226207	geo:GSE307534:GSM9226207	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226207	geo:GSE307534:GSM9226207	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226207	geo:GSE307534:GSM9226207	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226207	geo:GSE307534:GSM9226207	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226207	geo:GSE307534:GSM9226207	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226207	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226208	geo:GSE307534:GSM9226208	donor_id	patient 19	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_title = Lung tissue with LUAD of patient 19 [ST]	True
+GSM9226208	geo:GSE307534:GSM9226208	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226208	geo:GSE307534:GSM9226208	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226208	geo:GSE307534:GSM9226208	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_title = Lung tissue with LUAD of patient 19 [ST]	True
+GSM9226208	geo:GSE307534:GSM9226208	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226208	geo:GSE307534:GSM9226208	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_title = Lung tissue with LUAD of patient 19 [ST]	True
+GSM9226208	geo:GSE307534:GSM9226208	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226208	geo:GSE307534:GSM9226208	age	76	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_characteristics_ch1 = age: 76	True
+GSM9226208	geo:GSE307534:GSM9226208	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226208	geo:GSE307534:GSM9226208	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226208	geo:GSE307534:GSM9226208	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226208	geo:GSE307534:GSM9226208	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226208	geo:GSE307534:GSM9226208	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226208	geo:GSE307534:GSM9226208	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226208	geo:GSE307534:GSM9226208	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226208	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226209	geo:GSE307534:GSM9226209	donor_id	patient 20	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_title = Lung tissue with AAH of patient 20 [ST]	True
+GSM9226209	geo:GSE307534:GSM9226209	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226209	geo:GSE307534:GSM9226209	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226209	geo:GSE307534:GSM9226209	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_title = Lung tissue with AAH of patient 20 [ST]	True
+GSM9226209	geo:GSE307534:GSM9226209	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226209	geo:GSE307534:GSM9226209	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_characteristics_ch1 = age: 74	True
+GSM9226209	geo:GSE307534:GSM9226209	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226209	geo:GSE307534:GSM9226209	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226209	geo:GSE307534:GSM9226209	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226209	geo:GSE307534:GSM9226209	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226209	geo:GSE307534:GSM9226209	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226209	geo:GSE307534:GSM9226209	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226209	geo:GSE307534:GSM9226209	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226209	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226210	geo:GSE307534:GSM9226210	donor_id	patient 20	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_title = Lung tissue with LUAD of patient 20 [ST]	True
+GSM9226210	geo:GSE307534:GSM9226210	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226210	geo:GSE307534:GSM9226210	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226210	geo:GSE307534:GSM9226210	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_title = Lung tissue with LUAD of patient 20 [ST]	True
+GSM9226210	geo:GSE307534:GSM9226210	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226210	geo:GSE307534:GSM9226210	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_title = Lung tissue with LUAD of patient 20 [ST]	True
+GSM9226210	geo:GSE307534:GSM9226210	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226210	geo:GSE307534:GSM9226210	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_characteristics_ch1 = age: 74	True
+GSM9226210	geo:GSE307534:GSM9226210	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226210	geo:GSE307534:GSM9226210	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226210	geo:GSE307534:GSM9226210	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226210	geo:GSE307534:GSM9226210	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226210	geo:GSE307534:GSM9226210	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226210	geo:GSE307534:GSM9226210	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226210	geo:GSE307534:GSM9226210	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226210	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226211	geo:GSE307534:GSM9226211	donor_id	patient 21	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_title = Lung tissue with AIS of patient 21 [ST]	True
+GSM9226211	geo:GSE307534:GSM9226211	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226211	geo:GSE307534:GSM9226211	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226211	geo:GSE307534:GSM9226211	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_title = Lung tissue with AIS of patient 21 [ST]	True
+GSM9226211	geo:GSE307534:GSM9226211	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226211	geo:GSE307534:GSM9226211	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_title = Lung tissue with AIS of patient 21 [ST]	True
+GSM9226211	geo:GSE307534:GSM9226211	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226211	geo:GSE307534:GSM9226211	age	72	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_characteristics_ch1 = age: 72	True
+GSM9226211	geo:GSE307534:GSM9226211	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226211	geo:GSE307534:GSM9226211	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226211	geo:GSE307534:GSM9226211	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226211	geo:GSE307534:GSM9226211	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226211	geo:GSE307534:GSM9226211	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226211	geo:GSE307534:GSM9226211	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226211	geo:GSE307534:GSM9226211	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226211	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226212	geo:GSE307534:GSM9226212	donor_id	patient 21	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_title = Lung tissue with second AIS of patient 21 [ST]	True
+GSM9226212	geo:GSE307534:GSM9226212	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226212	geo:GSE307534:GSM9226212	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226212	geo:GSE307534:GSM9226212	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_title = Lung tissue with second AIS of patient 21 [ST]	True
+GSM9226212	geo:GSE307534:GSM9226212	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226212	geo:GSE307534:GSM9226212	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_title = Lung tissue with second AIS of patient 21 [ST]	True
+GSM9226212	geo:GSE307534:GSM9226212	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226212	geo:GSE307534:GSM9226212	age	72	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_characteristics_ch1 = age: 72	True
+GSM9226212	geo:GSE307534:GSM9226212	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226212	geo:GSE307534:GSM9226212	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226212	geo:GSE307534:GSM9226212	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226212	geo:GSE307534:GSM9226212	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226212	geo:GSE307534:GSM9226212	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226212	geo:GSE307534:GSM9226212	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226212	geo:GSE307534:GSM9226212	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226212	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226213	geo:GSE307534:GSM9226213	donor_id	patient 21	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_title = Lung tissue with LUAD of patient 21 [ST]	True
+GSM9226213	geo:GSE307534:GSM9226213	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226213	geo:GSE307534:GSM9226213	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226213	geo:GSE307534:GSM9226213	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_title = Lung tissue with LUAD of patient 21 [ST]	True
+GSM9226213	geo:GSE307534:GSM9226213	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226213	geo:GSE307534:GSM9226213	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_title = Lung tissue with LUAD of patient 21 [ST]	True
+GSM9226213	geo:GSE307534:GSM9226213	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226213	geo:GSE307534:GSM9226213	age	72	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_characteristics_ch1 = age: 72	True
+GSM9226213	geo:GSE307534:GSM9226213	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226213	geo:GSE307534:GSM9226213	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226213	geo:GSE307534:GSM9226213	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226213	geo:GSE307534:GSM9226213	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226213	geo:GSE307534:GSM9226213	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226213	geo:GSE307534:GSM9226213	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226213	geo:GSE307534:GSM9226213	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226213	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226214	geo:GSE307534:GSM9226214	donor_id	patient 22	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_title = Lung tissue with AAH of patient 22 [ST]	True
+GSM9226214	geo:GSE307534:GSM9226214	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226214	geo:GSE307534:GSM9226214	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226214	geo:GSE307534:GSM9226214	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_title = Lung tissue with AAH of patient 22 [ST]	True
+GSM9226214	geo:GSE307534:GSM9226214	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226214	geo:GSE307534:GSM9226214	age	68	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_characteristics_ch1 = age: 68	True
+GSM9226214	geo:GSE307534:GSM9226214	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226214	geo:GSE307534:GSM9226214	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226214	geo:GSE307534:GSM9226214	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226214	geo:GSE307534:GSM9226214	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226214	geo:GSE307534:GSM9226214	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226214	geo:GSE307534:GSM9226214	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226214	geo:GSE307534:GSM9226214	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226214	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226215	geo:GSE307534:GSM9226215	donor_id	patient 22	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_title = Lung tissue with AIS of patient 22 [ST]	True
+GSM9226215	geo:GSE307534:GSM9226215	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226215	geo:GSE307534:GSM9226215	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226215	geo:GSE307534:GSM9226215	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_title = Lung tissue with AIS of patient 22 [ST]	True
+GSM9226215	geo:GSE307534:GSM9226215	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226215	geo:GSE307534:GSM9226215	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_title = Lung tissue with AIS of patient 22 [ST]	True
+GSM9226215	geo:GSE307534:GSM9226215	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226215	geo:GSE307534:GSM9226215	age	68	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_characteristics_ch1 = age: 68	True
+GSM9226215	geo:GSE307534:GSM9226215	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226215	geo:GSE307534:GSM9226215	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226215	geo:GSE307534:GSM9226215	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226215	geo:GSE307534:GSM9226215	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226215	geo:GSE307534:GSM9226215	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226215	geo:GSE307534:GSM9226215	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226215	geo:GSE307534:GSM9226215	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226215	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226216	geo:GSE307534:GSM9226216	donor_id	patient 22	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_title = Lung tissue with LUAD of patient 22 [ST]	True
+GSM9226216	geo:GSE307534:GSM9226216	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226216	geo:GSE307534:GSM9226216	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226216	geo:GSE307534:GSM9226216	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_title = Lung tissue with LUAD of patient 22 [ST]	True
+GSM9226216	geo:GSE307534:GSM9226216	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226216	geo:GSE307534:GSM9226216	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_title = Lung tissue with LUAD of patient 22 [ST]	True
+GSM9226216	geo:GSE307534:GSM9226216	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226216	geo:GSE307534:GSM9226216	age	68	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_characteristics_ch1 = age: 68	True
+GSM9226216	geo:GSE307534:GSM9226216	sex	female	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_characteristics_ch1 = Sex: Female	True
+GSM9226216	geo:GSE307534:GSM9226216	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226216	geo:GSE307534:GSM9226216	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226216	geo:GSE307534:GSM9226216	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226216	geo:GSE307534:GSM9226216	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226216	geo:GSE307534:GSM9226216	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226216	geo:GSE307534:GSM9226216	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226216	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226217	geo:GSE307534:GSM9226217	donor_id	patient 23	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_title = Lung tissue with AIS of patient 23 [ST]	True
+GSM9226217	geo:GSE307534:GSM9226217	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226217	geo:GSE307534:GSM9226217	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226217	geo:GSE307534:GSM9226217	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_title = Lung tissue with AIS of patient 23 [ST]	True
+GSM9226217	geo:GSE307534:GSM9226217	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226217	geo:GSE307534:GSM9226217	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_title = Lung tissue with AIS of patient 23 [ST]	True
+GSM9226217	geo:GSE307534:GSM9226217	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226217	geo:GSE307534:GSM9226217	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_characteristics_ch1 = age: 74	True
+GSM9226217	geo:GSE307534:GSM9226217	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226217	geo:GSE307534:GSM9226217	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226217	geo:GSE307534:GSM9226217	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226217	geo:GSE307534:GSM9226217	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226217	geo:GSE307534:GSM9226217	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226217	geo:GSE307534:GSM9226217	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226217	geo:GSE307534:GSM9226217	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226217	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226218	geo:GSE307534:GSM9226218	donor_id	patient 23	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_title = Lung tissue with second AIS of patient 23 [ST]	True
+GSM9226218	geo:GSE307534:GSM9226218	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226218	geo:GSE307534:GSM9226218	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226218	geo:GSE307534:GSM9226218	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_title = Lung tissue with second AIS of patient 23 [ST]	True
+GSM9226218	geo:GSE307534:GSM9226218	disease_free_text	adenocarcinoma in situ (AIS)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226218	geo:GSE307534:GSM9226218	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_title = Lung tissue with second AIS of patient 23 [ST]	True
+GSM9226218	geo:GSE307534:GSM9226218	disease_ontology_term_id	MONDO:0000503	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226218	geo:GSE307534:GSM9226218	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_characteristics_ch1 = age: 74	True
+GSM9226218	geo:GSE307534:GSM9226218	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226218	geo:GSE307534:GSM9226218	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226218	geo:GSE307534:GSM9226218	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226218	geo:GSE307534:GSM9226218	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226218	geo:GSE307534:GSM9226218	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226218	geo:GSE307534:GSM9226218	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226218	geo:GSE307534:GSM9226218	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226218	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226219	geo:GSE307534:GSM9226219	donor_id	patient 23	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_title = Lung tissue with LUAD of patient 23 [ST]	True
+GSM9226219	geo:GSE307534:GSM9226219	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226219	geo:GSE307534:GSM9226219	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226219	geo:GSE307534:GSM9226219	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_title = Lung tissue with LUAD of patient 23 [ST]	True
+GSM9226219	geo:GSE307534:GSM9226219	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226219	geo:GSE307534:GSM9226219	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_title = Lung tissue with LUAD of patient 23 [ST]	True
+GSM9226219	geo:GSE307534:GSM9226219	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226219	geo:GSE307534:GSM9226219	age	74	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_characteristics_ch1 = age: 74	True
+GSM9226219	geo:GSE307534:GSM9226219	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226219	geo:GSE307534:GSM9226219	self_reported_ethnicity	East Asian	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_characteristics_ch1 = ethnicity: East Asian	True
+GSM9226219	geo:GSE307534:GSM9226219	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226219	geo:GSE307534:GSM9226219	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226219	geo:GSE307534:GSM9226219	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226219	geo:GSE307534:GSM9226219	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226219	geo:GSE307534:GSM9226219	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226219	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226220	geo:GSE307534:GSM9226220	donor_id	patient 24	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_title = Lung tissue with AAH of patient 24 [ST]	True
+GSM9226220	geo:GSE307534:GSM9226220	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226220	geo:GSE307534:GSM9226220	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226220	geo:GSE307534:GSM9226220	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_title = Lung tissue with AAH of patient 24 [ST]	True
+GSM9226220	geo:GSE307534:GSM9226220	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226220	geo:GSE307534:GSM9226220	age	61	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_characteristics_ch1 = age: 61	True
+GSM9226220	geo:GSE307534:GSM9226220	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226220	geo:GSE307534:GSM9226220	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226220	geo:GSE307534:GSM9226220	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226220	geo:GSE307534:GSM9226220	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226220	geo:GSE307534:GSM9226220	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226220	geo:GSE307534:GSM9226220	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226220	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226221	geo:GSE307534:GSM9226221	donor_id	patient 24	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_title = Lung tissue with LUAD of patient 24 [ST]	True
+GSM9226221	geo:GSE307534:GSM9226221	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226221	geo:GSE307534:GSM9226221	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226221	geo:GSE307534:GSM9226221	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_title = Lung tissue with LUAD of patient 24 [ST]	True
+GSM9226221	geo:GSE307534:GSM9226221	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226221	geo:GSE307534:GSM9226221	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_title = Lung tissue with LUAD of patient 24 [ST]	True
+GSM9226221	geo:GSE307534:GSM9226221	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226221	geo:GSE307534:GSM9226221	age	61	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_characteristics_ch1 = age: 61	True
+GSM9226221	geo:GSE307534:GSM9226221	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226221	geo:GSE307534:GSM9226221	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226221	geo:GSE307534:GSM9226221	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226221	geo:GSE307534:GSM9226221	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226221	geo:GSE307534:GSM9226221	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226221	geo:GSE307534:GSM9226221	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226221	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226222	geo:GSE307534:GSM9226222	donor_id	patient 25	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_title = Lung tissue with AAH of patient 25 [ST]	True
+GSM9226222	geo:GSE307534:GSM9226222	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226222	geo:GSE307534:GSM9226222	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226222	geo:GSE307534:GSM9226222	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_title = Lung tissue with AAH of patient 25 [ST]	True
+GSM9226222	geo:GSE307534:GSM9226222	disease_free_text	atypical adenomatous hyperplasia (AAH)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226222	geo:GSE307534:GSM9226222	age	70	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_characteristics_ch1 = age: 70	True
+GSM9226222	geo:GSE307534:GSM9226222	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226222	geo:GSE307534:GSM9226222	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226222	geo:GSE307534:GSM9226222	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226222	geo:GSE307534:GSM9226222	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226222	geo:GSE307534:GSM9226222	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226222	geo:GSE307534:GSM9226222	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226222	!Sample_data_processing = Assembly: GRCh38	True
+GSM9226223	geo:GSE307534:GSM9226223	donor_id	patient 25	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_title = Lung tissue with LUAD of patient 25 [ST]	True
+GSM9226223	geo:GSE307534:GSM9226223	tissue_free_text	lung	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226223	geo:GSE307534:GSM9226223	tissue_type	tissue	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9226223	geo:GSE307534:GSM9226223	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_title = Lung tissue with LUAD of patient 25 [ST]	True
+GSM9226223	geo:GSE307534:GSM9226223	disease_free_text	lung adenocarcinoma (LUAD)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226223	geo:GSE307534:GSM9226223	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_title = Lung tissue with LUAD of patient 25 [ST]	True
+GSM9226223	geo:GSE307534:GSM9226223	disease_ontology_term_id	MONDO:0005061	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		including normal lung tissues, atypical adenomatous hyperplasia (AAH), adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA) and LUAD	True
+GSM9226223	geo:GSE307534:GSM9226223	age	70	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_characteristics_ch1 = age: 70	True
+GSM9226223	geo:GSE307534:GSM9226223	sex	male	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_characteristics_ch1 = Sex: Male	True
+GSM9226223	geo:GSE307534:GSM9226223	suspension_type	na	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	5 µm FFPE tissue sections were placed on regular plus stained slides	True
+GSM9226223	geo:GSE307534:GSM9226223	sample_preservation	formalin-fixed paraffin embedded (FFPE)	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_characteristics_ch1 = cell line: Formalin-fixed paraffin embedded human lung tissue	True
+GSM9226223	geo:GSE307534:GSM9226223	treatment_status	treatment-naive	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz		we performed spatial trancriptomics analysis of human treatment-naive lungs	True
+GSM9226223	geo:GSE307534:GSM9226223	assay	Visium CytAssist Spatial Gene Expression, 11mm	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	using the CytAssist-enabled Visium platform with 11 x 11 mm fiducial frames	True
+GSM9226223	geo:GSE307534:GSM9226223	gene_annotation_version	GRCh38	file	raw/fp-ddc303ae0584/GSE307534_family.soft.gz	GSM9226223	!Sample_data_processing = Assembly: GRCh38	True

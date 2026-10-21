@@ -1,0 +1,38 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4318408	geo:GSE145439:GSM4318408	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4318408	geo:GSE145439:GSM4318408	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4318409	geo:GSE145439:GSM4318409	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4318409	geo:GSE145439:GSM4318409	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4318410	geo:GSE145439:GSM4318410	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4318410	geo:GSE145439:GSM4318410	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-d1d74fd4402a/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM4318408	geo:GSE145439:GSM4318408	donor_id	Patient 1	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	!Sample_title = Patient 1 [scRNA-seq]	True
+GSM4318408	geo:GSE145439:GSM4318408	sex	male	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	!Sample_characteristics_ch1 = Sex: male	True
+GSM4318408	geo:GSE145439:GSM4318408	disease_ontology_term_id	MONDO:0800504	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	!Sample_characteristics_ch1 = subject status: idiopathic pulmonary fibrosis (IPF) patient	True
+GSM4318408	geo:GSE145439:GSM4318408	disease_free_text	idiopathic pulmonary fibrosis (IPF) patient	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	!Sample_characteristics_ch1 = subject status: idiopathic pulmonary fibrosis (IPF) patient	True
+GSM4318408	geo:GSE145439:GSM4318408	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	!Sample_source_name_ch1 = Basal-like cells from peripheral lung tissue of IPF patient	True
+GSM4318408	geo:GSE145439:GSM4318408	tissue_free_text	Basal-like cells cultured from peripheral lung tissue of IPF patient	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	!Sample_source_name_ch1 = Basal-like cells from peripheral lung tissue of IPF patient	True
+GSM4318408	geo:GSE145439:GSM4318408	tissue_type	cell culture	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	For the culture of basal-like cells, lung tissue was cut into small pieces and placed into flasks	True
+GSM4318408	geo:GSE145439:GSM4318408	suspension_type	cell	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz		Single-cell suspensions were generated from basal-like cells	True
+GSM4318408	geo:GSE145439:GSM4318408	assay	10x 3' v3	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM4318408	geo:GSE145439:GSM4318408	gene_annotation_version	Ensembl release 96	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318408	pseudo-alignment to human transcriptome (Ensembl release 96)	True
+GSM4318409	geo:GSE145439:GSM4318409	donor_id	Patient 2	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	!Sample_title = Patient 2 [scRNA-seq]	True
+GSM4318409	geo:GSE145439:GSM4318409	sex	female	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	!Sample_characteristics_ch1 = Sex: female	True
+GSM4318409	geo:GSE145439:GSM4318409	disease_ontology_term_id	MONDO:0800504	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	!Sample_characteristics_ch1 = subject status: idiopathic pulmonary fibrosis (IPF) patient	True
+GSM4318409	geo:GSE145439:GSM4318409	disease_free_text	idiopathic pulmonary fibrosis (IPF) patient	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	!Sample_characteristics_ch1 = subject status: idiopathic pulmonary fibrosis (IPF) patient	True
+GSM4318409	geo:GSE145439:GSM4318409	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	!Sample_source_name_ch1 = Basal-like cells from peripheral lung tissue of IPF patient	True
+GSM4318409	geo:GSE145439:GSM4318409	tissue_free_text	Basal-like cells cultured from peripheral lung tissue of IPF patient	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	!Sample_source_name_ch1 = Basal-like cells from peripheral lung tissue of IPF patient	True
+GSM4318409	geo:GSE145439:GSM4318409	tissue_type	cell culture	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	For the culture of basal-like cells, lung tissue was cut into small pieces and placed into flasks	True
+GSM4318409	geo:GSE145439:GSM4318409	suspension_type	cell	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz		Single-cell suspensions were generated from basal-like cells	True
+GSM4318409	geo:GSE145439:GSM4318409	assay	10x 3' v3	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM4318409	geo:GSE145439:GSM4318409	gene_annotation_version	Ensembl release 96	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318409	pseudo-alignment to human transcriptome (Ensembl release 96)	True
+GSM4318410	geo:GSE145439:GSM4318410	donor_id	Patient 3	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	!Sample_title = Patient 3 [scRNA-seq]	True
+GSM4318410	geo:GSE145439:GSM4318410	sex	male	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	!Sample_characteristics_ch1 = Sex: male	True
+GSM4318410	geo:GSE145439:GSM4318410	disease_ontology_term_id	MONDO:0800504	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	!Sample_characteristics_ch1 = subject status: idiopathic pulmonary fibrosis (IPF) patient	True
+GSM4318410	geo:GSE145439:GSM4318410	disease_free_text	idiopathic pulmonary fibrosis (IPF) patient	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	!Sample_characteristics_ch1 = subject status: idiopathic pulmonary fibrosis (IPF) patient	True
+GSM4318410	geo:GSE145439:GSM4318410	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	!Sample_source_name_ch1 = Basal-like cells from peripheral lung tissue of IPF patient	True
+GSM4318410	geo:GSE145439:GSM4318410	tissue_free_text	Basal-like cells cultured from peripheral lung tissue of IPF patient	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	!Sample_source_name_ch1 = Basal-like cells from peripheral lung tissue of IPF patient	True
+GSM4318410	geo:GSE145439:GSM4318410	tissue_type	cell culture	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	For the culture of basal-like cells, lung tissue was cut into small pieces and placed into flasks	True
+GSM4318410	geo:GSE145439:GSM4318410	suspension_type	cell	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz		Single-cell suspensions were generated from basal-like cells	True
+GSM4318410	geo:GSE145439:GSM4318410	assay	10x 3' v3	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM4318410	geo:GSE145439:GSM4318410	gene_annotation_version	Ensembl release 96	file	raw/fp-d1d74fd4402a/GSE145439_family.soft.gz	GSM4318410	pseudo-alignment to human transcriptome (Ensembl release 96)	True

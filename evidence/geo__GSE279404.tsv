@@ -1,0 +1,422 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8686555	geo:GSE279404:GSM8686555	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686555	geo:GSE279404:GSM8686555	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686555	geo:GSE279404:GSM8686555	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8686555	geo:GSE279404:GSM8686555	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686555	geo:GSE279404:GSM8686555	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686555	geo:GSE279404:GSM8686555	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF1.csv.gz/Cell_Type			True
+GSM8686556	geo:GSE279404:GSM8686556	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686556	geo:GSE279404:GSM8686556	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686556	geo:GSE279404:GSM8686556	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM8686556	geo:GSE279404:GSM8686556	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686556	geo:GSE279404:GSM8686556	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686556	geo:GSE279404:GSM8686556	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF2.csv.gz/Cell_Type			True
+GSM8686557	geo:GSE279404:GSM8686557	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686557	geo:GSE279404:GSM8686557	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686557	geo:GSE279404:GSM8686557	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM8686557	geo:GSE279404:GSM8686557	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686557	geo:GSE279404:GSM8686557	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686557	geo:GSE279404:GSM8686557	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF3.csv.gz/Cell_Type			True
+GSM8686558	geo:GSE279404:GSM8686558	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686558	geo:GSE279404:GSM8686558	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686558	geo:GSE279404:GSM8686558	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8686558	geo:GSE279404:GSM8686558	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686558	geo:GSE279404:GSM8686558	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686558	geo:GSE279404:GSM8686558	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF4.csv.gz/Cell_Type			True
+GSM8686559	geo:GSE279404:GSM8686559	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686559	geo:GSE279404:GSM8686559	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686559	geo:GSE279404:GSM8686559	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM8686559	geo:GSE279404:GSM8686559	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686559	geo:GSE279404:GSM8686559	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686559	geo:GSE279404:GSM8686559	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF5.csv.gz/Cell_Type			True
+GSM8686560	geo:GSE279404:GSM8686560	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686560	geo:GSE279404:GSM8686560	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686560	geo:GSE279404:GSM8686560	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM8686560	geo:GSE279404:GSM8686560	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686560	geo:GSE279404:GSM8686560	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686560	geo:GSE279404:GSM8686560	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF6.csv.gz/Cell_Type			True
+GSM8686561	geo:GSE279404:GSM8686561	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686561	geo:GSE279404:GSM8686561	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686561	geo:GSE279404:GSM8686561	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM8686561	geo:GSE279404:GSM8686561	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686561	geo:GSE279404:GSM8686561	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686561	geo:GSE279404:GSM8686561	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF7.csv.gz/Cell_Type			True
+GSM8686562	geo:GSE279404:GSM8686562	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686562	geo:GSE279404:GSM8686562	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686562	geo:GSE279404:GSM8686562	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8686562	geo:GSE279404:GSM8686562	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686562	geo:GSE279404:GSM8686562	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686562	geo:GSE279404:GSM8686562	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF8.csv.gz/Cell_Type			True
+GSM8686563	geo:GSE279404:GSM8686563	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686563	geo:GSE279404:GSM8686563	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686563	geo:GSE279404:GSM8686563	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM8686563	geo:GSE279404:GSM8686563	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686563	geo:GSE279404:GSM8686563	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686563	geo:GSE279404:GSM8686563	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF9.csv.gz/Cell_Type			True
+GSM8686564	geo:GSE279404:GSM8686564	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686564	geo:GSE279404:GSM8686564	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686564	geo:GSE279404:GSM8686564	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM8686564	geo:GSE279404:GSM8686564	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686564	geo:GSE279404:GSM8686564	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686564	geo:GSE279404:GSM8686564	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF10.csv.gz/Cell_Type			True
+GSM8686565	geo:GSE279404:GSM8686565	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686565	geo:GSE279404:GSM8686565	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686565	geo:GSE279404:GSM8686565	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8686565	geo:GSE279404:GSM8686565	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686565	geo:GSE279404:GSM8686565	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686565	geo:GSE279404:GSM8686565	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF11.csv.gz/Cell_Type			True
+GSM8686566	geo:GSE279404:GSM8686566	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686566	geo:GSE279404:GSM8686566	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686566	geo:GSE279404:GSM8686566	development_stage_ontology_term_id	HsapDv:0000134	derived	age_in_years:'40-year-old stage':ols:hsapdv		40	True
+GSM8686566	geo:GSE279404:GSM8686566	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686566	geo:GSE279404:GSM8686566	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686566	geo:GSE279404:GSM8686566	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF12.csv.gz/Cell_Type			True
+GSM8686567	geo:GSE279404:GSM8686567	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686567	geo:GSE279404:GSM8686567	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686567	geo:GSE279404:GSM8686567	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM8686567	geo:GSE279404:GSM8686567	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686567	geo:GSE279404:GSM8686567	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686567	geo:GSE279404:GSM8686567	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF13.csv.gz/Cell_Type			True
+GSM8686568	geo:GSE279404:GSM8686568	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686568	geo:GSE279404:GSM8686568	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686568	geo:GSE279404:GSM8686568	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8686568	geo:GSE279404:GSM8686568	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686568	geo:GSE279404:GSM8686568	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686568	geo:GSE279404:GSM8686568	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF14.csv.gz/Cell_Type			True
+GSM8686569	geo:GSE279404:GSM8686569	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686569	geo:GSE279404:GSM8686569	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686569	geo:GSE279404:GSM8686569	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8686569	geo:GSE279404:GSM8686569	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686569	geo:GSE279404:GSM8686569	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686569	geo:GSE279404:GSM8686569	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF15.csv.gz/Cell_Type			True
+GSM8686570	geo:GSE279404:GSM8686570	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686570	geo:GSE279404:GSM8686570	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686570	geo:GSE279404:GSM8686570	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8686570	geo:GSE279404:GSM8686570	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686570	geo:GSE279404:GSM8686570	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686570	geo:GSE279404:GSM8686570	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF16.csv.gz/Cell_Type			True
+GSM8686571	geo:GSE279404:GSM8686571	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686571	geo:GSE279404:GSM8686571	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686571	geo:GSE279404:GSM8686571	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM8686571	geo:GSE279404:GSM8686571	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686571	geo:GSE279404:GSM8686571	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686571	geo:GSE279404:GSM8686571	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF17.csv.gz/Cell_Type			True
+GSM8686572	geo:GSE279404:GSM8686572	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686572	geo:GSE279404:GSM8686572	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686572	geo:GSE279404:GSM8686572	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8686572	geo:GSE279404:GSM8686572	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686572	geo:GSE279404:GSM8686572	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8686572	geo:GSE279404:GSM8686572	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/IPF18.csv.gz/Cell_Type			True
+GSM8686573	geo:GSE279404:GSM8686573	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686573	geo:GSE279404:GSM8686573	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686573	geo:GSE279404:GSM8686573	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM8686573	geo:GSE279404:GSM8686573	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686573	geo:GSE279404:GSM8686573	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686573	geo:GSE279404:GSM8686573	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C1.csv.gz/Cell_Type			True
+GSM8686574	geo:GSE279404:GSM8686574	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686574	geo:GSE279404:GSM8686574	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686574	geo:GSE279404:GSM8686574	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM8686574	geo:GSE279404:GSM8686574	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686574	geo:GSE279404:GSM8686574	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686574	geo:GSE279404:GSM8686574	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C2.csv.gz/Cell_Type			True
+GSM8686575	geo:GSE279404:GSM8686575	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686575	geo:GSE279404:GSM8686575	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686575	geo:GSE279404:GSM8686575	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM8686575	geo:GSE279404:GSM8686575	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686575	geo:GSE279404:GSM8686575	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686575	geo:GSE279404:GSM8686575	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C3.csv.gz/Cell_Type			True
+GSM8686576	geo:GSE279404:GSM8686576	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686576	geo:GSE279404:GSM8686576	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686576	geo:GSE279404:GSM8686576	development_stage_ontology_term_id	HsapDv:0000115	derived	age_in_years:'21-year-old stage':ols:hsapdv		21	True
+GSM8686576	geo:GSE279404:GSM8686576	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686576	geo:GSE279404:GSM8686576	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686576	geo:GSE279404:GSM8686576	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C4.csv.gz/Cell_Type			True
+GSM8686577	geo:GSE279404:GSM8686577	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686577	geo:GSE279404:GSM8686577	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686577	geo:GSE279404:GSM8686577	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM8686577	geo:GSE279404:GSM8686577	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686577	geo:GSE279404:GSM8686577	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686577	geo:GSE279404:GSM8686577	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C5.csv.gz/Cell_Type			True
+GSM8686578	geo:GSE279404:GSM8686578	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686578	geo:GSE279404:GSM8686578	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686578	geo:GSE279404:GSM8686578	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8686578	geo:GSE279404:GSM8686578	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686578	geo:GSE279404:GSM8686578	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686578	geo:GSE279404:GSM8686578	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C6.csv.gz/Cell_Type			True
+GSM8686579	geo:GSE279404:GSM8686579	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686579	geo:GSE279404:GSM8686579	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686579	geo:GSE279404:GSM8686579	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM8686579	geo:GSE279404:GSM8686579	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686579	geo:GSE279404:GSM8686579	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686579	geo:GSE279404:GSM8686579	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C7.csv.gz/Cell_Type			True
+GSM8686580	geo:GSE279404:GSM8686580	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8686580	geo:GSE279404:GSM8686580	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686580	geo:GSE279404:GSM8686580	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM8686580	geo:GSE279404:GSM8686580	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686580	geo:GSE279404:GSM8686580	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686580	geo:GSE279404:GSM8686580	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C8.csv.gz/Cell_Type			True
+GSM8686582	geo:GSE279404:GSM8686582	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686582	geo:GSE279404:GSM8686582	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686582	geo:GSE279404:GSM8686582	development_stage_ontology_term_id	HsapDv:0000118	derived	age_in_years:'24-year-old stage':ols:hsapdv		24	True
+GSM8686582	geo:GSE279404:GSM8686582	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686582	geo:GSE279404:GSM8686582	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686582	geo:GSE279404:GSM8686582	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C10.csv.gz/Cell_Type			True
+GSM8686583	geo:GSE279404:GSM8686583	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8686583	geo:GSE279404:GSM8686583	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8686583	geo:GSE279404:GSM8686583	development_stage_ontology_term_id	HsapDv:0000118	derived	age_in_years:'24-year-old stage':ols:hsapdv		24	True
+GSM8686583	geo:GSE279404:GSM8686583	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8686583	geo:GSE279404:GSM8686583	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8686583	geo:GSE279404:GSM8686583	author_cell_type	<column Cell_Type>	column	work/fp-8e5e9f503857/meta_by_sample/C11.csv.gz/Cell_Type			True
+		organism	Homo sapiens	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz		!Series_sample_taxid = 9606	True
+GSM8686555	geo:GSE279404:GSM8686555	donor_id	IPF lung sample 1	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_title = IPF lung sample 1, snRNA-seq	True
+GSM8686555	geo:GSE279404:GSM8686555	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_title = IPF lung sample 1, snRNA-seq	True
+GSM8686555	geo:GSE279404:GSM8686555	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686555	geo:GSE279404:GSM8686555	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686555	geo:GSE279404:GSM8686555	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686555	geo:GSE279404:GSM8686555	age	66	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_characteristics_ch1 = age: 66	True
+GSM8686555	geo:GSE279404:GSM8686555	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686555	geo:GSE279404:GSM8686555	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	Frozen lung tissues were collected	True
+GSM8686555	geo:GSE279404:GSM8686555	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686555	10x Genomics 5' Kit v2	True
+GSM8686556	geo:GSE279404:GSM8686556	donor_id	IPF lung sample 2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_title = IPF lung sample 2, snRNA-seq	True
+GSM8686556	geo:GSE279404:GSM8686556	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_title = IPF lung sample 2, snRNA-seq	True
+GSM8686556	geo:GSE279404:GSM8686556	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686556	geo:GSE279404:GSM8686556	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686556	geo:GSE279404:GSM8686556	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686556	geo:GSE279404:GSM8686556	age	70	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_characteristics_ch1 = age: 70	True
+GSM8686556	geo:GSE279404:GSM8686556	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686556	geo:GSE279404:GSM8686556	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	Frozen lung tissues were collected	True
+GSM8686556	geo:GSE279404:GSM8686556	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686556	10x Genomics 5' Kit v2	True
+GSM8686557	geo:GSE279404:GSM8686557	donor_id	IPF lung sample 3	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_title = IPF lung sample 3, snRNA-seq	True
+GSM8686557	geo:GSE279404:GSM8686557	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_title = IPF lung sample 3, snRNA-seq	True
+GSM8686557	geo:GSE279404:GSM8686557	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686557	geo:GSE279404:GSM8686557	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686557	geo:GSE279404:GSM8686557	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686557	geo:GSE279404:GSM8686557	age	52	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_characteristics_ch1 = age: 52	True
+GSM8686557	geo:GSE279404:GSM8686557	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686557	geo:GSE279404:GSM8686557	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	Frozen lung tissues were collected	True
+GSM8686557	geo:GSE279404:GSM8686557	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686557	10x Genomics 5' Kit v2	True
+GSM8686558	geo:GSE279404:GSM8686558	donor_id	IPF lung sample 4	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_title = IPF lung sample 4, snRNA-seq	True
+GSM8686558	geo:GSE279404:GSM8686558	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_title = IPF lung sample 4, snRNA-seq	True
+GSM8686558	geo:GSE279404:GSM8686558	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686558	geo:GSE279404:GSM8686558	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686558	geo:GSE279404:GSM8686558	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686558	geo:GSE279404:GSM8686558	age	68	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_characteristics_ch1 = age: 68	True
+GSM8686558	geo:GSE279404:GSM8686558	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686558	geo:GSE279404:GSM8686558	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	Frozen lung tissues were collected	True
+GSM8686558	geo:GSE279404:GSM8686558	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686558	10x Genomics 5' Kit v2	True
+GSM8686559	geo:GSE279404:GSM8686559	donor_id	IPF lung sample 5	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_title = IPF lung sample 5, snRNA-seq	True
+GSM8686559	geo:GSE279404:GSM8686559	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_title = IPF lung sample 5, snRNA-seq	True
+GSM8686559	geo:GSE279404:GSM8686559	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_characteristics_ch1 = tissue: Left Upper Lung Lobe	True
+GSM8686559	geo:GSE279404:GSM8686559	tissue_free_text	Left Upper Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_characteristics_ch1 = tissue: Left Upper Lung Lobe	True
+GSM8686559	geo:GSE279404:GSM8686559	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686559	geo:GSE279404:GSM8686559	age	67	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_characteristics_ch1 = age: 67	True
+GSM8686559	geo:GSE279404:GSM8686559	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686559	geo:GSE279404:GSM8686559	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	Frozen lung tissues were collected	True
+GSM8686559	geo:GSE279404:GSM8686559	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686559	10x Genomics 5' Kit v2	True
+GSM8686560	geo:GSE279404:GSM8686560	donor_id	IPF lung sample 6	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_title = IPF lung sample 6, snRNA-seq	True
+GSM8686560	geo:GSE279404:GSM8686560	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_title = IPF lung sample 6, snRNA-seq	True
+GSM8686560	geo:GSE279404:GSM8686560	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686560	geo:GSE279404:GSM8686560	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686560	geo:GSE279404:GSM8686560	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686560	geo:GSE279404:GSM8686560	age	64	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_characteristics_ch1 = age: 64	True
+GSM8686560	geo:GSE279404:GSM8686560	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686560	geo:GSE279404:GSM8686560	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	Frozen lung tissues were collected	True
+GSM8686560	geo:GSE279404:GSM8686560	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686560	10x Genomics 5' Kit v2	True
+GSM8686561	geo:GSE279404:GSM8686561	donor_id	IPF lung sample 7	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_title = IPF lung sample 7, snRNA-seq	True
+GSM8686561	geo:GSE279404:GSM8686561	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_title = IPF lung sample 7, snRNA-seq	True
+GSM8686561	geo:GSE279404:GSM8686561	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686561	geo:GSE279404:GSM8686561	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686561	geo:GSE279404:GSM8686561	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686561	geo:GSE279404:GSM8686561	age	59	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_characteristics_ch1 = age: 59	True
+GSM8686561	geo:GSE279404:GSM8686561	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686561	geo:GSE279404:GSM8686561	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	Frozen lung tissues were collected	True
+GSM8686561	geo:GSE279404:GSM8686561	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686561	10x Genomics 5' Kit v2	True
+GSM8686562	geo:GSE279404:GSM8686562	donor_id	IPF lung sample 8	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_title = IPF lung sample 8, snRNA-seq	True
+GSM8686562	geo:GSE279404:GSM8686562	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_title = IPF lung sample 8, snRNA-seq	True
+GSM8686562	geo:GSE279404:GSM8686562	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686562	geo:GSE279404:GSM8686562	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686562	geo:GSE279404:GSM8686562	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686562	geo:GSE279404:GSM8686562	age	60	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_characteristics_ch1 = age: 60	True
+GSM8686562	geo:GSE279404:GSM8686562	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686562	geo:GSE279404:GSM8686562	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	Frozen lung tissues were collected	True
+GSM8686562	geo:GSE279404:GSM8686562	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686562	10x Genomics 5' Kit v2	True
+GSM8686563	geo:GSE279404:GSM8686563	donor_id	IPF lung sample 9	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_title = IPF lung sample 9 rep 1, snRNA-seq	True
+GSM8686563	geo:GSE279404:GSM8686563	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_title = IPF lung sample 9 rep 1, snRNA-seq	True
+GSM8686563	geo:GSE279404:GSM8686563	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686563	geo:GSE279404:GSM8686563	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686563	geo:GSE279404:GSM8686563	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686563	geo:GSE279404:GSM8686563	age	64	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_characteristics_ch1 = age: 64	True
+GSM8686563	geo:GSE279404:GSM8686563	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686563	geo:GSE279404:GSM8686563	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	Frozen lung tissues were collected	True
+GSM8686563	geo:GSE279404:GSM8686563	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686563	10x Genomics 5' Kit v2	True
+GSM8686564	geo:GSE279404:GSM8686564	donor_id	IPF lung sample 9	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_title = IPF lung sample 9 rep 2, snRNA-seq	True
+GSM8686564	geo:GSE279404:GSM8686564	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_title = IPF lung sample 9 rep 2, snRNA-seq	True
+GSM8686564	geo:GSE279404:GSM8686564	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686564	geo:GSE279404:GSM8686564	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686564	geo:GSE279404:GSM8686564	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686564	geo:GSE279404:GSM8686564	age	64	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_characteristics_ch1 = age: 64	True
+GSM8686564	geo:GSE279404:GSM8686564	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686564	geo:GSE279404:GSM8686564	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	Frozen lung tissues were collected	True
+GSM8686564	geo:GSE279404:GSM8686564	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686564	10x Genomics 5' Kit v2	True
+GSM8686565	geo:GSE279404:GSM8686565	donor_id	IPF lung sample 10	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_title = IPF lung sample 10, snRNA-seq	True
+GSM8686565	geo:GSE279404:GSM8686565	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_title = IPF lung sample 10, snRNA-seq	True
+GSM8686565	geo:GSE279404:GSM8686565	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686565	geo:GSE279404:GSM8686565	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686565	geo:GSE279404:GSM8686565	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686565	geo:GSE279404:GSM8686565	age	66	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_characteristics_ch1 = age: 66	True
+GSM8686565	geo:GSE279404:GSM8686565	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686565	geo:GSE279404:GSM8686565	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	Frozen lung tissues were collected	True
+GSM8686565	geo:GSE279404:GSM8686565	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686565	10x Genomics 5' Kit v2	True
+GSM8686566	geo:GSE279404:GSM8686566	donor_id	IPF lung sample 11	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_title = IPF lung sample 11, snRNA-seq	True
+GSM8686566	geo:GSE279404:GSM8686566	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_title = IPF lung sample 11, snRNA-seq	True
+GSM8686566	geo:GSE279404:GSM8686566	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686566	geo:GSE279404:GSM8686566	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686566	geo:GSE279404:GSM8686566	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686566	geo:GSE279404:GSM8686566	age	40	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_characteristics_ch1 = age: 40	True
+GSM8686566	geo:GSE279404:GSM8686566	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686566	geo:GSE279404:GSM8686566	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	Frozen lung tissues were collected	True
+GSM8686566	geo:GSE279404:GSM8686566	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686566	10x Genomics 5' Kit v2	True
+GSM8686567	geo:GSE279404:GSM8686567	donor_id	IPF lung sample 12	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_title = IPF lung sample 12, snRNA-seq	True
+GSM8686567	geo:GSE279404:GSM8686567	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_title = IPF lung sample 12, snRNA-seq	True
+GSM8686567	geo:GSE279404:GSM8686567	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686567	geo:GSE279404:GSM8686567	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686567	geo:GSE279404:GSM8686567	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686567	geo:GSE279404:GSM8686567	age	50	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_characteristics_ch1 = age: 50	True
+GSM8686567	geo:GSE279404:GSM8686567	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686567	geo:GSE279404:GSM8686567	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	Frozen lung tissues were collected	True
+GSM8686567	geo:GSE279404:GSM8686567	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686567	10x Genomics 5' Kit v2	True
+GSM8686568	geo:GSE279404:GSM8686568	donor_id	IPF lung sample 13	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_title = IPF lung sample 13 rep 1, snRNA-seq	True
+GSM8686568	geo:GSE279404:GSM8686568	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_title = IPF lung sample 13 rep 1, snRNA-seq	True
+GSM8686568	geo:GSE279404:GSM8686568	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_characteristics_ch1 = tissue: Left Lower Lung Lobe	True
+GSM8686568	geo:GSE279404:GSM8686568	tissue_free_text	Left Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_characteristics_ch1 = tissue: Left Lower Lung Lobe	True
+GSM8686568	geo:GSE279404:GSM8686568	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686568	geo:GSE279404:GSM8686568	age	68	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_characteristics_ch1 = age: 68	True
+GSM8686568	geo:GSE279404:GSM8686568	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686568	geo:GSE279404:GSM8686568	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	Frozen lung tissues were collected	True
+GSM8686568	geo:GSE279404:GSM8686568	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686568	10x Genomics 5' Kit v2	True
+GSM8686569	geo:GSE279404:GSM8686569	donor_id	IPF lung sample 13	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_title = IPF lung sample 13 rep 2, snRNA-seq	True
+GSM8686569	geo:GSE279404:GSM8686569	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_title = IPF lung sample 13 rep 2, snRNA-seq	True
+GSM8686569	geo:GSE279404:GSM8686569	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686569	geo:GSE279404:GSM8686569	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686569	geo:GSE279404:GSM8686569	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686569	geo:GSE279404:GSM8686569	age	68	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_characteristics_ch1 = age: 68	True
+GSM8686569	geo:GSE279404:GSM8686569	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686569	geo:GSE279404:GSM8686569	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	Frozen lung tissues were collected	True
+GSM8686569	geo:GSE279404:GSM8686569	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686569	10x Genomics 5' Kit v2	True
+GSM8686570	geo:GSE279404:GSM8686570	donor_id	IPF lung sample 14	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_title = IPF lung sample 14, snRNA-seq	True
+GSM8686570	geo:GSE279404:GSM8686570	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_title = IPF lung sample 14, snRNA-seq	True
+GSM8686570	geo:GSE279404:GSM8686570	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686570	geo:GSE279404:GSM8686570	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686570	geo:GSE279404:GSM8686570	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686570	geo:GSE279404:GSM8686570	age	63	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_characteristics_ch1 = age: 63	True
+GSM8686570	geo:GSE279404:GSM8686570	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686570	geo:GSE279404:GSM8686570	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	Frozen lung tissues were collected	True
+GSM8686570	geo:GSE279404:GSM8686570	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686570	10x Genomics 5' Kit v2	True
+GSM8686571	geo:GSE279404:GSM8686571	donor_id	IPF lung sample 15	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_title = IPF lung sample 15, snRNA-seq	True
+GSM8686571	geo:GSE279404:GSM8686571	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_title = IPF lung sample 15, snRNA-seq	True
+GSM8686571	geo:GSE279404:GSM8686571	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686571	geo:GSE279404:GSM8686571	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686571	geo:GSE279404:GSM8686571	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686571	geo:GSE279404:GSM8686571	age	67	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_characteristics_ch1 = age: 67	True
+GSM8686571	geo:GSE279404:GSM8686571	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686571	geo:GSE279404:GSM8686571	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	Frozen lung tissues were collected	True
+GSM8686571	geo:GSE279404:GSM8686571	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686571	10x Genomics 5' Kit v2	True
+GSM8686572	geo:GSE279404:GSM8686572	donor_id	IPF lung sample 16	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_title = IPF lung sample 16, snRNA-seq	True
+GSM8686572	geo:GSE279404:GSM8686572	disease_ontology_term_id	idiopathic pulmonary fibrosis	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_title = IPF lung sample 16, snRNA-seq	True
+GSM8686572	geo:GSE279404:GSM8686572	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686572	geo:GSE279404:GSM8686572	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686572	geo:GSE279404:GSM8686572	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686572	geo:GSE279404:GSM8686572	age	66	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_characteristics_ch1 = age: 66	True
+GSM8686572	geo:GSE279404:GSM8686572	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686572	geo:GSE279404:GSM8686572	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	Frozen lung tissues were collected	True
+GSM8686572	geo:GSE279404:GSM8686572	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686572	10x Genomics 5' Kit v2	True
+GSM8686573	geo:GSE279404:GSM8686573	donor_id	Healthy lung sample 1	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_title = Healthy lung sample 1, snRNA-seq	True
+GSM8686573	geo:GSE279404:GSM8686573	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_title = Healthy lung sample 1, snRNA-seq	True
+GSM8686573	geo:GSE279404:GSM8686573	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686573	geo:GSE279404:GSM8686573	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686573	geo:GSE279404:GSM8686573	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686573	geo:GSE279404:GSM8686573	age	64	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_characteristics_ch1 = age: 64	True
+GSM8686573	geo:GSE279404:GSM8686573	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686573	geo:GSE279404:GSM8686573	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	Frozen lung tissues were collected	True
+GSM8686573	geo:GSE279404:GSM8686573	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686573	10x Genomics 5' Kit v2	True
+GSM8686574	geo:GSE279404:GSM8686574	donor_id	Healthy lung sample 2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_title = Healthy lung sample 2, snRNA-seq	True
+GSM8686574	geo:GSE279404:GSM8686574	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_title = Healthy lung sample 2, snRNA-seq	True
+GSM8686574	geo:GSE279404:GSM8686574	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686574	geo:GSE279404:GSM8686574	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686574	geo:GSE279404:GSM8686574	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686574	geo:GSE279404:GSM8686574	age	62	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_characteristics_ch1 = age: 62	True
+GSM8686574	geo:GSE279404:GSM8686574	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686574	geo:GSE279404:GSM8686574	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	Frozen lung tissues were collected	True
+GSM8686574	geo:GSE279404:GSM8686574	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686574	10x Genomics 5' Kit v2	True
+GSM8686575	geo:GSE279404:GSM8686575	donor_id	Healthy lung sample 3	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_title = Healthy lung sample 3, snRNA-seq	True
+GSM8686575	geo:GSE279404:GSM8686575	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_title = Healthy lung sample 3, snRNA-seq	True
+GSM8686575	geo:GSE279404:GSM8686575	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686575	geo:GSE279404:GSM8686575	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686575	geo:GSE279404:GSM8686575	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686575	geo:GSE279404:GSM8686575	age	54	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_characteristics_ch1 = age: 54	True
+GSM8686575	geo:GSE279404:GSM8686575	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686575	geo:GSE279404:GSM8686575	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	Frozen lung tissues were collected	True
+GSM8686575	geo:GSE279404:GSM8686575	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686575	10x Genomics 5' Kit v2	True
+GSM8686576	geo:GSE279404:GSM8686576	donor_id	Healthy lung sample 4	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_title = Healthy lung sample 4, snRNA-seq	True
+GSM8686576	geo:GSE279404:GSM8686576	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_title = Healthy lung sample 4, snRNA-seq	True
+GSM8686576	geo:GSE279404:GSM8686576	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686576	geo:GSE279404:GSM8686576	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686576	geo:GSE279404:GSM8686576	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686576	geo:GSE279404:GSM8686576	age	21	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_characteristics_ch1 = age: 21	True
+GSM8686576	geo:GSE279404:GSM8686576	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686576	geo:GSE279404:GSM8686576	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	Frozen lung tissues were collected	True
+GSM8686576	geo:GSE279404:GSM8686576	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686576	10x Genomics 5' Kit v2	True
+GSM8686577	geo:GSE279404:GSM8686577	donor_id	Healthy lung sample 5	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_title = Healthy lung sample 5, snRNA-seq	True
+GSM8686577	geo:GSE279404:GSM8686577	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_title = Healthy lung sample 5, snRNA-seq	True
+GSM8686577	geo:GSE279404:GSM8686577	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686577	geo:GSE279404:GSM8686577	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686577	geo:GSE279404:GSM8686577	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686577	geo:GSE279404:GSM8686577	age	33	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_characteristics_ch1 = age: 33	True
+GSM8686577	geo:GSE279404:GSM8686577	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686577	geo:GSE279404:GSM8686577	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	Frozen lung tissues were collected	True
+GSM8686577	geo:GSE279404:GSM8686577	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686577	10x Genomics 5' Kit v2	True
+GSM8686578	geo:GSE279404:GSM8686578	donor_id	Healthy lung sample 6	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_title = Healthy lung sample 6, snRNA-seq	True
+GSM8686578	geo:GSE279404:GSM8686578	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_title = Healthy lung sample 6, snRNA-seq	True
+GSM8686578	geo:GSE279404:GSM8686578	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686578	geo:GSE279404:GSM8686578	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686578	geo:GSE279404:GSM8686578	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686578	geo:GSE279404:GSM8686578	age	66	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_characteristics_ch1 = age: 66	True
+GSM8686578	geo:GSE279404:GSM8686578	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686578	geo:GSE279404:GSM8686578	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	Frozen lung tissues were collected	True
+GSM8686578	geo:GSE279404:GSM8686578	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686578	10x Genomics 5' Kit v2	True
+GSM8686579	geo:GSE279404:GSM8686579	donor_id	Healthy lung sample 7	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_title = Healthy lung sample 7, snRNA-seq	True
+GSM8686579	geo:GSE279404:GSM8686579	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_title = Healthy lung sample 7, snRNA-seq	True
+GSM8686579	geo:GSE279404:GSM8686579	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686579	geo:GSE279404:GSM8686579	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686579	geo:GSE279404:GSM8686579	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686579	geo:GSE279404:GSM8686579	age	73	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_characteristics_ch1 = age: 73	True
+GSM8686579	geo:GSE279404:GSM8686579	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686579	geo:GSE279404:GSM8686579	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	Frozen lung tissues were collected	True
+GSM8686579	geo:GSE279404:GSM8686579	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686579	10x Genomics 5' Kit v2	True
+GSM8686580	geo:GSE279404:GSM8686580	donor_id	Healthy lung sample 8	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_title = Healthy lung sample 8, snRNA-seq	True
+GSM8686580	geo:GSE279404:GSM8686580	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_title = Healthy lung sample 8, snRNA-seq	True
+GSM8686580	geo:GSE279404:GSM8686580	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686580	geo:GSE279404:GSM8686580	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686580	geo:GSE279404:GSM8686580	sex	male	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8686580	geo:GSE279404:GSM8686580	age	52	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_characteristics_ch1 = age: 52	True
+GSM8686580	geo:GSE279404:GSM8686580	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686580	geo:GSE279404:GSM8686580	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	Frozen lung tissues were collected	True
+GSM8686580	geo:GSE279404:GSM8686580	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686580	10x Genomics 5' Kit v2	True
+GSM8686582	geo:GSE279404:GSM8686582	donor_id	Healthy lung sample 10	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_title = Healthy lung sample 10 rep 1, snRNA-seq	True
+GSM8686582	geo:GSE279404:GSM8686582	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_title = Healthy lung sample 10 rep 1, snRNA-seq	True
+GSM8686582	geo:GSE279404:GSM8686582	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686582	geo:GSE279404:GSM8686582	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686582	geo:GSE279404:GSM8686582	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686582	geo:GSE279404:GSM8686582	age	24	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_characteristics_ch1 = age: 24	True
+GSM8686582	geo:GSE279404:GSM8686582	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686582	geo:GSE279404:GSM8686582	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	Frozen lung tissues were collected	True
+GSM8686582	geo:GSE279404:GSM8686582	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686582	10x Genomics 5' Kit v2	True
+GSM8686583	geo:GSE279404:GSM8686583	donor_id	Healthy lung sample 10	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_title = Healthy lung sample 10 rep 2, snRNA-seq	True
+GSM8686583	geo:GSE279404:GSM8686583	disease_ontology_term_id	normal	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_title = Healthy lung sample 10 rep 2, snRNA-seq	True
+GSM8686583	geo:GSE279404:GSM8686583	tissue_ontology_term_id	lung	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686583	geo:GSE279404:GSM8686583	tissue_free_text	Right Lower Lung Lobe	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_characteristics_ch1 = tissue: Right Lower Lung Lobe	True
+GSM8686583	geo:GSE279404:GSM8686583	sex	female	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8686583	geo:GSE279404:GSM8686583	age	24	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_characteristics_ch1 = age: 24	True
+GSM8686583	geo:GSE279404:GSM8686583	suspension_type	nucleus	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	!Sample_molecule_ch1 = nuclear RNA	True
+GSM8686583	geo:GSE279404:GSM8686583	sample_preservation	frozen	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	Frozen lung tissues were collected	True
+GSM8686583	geo:GSE279404:GSM8686583	assay	10x 5' v2	file	raw/fp-8e5e9f503857/GSE279404_family.soft.gz	GSM8686583	10x Genomics 5' Kit v2	True

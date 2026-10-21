@@ -1,0 +1,123 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8473812	geo:GSE275264:GSM8473812	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473812	geo:GSE275264:GSM8473812	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+GSM8473813	geo:GSE275264:GSM8473813	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8473813	geo:GSE275264:GSM8473813	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM8473814	geo:GSE275264:GSM8473814	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473814	geo:GSE275264:GSM8473814	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+GSM8473815	geo:GSE275264:GSM8473815	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8473815	geo:GSE275264:GSM8473815	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+GSM8473816	geo:GSE275264:GSM8473816	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8473816	geo:GSE275264:GSM8473816	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM8473817	geo:GSE275264:GSM8473817	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8473817	geo:GSE275264:GSM8473817	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM8473818	geo:GSE275264:GSM8473818	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473818	geo:GSE275264:GSM8473818	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM8473819	geo:GSE275264:GSM8473819	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473819	geo:GSE275264:GSM8473819	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM8473820	geo:GSE275264:GSM8473820	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473820	geo:GSE275264:GSM8473820	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM8473821	geo:GSE275264:GSM8473821	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473821	geo:GSE275264:GSM8473821	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM8473822	geo:GSE275264:GSM8473822	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473822	geo:GSE275264:GSM8473822	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+GSM8473823	geo:GSE275264:GSM8473823	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473823	geo:GSE275264:GSM8473823	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8473824	geo:GSE275264:GSM8473824	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473824	geo:GSE275264:GSM8473824	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM8473825	geo:GSE275264:GSM8473825	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473825	geo:GSE275264:GSM8473825	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8473826	geo:GSE275264:GSM8473826	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473826	geo:GSE275264:GSM8473826	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM8473827	geo:GSE275264:GSM8473827	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8473827	geo:GSE275264:GSM8473827	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+		organism	Homo sapiens	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8473812	geo:GSE275264:GSM8473812	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473812	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473812	geo:GSE275264:GSM8473812	age	47	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473812	!Sample_characteristics_ch1 = age: 47	True
+GSM8473812	geo:GSE275264:GSM8473812	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473812	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473812	geo:GSE275264:GSM8473812	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473812	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473812	geo:GSE275264:GSM8473812	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473812	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473813	geo:GSE275264:GSM8473813	sex	F	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473813	!Sample_characteristics_ch1 = Sex: F	True
+GSM8473813	geo:GSE275264:GSM8473813	age	26	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473813	!Sample_characteristics_ch1 = age: 26	True
+GSM8473813	geo:GSE275264:GSM8473813	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473813	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473813	geo:GSE275264:GSM8473813	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473813	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473813	geo:GSE275264:GSM8473813	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473813	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473814	geo:GSE275264:GSM8473814	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473814	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473814	geo:GSE275264:GSM8473814	age	51	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473814	!Sample_characteristics_ch1 = age: 51	True
+GSM8473814	geo:GSE275264:GSM8473814	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473814	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473814	geo:GSE275264:GSM8473814	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473814	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473814	geo:GSE275264:GSM8473814	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473814	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473815	geo:GSE275264:GSM8473815	sex	F	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473815	!Sample_characteristics_ch1 = Sex: F	True
+GSM8473815	geo:GSE275264:GSM8473815	age	47	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473815	!Sample_characteristics_ch1 = age: 47	True
+GSM8473815	geo:GSE275264:GSM8473815	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473815	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473815	geo:GSE275264:GSM8473815	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473815	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473815	geo:GSE275264:GSM8473815	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473815	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473816	geo:GSE275264:GSM8473816	sex	F	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473816	!Sample_characteristics_ch1 = Sex: F	True
+GSM8473816	geo:GSE275264:GSM8473816	age	50	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473816	!Sample_characteristics_ch1 = age: 50	True
+GSM8473816	geo:GSE275264:GSM8473816	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473816	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473816	geo:GSE275264:GSM8473816	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473816	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473816	geo:GSE275264:GSM8473816	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473816	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473817	geo:GSE275264:GSM8473817	sex	F	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473817	!Sample_characteristics_ch1 = Sex: F	True
+GSM8473817	geo:GSE275264:GSM8473817	age	55	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473817	!Sample_characteristics_ch1 = age: 55	True
+GSM8473817	geo:GSE275264:GSM8473817	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473817	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473817	geo:GSE275264:GSM8473817	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473817	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473817	geo:GSE275264:GSM8473817	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473817	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473818	geo:GSE275264:GSM8473818	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473818	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473818	geo:GSE275264:GSM8473818	age	44	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473818	!Sample_characteristics_ch1 = age: 44	True
+GSM8473818	geo:GSE275264:GSM8473818	disease_free_text	Healthy	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473818	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473818	geo:GSE275264:GSM8473818	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473818	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473818	geo:GSE275264:GSM8473818	disease_ontology_term_id	PATO:0000461	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473818	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8473819	geo:GSE275264:GSM8473819	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473819	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473819	geo:GSE275264:GSM8473819	age	73	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473819	!Sample_characteristics_ch1 = age: 73	True
+GSM8473819	geo:GSE275264:GSM8473819	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473819	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473819	geo:GSE275264:GSM8473819	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473819	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473819	geo:GSE275264:GSM8473819	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473819	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473819	geo:GSE275264:GSM8473819	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473820	geo:GSE275264:GSM8473820	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473820	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473820	geo:GSE275264:GSM8473820	age	61	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473820	!Sample_characteristics_ch1 = age: 61	True
+GSM8473820	geo:GSE275264:GSM8473820	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473820	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473820	geo:GSE275264:GSM8473820	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473820	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473820	geo:GSE275264:GSM8473820	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473820	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473820	geo:GSE275264:GSM8473820	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473821	geo:GSE275264:GSM8473821	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473821	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473821	geo:GSE275264:GSM8473821	age	71	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473821	!Sample_characteristics_ch1 = age: 71	True
+GSM8473821	geo:GSE275264:GSM8473821	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473821	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473821	geo:GSE275264:GSM8473821	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473821	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473821	geo:GSE275264:GSM8473821	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473821	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473821	geo:GSE275264:GSM8473821	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473822	geo:GSE275264:GSM8473822	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473822	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473822	geo:GSE275264:GSM8473822	age	84	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473822	!Sample_characteristics_ch1 = age: 84	True
+GSM8473822	geo:GSE275264:GSM8473822	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473822	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473822	geo:GSE275264:GSM8473822	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473822	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473822	geo:GSE275264:GSM8473822	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473822	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473822	geo:GSE275264:GSM8473822	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473823	geo:GSE275264:GSM8473823	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473823	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473823	geo:GSE275264:GSM8473823	age	65	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473823	!Sample_characteristics_ch1 = age: 65	True
+GSM8473823	geo:GSE275264:GSM8473823	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473823	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473823	geo:GSE275264:GSM8473823	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473823	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473823	geo:GSE275264:GSM8473823	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473823	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473823	geo:GSE275264:GSM8473823	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473824	geo:GSE275264:GSM8473824	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473824	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473824	geo:GSE275264:GSM8473824	age	79	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473824	!Sample_characteristics_ch1 = age: 79	True
+GSM8473824	geo:GSE275264:GSM8473824	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473824	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473824	geo:GSE275264:GSM8473824	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473824	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473824	geo:GSE275264:GSM8473824	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473824	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473824	geo:GSE275264:GSM8473824	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473825	geo:GSE275264:GSM8473825	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473825	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473825	geo:GSE275264:GSM8473825	age	66	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473825	!Sample_characteristics_ch1 = age: 66	True
+GSM8473825	geo:GSE275264:GSM8473825	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473825	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473825	geo:GSE275264:GSM8473825	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473825	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473825	geo:GSE275264:GSM8473825	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473825	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473825	geo:GSE275264:GSM8473825	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473826	geo:GSE275264:GSM8473826	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473826	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473826	geo:GSE275264:GSM8473826	age	74	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473826	!Sample_characteristics_ch1 = age: 74	True
+GSM8473826	geo:GSE275264:GSM8473826	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473826	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473826	geo:GSE275264:GSM8473826	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473826	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473826	geo:GSE275264:GSM8473826	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473826	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473826	geo:GSE275264:GSM8473826	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM8473827	geo:GSE275264:GSM8473827	sex	M	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473827	!Sample_characteristics_ch1 = Sex: M	True
+GSM8473827	geo:GSE275264:GSM8473827	age	50	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473827	!Sample_characteristics_ch1 = age: 50	True
+GSM8473827	geo:GSE275264:GSM8473827	disease_free_text	IPF	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473827	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473827	geo:GSE275264:GSM8473827	tissue_free_text	Lung airway epithelium	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473827	!Sample_characteristics_ch1 = tissue: Lung airway epithelium	True
+GSM8473827	geo:GSE275264:GSM8473827	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz	GSM8473827	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8473827	geo:GSE275264:GSM8473827	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5978e337d36b/GSE275264_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True

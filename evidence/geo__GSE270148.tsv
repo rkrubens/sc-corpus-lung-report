@@ -1,0 +1,52 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8334928	geo:GSE270148:GSM8334928	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8334929	geo:GSE270148:GSM8334929	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8334930	geo:GSE270148:GSM8334930	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8334931	geo:GSE270148:GSM8334931	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8334932	geo:GSE270148:GSM8334932	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+		organism	Homo sapiens	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8334928	geo:GSE270148:GSM8334928	donor_id	Lu1024	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	Patient Lu1024	True
+GSM8334928	geo:GSE270148:GSM8334928	tissue_free_text	Blood	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334928	geo:GSE270148:GSM8334928	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334928	geo:GSE270148:GSM8334928	tissue_type	tissue	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334928	geo:GSE270148:GSM8334928	suspension_type	nucleus	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	PBMCs were subjected to nuclei isolation	True
+GSM8334928	geo:GSE270148:GSM8334928	cell_enrichment	CD34 positive cells bead-enriched or sorted and combined with the original isolated PBMCs	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	CD34 positive cells were bead-enriched or sorted	True
+GSM8334928	geo:GSE270148:GSM8334928	disease_free_text	lung adenocarcinoma	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8334928	geo:GSE270148:GSM8334928	disease_ontology_term_id	lung adenocarcinoma	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8334929	geo:GSE270148:GSM8334929	donor_id	Lu1027	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	Patient Lu1027	True
+GSM8334929	geo:GSE270148:GSM8334929	tissue_free_text	Blood	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334929	geo:GSE270148:GSM8334929	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334929	geo:GSE270148:GSM8334929	tissue_type	tissue	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334929	geo:GSE270148:GSM8334929	suspension_type	nucleus	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	PBMCs were subjected to nuclei isolation	True
+GSM8334929	geo:GSE270148:GSM8334929	cell_enrichment	CD34 positive cells bead-enriched or sorted and combined with the original isolated PBMCs	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	CD34 positive cells were bead-enriched or sorted	True
+GSM8334929	geo:GSE270148:GSM8334929	disease_free_text	lung adenocarcinoma	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8334929	geo:GSE270148:GSM8334929	disease_ontology_term_id	lung adenocarcinoma	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8334930	geo:GSE270148:GSM8334930	donor_id	Lu1032	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	Patient Lu1032	True
+GSM8334930	geo:GSE270148:GSM8334930	tissue_free_text	Blood	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334930	geo:GSE270148:GSM8334930	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334930	geo:GSE270148:GSM8334930	tissue_type	tissue	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334930	geo:GSE270148:GSM8334930	suspension_type	nucleus	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	PBMCs were subjected to nuclei isolation	True
+GSM8334930	geo:GSE270148:GSM8334930	cell_enrichment	CD34 positive cells bead-enriched or sorted and combined with the original isolated PBMCs	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	CD34 positive cells were bead-enriched or sorted	True
+GSM8334930	geo:GSE270148:GSM8334930	disease_free_text	lung adenocarcinoma	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8334930	geo:GSE270148:GSM8334930	disease_ontology_term_id	lung adenocarcinoma	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8334931	geo:GSE270148:GSM8334931	donor_id	HD4	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	Patient HD4	True
+GSM8334931	geo:GSE270148:GSM8334931	tissue_free_text	Blood	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334931	geo:GSE270148:GSM8334931	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334931	geo:GSE270148:GSM8334931	tissue_type	tissue	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334931	geo:GSE270148:GSM8334931	suspension_type	nucleus	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	PBMCs were subjected to nuclei isolation	True
+GSM8334931	geo:GSE270148:GSM8334931	cell_enrichment	CD34 positive cells bead-enriched or sorted and combined with the original isolated PBMCs	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	CD34 positive cells were bead-enriched or sorted	True
+GSM8334931	geo:GSE270148:GSM8334931	disease_free_text	healthy donor	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	!Sample_characteristics_ch1 = disease state: healthy donor	True
+GSM8334931	geo:GSE270148:GSM8334931	disease_ontology_term_id	normal	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	!Sample_characteristics_ch1 = disease state: healthy donor	True
+GSM8334932	geo:GSE270148:GSM8334932	donor_id	HD5	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	Patient HD5	True
+GSM8334932	geo:GSE270148:GSM8334932	tissue_free_text	Blood	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334932	geo:GSE270148:GSM8334932	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334932	geo:GSE270148:GSM8334932	tissue_type	tissue	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8334932	geo:GSE270148:GSM8334932	suspension_type	nucleus	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	PBMCs were subjected to nuclei isolation	True
+GSM8334932	geo:GSE270148:GSM8334932	cell_enrichment	CD34 positive cells bead-enriched or sorted and combined with the original isolated PBMCs	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	CD34 positive cells were bead-enriched or sorted	True
+GSM8334932	geo:GSE270148:GSM8334932	disease_free_text	healthy donor	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	!Sample_characteristics_ch1 = disease state: healthy donor	True
+GSM8334932	geo:GSE270148:GSM8334932	disease_ontology_term_id	normal	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	!Sample_characteristics_ch1 = disease state: healthy donor	True
+GSM8334928	geo:GSE270148:GSM8334928	atac.genome_assembly	hg38	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334928	Assembly: Human: hg38	True
+GSM8334929	geo:GSE270148:GSM8334929	atac.genome_assembly	hg38	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334929	Assembly: Human: hg38	True
+GSM8334930	geo:GSE270148:GSM8334930	atac.genome_assembly	hg38	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334930	Assembly: Human: hg38	True
+GSM8334931	geo:GSE270148:GSM8334931	atac.genome_assembly	hg38	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334931	Assembly: Human: hg38	True
+GSM8334932	geo:GSE270148:GSM8334932	atac.genome_assembly	hg38	file	raw/fp-27dd5f13a1af/GSE270148_family.soft.gz	GSM8334932	Assembly: Human: hg38	True

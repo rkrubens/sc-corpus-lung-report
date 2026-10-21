@@ -1,0 +1,179 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8995180	geo:GSE297584:GSM8995180	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995180	geo:GSE297584:GSM8995180	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31	True
+GSM8995180	geo:GSE297584:GSM8995180	self_reported_ethnicity_ontology_term_id	HANCESTRO:0847	derived	ols:hancestro		Asian	True
+GSM8995180	geo:GSE297584:GSM8995180	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995180	geo:GSE297584:GSM8995180	disease_ontology_term_id	MONDO:0004784	derived	ols:mondo		allergic asthma	True
+GSM8995180	geo:GSE297584:GSM8995180	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995180_cells.csv.gz/annotation			True
+GSM8995181	geo:GSE297584:GSM8995181	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995181	geo:GSE297584:GSM8995181	development_stage_ontology_term_id	HsapDv:0000118	derived	age_in_years:'24-year-old stage':ols:hsapdv		24	True
+GSM8995181	geo:GSE297584:GSM8995181	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995181	geo:GSE297584:GSM8995181	disease_ontology_term_id	MONDO:0004784	derived	ols:mondo		allergic asthma	True
+GSM8995181	geo:GSE297584:GSM8995181	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995181_cells.csv.gz/annotation			True
+GSM8995182	geo:GSE297584:GSM8995182	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995182	geo:GSE297584:GSM8995182	development_stage_ontology_term_id	HsapDv:0000118	derived	age_in_years:'24-year-old stage':ols:hsapdv		24	True
+GSM8995182	geo:GSE297584:GSM8995182	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995182	geo:GSE297584:GSM8995182	disease_ontology_term_id	MONDO:0004784	derived	ols:mondo		allergic asthma	True
+GSM8995182	geo:GSE297584:GSM8995182	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995182_cells.csv.gz/annotation			True
+GSM8995183	geo:GSE297584:GSM8995183	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8995183	geo:GSE297584:GSM8995183	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM8995183	geo:GSE297584:GSM8995183	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995183	geo:GSE297584:GSM8995183	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8995183	geo:GSE297584:GSM8995183	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995183_cells.csv.gz/annotation			True
+GSM8995184	geo:GSE297584:GSM8995184	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8995184	geo:GSE297584:GSM8995184	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM8995184	geo:GSE297584:GSM8995184	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995184	geo:GSE297584:GSM8995184	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8995184	geo:GSE297584:GSM8995184	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995184_cells.csv.gz/annotation			True
+GSM8995185	geo:GSE297584:GSM8995185	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995185	geo:GSE297584:GSM8995185	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM8995185	geo:GSE297584:GSM8995185	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995185	geo:GSE297584:GSM8995185	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8995185	geo:GSE297584:GSM8995185	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995185_cells.csv.gz/annotation			True
+GSM8995186	geo:GSE297584:GSM8995186	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995186	geo:GSE297584:GSM8995186	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM8995186	geo:GSE297584:GSM8995186	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995186	geo:GSE297584:GSM8995186	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8995186	geo:GSE297584:GSM8995186	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995186_cells.csv.gz/annotation			True
+GSM8995187	geo:GSE297584:GSM8995187	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995187	geo:GSE297584:GSM8995187	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM8995187	geo:GSE297584:GSM8995187	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995187	geo:GSE297584:GSM8995187	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8995187	geo:GSE297584:GSM8995187	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995187_cells.csv.gz/annotation			True
+GSM8995188	geo:GSE297584:GSM8995188	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995188	geo:GSE297584:GSM8995188	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM8995188	geo:GSE297584:GSM8995188	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995188	geo:GSE297584:GSM8995188	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8995188	geo:GSE297584:GSM8995188	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995188_cells.csv.gz/annotation			True
+GSM8995189	geo:GSE297584:GSM8995189	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995189	geo:GSE297584:GSM8995189	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM8995189	geo:GSE297584:GSM8995189	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995189	geo:GSE297584:GSM8995189	disease_ontology_term_id	MONDO:0004784	derived	ols:mondo		allergic asthma	True
+GSM8995189	geo:GSE297584:GSM8995189	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995189_cells.csv.gz/annotation			True
+GSM8995190	geo:GSE297584:GSM8995190	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8995190	geo:GSE297584:GSM8995190	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM8995190	geo:GSE297584:GSM8995190	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8995190	geo:GSE297584:GSM8995190	disease_ontology_term_id	MONDO:0004784	derived	ols:mondo		allergic asthma	True
+GSM8995190	geo:GSE297584:GSM8995190	author_cell_type	<column annotation>	column	work/fp-948642c6d0eb/reconciled/GSM8995190_cells.csv.gz/annotation			True
+		organism	Homo sapiens	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8995180	geo:GSE297584:GSM8995180	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995180	geo:GSE297584:GSM8995180	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995180	geo:GSE297584:GSM8995180	donor_id	L0010	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = donor: L0010	True
+GSM8995180	geo:GSE297584:GSM8995180	age	31	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = donor age: 31	True
+GSM8995180	geo:GSE297584:GSM8995180	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995180	geo:GSE297584:GSM8995180	self_reported_ethnicity	Asian	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = donor race: Asian	True
+GSM8995180	geo:GSE297584:GSM8995180	disease_free_text	allergic asthmatic	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995180	geo:GSE297584:GSM8995180	sample_collection_method	endobronchial brushing	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = sample type: endobronchial brushing	True
+GSM8995180	geo:GSE297584:GSM8995180	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995180	geo:GSE297584:GSM8995180	disease_ontology_term_id	allergic asthma	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995180	geo:GSE297584:GSM8995180	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995180	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995181	geo:GSE297584:GSM8995181	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995181	geo:GSE297584:GSM8995181	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995181	geo:GSE297584:GSM8995181	donor_id	L0012	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = donor: L0012	True
+GSM8995181	geo:GSE297584:GSM8995181	age	24	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = donor age: 24	True
+GSM8995181	geo:GSE297584:GSM8995181	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995181	geo:GSE297584:GSM8995181	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995181	geo:GSE297584:GSM8995181	disease_free_text	allergic asthmatic	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995181	geo:GSE297584:GSM8995181	sample_collection_method	bronchoalveloar lavage	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = sample type: bronchoalveloar lavage	True
+GSM8995181	geo:GSE297584:GSM8995181	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995181	geo:GSE297584:GSM8995181	disease_ontology_term_id	allergic asthma	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995181	geo:GSE297584:GSM8995181	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995181	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995182	geo:GSE297584:GSM8995182	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995182	geo:GSE297584:GSM8995182	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995182	geo:GSE297584:GSM8995182	donor_id	L0012	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = donor: L0012	True
+GSM8995182	geo:GSE297584:GSM8995182	age	24	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = donor age: 24	True
+GSM8995182	geo:GSE297584:GSM8995182	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995182	geo:GSE297584:GSM8995182	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995182	geo:GSE297584:GSM8995182	disease_free_text	allergic asthmatic	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995182	geo:GSE297584:GSM8995182	sample_collection_method	endobronchial brushing	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = sample type: endobronchial brushing	True
+GSM8995182	geo:GSE297584:GSM8995182	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995182	geo:GSE297584:GSM8995182	disease_ontology_term_id	allergic asthma	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995182	geo:GSE297584:GSM8995182	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995182	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995183	geo:GSE297584:GSM8995183	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995183	geo:GSE297584:GSM8995183	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995183	geo:GSE297584:GSM8995183	donor_id	L0020	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = donor: L0020	True
+GSM8995183	geo:GSE297584:GSM8995183	age	27	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = donor age: 27	True
+GSM8995183	geo:GSE297584:GSM8995183	sex	male	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = donor sex: M	True
+GSM8995183	geo:GSE297584:GSM8995183	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995183	geo:GSE297584:GSM8995183	disease_free_text	healthy control	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995183	geo:GSE297584:GSM8995183	sample_collection_method	bronchoalveloar lavage	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = sample type: bronchoalveloar lavage	True
+GSM8995183	geo:GSE297584:GSM8995183	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995183	geo:GSE297584:GSM8995183	disease_ontology_term_id	normal	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995183	geo:GSE297584:GSM8995183	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995183	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995184	geo:GSE297584:GSM8995184	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995184	geo:GSE297584:GSM8995184	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995184	geo:GSE297584:GSM8995184	donor_id	L0020	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = donor: L0020	True
+GSM8995184	geo:GSE297584:GSM8995184	age	27	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = donor age: 27	True
+GSM8995184	geo:GSE297584:GSM8995184	sex	male	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = donor sex: M	True
+GSM8995184	geo:GSE297584:GSM8995184	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995184	geo:GSE297584:GSM8995184	disease_free_text	healthy control	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995184	geo:GSE297584:GSM8995184	sample_collection_method	endobronchial brushing	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = sample type: endobronchial brushing	True
+GSM8995184	geo:GSE297584:GSM8995184	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995184	geo:GSE297584:GSM8995184	disease_ontology_term_id	normal	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995184	geo:GSE297584:GSM8995184	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995184	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995185	geo:GSE297584:GSM8995185	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995185	geo:GSE297584:GSM8995185	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995185	geo:GSE297584:GSM8995185	donor_id	L0025	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = donor: L0025	True
+GSM8995185	geo:GSE297584:GSM8995185	age	33	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = donor age: 33	True
+GSM8995185	geo:GSE297584:GSM8995185	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995185	geo:GSE297584:GSM8995185	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995185	geo:GSE297584:GSM8995185	disease_free_text	healthy control	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995185	geo:GSE297584:GSM8995185	sample_collection_method	bronchoalveloar lavage	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = sample type: bronchoalveloar lavage	True
+GSM8995185	geo:GSE297584:GSM8995185	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995185	geo:GSE297584:GSM8995185	disease_ontology_term_id	normal	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995185	geo:GSE297584:GSM8995185	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995185	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995186	geo:GSE297584:GSM8995186	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995186	geo:GSE297584:GSM8995186	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995186	geo:GSE297584:GSM8995186	donor_id	L0025	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = donor: L0025	True
+GSM8995186	geo:GSE297584:GSM8995186	age	33	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = donor age: 33	True
+GSM8995186	geo:GSE297584:GSM8995186	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995186	geo:GSE297584:GSM8995186	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995186	geo:GSE297584:GSM8995186	disease_free_text	healthy control	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995186	geo:GSE297584:GSM8995186	sample_collection_method	endobronchial brushing	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = sample type: endobronchial brushing	True
+GSM8995186	geo:GSE297584:GSM8995186	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995186	geo:GSE297584:GSM8995186	disease_ontology_term_id	normal	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995186	geo:GSE297584:GSM8995186	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995186	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995187	geo:GSE297584:GSM8995187	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995187	geo:GSE297584:GSM8995187	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995187	geo:GSE297584:GSM8995187	donor_id	L0031	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = donor: L0031	True
+GSM8995187	geo:GSE297584:GSM8995187	age	27	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = donor age: 27	True
+GSM8995187	geo:GSE297584:GSM8995187	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995187	geo:GSE297584:GSM8995187	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995187	geo:GSE297584:GSM8995187	disease_free_text	healthy control	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995187	geo:GSE297584:GSM8995187	sample_collection_method	bronchoalveloar lavage	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = sample type: bronchoalveloar lavage	True
+GSM8995187	geo:GSE297584:GSM8995187	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995187	geo:GSE297584:GSM8995187	disease_ontology_term_id	normal	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995187	geo:GSE297584:GSM8995187	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995187	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995188	geo:GSE297584:GSM8995188	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995188	geo:GSE297584:GSM8995188	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995188	geo:GSE297584:GSM8995188	donor_id	L0031	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = donor: L0031	True
+GSM8995188	geo:GSE297584:GSM8995188	age	27	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = donor age: 27	True
+GSM8995188	geo:GSE297584:GSM8995188	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995188	geo:GSE297584:GSM8995188	self_reported_ethnicity	white	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = donor race: white	True
+GSM8995188	geo:GSE297584:GSM8995188	disease_free_text	healthy control	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995188	geo:GSE297584:GSM8995188	sample_collection_method	endobronchial brushing	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = sample type: endobronchial brushing	True
+GSM8995188	geo:GSE297584:GSM8995188	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995188	geo:GSE297584:GSM8995188	disease_ontology_term_id	normal	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = group: healthy control	True
+GSM8995188	geo:GSE297584:GSM8995188	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995188	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995189	geo:GSE297584:GSM8995189	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995189	geo:GSE297584:GSM8995189	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995189	geo:GSE297584:GSM8995189	donor_id	L0034	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = donor: L0034	True
+GSM8995189	geo:GSE297584:GSM8995189	age	23	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = donor age: 23	True
+GSM8995189	geo:GSE297584:GSM8995189	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995189	geo:GSE297584:GSM8995189	self_reported_ethnicity	Black or African	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = donor race: Black or African	True
+GSM8995189	geo:GSE297584:GSM8995189	disease_free_text	allergic asthmatic	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995189	geo:GSE297584:GSM8995189	sample_collection_method	bronchoalveloar lavage	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = sample type: bronchoalveloar lavage	True
+GSM8995189	geo:GSE297584:GSM8995189	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995189	geo:GSE297584:GSM8995189	disease_ontology_term_id	allergic asthma	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995189	geo:GSE297584:GSM8995189	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995189	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995190	geo:GSE297584:GSM8995190	suspension_type	cell	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		Single cell suspensions were profiled by scRNAseq with the Chromium Single Cell 5	True
+GSM8995190	geo:GSE297584:GSM8995190	cell_enrichment	sorted CD45+CD14-CD20-CD3+ cells	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz		sort eFluor 780-CD45+CD14-CD20-CD3+ cells	True
+GSM8995190	geo:GSE297584:GSM8995190	donor_id	L0034	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = donor: L0034	True
+GSM8995190	geo:GSE297584:GSM8995190	age	23	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = donor age: 23	True
+GSM8995190	geo:GSE297584:GSM8995190	sex	female	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = donor sex: F	True
+GSM8995190	geo:GSE297584:GSM8995190	self_reported_ethnicity	Black or African	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = donor race: Black or African	True
+GSM8995190	geo:GSE297584:GSM8995190	disease_free_text	allergic asthmatic	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995190	geo:GSE297584:GSM8995190	sample_collection_method	endobronchial brushing	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = sample type: endobronchial brushing	True
+GSM8995190	geo:GSE297584:GSM8995190	tissue_free_text	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8995190	geo:GSE297584:GSM8995190	disease_ontology_term_id	allergic asthma	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = group: allergic asthmatic	True
+GSM8995190	geo:GSE297584:GSM8995190	tissue_ontology_term_id	lung	file	raw/fp-948642c6d0eb/GSE297584_family.soft.gz	GSM8995190	!Sample_characteristics_ch1 = tissue: lung	True

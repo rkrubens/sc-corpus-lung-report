@@ -1,0 +1,25 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3489183	geo:GSE122960:GSM3489183	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		Idiopathic pulmonary fibrosis	True
+GSM3489184	geo:GSE122960:GSM3489184	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		Idiopathic pulmonary fibrosis	True
+GSM3489186	geo:GSE122960:GSM3489186	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		Idiopathic pulmonary fibrosis	True
+GSM3489188	geo:GSE122960:GSM3489188	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		Idiopathic pulmonary fibrosis	True
+GSM3489190	geo:GSE122960:GSM3489190	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		Idiopathic pulmonary fibrosis	True
+GSM3489192	geo:GSE122960:GSM3489192	disease_ontology_term_id	MONDO:0017853	derived	ols:mondo		Hypersensitivity pneumonitis	True
+		organism	Homo sapiens	file	raw/fp-d824624bd385/GSE122960_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3489182	geo:GSE122960:GSM3489182	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489182	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489183	geo:GSE122960:GSM3489183	disease_free_text	Idiopathic pulmonary fibrosis	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489183	!Sample_characteristics_ch1 = disease condition: Idiopathic pulmonary fibrosis	True
+GSM3489184	geo:GSE122960:GSM3489184	disease_free_text	Idiopathic pulmonary fibrosis	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489184	!Sample_characteristics_ch1 = disease condition: Idiopathic pulmonary fibrosis	True
+GSM3489185	geo:GSE122960:GSM3489185	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489185	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489186	geo:GSE122960:GSM3489186	disease_free_text	Idiopathic pulmonary fibrosis	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489186	!Sample_characteristics_ch1 = disease condition: Idiopathic pulmonary fibrosis	True
+GSM3489187	geo:GSE122960:GSM3489187	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489187	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489188	geo:GSE122960:GSM3489188	disease_free_text	Idiopathic pulmonary fibrosis	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489188	!Sample_characteristics_ch1 = disease condition: Idiopathic pulmonary fibrosis	True
+GSM3489189	geo:GSE122960:GSM3489189	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489189	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489190	geo:GSE122960:GSM3489190	disease_free_text	Idiopathic pulmonary fibrosis	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489190	!Sample_characteristics_ch1 = disease condition: Idiopathic pulmonary fibrosis	True
+GSM3489191	geo:GSE122960:GSM3489191	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489191	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489192	geo:GSE122960:GSM3489192	disease_free_text	Hypersensitivity pneumonitis	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489192	!Sample_characteristics_ch1 = disease condition: Hypersensitivity pneumonitis	True
+GSM3489193	geo:GSE122960:GSM3489193	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489193	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489194	geo:GSE122960:GSM3489194	disease_free_text	Systemic slcerosis-associated interstitial lung disease	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489194	!Sample_characteristics_ch1 = disease condition: Systemic slcerosis-associated interstitial lung disease	True
+GSM3489195	geo:GSE122960:GSM3489195	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489195	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489196	geo:GSE122960:GSM3489196	disease_free_text	Myositis-associated interstitial lng disease	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489196	!Sample_characteristics_ch1 = disease condition: Myositis-associated interstitial lng disease	True
+GSM3489197	geo:GSE122960:GSM3489197	disease_free_text	Donor	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489197	!Sample_characteristics_ch1 = disease condition: Donor	True
+GSM3489198	geo:GSE122960:GSM3489198	disease_free_text	Systemic slcerosis-associated interstitial lung disease	file	raw/fp-d824624bd385/GSE122960_family.soft.gz	GSM3489198	!Sample_characteristics_ch1 = disease condition: Systemic slcerosis-associated interstitial lung disease	True

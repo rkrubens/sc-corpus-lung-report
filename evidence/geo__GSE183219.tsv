@@ -1,0 +1,179 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5553493	geo:GSE183219:GSM5553493	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553493	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553493	geo:GSE183219:GSM5553493	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553493	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553493	geo:GSE183219:GSM5553493	donor_id	11	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553493	!Sample_source_name_ch1 = 11	True
+GSM5553493	geo:GSE183219:GSM5553493	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553493	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553493	geo:GSE183219:GSM5553493	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553493	The single cell suspension was resuspended in PBS	True
+GSM5553493	geo:GSE183219:GSM5553493	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553493	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553494	geo:GSE183219:GSM5553494	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553494	geo:GSE183219:GSM5553494	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553494	geo:GSE183219:GSM5553494	donor_id	11	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	!Sample_source_name_ch1 = 11	True
+GSM5553494	geo:GSE183219:GSM5553494	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553494	geo:GSE183219:GSM5553494	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	The single cell suspension was resuspended in PBS	True
+GSM5553494	geo:GSE183219:GSM5553494	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553494	geo:GSE183219:GSM5553494	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553494	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553495	geo:GSE183219:GSM5553495	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553495	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553495	geo:GSE183219:GSM5553495	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553495	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553495	geo:GSE183219:GSM5553495	donor_id	15	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553495	!Sample_source_name_ch1 = 15	True
+GSM5553495	geo:GSE183219:GSM5553495	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553495	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553495	geo:GSE183219:GSM5553495	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553495	The single cell suspension was resuspended in PBS	True
+GSM5553495	geo:GSE183219:GSM5553495	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553495	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553496	geo:GSE183219:GSM5553496	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553496	geo:GSE183219:GSM5553496	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553496	geo:GSE183219:GSM5553496	donor_id	15	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	!Sample_source_name_ch1 = 15	True
+GSM5553496	geo:GSE183219:GSM5553496	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553496	geo:GSE183219:GSM5553496	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	The single cell suspension was resuspended in PBS	True
+GSM5553496	geo:GSE183219:GSM5553496	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553496	geo:GSE183219:GSM5553496	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553496	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553497	geo:GSE183219:GSM5553497	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553497	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553497	geo:GSE183219:GSM5553497	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553497	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553497	geo:GSE183219:GSM5553497	donor_id	14	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553497	!Sample_source_name_ch1 = 14	True
+GSM5553497	geo:GSE183219:GSM5553497	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553497	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553497	geo:GSE183219:GSM5553497	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553497	The single cell suspension was resuspended in PBS	True
+GSM5553497	geo:GSE183219:GSM5553497	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553497	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553498	geo:GSE183219:GSM5553498	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553498	geo:GSE183219:GSM5553498	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553498	geo:GSE183219:GSM5553498	donor_id	14	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	!Sample_source_name_ch1 = 14	True
+GSM5553498	geo:GSE183219:GSM5553498	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553498	geo:GSE183219:GSM5553498	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	The single cell suspension was resuspended in PBS	True
+GSM5553498	geo:GSE183219:GSM5553498	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553498	geo:GSE183219:GSM5553498	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553498	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553499	geo:GSE183219:GSM5553499	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553499	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553499	geo:GSE183219:GSM5553499	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553499	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553499	geo:GSE183219:GSM5553499	donor_id	4	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553499	!Sample_source_name_ch1 = 4	True
+GSM5553499	geo:GSE183219:GSM5553499	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553499	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553499	geo:GSE183219:GSM5553499	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553499	The single cell suspension was resuspended in PBS	True
+GSM5553499	geo:GSE183219:GSM5553499	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553499	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553500	geo:GSE183219:GSM5553500	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553500	geo:GSE183219:GSM5553500	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553500	geo:GSE183219:GSM5553500	donor_id	4	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	!Sample_source_name_ch1 = 4	True
+GSM5553500	geo:GSE183219:GSM5553500	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553500	geo:GSE183219:GSM5553500	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	The single cell suspension was resuspended in PBS	True
+GSM5553500	geo:GSE183219:GSM5553500	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553500	geo:GSE183219:GSM5553500	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553500	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553501	geo:GSE183219:GSM5553501	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553501	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553501	geo:GSE183219:GSM5553501	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553501	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553501	geo:GSE183219:GSM5553501	donor_id	2	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553501	!Sample_source_name_ch1 = 2	True
+GSM5553501	geo:GSE183219:GSM5553501	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553501	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553501	geo:GSE183219:GSM5553501	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553501	The single cell suspension was resuspended in PBS	True
+GSM5553501	geo:GSE183219:GSM5553501	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553501	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553502	geo:GSE183219:GSM5553502	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553502	geo:GSE183219:GSM5553502	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553502	geo:GSE183219:GSM5553502	donor_id	2	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	!Sample_source_name_ch1 = 2	True
+GSM5553502	geo:GSE183219:GSM5553502	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553502	geo:GSE183219:GSM5553502	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	The single cell suspension was resuspended in PBS	True
+GSM5553502	geo:GSE183219:GSM5553502	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553502	geo:GSE183219:GSM5553502	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553502	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553503	geo:GSE183219:GSM5553503	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553503	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553503	geo:GSE183219:GSM5553503	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553503	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553503	geo:GSE183219:GSM5553503	donor_id	7	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553503	!Sample_source_name_ch1 = 7	True
+GSM5553503	geo:GSE183219:GSM5553503	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553503	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553503	geo:GSE183219:GSM5553503	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553503	The single cell suspension was resuspended in PBS	True
+GSM5553503	geo:GSE183219:GSM5553503	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553503	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553504	geo:GSE183219:GSM5553504	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553504	geo:GSE183219:GSM5553504	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553504	geo:GSE183219:GSM5553504	donor_id	7	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	!Sample_source_name_ch1 = 7	True
+GSM5553504	geo:GSE183219:GSM5553504	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553504	geo:GSE183219:GSM5553504	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	The single cell suspension was resuspended in PBS	True
+GSM5553504	geo:GSE183219:GSM5553504	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553504	geo:GSE183219:GSM5553504	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553504	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553505	geo:GSE183219:GSM5553505	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553505	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553505	geo:GSE183219:GSM5553505	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553505	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553505	geo:GSE183219:GSM5553505	donor_id	10	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553505	!Sample_source_name_ch1 = 10	True
+GSM5553505	geo:GSE183219:GSM5553505	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553505	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553505	geo:GSE183219:GSM5553505	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553505	The single cell suspension was resuspended in PBS	True
+GSM5553505	geo:GSE183219:GSM5553505	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553505	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553506	geo:GSE183219:GSM5553506	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553506	geo:GSE183219:GSM5553506	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553506	geo:GSE183219:GSM5553506	donor_id	10	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	!Sample_source_name_ch1 = 10	True
+GSM5553506	geo:GSE183219:GSM5553506	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553506	geo:GSE183219:GSM5553506	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	The single cell suspension was resuspended in PBS	True
+GSM5553506	geo:GSE183219:GSM5553506	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553506	geo:GSE183219:GSM5553506	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553506	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553507	geo:GSE183219:GSM5553507	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553507	geo:GSE183219:GSM5553507	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553507	geo:GSE183219:GSM5553507	donor_id	6	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	!Sample_source_name_ch1 = 6	True
+GSM5553507	geo:GSE183219:GSM5553507	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553507	geo:GSE183219:GSM5553507	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	The single cell suspension was resuspended in PBS	True
+GSM5553507	geo:GSE183219:GSM5553507	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553507	geo:GSE183219:GSM5553507	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553507	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553508	geo:GSE183219:GSM5553508	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553508	geo:GSE183219:GSM5553508	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553508	geo:GSE183219:GSM5553508	donor_id	12	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	!Sample_source_name_ch1 = 12	True
+GSM5553508	geo:GSE183219:GSM5553508	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553508	geo:GSE183219:GSM5553508	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	The single cell suspension was resuspended in PBS	True
+GSM5553508	geo:GSE183219:GSM5553508	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553508	geo:GSE183219:GSM5553508	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553508	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553509	geo:GSE183219:GSM5553509	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553509	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553509	geo:GSE183219:GSM5553509	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553509	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553509	geo:GSE183219:GSM5553509	donor_id	8	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553509	!Sample_source_name_ch1 = 8	True
+GSM5553509	geo:GSE183219:GSM5553509	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553509	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553509	geo:GSE183219:GSM5553509	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553509	The single cell suspension was resuspended in PBS	True
+GSM5553509	geo:GSE183219:GSM5553509	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553509	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553510	geo:GSE183219:GSM5553510	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553510	geo:GSE183219:GSM5553510	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553510	geo:GSE183219:GSM5553510	donor_id	8	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	!Sample_source_name_ch1 = 8	True
+GSM5553510	geo:GSE183219:GSM5553510	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553510	geo:GSE183219:GSM5553510	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	The single cell suspension was resuspended in PBS	True
+GSM5553510	geo:GSE183219:GSM5553510	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553510	geo:GSE183219:GSM5553510	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553510	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553511	geo:GSE183219:GSM5553511	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553511	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553511	geo:GSE183219:GSM5553511	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553511	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553511	geo:GSE183219:GSM5553511	donor_id	3	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553511	!Sample_source_name_ch1 = 3	True
+GSM5553511	geo:GSE183219:GSM5553511	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553511	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553511	geo:GSE183219:GSM5553511	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553511	The single cell suspension was resuspended in PBS	True
+GSM5553511	geo:GSE183219:GSM5553511	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553511	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553512	geo:GSE183219:GSM5553512	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553512	geo:GSE183219:GSM5553512	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553512	geo:GSE183219:GSM5553512	donor_id	3	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	!Sample_source_name_ch1 = 3	True
+GSM5553512	geo:GSE183219:GSM5553512	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553512	geo:GSE183219:GSM5553512	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	The single cell suspension was resuspended in PBS	True
+GSM5553512	geo:GSE183219:GSM5553512	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553512	geo:GSE183219:GSM5553512	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553512	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553513	geo:GSE183219:GSM5553513	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553513	geo:GSE183219:GSM5553513	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553513	geo:GSE183219:GSM5553513	donor_id	1	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	!Sample_source_name_ch1 = 1	True
+GSM5553513	geo:GSE183219:GSM5553513	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553513	geo:GSE183219:GSM5553513	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	The single cell suspension was resuspended in PBS	True
+GSM5553513	geo:GSE183219:GSM5553513	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553513	geo:GSE183219:GSM5553513	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553513	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553514	geo:GSE183219:GSM5553514	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553514	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553514	geo:GSE183219:GSM5553514	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553514	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553514	geo:GSE183219:GSM5553514	donor_id	1	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553514	!Sample_source_name_ch1 = 1	True
+GSM5553514	geo:GSE183219:GSM5553514	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553514	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553514	geo:GSE183219:GSM5553514	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553514	The single cell suspension was resuspended in PBS	True
+GSM5553514	geo:GSE183219:GSM5553514	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553514	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553515	geo:GSE183219:GSM5553515	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553515	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553515	geo:GSE183219:GSM5553515	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553515	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553515	geo:GSE183219:GSM5553515	donor_id	5	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553515	!Sample_source_name_ch1 = 5	True
+GSM5553515	geo:GSE183219:GSM5553515	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553515	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553515	geo:GSE183219:GSM5553515	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553515	The single cell suspension was resuspended in PBS	True
+GSM5553515	geo:GSE183219:GSM5553515	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553515	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553516	geo:GSE183219:GSM5553516	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553516	geo:GSE183219:GSM5553516	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553516	geo:GSE183219:GSM5553516	donor_id	5	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	!Sample_source_name_ch1 = 5	True
+GSM5553516	geo:GSE183219:GSM5553516	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553516	geo:GSE183219:GSM5553516	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	The single cell suspension was resuspended in PBS	True
+GSM5553516	geo:GSE183219:GSM5553516	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553516	geo:GSE183219:GSM5553516	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553516	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553517	geo:GSE183219:GSM5553517	disease_free_text	NA	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553517	!Sample_characteristics_ch1 = disease: NA	True
+GSM5553517	geo:GSE183219:GSM5553517	tissue_free_text	Adjacent	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553517	!Sample_characteristics_ch1 = tissue type: Adjacent	True
+GSM5553517	geo:GSE183219:GSM5553517	donor_id	13	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553517	!Sample_source_name_ch1 = 13	True
+GSM5553517	geo:GSE183219:GSM5553517	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553517	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553517	geo:GSE183219:GSM5553517	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553517	The single cell suspension was resuspended in PBS	True
+GSM5553517	geo:GSE183219:GSM5553517	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553517	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553518	geo:GSE183219:GSM5553518	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553518	geo:GSE183219:GSM5553518	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553518	geo:GSE183219:GSM5553518	donor_id	13	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	!Sample_source_name_ch1 = 13	True
+GSM5553518	geo:GSE183219:GSM5553518	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553518	geo:GSE183219:GSM5553518	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	The single cell suspension was resuspended in PBS	True
+GSM5553518	geo:GSE183219:GSM5553518	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553518	geo:GSE183219:GSM5553518	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553518	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553519	geo:GSE183219:GSM5553519	disease_free_text	NSCLC	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM5553519	geo:GSE183219:GSM5553519	tissue_free_text	Tumor	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	!Sample_characteristics_ch1 = tissue type: Tumor	True
+GSM5553519	geo:GSE183219:GSM5553519	donor_id	9	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	!Sample_source_name_ch1 = 9	True
+GSM5553519	geo:GSE183219:GSM5553519	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	The non-involved adjacent lung and tumor tissue were diced by scissors	True
+GSM5553519	geo:GSE183219:GSM5553519	suspension_type	cell	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	The single cell suspension was resuspended in PBS	True
+GSM5553519	geo:GSE183219:GSM5553519	cell_enrichment	sorted stromal cells (CD45- EpCAM- CD29+ PDPN+)	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	!Sample_characteristics_ch1 = cell type: sorted stromal cells	True
+GSM5553519	geo:GSE183219:GSM5553519	disease_ontology_term_id	MONDO:0005233	file	raw/fp-86abe079a10d/GSE183219_family.soft.gz	GSM5553519	!Sample_characteristics_ch1 = disease: NSCLC	True

@@ -1,0 +1,12 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7134356	geo:GSE228643:GSM7134356	disease_free_text	control	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134356	!Sample_characteristics_ch1 = disease state: control	True
+GSM7134356	geo:GSE228643:GSM7134356	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134356	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134357	geo:GSE228643:GSM7134357	disease_free_text	control	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134357	!Sample_characteristics_ch1 = disease state: control	True
+GSM7134357	geo:GSE228643:GSM7134357	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134357	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134358	geo:GSE228643:GSM7134358	disease_free_text	PHPF	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134358	!Sample_characteristics_ch1 = disease state: PHPF	True
+GSM7134358	geo:GSE228643:GSM7134358	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134358	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134359	geo:GSE228643:GSM7134359	disease_free_text	PHPF	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134359	!Sample_characteristics_ch1 = disease state: PHPF	True
+GSM7134359	geo:GSE228643:GSM7134359	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134359	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134360	geo:GSE228643:GSM7134360	disease_free_text	PHPF	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134360	!Sample_characteristics_ch1 = disease state: PHPF	True
+GSM7134360	geo:GSE228643:GSM7134360	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-a3fe53fa95ae/GSE228643_family.soft.gz	GSM7134360	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True

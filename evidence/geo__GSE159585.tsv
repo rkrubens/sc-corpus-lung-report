@@ -1,0 +1,272 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+LUNG010_HC	geo:GSE159585:LUNG010_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	donor_id	<column patient_ID>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/patient_ID			True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	disease_ontology_term_id	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	disease_free_text	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	sample_collection_method	<column condition>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/condition			True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	author_cell_type	<column subcluster>	column	raw/fp-a777cfcaf25f/GSE159585_snRNAseq_metadata.csv.gz/subcluster			True
+		organism	Homo sapiens	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	tissue_free_text	lung	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	disease_ontology_term_id	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: non_covid_control	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	disease_free_text	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: autopsy	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	sample_collection_method	<map of column condition>	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_characteristics_ch1 = sample type: explant	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	suspension_type	nucleus	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		!Sample_description = snRNA-seq	True
+LUNG010_HC	geo:GSE159585:LUNG010_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG011_HC	geo:GSE159585:LUNG011_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG012_HC	geo:GSE159585:LUNG012_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG013_IPF	geo:GSE159585:LUNG013_IPF	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG014_HC	geo:GSE159585:LUNG014_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG015_HC	geo:GSE159585:LUNG015_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG016_HC	geo:GSE159585:LUNG016_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG017_HC	geo:GSE159585:LUNG017_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG018_HC	geo:GSE159585:LUNG018_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG01_HC	geo:GSE159585:LUNG01_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG02_IPF	geo:GSE159585:LUNG02_IPF	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG03_IPF	geo:GSE159585:LUNG03_IPF	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG04_IPF	geo:GSE159585:LUNG04_IPF	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG05_HC	geo:GSE159585:LUNG05_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG06_HC	geo:GSE159585:LUNG06_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG07_IPF	geo:GSE159585:LUNG07_IPF	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG08_IPF	geo:GSE159585:LUNG08_IPF	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True
+LUNG09_HC	geo:GSE159585:LUNG09_HC	sample_preservation	frozen	file	raw/fp-a777cfcaf25f/GSE159585_family.soft.gz		For isolation of nuclei, frozen tissue samples were transferred	True

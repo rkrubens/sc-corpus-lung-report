@@ -1,0 +1,29 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+chip91497	geo:GSE145013:chip91497	donor_id	<column donor>	column	raw/fp-50024be7a38e/GSE145013_IL13_acute_metadata.txt.gz/donor			True
+chip94576	geo:GSE145013:chip94576	donor_id	<column donor>	column	raw/fp-50024be7a38e/GSE145013_IL13_acute_metadata.txt.gz/donor			True
+chip91497	geo:GSE145013:chip91497	treatment	<column treatment>	column	raw/fp-50024be7a38e/GSE145013_IL13_acute_metadata.txt.gz/treatment			True
+chip94576	geo:GSE145013:chip94576	treatment	<column treatment>	column	raw/fp-50024be7a38e/GSE145013_IL13_acute_metadata.txt.gz/treatment			True
+chip91497	geo:GSE145013:chip91497	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+chip94576	geo:GSE145013:chip94576	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM4304272	geo:GSE145013:GSM4304272	donor_id	<column donor>	column	work/fp-50024be7a38e/GSE145013_RAW/GSM4304272_IL13_chronic_metadata.txt.gz/donor			True
+GSM4304272	geo:GSE145013:GSM4304272	treatment	<column treatment>	column	work/fp-50024be7a38e/GSE145013_RAW/GSM4304272_IL13_chronic_metadata.txt.gz/treatment			True
+GSM4304272	geo:GSE145013:GSM4304272	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+		organism	Homo sapiens	file	raw/fp-50024be7a38e/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+chip91497	geo:GSE145013:chip91497	tissue_type	cell culture	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		air-liquid interface (ALI) cultures grown from epithelial cells taken from two tracheal donors	True
+chip94576	geo:GSE145013:chip94576	tissue_type	cell culture	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		air-liquid interface (ALI) cultures grown from epithelial cells taken from two tracheal donors	True
+chip91497	geo:GSE145013:chip91497	tissue_free_text	tracheal epithelial ALI culture (primary human tracheal epithelial cells)	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		air-liquid interface (ALI) cultures grown from epithelial cells taken from two tracheal donors	True
+chip94576	geo:GSE145013:chip94576	tissue_free_text	tracheal epithelial ALI culture (primary human tracheal epithelial cells)	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		air-liquid interface (ALI) cultures grown from epithelial cells taken from two tracheal donors	True
+chip91497	geo:GSE145013:chip91497	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC8046336.txt		human tracheal epithelial cells (HTEC) were isolated from two de-identified donors (T71 and T72) whose lungs were not suitable for transplantation	True
+chip94576	geo:GSE145013:chip94576	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC8046336.txt		human tracheal epithelial cells (HTEC) were isolated from two de-identified donors (T71 and T72) whose lungs were not suitable for transplantation	True
+chip91497	geo:GSE145013:chip91497	suspension_type	cell	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		Cultures were then harvested from the filter to single cell suspensions	True
+chip94576	geo:GSE145013:chip94576	suspension_type	cell	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		Cultures were then harvested from the filter to single cell suspensions	True
+chip91497	geo:GSE145013:chip91497	assay	single-cell RNA sequencing	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		single cell RNA-sequencing	True
+chip94576	geo:GSE145013:chip94576	assay	single-cell RNA sequencing	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		single cell RNA-sequencing	True
+chip91497	geo:GSE145013:chip91497	timepoint	48 hours of IL-13 or BSA (acute)	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		paired cultures for each donor were stimulated with IL-13 or BSA for 48 hours	True
+chip94576	geo:GSE145013:chip94576	timepoint	48 hours of IL-13 or BSA (acute)	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		paired cultures for each donor were stimulated with IL-13 or BSA for 48 hours	True
+GSM4304272	geo:GSE145013:GSM4304272	tissue_type	cell culture	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		air-liquid interface (ALI) cultures grown from epithelial cells taken from two tracheal donors	True
+GSM4304272	geo:GSE145013:GSM4304272	tissue_free_text	tracheal epithelial ALI culture (primary human tracheal epithelial cells)	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		air-liquid interface (ALI) cultures grown from epithelial cells taken from two tracheal donors	True
+GSM4304272	geo:GSE145013:GSM4304272	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC8046336.txt		human tracheal epithelial cells (HTEC) were isolated from two de-identified donors (T71 and T72) whose lungs were not suitable for transplantation	True
+GSM4304272	geo:GSE145013:GSM4304272	suspension_type	cell	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		Cultures were then harvested from the filter to single cell suspensions	True
+GSM4304272	geo:GSE145013:GSM4304272	assay	single-cell RNA sequencing	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		single cell RNA-sequencing	True
+GSM4304272	geo:GSE145013:GSM4304272	timepoint	11 days of IL-13 or BSA (chronic)	file	raw/fp-50024be7a38e/GSE145013_family.soft.gz		paired cultures for each donor were stimulated with IL-13 or BSA for 11 days	True

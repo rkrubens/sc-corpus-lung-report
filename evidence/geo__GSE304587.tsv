@@ -1,0 +1,34 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+T255	geo:GSE304587:T255	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+T255	geo:GSE304587:T255	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+T255	geo:GSE304587:T255	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+T255	geo:GSE304587:T255	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+T264	geo:GSE304587:T264	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+T264	geo:GSE304587:T264	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+T264	geo:GSE304587:T264	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+T264	geo:GSE304587:T264	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-b711a528d045/GSE304587_family.soft.gz	GSM9153531	!Sample_organism_ch1 = Homo sapiens	True
+T255	geo:GSE304587:T255	donor_id	T255	file	evidence/PMC13200395.txt		Tumor samples, designated T255 and T264, were collected during surgical resection	True
+T255	geo:GSE304587:T255	sex	male	file	evidence/PMC13200395.txt		two male patients with stage IIIA LUAD (T1cN2M0)	True
+T255	geo:GSE304587:T255	disease_free_text	lung adenocarcinoma	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		lung adenocarcinoma samples collected from two patients (T255 and T264)	True
+T255	geo:GSE304587:T255	disease_stage	stage IIIA (T1cN2M0)	file	evidence/PMC13200395.txt		two male patients with stage IIIA LUAD (T1cN2M0)	True
+T255	geo:GSE304587:T255	tissue_free_text	lung	file	raw/fp-b711a528d045/GSE304587_family.soft.gz	GSM9153531	!Sample_characteristics_ch1 = tissue: Lung	True
+T255	geo:GSE304587:T255	tissue_type	tissue	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		Nuclei were extracted from frozen human lung tumor tissues	True
+T255	geo:GSE304587:T255	sample_collection_method	surgical resection	file	evidence/PMC13200395.txt		Tumor samples, designated T255 and T264, were collected during surgical resection	True
+T255	geo:GSE304587:T255	suspension_type	nucleus	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		Nuclei were extracted from frozen human lung tumor tissues	True
+T255	geo:GSE304587:T255	sample_preservation	frozen (liquid nitrogen)	file	evidence/PMC13200395.txt		preserved in liquid nitrogen	True
+T255	geo:GSE304587:T255	assay	10x multiome	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		using the 10x genomics Multiome protocol	True
+T255	geo:GSE304587:T255	gene_annotation_version	GRCh38-2020-A	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		GRCh38-2020-A reference genome	True
+T264	geo:GSE304587:T264	donor_id	T264	file	evidence/PMC13200395.txt		Tumor samples, designated T255 and T264, were collected during surgical resection	True
+T264	geo:GSE304587:T264	sex	male	file	evidence/PMC13200395.txt		two male patients with stage IIIA LUAD (T1cN2M0)	True
+T264	geo:GSE304587:T264	disease_free_text	lung adenocarcinoma	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		lung adenocarcinoma samples collected from two patients (T255 and T264)	True
+T264	geo:GSE304587:T264	disease_stage	stage IIIA (T1cN2M0)	file	evidence/PMC13200395.txt		two male patients with stage IIIA LUAD (T1cN2M0)	True
+T264	geo:GSE304587:T264	tissue_free_text	lung	file	raw/fp-b711a528d045/GSE304587_family.soft.gz	GSM9153531	!Sample_characteristics_ch1 = tissue: Lung	True
+T264	geo:GSE304587:T264	tissue_type	tissue	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		Nuclei were extracted from frozen human lung tumor tissues	True
+T264	geo:GSE304587:T264	sample_collection_method	surgical resection	file	evidence/PMC13200395.txt		Tumor samples, designated T255 and T264, were collected during surgical resection	True
+T264	geo:GSE304587:T264	suspension_type	nucleus	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		Nuclei were extracted from frozen human lung tumor tissues	True
+T264	geo:GSE304587:T264	sample_preservation	frozen (liquid nitrogen)	file	evidence/PMC13200395.txt		preserved in liquid nitrogen	True
+T264	geo:GSE304587:T264	assay	10x multiome	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		using the 10x genomics Multiome protocol	True
+T264	geo:GSE304587:T264	gene_annotation_version	GRCh38-2020-A	file	raw/fp-b711a528d045/GSE304587_family.soft.gz		GRCh38-2020-A reference genome	True
+T255	geo:GSE304587:T255	atac.genome_assembly	GRCh38	file	raw/fp-b711a528d045/GSE304587_family.soft.gz	GSM9153532	!Sample_data_processing = Assembly: GRCh38	True
+T264	geo:GSE304587:T264	atac.genome_assembly	GRCh38	file	raw/fp-b711a528d045/GSE304587_family.soft.gz	GSM9153532	!Sample_data_processing = Assembly: GRCh38	True

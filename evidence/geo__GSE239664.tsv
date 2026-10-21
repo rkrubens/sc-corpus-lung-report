@@ -1,0 +1,42 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7669637	geo:GSE239664:GSM7669637	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669638	geo:GSE239664:GSM7669638	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669639	geo:GSE239664:GSM7669639	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669640	geo:GSE239664:GSM7669640	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669641	geo:GSE239664:GSM7669641	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669642	geo:GSE239664:GSM7669642	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669643	geo:GSE239664:GSM7669643	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669644	geo:GSE239664:GSM7669644	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669645	geo:GSE239664:GSM7669645	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7669646	geo:GSE239664:GSM7669646	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7669637	geo:GSE239664:GSM7669637	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669637	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669637	geo:GSE239664:GSM7669637	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669637	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669637	geo:GSE239664:GSM7669637	treatment	None	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669637	!Sample_characteristics_ch1 = treatment: None	True
+GSM7669638	geo:GSE239664:GSM7669638	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669638	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669638	geo:GSE239664:GSM7669638	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669638	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669638	geo:GSE239664:GSM7669638	treatment	None	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669638	!Sample_characteristics_ch1 = treatment: None	True
+GSM7669639	geo:GSE239664:GSM7669639	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669639	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669639	geo:GSE239664:GSM7669639	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669639	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669639	geo:GSE239664:GSM7669639	treatment	EGCG	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669639	!Sample_characteristics_ch1 = treatment: EGCG	True
+GSM7669640	geo:GSE239664:GSM7669640	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669640	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669640	geo:GSE239664:GSM7669640	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669640	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669640	geo:GSE239664:GSM7669640	treatment	EGCG	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669640	!Sample_characteristics_ch1 = treatment: EGCG	True
+GSM7669641	geo:GSE239664:GSM7669641	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669641	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669641	geo:GSE239664:GSM7669641	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669641	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669641	geo:GSE239664:GSM7669641	treatment	EGCG	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669641	!Sample_characteristics_ch1 = treatment: EGCG	True
+GSM7669642	geo:GSE239664:GSM7669642	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669642	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669642	geo:GSE239664:GSM7669642	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669642	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669642	geo:GSE239664:GSM7669642	treatment	None	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669642	!Sample_characteristics_ch1 = treatment: None	True
+GSM7669643	geo:GSE239664:GSM7669643	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669643	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669643	geo:GSE239664:GSM7669643	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669643	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669643	geo:GSE239664:GSM7669643	treatment	None	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669643	!Sample_characteristics_ch1 = treatment: None	True
+GSM7669644	geo:GSE239664:GSM7669644	disease_free_text	fibrotic lung disease	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669644	!Sample_characteristics_ch1 = disease state: fibrotic lung disease	True
+GSM7669644	geo:GSE239664:GSM7669644	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669644	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669644	geo:GSE239664:GSM7669644	treatment	EGCG	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669644	!Sample_characteristics_ch1 = treatment: EGCG	True
+GSM7669645	geo:GSE239664:GSM7669645	disease_free_text	healthy	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669645	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM7669645	geo:GSE239664:GSM7669645	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669645	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669645	geo:GSE239664:GSM7669645	treatment	None	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669645	!Sample_characteristics_ch1 = treatment: None	True
+GSM7669646	geo:GSE239664:GSM7669646	disease_free_text	end-stage IPF explant	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669646	!Sample_characteristics_ch1 = disease state: end-stage IPF explant	True
+GSM7669646	geo:GSE239664:GSM7669646	tissue_free_text	Lung	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669646	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7669646	geo:GSE239664:GSM7669646	treatment	None	file	raw/fp-b5ec99a61a80/GSE239664_family.soft.gz	GSM7669646	!Sample_characteristics_ch1 = treatment: None	True

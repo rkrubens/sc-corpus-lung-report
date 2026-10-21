@@ -1,0 +1,116 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5133588	geo:GSE168191:GSM5133588	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133588	geo:GSE168191:GSM5133588	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM5133589	geo:GSE168191:GSM5133589	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133589	geo:GSE168191:GSM5133589	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM5133590	geo:GSE168191:GSM5133590	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133590	geo:GSE168191:GSM5133590	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM5133591	geo:GSE168191:GSM5133591	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133591	geo:GSE168191:GSM5133591	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM5133592	geo:GSE168191:GSM5133592	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133592	geo:GSE168191:GSM5133592	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM5133593	geo:GSE168191:GSM5133593	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133593	geo:GSE168191:GSM5133593	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM5133594	geo:GSE168191:GSM5133594	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133594	geo:GSE168191:GSM5133594	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM5133595	geo:GSE168191:GSM5133595	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133595	geo:GSE168191:GSM5133595	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM5133596	geo:GSE168191:GSM5133596	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133596	geo:GSE168191:GSM5133596	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM5133597	geo:GSE168191:GSM5133597	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133597	geo:GSE168191:GSM5133597	development_stage_ontology_term_id	HsapDv:0000129	derived	age_in_years:'35-year-old stage':ols:hsapdv		35	True
+GSM5133598	geo:GSE168191:GSM5133598	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133598	geo:GSE168191:GSM5133598	development_stage_ontology_term_id	HsapDv:0000129	derived	age_in_years:'35-year-old stage':ols:hsapdv		35	True
+GSM5133599	geo:GSE168191:GSM5133599	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133599	geo:GSE168191:GSM5133599	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM5133600	geo:GSE168191:GSM5133600	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133600	geo:GSE168191:GSM5133600	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM5133601	geo:GSE168191:GSM5133601	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133601	geo:GSE168191:GSM5133601	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM5133602	geo:GSE168191:GSM5133602	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133602	geo:GSE168191:GSM5133602	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM5133603	geo:GSE168191:GSM5133603	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133603	geo:GSE168191:GSM5133603	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM5133604	geo:GSE168191:GSM5133604	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5133604	geo:GSE168191:GSM5133604	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM5133605	geo:GSE168191:GSM5133605	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133605	geo:GSE168191:GSM5133605	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM5133606	geo:GSE168191:GSM5133606	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5133606	geo:GSE168191:GSM5133606	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+		organism	Homo sapiens	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5133588	geo:GSE168191:GSM5133588	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133588	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133588	geo:GSE168191:GSM5133588	age	66	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133588	!Sample_characteristics_ch1 = age: 66	True
+GSM5133588	geo:GSE168191:GSM5133588	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133588	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133588	geo:GSE168191:GSM5133588	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133588	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133589	geo:GSE168191:GSM5133589	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133589	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133589	geo:GSE168191:GSM5133589	age	66	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133589	!Sample_characteristics_ch1 = age: 66	True
+GSM5133589	geo:GSE168191:GSM5133589	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133589	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133589	geo:GSE168191:GSM5133589	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133589	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133590	geo:GSE168191:GSM5133590	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133590	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133590	geo:GSE168191:GSM5133590	age	69	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133590	!Sample_characteristics_ch1 = age: 69	True
+GSM5133590	geo:GSE168191:GSM5133590	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133590	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133590	geo:GSE168191:GSM5133590	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133590	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133591	geo:GSE168191:GSM5133591	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133591	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133591	geo:GSE168191:GSM5133591	age	69	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133591	!Sample_characteristics_ch1 = age: 69	True
+GSM5133591	geo:GSE168191:GSM5133591	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133591	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133591	geo:GSE168191:GSM5133591	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133591	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133592	geo:GSE168191:GSM5133592	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133592	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133592	geo:GSE168191:GSM5133592	age	64	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133592	!Sample_characteristics_ch1 = age: 64	True
+GSM5133592	geo:GSE168191:GSM5133592	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133592	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133592	geo:GSE168191:GSM5133592	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133592	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133593	geo:GSE168191:GSM5133593	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133593	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133593	geo:GSE168191:GSM5133593	age	64	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133593	!Sample_characteristics_ch1 = age: 64	True
+GSM5133593	geo:GSE168191:GSM5133593	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133593	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133593	geo:GSE168191:GSM5133593	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133593	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133594	geo:GSE168191:GSM5133594	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133594	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133594	geo:GSE168191:GSM5133594	age	69	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133594	!Sample_characteristics_ch1 = age: 69	True
+GSM5133594	geo:GSE168191:GSM5133594	disease_free_text	COPD	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133594	!Sample_characteristics_ch1 = diagnosis: COPD	True
+GSM5133594	geo:GSE168191:GSM5133594	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133594	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133595	geo:GSE168191:GSM5133595	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133595	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133595	geo:GSE168191:GSM5133595	age	52	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133595	!Sample_characteristics_ch1 = age: 52	True
+GSM5133595	geo:GSE168191:GSM5133595	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133595	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133595	geo:GSE168191:GSM5133595	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133595	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133596	geo:GSE168191:GSM5133596	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133596	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133596	geo:GSE168191:GSM5133596	age	52	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133596	!Sample_characteristics_ch1 = age: 52	True
+GSM5133596	geo:GSE168191:GSM5133596	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133596	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133596	geo:GSE168191:GSM5133596	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133596	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133597	geo:GSE168191:GSM5133597	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133597	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133597	geo:GSE168191:GSM5133597	age	35	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133597	!Sample_characteristics_ch1 = age: 35	True
+GSM5133597	geo:GSE168191:GSM5133597	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133597	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133597	geo:GSE168191:GSM5133597	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133597	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133598	geo:GSE168191:GSM5133598	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133598	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133598	geo:GSE168191:GSM5133598	age	35	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133598	!Sample_characteristics_ch1 = age: 35	True
+GSM5133598	geo:GSE168191:GSM5133598	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133598	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133598	geo:GSE168191:GSM5133598	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133598	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133599	geo:GSE168191:GSM5133599	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133599	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133599	geo:GSE168191:GSM5133599	age	76	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133599	!Sample_characteristics_ch1 = age: 76	True
+GSM5133599	geo:GSE168191:GSM5133599	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133599	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133599	geo:GSE168191:GSM5133599	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133599	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133600	geo:GSE168191:GSM5133600	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133600	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133600	geo:GSE168191:GSM5133600	age	76	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133600	!Sample_characteristics_ch1 = age: 76	True
+GSM5133600	geo:GSE168191:GSM5133600	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133600	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133600	geo:GSE168191:GSM5133600	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133600	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133601	geo:GSE168191:GSM5133601	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133601	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133601	geo:GSE168191:GSM5133601	age	76	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133601	!Sample_characteristics_ch1 = age: 76	True
+GSM5133601	geo:GSE168191:GSM5133601	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133601	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133601	geo:GSE168191:GSM5133601	tissue_free_text	Proximal airway epithelium	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133601	!Sample_characteristics_ch1 = tissue: Proximal airway epithelium	True
+GSM5133602	geo:GSE168191:GSM5133602	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133602	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133602	geo:GSE168191:GSM5133602	age	76	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133602	!Sample_characteristics_ch1 = age: 76	True
+GSM5133602	geo:GSE168191:GSM5133602	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133602	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133602	geo:GSE168191:GSM5133602	tissue_free_text	Proximal airway epithelium	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133602	!Sample_characteristics_ch1 = tissue: Proximal airway epithelium	True
+GSM5133603	geo:GSE168191:GSM5133603	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133603	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133603	geo:GSE168191:GSM5133603	age	23	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133603	!Sample_characteristics_ch1 = age: 23	True
+GSM5133603	geo:GSE168191:GSM5133603	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133603	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133603	geo:GSE168191:GSM5133603	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133603	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133604	geo:GSE168191:GSM5133604	sex	female	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133604	!Sample_characteristics_ch1 = Sex: female	True
+GSM5133604	geo:GSE168191:GSM5133604	age	29	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133604	!Sample_characteristics_ch1 = age: 29	True
+GSM5133604	geo:GSE168191:GSM5133604	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133604	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133604	geo:GSE168191:GSM5133604	tissue_free_text	Peripheral lung	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133604	!Sample_characteristics_ch1 = tissue: Peripheral lung	True
+GSM5133605	geo:GSE168191:GSM5133605	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133605	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133605	geo:GSE168191:GSM5133605	age	54	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133605	!Sample_characteristics_ch1 = age: 54	True
+GSM5133605	geo:GSE168191:GSM5133605	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133605	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133605	geo:GSE168191:GSM5133605	tissue_free_text	Proximal airway epithelium	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133605	!Sample_characteristics_ch1 = tissue: Proximal airway epithelium	True
+GSM5133606	geo:GSE168191:GSM5133606	sex	male	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133606	!Sample_characteristics_ch1 = Sex: male	True
+GSM5133606	geo:GSE168191:GSM5133606	age	54	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133606	!Sample_characteristics_ch1 = age: 54	True
+GSM5133606	geo:GSE168191:GSM5133606	disease_free_text	Healthy	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133606	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM5133606	geo:GSE168191:GSM5133606	tissue_free_text	Proximal airway epithelium	file	raw/fp-d1a29e5c2a8c/GSE168191_family.soft.gz	GSM5133606	!Sample_characteristics_ch1 = tissue: Proximal airway epithelium	True

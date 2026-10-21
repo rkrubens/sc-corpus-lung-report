@@ -1,0 +1,152 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5934399	geo:GSE197949:GSM5934399	cell_enrichment	<column sort>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/sort			True
+GSM5934399	geo:GSE197949:GSM5934399	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934399	geo:GSE197949:GSM5934399	author_cell_type	<column predicted.id>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/predicted.id			True
+GSM5934402	geo:GSE197949:GSM5934402	cell_enrichment	<column sort>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/sort			True
+GSM5934402	geo:GSE197949:GSM5934402	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934402	geo:GSE197949:GSM5934402	author_cell_type	<column predicted.id>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/predicted.id			True
+GSM5934403	geo:GSE197949:GSM5934403	cell_enrichment	<column sort>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/sort			True
+GSM5934403	geo:GSE197949:GSM5934403	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934403	geo:GSE197949:GSM5934403	author_cell_type	<column predicted.id>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/predicted.id			True
+GSM5934404	geo:GSE197949:GSM5934404	cell_enrichment	<column sort>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/sort			True
+GSM5934404	geo:GSE197949:GSM5934404	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934404	geo:GSE197949:GSM5934404	author_cell_type	<column predicted.id>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/predicted.id			True
+GSM5934405	geo:GSE197949:GSM5934405	cell_enrichment	<column sort>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/sort			True
+GSM5934405	geo:GSE197949:GSM5934405	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934405	geo:GSE197949:GSM5934405	author_cell_type	<column predicted.id>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/predicted.id			True
+GSM5934406	geo:GSE197949:GSM5934406	cell_enrichment	<column sort>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/sort			True
+GSM5934406	geo:GSE197949:GSM5934406	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934406	geo:GSE197949:GSM5934406	author_cell_type	<column predicted.id>	column	work/fp-aa613a978bc4/reconciled/HT280_Epcam_cells.tsv.gz/predicted.id			True
+GSM5934385	geo:GSE197949:GSM5934385	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934385	geo:GSE197949:GSM5934385	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934386	geo:GSE197949:GSM5934386	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934386	geo:GSE197949:GSM5934386	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934389	geo:GSE197949:GSM5934389	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934389	geo:GSE197949:GSM5934389	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934391	geo:GSE197949:GSM5934391	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934391	geo:GSE197949:GSM5934391	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934394	geo:GSE197949:GSM5934394	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934394	geo:GSE197949:GSM5934394	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934396	geo:GSE197949:GSM5934396	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934396	geo:GSE197949:GSM5934396	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934400	geo:GSE197949:GSM5934400	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934400	geo:GSE197949:GSM5934400	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_pool_cells.tsv.gz/cluster			True
+GSM5934387	geo:GSE197949:GSM5934387	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934387	geo:GSE197949:GSM5934387	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_all_cells.tsv.gz/cluster			True
+GSM5934392	geo:GSE197949:GSM5934392	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934392	geo:GSE197949:GSM5934392	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_all_cells.tsv.gz/cluster			True
+GSM5934397	geo:GSE197949:GSM5934397	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5934397	geo:GSE197949:GSM5934397	author_cell_type	<column cluster>	column	work/fp-aa613a978bc4/reconciled/organoids_all_cells.tsv.gz/cluster			True
+		organism	Homo sapiens	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5934399	geo:GSE197949:GSM5934399	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934399	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934399	geo:GSE197949:GSM5934399	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934399	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934399	geo:GSE197949:GSM5934399	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934399	geo:GSE197949:GSM5934399	tissue_type	tissue	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+ , and HTII-280+/Epcam+cells were analyzed by single-cell RNA sequencing	True
+GSM5934399	geo:GSE197949:GSM5934399	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+	True
+GSM5934399	geo:GSE197949:GSM5934399	donor_id	AO22	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934399	!Sample_source_name_ch1 = AO22	True
+GSM5934399	geo:GSE197949:GSM5934399	tissue_free_text	HT280+ cells	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934399	!Sample_characteristics_ch1 = tissue: HT280+ cells	True
+GSM5934402	geo:GSE197949:GSM5934402	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934402	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934402	geo:GSE197949:GSM5934402	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934402	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934402	geo:GSE197949:GSM5934402	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934402	geo:GSE197949:GSM5934402	tissue_type	tissue	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+ , and HTII-280+/Epcam+cells were analyzed by single-cell RNA sequencing	True
+GSM5934402	geo:GSE197949:GSM5934402	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+	True
+GSM5934402	geo:GSE197949:GSM5934402	donor_id	AO23	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934402	!Sample_source_name_ch1 = AO23	True
+GSM5934402	geo:GSE197949:GSM5934402	tissue_free_text	HT280+ cells	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934402	!Sample_characteristics_ch1 = tissue: HT280+ cells	True
+GSM5934403	geo:GSE197949:GSM5934403	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934403	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934403	geo:GSE197949:GSM5934403	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934403	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934403	geo:GSE197949:GSM5934403	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934403	geo:GSE197949:GSM5934403	tissue_type	tissue	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+ , and HTII-280+/Epcam+cells were analyzed by single-cell RNA sequencing	True
+GSM5934403	geo:GSE197949:GSM5934403	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+	True
+GSM5934403	geo:GSE197949:GSM5934403	donor_id	AO34	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934403	!Sample_source_name_ch1 = AO34	True
+GSM5934403	geo:GSE197949:GSM5934403	tissue_free_text	HT280+/Epcam+ cells	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934403	!Sample_characteristics_ch1 = tissue: HT280+/Epcam+ cells	True
+GSM5934404	geo:GSE197949:GSM5934404	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934404	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934404	geo:GSE197949:GSM5934404	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934404	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934404	geo:GSE197949:GSM5934404	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934404	geo:GSE197949:GSM5934404	tissue_type	tissue	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+ , and HTII-280+/Epcam+cells were analyzed by single-cell RNA sequencing	True
+GSM5934404	geo:GSE197949:GSM5934404	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+	True
+GSM5934404	geo:GSE197949:GSM5934404	donor_id	AO35	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934404	!Sample_source_name_ch1 = AO35	True
+GSM5934404	geo:GSE197949:GSM5934404	tissue_free_text	HT280+/Epcam+ cells	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934404	!Sample_characteristics_ch1 = tissue: HT280+/Epcam+ cells	True
+GSM5934405	geo:GSE197949:GSM5934405	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934405	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934405	geo:GSE197949:GSM5934405	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934405	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934405	geo:GSE197949:GSM5934405	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934405	geo:GSE197949:GSM5934405	tissue_type	tissue	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+ , and HTII-280+/Epcam+cells were analyzed by single-cell RNA sequencing	True
+GSM5934405	geo:GSE197949:GSM5934405	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+	True
+GSM5934405	geo:GSE197949:GSM5934405	donor_id	AO36	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934405	!Sample_source_name_ch1 = AO36	True
+GSM5934405	geo:GSE197949:GSM5934405	tissue_free_text	HT280+/Epcam+ cells	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934405	!Sample_characteristics_ch1 = tissue: HT280+/Epcam+ cells	True
+GSM5934406	geo:GSE197949:GSM5934406	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934406	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934406	geo:GSE197949:GSM5934406	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934406	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934406	geo:GSE197949:GSM5934406	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934406	geo:GSE197949:GSM5934406	tissue_type	tissue	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+ , and HTII-280+/Epcam+cells were analyzed by single-cell RNA sequencing	True
+GSM5934406	geo:GSE197949:GSM5934406	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz		Human peripheral lung tissue resident HTII-280+	True
+GSM5934406	geo:GSE197949:GSM5934406	donor_id	AO37	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934406	!Sample_source_name_ch1 = AO37	True
+GSM5934406	geo:GSE197949:GSM5934406	tissue_free_text	HT280+/Epcam+ cells	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934406	!Sample_characteristics_ch1 = tissue: HT280+/Epcam+ cells	True
+GSM5934385	geo:GSE197949:GSM5934385	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934385	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934385	geo:GSE197949:GSM5934385	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934385	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934385	geo:GSE197949:GSM5934385	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934385	geo:GSE197949:GSM5934385	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934385	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934385	geo:GSE197949:GSM5934385	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934385	the lung tissue tissue was minced with scissors	True
+GSM5934385	geo:GSE197949:GSM5934385	donor_id	AO13	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934385	!Sample_source_name_ch1 = AO13	True
+GSM5934385	geo:GSE197949:GSM5934385	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934385	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934386	geo:GSE197949:GSM5934386	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934386	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934386	geo:GSE197949:GSM5934386	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934386	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934386	geo:GSE197949:GSM5934386	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934386	geo:GSE197949:GSM5934386	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934386	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934386	geo:GSE197949:GSM5934386	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934386	the lung tissue tissue was minced with scissors	True
+GSM5934386	geo:GSE197949:GSM5934386	donor_id	AO13	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934386	!Sample_source_name_ch1 = AO13	True
+GSM5934386	geo:GSE197949:GSM5934386	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934386	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934389	geo:GSE197949:GSM5934389	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934389	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934389	geo:GSE197949:GSM5934389	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934389	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934389	geo:GSE197949:GSM5934389	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934389	geo:GSE197949:GSM5934389	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934389	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934389	geo:GSE197949:GSM5934389	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934389	the lung tissue tissue was minced with scissors	True
+GSM5934389	geo:GSE197949:GSM5934389	donor_id	AO15	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934389	!Sample_source_name_ch1 = AO15	True
+GSM5934389	geo:GSE197949:GSM5934389	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934389	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934391	geo:GSE197949:GSM5934391	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934391	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934391	geo:GSE197949:GSM5934391	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934391	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934391	geo:GSE197949:GSM5934391	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934391	geo:GSE197949:GSM5934391	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934391	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934391	geo:GSE197949:GSM5934391	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934391	the lung tissue tissue was minced with scissors	True
+GSM5934391	geo:GSE197949:GSM5934391	donor_id	AO15	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934391	!Sample_source_name_ch1 = AO15	True
+GSM5934391	geo:GSE197949:GSM5934391	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934391	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934394	geo:GSE197949:GSM5934394	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934394	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934394	geo:GSE197949:GSM5934394	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934394	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934394	geo:GSE197949:GSM5934394	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934394	geo:GSE197949:GSM5934394	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934394	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934394	geo:GSE197949:GSM5934394	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934394	the lung tissue tissue was minced with scissors	True
+GSM5934394	geo:GSE197949:GSM5934394	donor_id	AO16	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934394	!Sample_source_name_ch1 = AO16	True
+GSM5934394	geo:GSE197949:GSM5934394	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934394	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934396	geo:GSE197949:GSM5934396	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934396	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934396	geo:GSE197949:GSM5934396	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934396	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934396	geo:GSE197949:GSM5934396	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934396	geo:GSE197949:GSM5934396	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934396	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934396	geo:GSE197949:GSM5934396	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934396	the lung tissue tissue was minced with scissors	True
+GSM5934396	geo:GSE197949:GSM5934396	donor_id	AO18	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934396	!Sample_source_name_ch1 = AO18	True
+GSM5934396	geo:GSE197949:GSM5934396	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934396	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934400	geo:GSE197949:GSM5934400	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934400	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934400	geo:GSE197949:GSM5934400	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934400	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934400	geo:GSE197949:GSM5934400	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934400	geo:GSE197949:GSM5934400	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934400	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934400	geo:GSE197949:GSM5934400	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934400	the lung tissue tissue was minced with scissors	True
+GSM5934400	geo:GSE197949:GSM5934400	donor_id	AO22	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934400	!Sample_source_name_ch1 = AO22	True
+GSM5934400	geo:GSE197949:GSM5934400	tissue_free_text	bronchial organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934400	!Sample_characteristics_ch1 = tissue: bronchial organoid	True
+GSM5934387	geo:GSE197949:GSM5934387	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934387	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934387	geo:GSE197949:GSM5934387	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934387	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934387	geo:GSE197949:GSM5934387	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934387	geo:GSE197949:GSM5934387	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934387	!Sample_characteristics_ch1 = tissue: alveolar organoid	True
+GSM5934387	geo:GSE197949:GSM5934387	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934387	the lung tissue tissue was minced with scissors	True
+GSM5934387	geo:GSE197949:GSM5934387	donor_id	AO15	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934387	!Sample_source_name_ch1 = AO15	True
+GSM5934387	geo:GSE197949:GSM5934387	tissue_free_text	alveolar organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934387	!Sample_characteristics_ch1 = tissue: alveolar organoid	True
+GSM5934392	geo:GSE197949:GSM5934392	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934392	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934392	geo:GSE197949:GSM5934392	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934392	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934392	geo:GSE197949:GSM5934392	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934392	geo:GSE197949:GSM5934392	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934392	!Sample_characteristics_ch1 = tissue: alveolar organoid	True
+GSM5934392	geo:GSE197949:GSM5934392	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934392	the lung tissue tissue was minced with scissors	True
+GSM5934392	geo:GSE197949:GSM5934392	donor_id	AO16	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934392	!Sample_source_name_ch1 = AO16	True
+GSM5934392	geo:GSE197949:GSM5934392	tissue_free_text	alveolar organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934392	!Sample_characteristics_ch1 = tissue: alveolar organoid	True
+GSM5934397	geo:GSE197949:GSM5934397	assay	10x 3' v3	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934397	Chromium Single Cell 3′ V3.1 library preparation kit	True
+GSM5934397	geo:GSE197949:GSM5934397	suspension_type	cell	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934397	Single cells were generated from organoids by enzymatic digestion	True
+GSM5934397	geo:GSE197949:GSM5934397	disease_free_text	tumor-free peripheral lung tissue from lung cancer patients (resection)	file	evidence/PMC9409623.txt		Peripheral lung tumor-free explants were obtained from lung cancer patients who underwent lung resection surgery	True
+GSM5934397	geo:GSE197949:GSM5934397	tissue_type	organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934397	!Sample_characteristics_ch1 = tissue: alveolar organoid	True
+GSM5934397	geo:GSE197949:GSM5934397	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934397	the lung tissue tissue was minced with scissors	True
+GSM5934397	geo:GSE197949:GSM5934397	donor_id	AO22	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934397	!Sample_source_name_ch1 = AO22	True
+GSM5934397	geo:GSE197949:GSM5934397	tissue_free_text	alveolar organoid	file	raw/fp-aa613a978bc4/GSE197949_family.soft.gz	GSM5934397	!Sample_characteristics_ch1 = tissue: alveolar organoid	True

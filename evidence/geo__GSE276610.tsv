@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8503007	geo:GSE276610:GSM8503007	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8503008	geo:GSE276610:GSM8503008	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM8503009	geo:GSE276610:GSM8503009	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM8503010	geo:GSE276610:GSM8503010	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM8503011	geo:GSE276610:GSM8503011	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8503012	geo:GSE276610:GSM8503012	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+		organism	Homo sapiens	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8503007	geo:GSE276610:GSM8503007	age	65	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503007	!Sample_characteristics_ch1 = age: 65	True
+GSM8503007	geo:GSE276610:GSM8503007	tissue_free_text	Tracheal	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503007	!Sample_characteristics_ch1 = tissue: Tracheal	True
+GSM8503007	geo:GSE276610:GSM8503007	treatment	Never smoker	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503007	!Sample_characteristics_ch1 = treatment: Never smoker	True
+GSM8503008	geo:GSE276610:GSM8503008	age	54	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503008	!Sample_characteristics_ch1 = age: 54	True
+GSM8503008	geo:GSE276610:GSM8503008	tissue_free_text	Tracheal	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503008	!Sample_characteristics_ch1 = tissue: Tracheal	True
+GSM8503008	geo:GSE276610:GSM8503008	treatment	Never smoker	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503008	!Sample_characteristics_ch1 = treatment: Never smoker	True
+GSM8503009	geo:GSE276610:GSM8503009	age	58	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503009	!Sample_characteristics_ch1 = age: 58	True
+GSM8503009	geo:GSE276610:GSM8503009	tissue_free_text	Tracheal	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503009	!Sample_characteristics_ch1 = tissue: Tracheal	True
+GSM8503009	geo:GSE276610:GSM8503009	treatment	Current smoker	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503009	!Sample_characteristics_ch1 = treatment: Current smoker	True
+GSM8503010	geo:GSE276610:GSM8503010	age	72	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503010	!Sample_characteristics_ch1 = age: 72	True
+GSM8503010	geo:GSE276610:GSM8503010	tissue_free_text	Tracheal	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503010	!Sample_characteristics_ch1 = tissue: Tracheal	True
+GSM8503010	geo:GSE276610:GSM8503010	treatment	Never smoker	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503010	!Sample_characteristics_ch1 = treatment: Never smoker	True
+GSM8503011	geo:GSE276610:GSM8503011	age	60	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503011	!Sample_characteristics_ch1 = age: 60	True
+GSM8503011	geo:GSE276610:GSM8503011	tissue_free_text	Tracheal	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503011	!Sample_characteristics_ch1 = tissue: Tracheal	True
+GSM8503011	geo:GSE276610:GSM8503011	treatment	Current smoker	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503011	!Sample_characteristics_ch1 = treatment: Current smoker	True
+GSM8503012	geo:GSE276610:GSM8503012	age	57	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503012	!Sample_characteristics_ch1 = age: 57	True
+GSM8503012	geo:GSE276610:GSM8503012	tissue_free_text	Tracheal	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503012	!Sample_characteristics_ch1 = tissue: Tracheal	True
+GSM8503012	geo:GSE276610:GSM8503012	treatment	Current smoker	file	raw/fp-87baeb71e5b3/GSE276610_family.soft.gz	GSM8503012	!Sample_characteristics_ch1 = treatment: Current smoker	True

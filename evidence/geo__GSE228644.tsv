@@ -1,0 +1,24 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6424655	geo:GSE228644:GSM6424655	disease_free_text	healthy control	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424655	!Sample_characteristics_ch1 = disease state: healthy control	True
+GSM6424655	geo:GSE228644:GSM6424655	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424655	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM6424656	geo:GSE228644:GSM6424656	disease_free_text	healthy control	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424656	!Sample_characteristics_ch1 = disease state: healthy control	True
+GSM6424656	geo:GSE228644:GSM6424656	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424656	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM6424657	geo:GSE228644:GSM6424657	disease_free_text	healthy control	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424657	!Sample_characteristics_ch1 = disease state: healthy control	True
+GSM6424657	geo:GSE228644:GSM6424657	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424657	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM6424658	geo:GSE228644:GSM6424658	disease_free_text	pulmonary arterial hypertension (PAH)	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424658	!Sample_characteristics_ch1 = disease state: pulmonary arterial hypertension (PAH)	True
+GSM6424658	geo:GSE228644:GSM6424658	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424658	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM6424659	geo:GSE228644:GSM6424659	disease_free_text	pulmonary arterial hypertension (PAH)	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424659	!Sample_characteristics_ch1 = disease state: pulmonary arterial hypertension (PAH)	True
+GSM6424659	geo:GSE228644:GSM6424659	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424659	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM6424660	geo:GSE228644:GSM6424660	disease_free_text	pulmonary arterial hypertension (PAH)	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424660	!Sample_characteristics_ch1 = disease state: pulmonary arterial hypertension (PAH)	True
+GSM6424660	geo:GSE228644:GSM6424660	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM6424660	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134356	geo:GSE228644:GSM7134356	disease_free_text	control	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134356	!Sample_characteristics_ch1 = disease state: control	True
+GSM7134356	geo:GSE228644:GSM7134356	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134356	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134357	geo:GSE228644:GSM7134357	disease_free_text	control	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134357	!Sample_characteristics_ch1 = disease state: control	True
+GSM7134357	geo:GSE228644:GSM7134357	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134357	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134358	geo:GSE228644:GSM7134358	disease_free_text	PHPF	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134358	!Sample_characteristics_ch1 = disease state: PHPF	True
+GSM7134358	geo:GSE228644:GSM7134358	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134358	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134359	geo:GSE228644:GSM7134359	disease_free_text	PHPF	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134359	!Sample_characteristics_ch1 = disease state: PHPF	True
+GSM7134359	geo:GSE228644:GSM7134359	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134359	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True
+GSM7134360	geo:GSE228644:GSM7134360	disease_free_text	PHPF	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134360	!Sample_characteristics_ch1 = disease state: PHPF	True
+GSM7134360	geo:GSE228644:GSM7134360	tissue_free_text	Medium/small size pulmonary artery	file	raw/fp-8eb79a3f4e83/GSE228644_family.soft.gz	GSM7134360	!Sample_characteristics_ch1 = tissue: Medium/small size pulmonary artery	True

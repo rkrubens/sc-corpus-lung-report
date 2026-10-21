@@ -1,0 +1,130 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4818277	geo:GSE159056:GSM4818277	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818278	geo:GSE159056:GSM4818278	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818279	geo:GSE159056:GSM4818279	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818280	geo:GSE159056:GSM4818280	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818281	geo:GSE159056:GSM4818281	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818282	geo:GSE159056:GSM4818282	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818283	geo:GSE159056:GSM4818283	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818284	geo:GSE159056:GSM4818284	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818285	geo:GSE159056:GSM4818285	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818286	geo:GSE159056:GSM4818286	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818287	geo:GSE159056:GSM4818287	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818288	geo:GSE159056:GSM4818288	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818289	geo:GSE159056:GSM4818289	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818290	geo:GSE159056:GSM4818290	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818291	geo:GSE159056:GSM4818291	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818292	geo:GSE159056:GSM4818292	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818293	geo:GSE159056:GSM4818293	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818294	geo:GSE159056:GSM4818294	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818295	geo:GSE159056:GSM4818295	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818296	geo:GSE159056:GSM4818296	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4818297	geo:GSE159056:GSM4818297	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031511	geo:GSE159056:GSM6031511	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031512	geo:GSE159056:GSM6031512	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031513	geo:GSE159056:GSM6031513	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031514	geo:GSE159056:GSM6031514	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031514	geo:GSE159056:GSM6031514	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		CF	True
+GSM6031515	geo:GSE159056:GSM6031515	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031515	geo:GSE159056:GSM6031515	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		CF	True
+GSM6031516	geo:GSE159056:GSM6031516	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031516	geo:GSE159056:GSM6031516	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		CF	True
+GSM6031517	geo:GSE159056:GSM6031517	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031518	geo:GSE159056:GSM6031518	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6031518	geo:GSE159056:GSM6031518	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		CF	True
+		organism	Homo sapiens	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4818277	geo:GSE159056:GSM4818277	donor_id	B_18_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818277	!Sample_characteristics_ch1 = subject id: B_18_19	True
+GSM4818277	geo:GSE159056:GSM4818277	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818277	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818277	geo:GSE159056:GSM4818277	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818277	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818278	geo:GSE159056:GSM4818278	donor_id	B_18_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818278	!Sample_characteristics_ch1 = subject id: B_18_19	True
+GSM4818278	geo:GSE159056:GSM4818278	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818278	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818278	geo:GSE159056:GSM4818278	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818278	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818279	geo:GSE159056:GSM4818279	donor_id	B_18_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818279	!Sample_characteristics_ch1 = subject id: B_18_19	True
+GSM4818279	geo:GSE159056:GSM4818279	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818279	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818279	geo:GSE159056:GSM4818279	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818279	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM4818280	geo:GSE159056:GSM4818280	donor_id	B_20_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818280	!Sample_characteristics_ch1 = subject id: B_20_19	True
+GSM4818280	geo:GSE159056:GSM4818280	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818280	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818280	geo:GSE159056:GSM4818280	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818280	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818281	geo:GSE159056:GSM4818281	donor_id	B_20_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818281	!Sample_characteristics_ch1 = subject id: B_20_19	True
+GSM4818281	geo:GSE159056:GSM4818281	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818281	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818281	geo:GSE159056:GSM4818281	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818281	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818282	geo:GSE159056:GSM4818282	donor_id	B_20_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818282	!Sample_characteristics_ch1 = subject id: B_20_19	True
+GSM4818282	geo:GSE159056:GSM4818282	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818282	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818282	geo:GSE159056:GSM4818282	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818282	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM4818283	geo:GSE159056:GSM4818283	donor_id	B_23_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818283	!Sample_characteristics_ch1 = subject id: B_23_19	True
+GSM4818283	geo:GSE159056:GSM4818283	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818283	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818283	geo:GSE159056:GSM4818283	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818283	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818284	geo:GSE159056:GSM4818284	donor_id	B_23_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818284	!Sample_characteristics_ch1 = subject id: B_23_19	True
+GSM4818284	geo:GSE159056:GSM4818284	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818284	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818284	geo:GSE159056:GSM4818284	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818284	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818285	geo:GSE159056:GSM4818285	donor_id	B_23_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818285	!Sample_characteristics_ch1 = subject id: B_23_19	True
+GSM4818285	geo:GSE159056:GSM4818285	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818285	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818285	geo:GSE159056:GSM4818285	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818285	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM4818286	geo:GSE159056:GSM4818286	donor_id	CFB_13_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818286	!Sample_characteristics_ch1 = subject id: CFB_13_19	True
+GSM4818286	geo:GSE159056:GSM4818286	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818286	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818286	geo:GSE159056:GSM4818286	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818286	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818287	geo:GSE159056:GSM4818287	donor_id	CFB_13_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818287	!Sample_characteristics_ch1 = subject id: CFB_13_19	True
+GSM4818287	geo:GSE159056:GSM4818287	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818287	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818287	geo:GSE159056:GSM4818287	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818287	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818288	geo:GSE159056:GSM4818288	donor_id	CFB_13_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818288	!Sample_characteristics_ch1 = subject id: CFB_13_19	True
+GSM4818288	geo:GSE159056:GSM4818288	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818288	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818288	geo:GSE159056:GSM4818288	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818288	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM4818289	geo:GSE159056:GSM4818289	donor_id	CFB_14_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818289	!Sample_characteristics_ch1 = subject id: CFB_14_19	True
+GSM4818289	geo:GSE159056:GSM4818289	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818289	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818289	geo:GSE159056:GSM4818289	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818289	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818290	geo:GSE159056:GSM4818290	donor_id	CFB_14_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818290	!Sample_characteristics_ch1 = subject id: CFB_14_19	True
+GSM4818290	geo:GSE159056:GSM4818290	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818290	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818290	geo:GSE159056:GSM4818290	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818290	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818291	geo:GSE159056:GSM4818291	donor_id	CFB_14_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818291	!Sample_characteristics_ch1 = subject id: CFB_14_19	True
+GSM4818291	geo:GSE159056:GSM4818291	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818291	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818291	geo:GSE159056:GSM4818291	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818291	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM4818292	geo:GSE159056:GSM4818292	donor_id	CFB_16_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818292	!Sample_characteristics_ch1 = subject id: CFB_16_19	True
+GSM4818292	geo:GSE159056:GSM4818292	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818292	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818292	geo:GSE159056:GSM4818292	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818292	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818293	geo:GSE159056:GSM4818293	donor_id	CFB_16_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818293	!Sample_characteristics_ch1 = subject id: CFB_16_19	True
+GSM4818293	geo:GSE159056:GSM4818293	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818293	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818293	geo:GSE159056:GSM4818293	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818293	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818294	geo:GSE159056:GSM4818294	donor_id	CFB_16_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818294	!Sample_characteristics_ch1 = subject id: CFB_16_19	True
+GSM4818294	geo:GSE159056:GSM4818294	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818294	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818294	geo:GSE159056:GSM4818294	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818294	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM4818295	geo:GSE159056:GSM4818295	donor_id	CFB_25_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818295	!Sample_characteristics_ch1 = subject id: CFB_25_19	True
+GSM4818295	geo:GSE159056:GSM4818295	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818295	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818295	geo:GSE159056:GSM4818295	treatment	HIV-CFTR	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818295	!Sample_characteristics_ch1 = treatment: HIV-CFTR	True
+GSM4818296	geo:GSE159056:GSM4818296	donor_id	CFB_25_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818296	!Sample_characteristics_ch1 = subject id: CFB_25_19	True
+GSM4818296	geo:GSE159056:GSM4818296	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818296	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818296	geo:GSE159056:GSM4818296	treatment	HIV-GFP	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818296	!Sample_characteristics_ch1 = treatment: HIV-GFP	True
+GSM4818297	geo:GSE159056:GSM4818297	donor_id	CFB_25_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818297	!Sample_characteristics_ch1 = subject id: CFB_25_19	True
+GSM4818297	geo:GSE159056:GSM4818297	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818297	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4818297	geo:GSE159056:GSM4818297	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM4818297	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031511	geo:GSE159056:GSM6031511	disease_free_text	non-CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031511	!Sample_characteristics_ch1 = disease: non-CF	True
+GSM6031511	geo:GSE159056:GSM6031511	donor_id	B_18_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031511	!Sample_characteristics_ch1 = subject id: B_18_19	True
+GSM6031511	geo:GSE159056:GSM6031511	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031511	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031511	geo:GSE159056:GSM6031511	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031511	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031512	geo:GSE159056:GSM6031512	disease_free_text	non-CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031512	!Sample_characteristics_ch1 = disease: non-CF	True
+GSM6031512	geo:GSE159056:GSM6031512	donor_id	B_20_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031512	!Sample_characteristics_ch1 = subject id: B_20_19	True
+GSM6031512	geo:GSE159056:GSM6031512	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031512	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031512	geo:GSE159056:GSM6031512	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031512	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031513	geo:GSE159056:GSM6031513	disease_free_text	non-CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031513	!Sample_characteristics_ch1 = disease: non-CF	True
+GSM6031513	geo:GSE159056:GSM6031513	donor_id	B_23_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031513	!Sample_characteristics_ch1 = subject id: B_23_19	True
+GSM6031513	geo:GSE159056:GSM6031513	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031513	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031513	geo:GSE159056:GSM6031513	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031513	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031514	geo:GSE159056:GSM6031514	disease_free_text	CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031514	!Sample_characteristics_ch1 = disease: CF	True
+GSM6031514	geo:GSE159056:GSM6031514	donor_id	CFB_13_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031514	!Sample_characteristics_ch1 = subject id: CFB_13_19	True
+GSM6031514	geo:GSE159056:GSM6031514	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031514	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031514	geo:GSE159056:GSM6031514	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031514	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031515	geo:GSE159056:GSM6031515	disease_free_text	CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031515	!Sample_characteristics_ch1 = disease: CF	True
+GSM6031515	geo:GSE159056:GSM6031515	donor_id	CFB_14_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031515	!Sample_characteristics_ch1 = subject id: CFB_14_19	True
+GSM6031515	geo:GSE159056:GSM6031515	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031515	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031515	geo:GSE159056:GSM6031515	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031515	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031516	geo:GSE159056:GSM6031516	disease_free_text	CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031516	!Sample_characteristics_ch1 = disease: CF	True
+GSM6031516	geo:GSE159056:GSM6031516	donor_id	CFB_16_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031516	!Sample_characteristics_ch1 = subject id: CFB_16_19	True
+GSM6031516	geo:GSE159056:GSM6031516	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031516	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031516	geo:GSE159056:GSM6031516	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031516	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031517	geo:GSE159056:GSM6031517	disease_free_text	non-CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031517	!Sample_characteristics_ch1 = disease: non-CF	True
+GSM6031517	geo:GSE159056:GSM6031517	donor_id	B_37_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031517	!Sample_characteristics_ch1 = subject id: B_37_19	True
+GSM6031517	geo:GSE159056:GSM6031517	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031517	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031517	geo:GSE159056:GSM6031517	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031517	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM6031518	geo:GSE159056:GSM6031518	disease_free_text	CF	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031518	!Sample_characteristics_ch1 = disease: CF	True
+GSM6031518	geo:GSE159056:GSM6031518	donor_id	CFB_25_19	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031518	!Sample_characteristics_ch1 = subject id: CFB_25_19	True
+GSM6031518	geo:GSE159056:GSM6031518	tissue_free_text	lung	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031518	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6031518	geo:GSE159056:GSM6031518	treatment	untreated	file	raw/fp-e2a1c38c96c3/GSE159056_family.soft.gz	GSM6031518	!Sample_characteristics_ch1 = treatment: untreated	True

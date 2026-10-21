@@ -1,0 +1,164 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+CC002	geo:GSE86618:CC002	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+CC006	geo:GSE86618:CC006	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+CC019	geo:GSE86618:CC019	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+IL006	geo:GSE86618:IL006	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+IPF002	geo:GSE86618:IPF002	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+IPF003	geo:GSE86618:IPF003	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+IPF009	geo:GSE86618:IPF009	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+IPF010	geo:GSE86618:IPF010	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+IPF012	geo:GSE86618:IPF012	donor_id	<column patientid>	column	work/fp-460f1527eb97/soft_samples.tsv/patientid			True
+CC002	geo:GSE86618:CC002	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+CC006	geo:GSE86618:CC006	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+CC019	geo:GSE86618:CC019	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IL006	geo:GSE86618:IL006	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF002	geo:GSE86618:IPF002	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF003	geo:GSE86618:IPF003	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF009	geo:GSE86618:IPF009	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF010	geo:GSE86618:IPF010	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF012	geo:GSE86618:IPF012	disease_free_text	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+CC002	geo:GSE86618:CC002	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+CC006	geo:GSE86618:CC006	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+CC019	geo:GSE86618:CC019	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IL006	geo:GSE86618:IL006	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF002	geo:GSE86618:IPF002	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF003	geo:GSE86618:IPF003	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF009	geo:GSE86618:IPF009	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF010	geo:GSE86618:IPF010	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+IPF012	geo:GSE86618:IPF012	disease_ontology_term_id	<column diagnosis>	column	work/fp-460f1527eb97/soft_samples.tsv/diagnosis			True
+CC002	geo:GSE86618:CC002	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CC006	geo:GSE86618:CC006	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CC019	geo:GSE86618:CC019	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IL006	geo:GSE86618:IL006	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF002	geo:GSE86618:IPF002	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF003	geo:GSE86618:IPF003	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF009	geo:GSE86618:IPF009	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF010	geo:GSE86618:IPF010	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF012	geo:GSE86618:IPF012	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CC002	geo:GSE86618:CC002	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CC006	geo:GSE86618:CC006	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CC019	geo:GSE86618:CC019	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IL006	geo:GSE86618:IL006	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPF002	geo:GSE86618:IPF002	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPF003	geo:GSE86618:IPF003	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPF009	geo:GSE86618:IPF009	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPF010	geo:GSE86618:IPF010	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPF012	geo:GSE86618:IPF012	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CC002	geo:GSE86618:CC002	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+CC006	geo:GSE86618:CC006	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+CC019	geo:GSE86618:CC019	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IL006	geo:GSE86618:IL006	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPF002	geo:GSE86618:IPF002	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPF003	geo:GSE86618:IPF003	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPF009	geo:GSE86618:IPF009	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPF010	geo:GSE86618:IPF010	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPF012	geo:GSE86618:IPF012	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+		organism	Homo sapiens	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+CC002	geo:GSE86618:CC002	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+CC006	geo:GSE86618:CC006	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+CC019	geo:GSE86618:CC019	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IL006	geo:GSE86618:IL006	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF002	geo:GSE86618:IPF002	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF003	geo:GSE86618:IPF003	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF009	geo:GSE86618:IPF009	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF010	geo:GSE86618:IPF010	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF012	geo:GSE86618:IPF012	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+CC002	geo:GSE86618:CC002	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+CC006	geo:GSE86618:CC006	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+CC019	geo:GSE86618:CC019	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IL006	geo:GSE86618:IL006	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF002	geo:GSE86618:IPF002	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF003	geo:GSE86618:IPF003	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF009	geo:GSE86618:IPF009	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF010	geo:GSE86618:IPF010	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF012	geo:GSE86618:IPF012	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+CC002	geo:GSE86618:CC002	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+CC006	geo:GSE86618:CC006	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+CC019	geo:GSE86618:CC019	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IL006	geo:GSE86618:IL006	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF002	geo:GSE86618:IPF002	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF003	geo:GSE86618:IPF003	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF009	geo:GSE86618:IPF009	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF010	geo:GSE86618:IPF010	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF012	geo:GSE86618:IPF012	disease_free_text	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+CC002	geo:GSE86618:CC002	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+CC006	geo:GSE86618:CC006	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+CC019	geo:GSE86618:CC019	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IL006	geo:GSE86618:IL006	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF002	geo:GSE86618:IPF002	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF003	geo:GSE86618:IPF003	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF009	geo:GSE86618:IPF009	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF010	geo:GSE86618:IPF010	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+IPF012	geo:GSE86618:IPF012	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: IPF	True
+CC002	geo:GSE86618:CC002	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+CC006	geo:GSE86618:CC006	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+CC019	geo:GSE86618:CC019	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IL006	geo:GSE86618:IL006	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF002	geo:GSE86618:IPF002	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF003	geo:GSE86618:IPF003	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF009	geo:GSE86618:IPF009	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF010	geo:GSE86618:IPF010	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+IPF012	geo:GSE86618:IPF012	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_characteristics_ch1 = diagnosis: Control	True
+CC002	geo:GSE86618:CC002	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+CC006	geo:GSE86618:CC006	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+CC019	geo:GSE86618:CC019	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IL006	geo:GSE86618:IL006	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF002	geo:GSE86618:IPF002	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF003	geo:GSE86618:IPF003	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF009	geo:GSE86618:IPF009	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF010	geo:GSE86618:IPF010	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+IPF012	geo:GSE86618:IPF012	disease_ontology_term_id	<map of column diagnosis>	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Cells were isolated from two normal controls	True
+CC002	geo:GSE86618:CC002	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+CC006	geo:GSE86618:CC006	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+CC019	geo:GSE86618:CC019	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IL006	geo:GSE86618:IL006	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF002	geo:GSE86618:IPF002	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF003	geo:GSE86618:IPF003	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF009	geo:GSE86618:IPF009	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF010	geo:GSE86618:IPF010	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF012	geo:GSE86618:IPF012	tissue_free_text	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+CC002	geo:GSE86618:CC002	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+CC006	geo:GSE86618:CC006	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+CC019	geo:GSE86618:CC019	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IL006	geo:GSE86618:IL006	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF002	geo:GSE86618:IPF002	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF003	geo:GSE86618:IPF003	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF009	geo:GSE86618:IPF009	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF010	geo:GSE86618:IPF010	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+IPF012	geo:GSE86618:IPF012	tissue_ontology_term_id	lung	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		!Sample_source_name_ch1 = lung	True
+CC002	geo:GSE86618:CC002	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+CC006	geo:GSE86618:CC006	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+CC019	geo:GSE86618:CC019	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+IL006	geo:GSE86618:IL006	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+IPF002	geo:GSE86618:IPF002	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+IPF003	geo:GSE86618:IPF003	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+IPF009	geo:GSE86618:IPF009	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+IPF010	geo:GSE86618:IPF010	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+IPF012	geo:GSE86618:IPF012	tissue_type	tissue	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		six IPF tissue samples	True
+CC002	geo:GSE86618:CC002	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+CC006	geo:GSE86618:CC006	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+CC019	geo:GSE86618:CC019	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+IL006	geo:GSE86618:IL006	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+IPF002	geo:GSE86618:IPF002	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+IPF003	geo:GSE86618:IPF003	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+IPF009	geo:GSE86618:IPF009	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+IPF010	geo:GSE86618:IPF010	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+IPF012	geo:GSE86618:IPF012	suspension_type	cell	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		prior to single cell isolation	True
+CC002	geo:GSE86618:CC002	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+CC006	geo:GSE86618:CC006	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+CC019	geo:GSE86618:CC019	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+IL006	geo:GSE86618:IL006	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+IPF002	geo:GSE86618:IPF002	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+IPF003	geo:GSE86618:IPF003	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+IPF009	geo:GSE86618:IPF009	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+IPF010	geo:GSE86618:IPF010	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+IPF012	geo:GSE86618:IPF012	cell_enrichment	CD326+ (EpCAM) sorted epithelial cells	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		cells were sorted initially with CD326 prior to single cell isolation	True
+CC002	geo:GSE86618:CC002	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+CC006	geo:GSE86618:CC006	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+CC019	geo:GSE86618:CC019	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+IL006	geo:GSE86618:IL006	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+IPF002	geo:GSE86618:IPF002	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+IPF003	geo:GSE86618:IPF003	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+IPF009	geo:GSE86618:IPF009	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+IPF010	geo:GSE86618:IPF010	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True
+IPF012	geo:GSE86618:IPF012	gene_annotation_version	gencode 23	file	raw/fp-460f1527eb97/GSE86618_family.soft.gz		Genome_build: gencode 23	True

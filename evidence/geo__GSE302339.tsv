@@ -1,0 +1,587 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9102249	geo:GSE302339:GSM9102249	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102249	geo:GSE302339:GSM9102249	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM9102249	geo:GSE302339:GSM9102249	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102250	geo:GSE302339:GSM9102250	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102250	geo:GSE302339:GSM9102250	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM9102250	geo:GSE302339:GSM9102250	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102251	geo:GSE302339:GSM9102251	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102251	geo:GSE302339:GSM9102251	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9102251	geo:GSE302339:GSM9102251	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102252	geo:GSE302339:GSM9102252	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102252	geo:GSE302339:GSM9102252	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102252	geo:GSE302339:GSM9102252	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102253	geo:GSE302339:GSM9102253	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102253	geo:GSE302339:GSM9102253	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9102253	geo:GSE302339:GSM9102253	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102254	geo:GSE302339:GSM9102254	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102254	geo:GSE302339:GSM9102254	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102254	geo:GSE302339:GSM9102254	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102255	geo:GSE302339:GSM9102255	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102255	geo:GSE302339:GSM9102255	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9102255	geo:GSE302339:GSM9102255	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102256	geo:GSE302339:GSM9102256	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102256	geo:GSE302339:GSM9102256	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9102256	geo:GSE302339:GSM9102256	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102257	geo:GSE302339:GSM9102257	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102257	geo:GSE302339:GSM9102257	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102257	geo:GSE302339:GSM9102257	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102258	geo:GSE302339:GSM9102258	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102258	geo:GSE302339:GSM9102258	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102258	geo:GSE302339:GSM9102258	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102259	geo:GSE302339:GSM9102259	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102259	geo:GSE302339:GSM9102259	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9102259	geo:GSE302339:GSM9102259	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102260	geo:GSE302339:GSM9102260	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102260	geo:GSE302339:GSM9102260	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9102260	geo:GSE302339:GSM9102260	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102261	geo:GSE302339:GSM9102261	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102261	geo:GSE302339:GSM9102261	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9102261	geo:GSE302339:GSM9102261	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102262	geo:GSE302339:GSM9102262	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102262	geo:GSE302339:GSM9102262	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102262	geo:GSE302339:GSM9102262	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102263	geo:GSE302339:GSM9102263	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102263	geo:GSE302339:GSM9102263	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9102263	geo:GSE302339:GSM9102263	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102264	geo:GSE302339:GSM9102264	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102264	geo:GSE302339:GSM9102264	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102264	geo:GSE302339:GSM9102264	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102265	geo:GSE302339:GSM9102265	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102265	geo:GSE302339:GSM9102265	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102265	geo:GSE302339:GSM9102265	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102266	geo:GSE302339:GSM9102266	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102266	geo:GSE302339:GSM9102266	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9102266	geo:GSE302339:GSM9102266	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102267	geo:GSE302339:GSM9102267	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102267	geo:GSE302339:GSM9102267	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9102267	geo:GSE302339:GSM9102267	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102268	geo:GSE302339:GSM9102268	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102268	geo:GSE302339:GSM9102268	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM9102268	geo:GSE302339:GSM9102268	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102269	geo:GSE302339:GSM9102269	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102269	geo:GSE302339:GSM9102269	development_stage_ontology_term_id	HsapDv:0000130	derived	age_in_years:'36-year-old stage':ols:hsapdv		36	True
+GSM9102269	geo:GSE302339:GSM9102269	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102270	geo:GSE302339:GSM9102270	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102270	geo:GSE302339:GSM9102270	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9102270	geo:GSE302339:GSM9102270	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102272	geo:GSE302339:GSM9102272	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102272	geo:GSE302339:GSM9102272	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9102272	geo:GSE302339:GSM9102272	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102273	geo:GSE302339:GSM9102273	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102273	geo:GSE302339:GSM9102273	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM9102273	geo:GSE302339:GSM9102273	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102274	geo:GSE302339:GSM9102274	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102274	geo:GSE302339:GSM9102274	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102274	geo:GSE302339:GSM9102274	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102275	geo:GSE302339:GSM9102275	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102275	geo:GSE302339:GSM9102275	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9102275	geo:GSE302339:GSM9102275	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102276	geo:GSE302339:GSM9102276	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102276	geo:GSE302339:GSM9102276	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9102276	geo:GSE302339:GSM9102276	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102277	geo:GSE302339:GSM9102277	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102277	geo:GSE302339:GSM9102277	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM9102277	geo:GSE302339:GSM9102277	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102278	geo:GSE302339:GSM9102278	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102278	geo:GSE302339:GSM9102278	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102278	geo:GSE302339:GSM9102278	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102279	geo:GSE302339:GSM9102279	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102279	geo:GSE302339:GSM9102279	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9102279	geo:GSE302339:GSM9102279	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102280	geo:GSE302339:GSM9102280	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102280	geo:GSE302339:GSM9102280	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9102280	geo:GSE302339:GSM9102280	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102281	geo:GSE302339:GSM9102281	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102281	geo:GSE302339:GSM9102281	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM9102281	geo:GSE302339:GSM9102281	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102282	geo:GSE302339:GSM9102282	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102282	geo:GSE302339:GSM9102282	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM9102282	geo:GSE302339:GSM9102282	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102283	geo:GSE302339:GSM9102283	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102283	geo:GSE302339:GSM9102283	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9102283	geo:GSE302339:GSM9102283	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102284	geo:GSE302339:GSM9102284	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102284	geo:GSE302339:GSM9102284	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9102284	geo:GSE302339:GSM9102284	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102285	geo:GSE302339:GSM9102285	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102285	geo:GSE302339:GSM9102285	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9102285	geo:GSE302339:GSM9102285	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102286	geo:GSE302339:GSM9102286	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102286	geo:GSE302339:GSM9102286	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9102286	geo:GSE302339:GSM9102286	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102287	geo:GSE302339:GSM9102287	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102287	geo:GSE302339:GSM9102287	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9102287	geo:GSE302339:GSM9102287	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102288	geo:GSE302339:GSM9102288	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102288	geo:GSE302339:GSM9102288	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9102288	geo:GSE302339:GSM9102288	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102289	geo:GSE302339:GSM9102289	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102289	geo:GSE302339:GSM9102289	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102289	geo:GSE302339:GSM9102289	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102290	geo:GSE302339:GSM9102290	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102290	geo:GSE302339:GSM9102290	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9102290	geo:GSE302339:GSM9102290	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102291	geo:GSE302339:GSM9102291	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102291	geo:GSE302339:GSM9102291	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9102291	geo:GSE302339:GSM9102291	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102292	geo:GSE302339:GSM9102292	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102292	geo:GSE302339:GSM9102292	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9102292	geo:GSE302339:GSM9102292	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102293	geo:GSE302339:GSM9102293	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102293	geo:GSE302339:GSM9102293	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM9102293	geo:GSE302339:GSM9102293	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102294	geo:GSE302339:GSM9102294	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102294	geo:GSE302339:GSM9102294	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM9102294	geo:GSE302339:GSM9102294	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102295	geo:GSE302339:GSM9102295	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102295	geo:GSE302339:GSM9102295	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9102295	geo:GSE302339:GSM9102295	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102296	geo:GSE302339:GSM9102296	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102296	geo:GSE302339:GSM9102296	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM9102296	geo:GSE302339:GSM9102296	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102297	geo:GSE302339:GSM9102297	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102297	geo:GSE302339:GSM9102297	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9102297	geo:GSE302339:GSM9102297	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102298	geo:GSE302339:GSM9102298	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102298	geo:GSE302339:GSM9102298	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM9102298	geo:GSE302339:GSM9102298	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102299	geo:GSE302339:GSM9102299	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102299	geo:GSE302339:GSM9102299	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9102299	geo:GSE302339:GSM9102299	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102300	geo:GSE302339:GSM9102300	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102300	geo:GSE302339:GSM9102300	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM9102300	geo:GSE302339:GSM9102300	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102301	geo:GSE302339:GSM9102301	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102301	geo:GSE302339:GSM9102301	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM9102301	geo:GSE302339:GSM9102301	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102302	geo:GSE302339:GSM9102302	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102302	geo:GSE302339:GSM9102302	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102302	geo:GSE302339:GSM9102302	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102303	geo:GSE302339:GSM9102303	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102303	geo:GSE302339:GSM9102303	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9102303	geo:GSE302339:GSM9102303	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102305	geo:GSE302339:GSM9102305	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102305	geo:GSE302339:GSM9102305	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9102305	geo:GSE302339:GSM9102305	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102306	geo:GSE302339:GSM9102306	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102306	geo:GSE302339:GSM9102306	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9102306	geo:GSE302339:GSM9102306	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102307	geo:GSE302339:GSM9102307	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102307	geo:GSE302339:GSM9102307	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9102307	geo:GSE302339:GSM9102307	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102308	geo:GSE302339:GSM9102308	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102308	geo:GSE302339:GSM9102308	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM9102308	geo:GSE302339:GSM9102308	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102309	geo:GSE302339:GSM9102309	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102309	geo:GSE302339:GSM9102309	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM9102309	geo:GSE302339:GSM9102309	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102310	geo:GSE302339:GSM9102310	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102310	geo:GSE302339:GSM9102310	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM9102310	geo:GSE302339:GSM9102310	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102311	geo:GSE302339:GSM9102311	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102311	geo:GSE302339:GSM9102311	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM9102311	geo:GSE302339:GSM9102311	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102312	geo:GSE302339:GSM9102312	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102312	geo:GSE302339:GSM9102312	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102312	geo:GSE302339:GSM9102312	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102313	geo:GSE302339:GSM9102313	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102313	geo:GSE302339:GSM9102313	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM9102313	geo:GSE302339:GSM9102313	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102314	geo:GSE302339:GSM9102314	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM9102314	geo:GSE302339:GSM9102314	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM9102314	geo:GSE302339:GSM9102314	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9102315	geo:GSE302339:GSM9102315	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM9102315	geo:GSE302339:GSM9102315	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9102315	geo:GSE302339:GSM9102315	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9102249	geo:GSE302339:GSM9102249	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102249	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102249	geo:GSE302339:GSM9102249	age	73	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102249	!Sample_characteristics_ch1 = age: 73	True
+GSM9102249	geo:GSE302339:GSM9102249	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102249	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102249	geo:GSE302339:GSM9102249	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102249	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102249	geo:GSE302339:GSM9102249	donor_id	ua014	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102249	!Sample_characteristics_ch1 = subject identity: ua014	True
+GSM9102249	geo:GSE302339:GSM9102249	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102249	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102250	geo:GSE302339:GSM9102250	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102250	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102250	geo:GSE302339:GSM9102250	age	71	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102250	!Sample_characteristics_ch1 = age: 71	True
+GSM9102250	geo:GSE302339:GSM9102250	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102250	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102250	geo:GSE302339:GSM9102250	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102250	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102250	geo:GSE302339:GSM9102250	donor_id	ua45	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102250	!Sample_characteristics_ch1 = subject identity: ua45	True
+GSM9102250	geo:GSE302339:GSM9102250	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102250	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102251	geo:GSE302339:GSM9102251	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102251	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102251	geo:GSE302339:GSM9102251	age	68	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102251	!Sample_characteristics_ch1 = age: 68	True
+GSM9102251	geo:GSE302339:GSM9102251	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102251	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102251	geo:GSE302339:GSM9102251	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102251	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102251	geo:GSE302339:GSM9102251	donor_id	copd1	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102251	!Sample_characteristics_ch1 = subject identity: copd1	True
+GSM9102251	geo:GSE302339:GSM9102251	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102251	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102252	geo:GSE302339:GSM9102252	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102252	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102252	geo:GSE302339:GSM9102252	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102252	!Sample_characteristics_ch1 = age: 67	True
+GSM9102252	geo:GSE302339:GSM9102252	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102252	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102252	geo:GSE302339:GSM9102252	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102252	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102252	geo:GSE302339:GSM9102252	donor_id	copd2	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102252	!Sample_characteristics_ch1 = subject identity: copd2	True
+GSM9102252	geo:GSE302339:GSM9102252	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102252	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102253	geo:GSE302339:GSM9102253	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102253	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102253	geo:GSE302339:GSM9102253	age	55	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102253	!Sample_characteristics_ch1 = age: 55	True
+GSM9102253	geo:GSE302339:GSM9102253	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102253	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102253	geo:GSE302339:GSM9102253	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102253	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102253	geo:GSE302339:GSM9102253	donor_id	copd6	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102253	!Sample_characteristics_ch1 = subject identity: copd6	True
+GSM9102253	geo:GSE302339:GSM9102253	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102253	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102254	geo:GSE302339:GSM9102254	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102254	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102254	geo:GSE302339:GSM9102254	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102254	!Sample_characteristics_ch1 = age: 62	True
+GSM9102254	geo:GSE302339:GSM9102254	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102254	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102254	geo:GSE302339:GSM9102254	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102254	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102254	geo:GSE302339:GSM9102254	donor_id	copd10	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102254	!Sample_characteristics_ch1 = subject identity: copd10	True
+GSM9102254	geo:GSE302339:GSM9102254	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102254	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102255	geo:GSE302339:GSM9102255	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102255	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102255	geo:GSE302339:GSM9102255	age	68	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102255	!Sample_characteristics_ch1 = age: 68	True
+GSM9102255	geo:GSE302339:GSM9102255	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102255	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102255	geo:GSE302339:GSM9102255	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102255	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102255	geo:GSE302339:GSM9102255	donor_id	cood8	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102255	!Sample_characteristics_ch1 = subject identity: cood8	True
+GSM9102255	geo:GSE302339:GSM9102255	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102255	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102256	geo:GSE302339:GSM9102256	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102256	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102256	geo:GSE302339:GSM9102256	age	68	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102256	!Sample_characteristics_ch1 = age: 68	True
+GSM9102256	geo:GSE302339:GSM9102256	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102256	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102256	geo:GSE302339:GSM9102256	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102256	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102256	geo:GSE302339:GSM9102256	donor_id	copd5	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102256	!Sample_characteristics_ch1 = subject identity: copd5	True
+GSM9102256	geo:GSE302339:GSM9102256	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102256	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102257	geo:GSE302339:GSM9102257	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102257	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102257	geo:GSE302339:GSM9102257	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102257	!Sample_characteristics_ch1 = age: 67	True
+GSM9102257	geo:GSE302339:GSM9102257	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102257	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102257	geo:GSE302339:GSM9102257	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102257	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102257	geo:GSE302339:GSM9102257	donor_id	copd3	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102257	!Sample_characteristics_ch1 = subject identity: copd3	True
+GSM9102257	geo:GSE302339:GSM9102257	treatment	ICS+OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102257	!Sample_characteristics_ch1 = steroidstype: ICS+OCS	True
+GSM9102258	geo:GSE302339:GSM9102258	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102258	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102258	geo:GSE302339:GSM9102258	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102258	!Sample_characteristics_ch1 = age: 67	True
+GSM9102258	geo:GSE302339:GSM9102258	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102258	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102258	geo:GSE302339:GSM9102258	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102258	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102258	geo:GSE302339:GSM9102258	donor_id	copd2	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102258	!Sample_characteristics_ch1 = subject identity: copd2	True
+GSM9102258	geo:GSE302339:GSM9102258	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102258	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102259	geo:GSE302339:GSM9102259	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102259	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102259	geo:GSE302339:GSM9102259	age	68	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102259	!Sample_characteristics_ch1 = age: 68	True
+GSM9102259	geo:GSE302339:GSM9102259	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102259	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102259	geo:GSE302339:GSM9102259	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102259	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102259	geo:GSE302339:GSM9102259	donor_id	copd4	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102259	!Sample_characteristics_ch1 = subject identity: copd4	True
+GSM9102259	geo:GSE302339:GSM9102259	treatment	OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102259	!Sample_characteristics_ch1 = steroidstype: OCS	True
+GSM9102260	geo:GSE302339:GSM9102260	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102260	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102260	geo:GSE302339:GSM9102260	age	55	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102260	!Sample_characteristics_ch1 = age: 55	True
+GSM9102260	geo:GSE302339:GSM9102260	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102260	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102260	geo:GSE302339:GSM9102260	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102260	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102260	geo:GSE302339:GSM9102260	donor_id	copd6	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102260	!Sample_characteristics_ch1 = subject identity: copd6	True
+GSM9102260	geo:GSE302339:GSM9102260	treatment	OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102260	!Sample_characteristics_ch1 = steroidstype: OCS	True
+GSM9102261	geo:GSE302339:GSM9102261	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102261	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102261	geo:GSE302339:GSM9102261	age	68	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102261	!Sample_characteristics_ch1 = age: 68	True
+GSM9102261	geo:GSE302339:GSM9102261	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102261	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102261	geo:GSE302339:GSM9102261	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102261	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102261	geo:GSE302339:GSM9102261	donor_id	copd8	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102261	!Sample_characteristics_ch1 = subject identity: copd8	True
+GSM9102261	geo:GSE302339:GSM9102261	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102261	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102262	geo:GSE302339:GSM9102262	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102262	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102262	geo:GSE302339:GSM9102262	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102262	!Sample_characteristics_ch1 = age: 67	True
+GSM9102262	geo:GSE302339:GSM9102262	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102262	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102262	geo:GSE302339:GSM9102262	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102262	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102262	geo:GSE302339:GSM9102262	donor_id	copd7	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102262	!Sample_characteristics_ch1 = subject identity: copd7	True
+GSM9102262	geo:GSE302339:GSM9102262	treatment	ICS+OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102262	!Sample_characteristics_ch1 = steroidstype: ICS+OCS	True
+GSM9102263	geo:GSE302339:GSM9102263	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102263	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102263	geo:GSE302339:GSM9102263	age	68	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102263	!Sample_characteristics_ch1 = age: 68	True
+GSM9102263	geo:GSE302339:GSM9102263	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102263	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102263	geo:GSE302339:GSM9102263	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102263	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102263	geo:GSE302339:GSM9102263	donor_id	copd4	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102263	!Sample_characteristics_ch1 = subject identity: copd4	True
+GSM9102263	geo:GSE302339:GSM9102263	treatment	OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102263	!Sample_characteristics_ch1 = steroidstype: OCS	True
+GSM9102264	geo:GSE302339:GSM9102264	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102264	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102264	geo:GSE302339:GSM9102264	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102264	!Sample_characteristics_ch1 = age: 62	True
+GSM9102264	geo:GSE302339:GSM9102264	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102264	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102264	geo:GSE302339:GSM9102264	disease_free_text	patients with emphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102264	!Sample_characteristics_ch1 = subject group: patients with emphysematous COPD	True
+GSM9102264	geo:GSE302339:GSM9102264	donor_id	copd10	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102264	!Sample_characteristics_ch1 = subject identity: copd10	True
+GSM9102264	geo:GSE302339:GSM9102264	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102264	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102265	geo:GSE302339:GSM9102265	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102265	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102265	geo:GSE302339:GSM9102265	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102265	!Sample_characteristics_ch1 = age: 62	True
+GSM9102265	geo:GSE302339:GSM9102265	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102265	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102265	geo:GSE302339:GSM9102265	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102265	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102265	geo:GSE302339:GSM9102265	donor_id	dnaz1	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102265	!Sample_characteristics_ch1 = subject identity: dnaz1	True
+GSM9102265	geo:GSE302339:GSM9102265	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102265	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102266	geo:GSE302339:GSM9102266	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102266	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102266	geo:GSE302339:GSM9102266	age	27	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102266	!Sample_characteristics_ch1 = age: 27	True
+GSM9102266	geo:GSE302339:GSM9102266	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102266	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102266	geo:GSE302339:GSM9102266	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102266	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102266	geo:GSE302339:GSM9102266	donor_id	dnaz4	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102266	!Sample_characteristics_ch1 = subject identity: dnaz4	True
+GSM9102266	geo:GSE302339:GSM9102266	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102266	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102267	geo:GSE302339:GSM9102267	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102267	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102267	geo:GSE302339:GSM9102267	age	50	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102267	!Sample_characteristics_ch1 = age: 50	True
+GSM9102267	geo:GSE302339:GSM9102267	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102267	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102267	geo:GSE302339:GSM9102267	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102267	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102267	geo:GSE302339:GSM9102267	donor_id	dnaz6	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102267	!Sample_characteristics_ch1 = subject identity: dnaz6	True
+GSM9102267	geo:GSE302339:GSM9102267	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102267	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102268	geo:GSE302339:GSM9102268	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102268	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102268	geo:GSE302339:GSM9102268	age	52	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102268	!Sample_characteristics_ch1 = age: 52	True
+GSM9102268	geo:GSE302339:GSM9102268	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102268	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102268	geo:GSE302339:GSM9102268	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102268	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102268	geo:GSE302339:GSM9102268	donor_id	dnaz7	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102268	!Sample_characteristics_ch1 = subject identity: dnaz7	True
+GSM9102268	geo:GSE302339:GSM9102268	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102268	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102269	geo:GSE302339:GSM9102269	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102269	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102269	geo:GSE302339:GSM9102269	age	36	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102269	!Sample_characteristics_ch1 = age: 36	True
+GSM9102269	geo:GSE302339:GSM9102269	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102269	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102269	geo:GSE302339:GSM9102269	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102269	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102269	geo:GSE302339:GSM9102269	donor_id	dnaz2	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102269	!Sample_characteristics_ch1 = subject identity: dnaz2	True
+GSM9102269	geo:GSE302339:GSM9102269	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102269	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102270	geo:GSE302339:GSM9102270	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102270	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102270	geo:GSE302339:GSM9102270	age	27	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102270	!Sample_characteristics_ch1 = age: 27	True
+GSM9102270	geo:GSE302339:GSM9102270	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102270	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102270	geo:GSE302339:GSM9102270	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102270	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102270	geo:GSE302339:GSM9102270	donor_id	dnaz4	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102270	!Sample_characteristics_ch1 = subject identity: dnaz4	True
+GSM9102270	geo:GSE302339:GSM9102270	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102270	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102272	geo:GSE302339:GSM9102272	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102272	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102272	geo:GSE302339:GSM9102272	age	50	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102272	!Sample_characteristics_ch1 = age: 50	True
+GSM9102272	geo:GSE302339:GSM9102272	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102272	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102272	geo:GSE302339:GSM9102272	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102272	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102272	geo:GSE302339:GSM9102272	donor_id	dnaz6	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102272	!Sample_characteristics_ch1 = subject identity: dnaz6	True
+GSM9102272	geo:GSE302339:GSM9102272	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102272	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102273	geo:GSE302339:GSM9102273	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102273	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102273	geo:GSE302339:GSM9102273	age	52	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102273	!Sample_characteristics_ch1 = age: 52	True
+GSM9102273	geo:GSE302339:GSM9102273	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102273	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102273	geo:GSE302339:GSM9102273	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102273	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102273	geo:GSE302339:GSM9102273	donor_id	dnaz7	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102273	!Sample_characteristics_ch1 = subject identity: dnaz7	True
+GSM9102273	geo:GSE302339:GSM9102273	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102273	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102274	geo:GSE302339:GSM9102274	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102274	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102274	geo:GSE302339:GSM9102274	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102274	!Sample_characteristics_ch1 = age: 62	True
+GSM9102274	geo:GSE302339:GSM9102274	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102274	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102274	geo:GSE302339:GSM9102274	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102274	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102274	geo:GSE302339:GSM9102274	donor_id	dnaz1	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102274	!Sample_characteristics_ch1 = subject identity: dnaz1	True
+GSM9102274	geo:GSE302339:GSM9102274	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102274	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102275	geo:GSE302339:GSM9102275	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102275	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102275	geo:GSE302339:GSM9102275	age	27	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102275	!Sample_characteristics_ch1 = age: 27	True
+GSM9102275	geo:GSE302339:GSM9102275	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102275	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102275	geo:GSE302339:GSM9102275	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102275	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102275	geo:GSE302339:GSM9102275	donor_id	dnaz4	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102275	!Sample_characteristics_ch1 = subject identity: dnaz4	True
+GSM9102275	geo:GSE302339:GSM9102275	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102275	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102276	geo:GSE302339:GSM9102276	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102276	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102276	geo:GSE302339:GSM9102276	age	78	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102276	!Sample_characteristics_ch1 = age: 78	True
+GSM9102276	geo:GSE302339:GSM9102276	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102276	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102276	geo:GSE302339:GSM9102276	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102276	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102276	geo:GSE302339:GSM9102276	donor_id	ua69	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102276	!Sample_characteristics_ch1 = subject identity: ua69	True
+GSM9102276	geo:GSE302339:GSM9102276	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102276	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102277	geo:GSE302339:GSM9102277	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102277	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102277	geo:GSE302339:GSM9102277	age	80	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102277	!Sample_characteristics_ch1 = age: 80	True
+GSM9102277	geo:GSE302339:GSM9102277	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102277	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102277	geo:GSE302339:GSM9102277	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102277	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102277	geo:GSE302339:GSM9102277	donor_id	ua74	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102277	!Sample_characteristics_ch1 = subject identity: ua74	True
+GSM9102277	geo:GSE302339:GSM9102277	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102277	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102278	geo:GSE302339:GSM9102278	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102278	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102278	geo:GSE302339:GSM9102278	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102278	!Sample_characteristics_ch1 = age: 62	True
+GSM9102278	geo:GSE302339:GSM9102278	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102278	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102278	geo:GSE302339:GSM9102278	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102278	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102278	geo:GSE302339:GSM9102278	donor_id	ua43	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102278	!Sample_characteristics_ch1 = subject identity: ua43	True
+GSM9102278	geo:GSE302339:GSM9102278	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102278	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102279	geo:GSE302339:GSM9102279	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102279	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102279	geo:GSE302339:GSM9102279	age	64	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102279	!Sample_characteristics_ch1 = age: 64	True
+GSM9102279	geo:GSE302339:GSM9102279	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102279	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102279	geo:GSE302339:GSM9102279	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102279	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102279	geo:GSE302339:GSM9102279	donor_id	ua61	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102279	!Sample_characteristics_ch1 = subject identity: ua61	True
+GSM9102279	geo:GSE302339:GSM9102279	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102279	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102280	geo:GSE302339:GSM9102280	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102280	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102280	geo:GSE302339:GSM9102280	age	77	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102280	!Sample_characteristics_ch1 = age: 77	True
+GSM9102280	geo:GSE302339:GSM9102280	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102280	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102280	geo:GSE302339:GSM9102280	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102280	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102280	geo:GSE302339:GSM9102280	donor_id	ua66	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102280	!Sample_characteristics_ch1 = subject identity: ua66	True
+GSM9102280	geo:GSE302339:GSM9102280	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102280	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102281	geo:GSE302339:GSM9102281	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102281	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102281	geo:GSE302339:GSM9102281	age	23	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102281	!Sample_characteristics_ch1 = age: 23	True
+GSM9102281	geo:GSE302339:GSM9102281	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102281	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102281	geo:GSE302339:GSM9102281	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102281	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102281	geo:GSE302339:GSM9102281	donor_id	ua65	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102281	!Sample_characteristics_ch1 = subject identity: ua65	True
+GSM9102281	geo:GSE302339:GSM9102281	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102281	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102282	geo:GSE302339:GSM9102282	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102282	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102282	geo:GSE302339:GSM9102282	age	75	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102282	!Sample_characteristics_ch1 = age: 75	True
+GSM9102282	geo:GSE302339:GSM9102282	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102282	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102282	geo:GSE302339:GSM9102282	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102282	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102282	geo:GSE302339:GSM9102282	donor_id	ua60	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102282	!Sample_characteristics_ch1 = subject identity: ua60	True
+GSM9102282	geo:GSE302339:GSM9102282	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102282	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102283	geo:GSE302339:GSM9102283	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102283	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102283	geo:GSE302339:GSM9102283	age	77	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102283	!Sample_characteristics_ch1 = age: 77	True
+GSM9102283	geo:GSE302339:GSM9102283	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102283	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102283	geo:GSE302339:GSM9102283	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102283	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102283	geo:GSE302339:GSM9102283	donor_id	ua16	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102283	!Sample_characteristics_ch1 = subject identity: ua16	True
+GSM9102283	geo:GSE302339:GSM9102283	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102283	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102284	geo:GSE302339:GSM9102284	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102284	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102284	geo:GSE302339:GSM9102284	age	55	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102284	!Sample_characteristics_ch1 = age: 55	True
+GSM9102284	geo:GSE302339:GSM9102284	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102284	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102284	geo:GSE302339:GSM9102284	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102284	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102284	geo:GSE302339:GSM9102284	donor_id	ua35	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102284	!Sample_characteristics_ch1 = subject identity: ua35	True
+GSM9102284	geo:GSE302339:GSM9102284	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102284	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102285	geo:GSE302339:GSM9102285	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102285	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102285	geo:GSE302339:GSM9102285	age	72	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102285	!Sample_characteristics_ch1 = age: 72	True
+GSM9102285	geo:GSE302339:GSM9102285	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102285	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102285	geo:GSE302339:GSM9102285	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102285	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102285	geo:GSE302339:GSM9102285	donor_id	ua39	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102285	!Sample_characteristics_ch1 = subject identity: ua39	True
+GSM9102285	geo:GSE302339:GSM9102285	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102285	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102286	geo:GSE302339:GSM9102286	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102286	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102286	geo:GSE302339:GSM9102286	age	59	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102286	!Sample_characteristics_ch1 = age: 59	True
+GSM9102286	geo:GSE302339:GSM9102286	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102286	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102286	geo:GSE302339:GSM9102286	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102286	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102286	geo:GSE302339:GSM9102286	donor_id	ua56	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102286	!Sample_characteristics_ch1 = subject identity: ua56	True
+GSM9102286	geo:GSE302339:GSM9102286	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102286	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102287	geo:GSE302339:GSM9102287	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102287	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102287	geo:GSE302339:GSM9102287	age	72	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102287	!Sample_characteristics_ch1 = age: 72	True
+GSM9102287	geo:GSE302339:GSM9102287	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102287	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102287	geo:GSE302339:GSM9102287	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102287	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102287	geo:GSE302339:GSM9102287	donor_id	ua42	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102287	!Sample_characteristics_ch1 = subject identity: ua42	True
+GSM9102287	geo:GSE302339:GSM9102287	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102287	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102288	geo:GSE302339:GSM9102288	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102288	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102288	geo:GSE302339:GSM9102288	age	74	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102288	!Sample_characteristics_ch1 = age: 74	True
+GSM9102288	geo:GSE302339:GSM9102288	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102288	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102288	geo:GSE302339:GSM9102288	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102288	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102288	geo:GSE302339:GSM9102288	donor_id	ua27	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102288	!Sample_characteristics_ch1 = subject identity: ua27	True
+GSM9102288	geo:GSE302339:GSM9102288	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102288	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102289	geo:GSE302339:GSM9102289	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102289	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102289	geo:GSE302339:GSM9102289	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102289	!Sample_characteristics_ch1 = age: 62	True
+GSM9102289	geo:GSE302339:GSM9102289	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102289	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102289	geo:GSE302339:GSM9102289	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102289	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102289	geo:GSE302339:GSM9102289	donor_id	ua30	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102289	!Sample_characteristics_ch1 = subject identity: ua30	True
+GSM9102289	geo:GSE302339:GSM9102289	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102289	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102290	geo:GSE302339:GSM9102290	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102290	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102290	geo:GSE302339:GSM9102290	age	70	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102290	!Sample_characteristics_ch1 = age: 70	True
+GSM9102290	geo:GSE302339:GSM9102290	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102290	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102290	geo:GSE302339:GSM9102290	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102290	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102290	geo:GSE302339:GSM9102290	donor_id	ua32	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102290	!Sample_characteristics_ch1 = subject identity: ua32	True
+GSM9102290	geo:GSE302339:GSM9102290	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102290	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102291	geo:GSE302339:GSM9102291	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102291	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102291	geo:GSE302339:GSM9102291	age	63	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102291	!Sample_characteristics_ch1 = age: 63	True
+GSM9102291	geo:GSE302339:GSM9102291	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102291	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102291	geo:GSE302339:GSM9102291	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102291	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102291	geo:GSE302339:GSM9102291	donor_id	ua36	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102291	!Sample_characteristics_ch1 = subject identity: ua36	True
+GSM9102291	geo:GSE302339:GSM9102291	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102291	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102292	geo:GSE302339:GSM9102292	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102292	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102292	geo:GSE302339:GSM9102292	age	63	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102292	!Sample_characteristics_ch1 = age: 63	True
+GSM9102292	geo:GSE302339:GSM9102292	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102292	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102292	geo:GSE302339:GSM9102292	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102292	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102292	geo:GSE302339:GSM9102292	donor_id	ua51	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102292	!Sample_characteristics_ch1 = subject identity: ua51	True
+GSM9102292	geo:GSE302339:GSM9102292	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102292	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102293	geo:GSE302339:GSM9102293	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102293	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102293	geo:GSE302339:GSM9102293	age	53	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102293	!Sample_characteristics_ch1 = age: 53	True
+GSM9102293	geo:GSE302339:GSM9102293	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102293	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102293	geo:GSE302339:GSM9102293	disease_free_text	patients with no history of COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102293	!Sample_characteristics_ch1 = subject group: patients with no history of COPD	True
+GSM9102293	geo:GSE302339:GSM9102293	donor_id	ua59	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102293	!Sample_characteristics_ch1 = subject identity: ua59	True
+GSM9102293	geo:GSE302339:GSM9102293	treatment	OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102293	!Sample_characteristics_ch1 = steroidstype: OCS	True
+GSM9102294	geo:GSE302339:GSM9102294	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102294	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102294	geo:GSE302339:GSM9102294	age	71	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102294	!Sample_characteristics_ch1 = age: 71	True
+GSM9102294	geo:GSE302339:GSM9102294	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102294	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102294	geo:GSE302339:GSM9102294	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102294	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102294	geo:GSE302339:GSM9102294	donor_id	ua41	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102294	!Sample_characteristics_ch1 = subject identity: ua41	True
+GSM9102294	geo:GSE302339:GSM9102294	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102294	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102295	geo:GSE302339:GSM9102295	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102295	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102295	geo:GSE302339:GSM9102295	age	72	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102295	!Sample_characteristics_ch1 = age: 72	True
+GSM9102295	geo:GSE302339:GSM9102295	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102295	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102295	geo:GSE302339:GSM9102295	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102295	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102295	geo:GSE302339:GSM9102295	donor_id	ua70	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102295	!Sample_characteristics_ch1 = subject identity: ua70	True
+GSM9102295	geo:GSE302339:GSM9102295	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102295	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102296	geo:GSE302339:GSM9102296	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102296	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102296	geo:GSE302339:GSM9102296	age	74	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102296	!Sample_characteristics_ch1 = age: 74	True
+GSM9102296	geo:GSE302339:GSM9102296	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102296	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102296	geo:GSE302339:GSM9102296	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102296	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102296	geo:GSE302339:GSM9102296	donor_id	ua64	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102296	!Sample_characteristics_ch1 = subject identity: ua64	True
+GSM9102296	geo:GSE302339:GSM9102296	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102296	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102297	geo:GSE302339:GSM9102297	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102297	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102297	geo:GSE302339:GSM9102297	age	70	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102297	!Sample_characteristics_ch1 = age: 70	True
+GSM9102297	geo:GSE302339:GSM9102297	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102297	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102297	geo:GSE302339:GSM9102297	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102297	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102297	geo:GSE302339:GSM9102297	donor_id	ua44	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102297	!Sample_characteristics_ch1 = subject identity: ua44	True
+GSM9102297	geo:GSE302339:GSM9102297	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102297	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102298	geo:GSE302339:GSM9102298	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102298	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102298	geo:GSE302339:GSM9102298	age	75	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102298	!Sample_characteristics_ch1 = age: 75	True
+GSM9102298	geo:GSE302339:GSM9102298	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102298	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102298	geo:GSE302339:GSM9102298	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102298	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102298	geo:GSE302339:GSM9102298	donor_id	ua58	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102298	!Sample_characteristics_ch1 = subject identity: ua58	True
+GSM9102298	geo:GSE302339:GSM9102298	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102298	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102299	geo:GSE302339:GSM9102299	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102299	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102299	geo:GSE302339:GSM9102299	age	60	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102299	!Sample_characteristics_ch1 = age: 60	True
+GSM9102299	geo:GSE302339:GSM9102299	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102299	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102299	geo:GSE302339:GSM9102299	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102299	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102299	geo:GSE302339:GSM9102299	donor_id	ua46	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102299	!Sample_characteristics_ch1 = subject identity: ua46	True
+GSM9102299	geo:GSE302339:GSM9102299	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102299	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102300	geo:GSE302339:GSM9102300	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102300	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102300	geo:GSE302339:GSM9102300	age	77	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102300	!Sample_characteristics_ch1 = age: 77	True
+GSM9102300	geo:GSE302339:GSM9102300	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102300	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102300	geo:GSE302339:GSM9102300	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102300	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102300	geo:GSE302339:GSM9102300	donor_id	ua37	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102300	!Sample_characteristics_ch1 = subject identity: ua37	True
+GSM9102300	geo:GSE302339:GSM9102300	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102300	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102301	geo:GSE302339:GSM9102301	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102301	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102301	geo:GSE302339:GSM9102301	age	52	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102301	!Sample_characteristics_ch1 = age: 52	True
+GSM9102301	geo:GSE302339:GSM9102301	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102301	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102301	geo:GSE302339:GSM9102301	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102301	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102301	geo:GSE302339:GSM9102301	donor_id	ua72	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102301	!Sample_characteristics_ch1 = subject identity: ua72	True
+GSM9102301	geo:GSE302339:GSM9102301	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102301	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102302	geo:GSE302339:GSM9102302	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102302	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102302	geo:GSE302339:GSM9102302	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102302	!Sample_characteristics_ch1 = age: 67	True
+GSM9102302	geo:GSE302339:GSM9102302	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102302	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102302	geo:GSE302339:GSM9102302	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102302	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102302	geo:GSE302339:GSM9102302	donor_id	ua73	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102302	!Sample_characteristics_ch1 = subject identity: ua73	True
+GSM9102302	geo:GSE302339:GSM9102302	treatment	OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102302	!Sample_characteristics_ch1 = steroidstype: OCS	True
+GSM9102303	geo:GSE302339:GSM9102303	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102303	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102303	geo:GSE302339:GSM9102303	age	72	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102303	!Sample_characteristics_ch1 = age: 72	True
+GSM9102303	geo:GSE302339:GSM9102303	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102303	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102303	geo:GSE302339:GSM9102303	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102303	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102303	geo:GSE302339:GSM9102303	donor_id	ua96	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102303	!Sample_characteristics_ch1 = subject identity: ua96	True
+GSM9102303	geo:GSE302339:GSM9102303	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102303	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102305	geo:GSE302339:GSM9102305	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102305	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102305	geo:GSE302339:GSM9102305	age	78	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102305	!Sample_characteristics_ch1 = age: 78	True
+GSM9102305	geo:GSE302339:GSM9102305	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102305	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102305	geo:GSE302339:GSM9102305	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102305	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102305	geo:GSE302339:GSM9102305	donor_id	ua95	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102305	!Sample_characteristics_ch1 = subject identity: ua95	True
+GSM9102305	geo:GSE302339:GSM9102305	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102305	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102306	geo:GSE302339:GSM9102306	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102306	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102306	geo:GSE302339:GSM9102306	age	78	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102306	!Sample_characteristics_ch1 = age: 78	True
+GSM9102306	geo:GSE302339:GSM9102306	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102306	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102306	geo:GSE302339:GSM9102306	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102306	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102306	geo:GSE302339:GSM9102306	donor_id	ua50	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102306	!Sample_characteristics_ch1 = subject identity: ua50	True
+GSM9102306	geo:GSE302339:GSM9102306	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102306	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102307	geo:GSE302339:GSM9102307	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102307	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102307	geo:GSE302339:GSM9102307	age	63	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102307	!Sample_characteristics_ch1 = age: 63	True
+GSM9102307	geo:GSE302339:GSM9102307	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102307	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102307	geo:GSE302339:GSM9102307	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102307	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102307	geo:GSE302339:GSM9102307	donor_id	ua38	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102307	!Sample_characteristics_ch1 = subject identity: ua38	True
+GSM9102307	geo:GSE302339:GSM9102307	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102307	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102308	geo:GSE302339:GSM9102308	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102308	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102308	geo:GSE302339:GSM9102308	age	75	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102308	!Sample_characteristics_ch1 = age: 75	True
+GSM9102308	geo:GSE302339:GSM9102308	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102308	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102308	geo:GSE302339:GSM9102308	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102308	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102308	geo:GSE302339:GSM9102308	donor_id	ua90	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102308	!Sample_characteristics_ch1 = subject identity: ua90	True
+GSM9102308	geo:GSE302339:GSM9102308	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102308	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102309	geo:GSE302339:GSM9102309	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102309	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102309	geo:GSE302339:GSM9102309	age	69	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102309	!Sample_characteristics_ch1 = age: 69	True
+GSM9102309	geo:GSE302339:GSM9102309	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102309	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102309	geo:GSE302339:GSM9102309	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102309	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102309	geo:GSE302339:GSM9102309	donor_id	ua94	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102309	!Sample_characteristics_ch1 = subject identity: ua94	True
+GSM9102309	geo:GSE302339:GSM9102309	treatment	ICS+OCS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102309	!Sample_characteristics_ch1 = steroidstype: ICS+OCS	True
+GSM9102310	geo:GSE302339:GSM9102310	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102310	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102310	geo:GSE302339:GSM9102310	age	75	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102310	!Sample_characteristics_ch1 = age: 75	True
+GSM9102310	geo:GSE302339:GSM9102310	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102310	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102310	geo:GSE302339:GSM9102310	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102310	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102310	geo:GSE302339:GSM9102310	donor_id	ua100	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102310	!Sample_characteristics_ch1 = subject identity: ua100	True
+GSM9102310	geo:GSE302339:GSM9102310	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102310	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102311	geo:GSE302339:GSM9102311	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102311	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102311	geo:GSE302339:GSM9102311	age	58	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102311	!Sample_characteristics_ch1 = age: 58	True
+GSM9102311	geo:GSE302339:GSM9102311	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102311	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102311	geo:GSE302339:GSM9102311	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102311	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102311	geo:GSE302339:GSM9102311	donor_id	ua5	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102311	!Sample_characteristics_ch1 = subject identity: ua5	True
+GSM9102311	geo:GSE302339:GSM9102311	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102311	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102312	geo:GSE302339:GSM9102312	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102312	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102312	geo:GSE302339:GSM9102312	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102312	!Sample_characteristics_ch1 = age: 67	True
+GSM9102312	geo:GSE302339:GSM9102312	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102312	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102312	geo:GSE302339:GSM9102312	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102312	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102312	geo:GSE302339:GSM9102312	donor_id	ua48	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102312	!Sample_characteristics_ch1 = subject identity: ua48	True
+GSM9102312	geo:GSE302339:GSM9102312	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102312	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102313	geo:GSE302339:GSM9102313	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102313	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102313	geo:GSE302339:GSM9102313	age	67	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102313	!Sample_characteristics_ch1 = age: 67	True
+GSM9102313	geo:GSE302339:GSM9102313	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102313	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102313	geo:GSE302339:GSM9102313	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102313	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102313	geo:GSE302339:GSM9102313	donor_id	ua28	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102313	!Sample_characteristics_ch1 = subject identity: ua28	True
+GSM9102313	geo:GSE302339:GSM9102313	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102313	!Sample_characteristics_ch1 = steroidstype: ICS	True
+GSM9102314	geo:GSE302339:GSM9102314	sex	M	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102314	!Sample_characteristics_ch1 = Sex: M	True
+GSM9102314	geo:GSE302339:GSM9102314	age	73	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102314	!Sample_characteristics_ch1 = age: 73	True
+GSM9102314	geo:GSE302339:GSM9102314	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102314	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102314	geo:GSE302339:GSM9102314	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102314	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102314	geo:GSE302339:GSM9102314	donor_id	ua53	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102314	!Sample_characteristics_ch1 = subject identity: ua53	True
+GSM9102314	geo:GSE302339:GSM9102314	treatment	None	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102314	!Sample_characteristics_ch1 = steroidstype: None	True
+GSM9102315	geo:GSE302339:GSM9102315	sex	F	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102315	!Sample_characteristics_ch1 = Sex: F	True
+GSM9102315	geo:GSE302339:GSM9102315	age	62	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102315	!Sample_characteristics_ch1 = age: 62	True
+GSM9102315	geo:GSE302339:GSM9102315	tissue_free_text	Lung	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102315	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9102315	geo:GSE302339:GSM9102315	disease_free_text	patients with nonemphysematous COPD	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102315	!Sample_characteristics_ch1 = subject group: patients with nonemphysematous COPD	True
+GSM9102315	geo:GSE302339:GSM9102315	donor_id	ua26	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102315	!Sample_characteristics_ch1 = subject identity: ua26	True
+GSM9102315	geo:GSE302339:GSM9102315	treatment	ICS	file	raw/fp-65739ba6b97d/GSE302339_family.soft.gz	GSM9102315	!Sample_characteristics_ch1 = steroidstype: ICS	True

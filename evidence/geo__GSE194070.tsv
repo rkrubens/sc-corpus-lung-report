@@ -1,0 +1,254 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5827295	geo:GSE194070:GSM5827295	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827295	geo:GSE194070:GSM5827295	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827295	geo:GSE194070:GSM5827295	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5827296	geo:GSE194070:GSM5827296	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827296	geo:GSE194070:GSM5827296	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827296	geo:GSE194070:GSM5827296	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5827297	geo:GSE194070:GSM5827297	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827297	geo:GSE194070:GSM5827297	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827297	geo:GSE194070:GSM5827297	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5827298	geo:GSE194070:GSM5827298	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827298	geo:GSE194070:GSM5827298	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827298	geo:GSE194070:GSM5827298	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5827299	geo:GSE194070:GSM5827299	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827299	geo:GSE194070:GSM5827299	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827299	geo:GSE194070:GSM5827299	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM5827300	geo:GSE194070:GSM5827300	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827300	geo:GSE194070:GSM5827300	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827300	geo:GSE194070:GSM5827300	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM5827301	geo:GSE194070:GSM5827301	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827301	geo:GSE194070:GSM5827301	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827301	geo:GSE194070:GSM5827301	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM5827302	geo:GSE194070:GSM5827302	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827302	geo:GSE194070:GSM5827302	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827302	geo:GSE194070:GSM5827302	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM5827303	geo:GSE194070:GSM5827303	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827303	geo:GSE194070:GSM5827303	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827303	geo:GSE194070:GSM5827303	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827304	geo:GSE194070:GSM5827304	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827304	geo:GSE194070:GSM5827304	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827304	geo:GSE194070:GSM5827304	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827305	geo:GSE194070:GSM5827305	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827305	geo:GSE194070:GSM5827305	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827305	geo:GSE194070:GSM5827305	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827306	geo:GSE194070:GSM5827306	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827306	geo:GSE194070:GSM5827306	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827306	geo:GSE194070:GSM5827306	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827307	geo:GSE194070:GSM5827307	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827307	geo:GSE194070:GSM5827307	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827307	geo:GSE194070:GSM5827307	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827308	geo:GSE194070:GSM5827308	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827308	geo:GSE194070:GSM5827308	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827308	geo:GSE194070:GSM5827308	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827309	geo:GSE194070:GSM5827309	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827309	geo:GSE194070:GSM5827309	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827309	geo:GSE194070:GSM5827309	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM5827310	geo:GSE194070:GSM5827310	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5827310	geo:GSE194070:GSM5827310	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5827310	geo:GSE194070:GSM5827310	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+		organism	Homo sapiens	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5827295	geo:GSE194070:GSM5827295	disease_ontology_term_id	normal	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827295	geo:GSE194070:GSM5827295	disease_ontology_term_id	normal	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827295	geo:GSE194070:GSM5827295	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827295	geo:GSE194070:GSM5827295	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827295	geo:GSE194070:GSM5827295	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827295	geo:GSE194070:GSM5827295	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	single-cell suspensions of the collected samples were prepared	True
+GSM5827295	geo:GSE194070:GSM5827295	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827295	geo:GSE194070:GSM5827295	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827295	geo:GSE194070:GSM5827295	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827295	geo:GSE194070:GSM5827295	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827295	geo:GSE194070:GSM5827295	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827295	geo:GSE194070:GSM5827295	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827295	geo:GSE194070:GSM5827295	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827295	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827296	geo:GSE194070:GSM5827296	disease_ontology_term_id	normal	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827296	geo:GSE194070:GSM5827296	disease_ontology_term_id	normal	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827296	geo:GSE194070:GSM5827296	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827296	geo:GSE194070:GSM5827296	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827296	geo:GSE194070:GSM5827296	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827296	geo:GSE194070:GSM5827296	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	single-cell suspensions of the collected samples were prepared	True
+GSM5827296	geo:GSE194070:GSM5827296	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827296	geo:GSE194070:GSM5827296	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827296	geo:GSE194070:GSM5827296	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827296	geo:GSE194070:GSM5827296	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827296	geo:GSE194070:GSM5827296	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827296	geo:GSE194070:GSM5827296	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827296	geo:GSE194070:GSM5827296	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827296	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827297	geo:GSE194070:GSM5827297	disease_ontology_term_id	normal	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827297	geo:GSE194070:GSM5827297	disease_ontology_term_id	normal	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827297	geo:GSE194070:GSM5827297	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827297	geo:GSE194070:GSM5827297	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827297	geo:GSE194070:GSM5827297	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827297	geo:GSE194070:GSM5827297	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	single-cell suspensions of the collected samples were prepared	True
+GSM5827297	geo:GSE194070:GSM5827297	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827297	geo:GSE194070:GSM5827297	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827297	geo:GSE194070:GSM5827297	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827297	geo:GSE194070:GSM5827297	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827297	geo:GSE194070:GSM5827297	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827297	geo:GSE194070:GSM5827297	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827297	geo:GSE194070:GSM5827297	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827297	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827298	geo:GSE194070:GSM5827298	disease_ontology_term_id	normal	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827298	geo:GSE194070:GSM5827298	disease_ontology_term_id	normal	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827298	geo:GSE194070:GSM5827298	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827298	geo:GSE194070:GSM5827298	disease_free_text	adjacent non-tumorous lung tissue, no COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827298	geo:GSE194070:GSM5827298	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827298	geo:GSE194070:GSM5827298	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	single-cell suspensions of the collected samples were prepared	True
+GSM5827298	geo:GSE194070:GSM5827298	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827298	geo:GSE194070:GSM5827298	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827298	geo:GSE194070:GSM5827298	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827298	geo:GSE194070:GSM5827298	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827298	geo:GSE194070:GSM5827298	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827298	geo:GSE194070:GSM5827298	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827298	geo:GSE194070:GSM5827298	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827298	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827299	geo:GSE194070:GSM5827299	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827299	geo:GSE194070:GSM5827299	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827299	geo:GSE194070:GSM5827299	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827299	geo:GSE194070:GSM5827299	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827299	geo:GSE194070:GSM5827299	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	single-cell suspensions of the collected samples were prepared	True
+GSM5827299	geo:GSE194070:GSM5827299	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827299	geo:GSE194070:GSM5827299	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827299	geo:GSE194070:GSM5827299	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827299	geo:GSE194070:GSM5827299	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827299	geo:GSE194070:GSM5827299	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827299	geo:GSE194070:GSM5827299	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827299	geo:GSE194070:GSM5827299	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827299	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827300	geo:GSE194070:GSM5827300	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827300	geo:GSE194070:GSM5827300	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827300	geo:GSE194070:GSM5827300	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827300	geo:GSE194070:GSM5827300	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827300	geo:GSE194070:GSM5827300	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	single-cell suspensions of the collected samples were prepared	True
+GSM5827300	geo:GSE194070:GSM5827300	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827300	geo:GSE194070:GSM5827300	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827300	geo:GSE194070:GSM5827300	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827300	geo:GSE194070:GSM5827300	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827300	geo:GSE194070:GSM5827300	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827300	geo:GSE194070:GSM5827300	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827300	geo:GSE194070:GSM5827300	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827300	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827301	geo:GSE194070:GSM5827301	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827301	geo:GSE194070:GSM5827301	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827301	geo:GSE194070:GSM5827301	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827301	geo:GSE194070:GSM5827301	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827301	geo:GSE194070:GSM5827301	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	single-cell suspensions of the collected samples were prepared	True
+GSM5827301	geo:GSE194070:GSM5827301	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827301	geo:GSE194070:GSM5827301	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827301	geo:GSE194070:GSM5827301	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827301	geo:GSE194070:GSM5827301	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827301	geo:GSE194070:GSM5827301	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827301	geo:GSE194070:GSM5827301	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827301	geo:GSE194070:GSM5827301	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827301	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827302	geo:GSE194070:GSM5827302	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827302	geo:GSE194070:GSM5827302	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827302	geo:GSE194070:GSM5827302	disease_free_text	adjacent non-tumorous lung tissue with COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827302	geo:GSE194070:GSM5827302	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827302	geo:GSE194070:GSM5827302	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	single-cell suspensions of the collected samples were prepared	True
+GSM5827302	geo:GSE194070:GSM5827302	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827302	geo:GSE194070:GSM5827302	sampled_site_condition	adjacent normal tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827302	geo:GSE194070:GSM5827302	sampled_site_condition	adjacent normal tissue	file	evidence/PMC11306293.txt		adjacent normal tissue samples (at least 2 cm from the tumour)	True
+GSM5827302	geo:GSE194070:GSM5827302	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827302	geo:GSE194070:GSM5827302	tissue_free_text	Non-tumorous lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = tissue: Non-tumorous lung	True
+GSM5827302	geo:GSE194070:GSM5827302	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827302	geo:GSE194070:GSM5827302	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827302	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827303	geo:GSE194070:GSM5827303	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827303	geo:GSE194070:GSM5827303	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827303	geo:GSE194070:GSM5827303	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827303	geo:GSE194070:GSM5827303	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827303	geo:GSE194070:GSM5827303	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827303	geo:GSE194070:GSM5827303	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827303	geo:GSE194070:GSM5827303	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	single-cell suspensions of the collected samples were prepared	True
+GSM5827303	geo:GSE194070:GSM5827303	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827303	geo:GSE194070:GSM5827303	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827303	geo:GSE194070:GSM5827303	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827303	geo:GSE194070:GSM5827303	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827303	geo:GSE194070:GSM5827303	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827303	geo:GSE194070:GSM5827303	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827303	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827304	geo:GSE194070:GSM5827304	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827304	geo:GSE194070:GSM5827304	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827304	geo:GSE194070:GSM5827304	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827304	geo:GSE194070:GSM5827304	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827304	geo:GSE194070:GSM5827304	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827304	geo:GSE194070:GSM5827304	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827304	geo:GSE194070:GSM5827304	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	single-cell suspensions of the collected samples were prepared	True
+GSM5827304	geo:GSE194070:GSM5827304	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827304	geo:GSE194070:GSM5827304	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827304	geo:GSE194070:GSM5827304	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827304	geo:GSE194070:GSM5827304	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827304	geo:GSE194070:GSM5827304	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827304	geo:GSE194070:GSM5827304	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827304	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827305	geo:GSE194070:GSM5827305	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827305	geo:GSE194070:GSM5827305	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827305	geo:GSE194070:GSM5827305	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827305	geo:GSE194070:GSM5827305	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827305	geo:GSE194070:GSM5827305	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827305	geo:GSE194070:GSM5827305	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827305	geo:GSE194070:GSM5827305	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	single-cell suspensions of the collected samples were prepared	True
+GSM5827305	geo:GSE194070:GSM5827305	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827305	geo:GSE194070:GSM5827305	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827305	geo:GSE194070:GSM5827305	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827305	geo:GSE194070:GSM5827305	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827305	geo:GSE194070:GSM5827305	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827305	geo:GSE194070:GSM5827305	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827305	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827306	geo:GSE194070:GSM5827306	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827306	geo:GSE194070:GSM5827306	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827306	geo:GSE194070:GSM5827306	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827306	geo:GSE194070:GSM5827306	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827306	geo:GSE194070:GSM5827306	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: COPD	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = copd status: COPD	True
+GSM5827306	geo:GSE194070:GSM5827306	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827306	geo:GSE194070:GSM5827306	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	single-cell suspensions of the collected samples were prepared	True
+GSM5827306	geo:GSE194070:GSM5827306	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827306	geo:GSE194070:GSM5827306	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827306	geo:GSE194070:GSM5827306	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827306	geo:GSE194070:GSM5827306	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827306	geo:GSE194070:GSM5827306	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827306	geo:GSE194070:GSM5827306	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827306	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827307	geo:GSE194070:GSM5827307	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827307	geo:GSE194070:GSM5827307	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827307	geo:GSE194070:GSM5827307	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827307	geo:GSE194070:GSM5827307	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827307	geo:GSE194070:GSM5827307	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827307	geo:GSE194070:GSM5827307	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827307	geo:GSE194070:GSM5827307	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	single-cell suspensions of the collected samples were prepared	True
+GSM5827307	geo:GSE194070:GSM5827307	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827307	geo:GSE194070:GSM5827307	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827307	geo:GSE194070:GSM5827307	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827307	geo:GSE194070:GSM5827307	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827307	geo:GSE194070:GSM5827307	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827307	geo:GSE194070:GSM5827307	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827307	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827308	geo:GSE194070:GSM5827308	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827308	geo:GSE194070:GSM5827308	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827308	geo:GSE194070:GSM5827308	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827308	geo:GSE194070:GSM5827308	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827308	geo:GSE194070:GSM5827308	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827308	geo:GSE194070:GSM5827308	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827308	geo:GSE194070:GSM5827308	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	single-cell suspensions of the collected samples were prepared	True
+GSM5827308	geo:GSE194070:GSM5827308	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827308	geo:GSE194070:GSM5827308	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827308	geo:GSE194070:GSM5827308	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827308	geo:GSE194070:GSM5827308	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827308	geo:GSE194070:GSM5827308	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827308	geo:GSE194070:GSM5827308	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827308	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827309	geo:GSE194070:GSM5827309	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827309	geo:GSE194070:GSM5827309	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827309	geo:GSE194070:GSM5827309	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827309	geo:GSE194070:GSM5827309	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827309	geo:GSE194070:GSM5827309	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827309	geo:GSE194070:GSM5827309	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827309	geo:GSE194070:GSM5827309	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	single-cell suspensions of the collected samples were prepared	True
+GSM5827309	geo:GSE194070:GSM5827309	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827309	geo:GSE194070:GSM5827309	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827309	geo:GSE194070:GSM5827309	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827309	geo:GSE194070:GSM5827309	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827309	geo:GSE194070:GSM5827309	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827309	geo:GSE194070:GSM5827309	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827309	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM5827310	geo:GSE194070:GSM5827310	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827310	geo:GSE194070:GSM5827310	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		These samples were obtained from patients with untreated primary LSCC.	True
+GSM5827310	geo:GSE194070:GSM5827310	disease_ontology_term_id	lung squamous cell carcinoma	file	evidence/PMC11306293.txt		Among them, 16 samples from 8 patients were collected	True
+GSM5827310	geo:GSE194070:GSM5827310	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827310	geo:GSE194070:GSM5827310	disease_free_text	non-small cell lung cancer (paper: lung squamous cell carcinoma), copd status: none	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = copd status: none	True
+GSM5827310	geo:GSE194070:GSM5827310	tissue_ontology_term_id	lung	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_source_name_ch1 = Lung cancer tissues	True
+GSM5827310	geo:GSE194070:GSM5827310	suspension_type	cell	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	single-cell suspensions of the collected samples were prepared	True
+GSM5827310	geo:GSE194070:GSM5827310	tissue_type	tissue	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827310	geo:GSE194070:GSM5827310	sampled_site_condition	tumour	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827310	geo:GSE194070:GSM5827310	assay_ontology_term_id	10x 3' v2	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	Single Cell 3’ Library and Gel Bead Kit V2	True
+GSM5827310	geo:GSE194070:GSM5827310	tissue_free_text	Non-Small Cell Lung Cancer	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = tissue: Non-Small Cell Lung Cancer	True
+GSM5827310	geo:GSE194070:GSM5827310	sample_collection_method	tissue samples during surgery	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = sample collection: tissue samples during surgery	True
+GSM5827310	geo:GSE194070:GSM5827310	treatment_status	untreated	file	raw/fp-2dadffc1568c/GSE194070_family.soft.gz	GSM5827310	!Sample_characteristics_ch1 = treatment: untreated	True

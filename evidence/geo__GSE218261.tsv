@@ -1,0 +1,4 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-a0a6373a58e6/GSE218261_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6738032	geo:GSE218261:GSM6738032	tissue_free_text	Mixed_lung_brain_pleural_fluid	file	raw/fp-a0a6373a58e6/GSE218261_family.soft.gz	GSM6738032	!Sample_characteristics_ch1 = tissue: Mixed_lung_brain_pleural_fluid	True
+GSM6738033	geo:GSE218261:GSM6738033	tissue_free_text	Mixed_lung_brain_pleural_fluid	file	raw/fp-a0a6373a58e6/GSE218261_family.soft.gz	GSM6738033	!Sample_characteristics_ch1 = tissue: Mixed_lung_brain_pleural_fluid	True

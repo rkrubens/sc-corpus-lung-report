@@ -1,0 +1,56 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9739687	geo:GSE331144:GSM9739687	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739687	tissue: Human lung	True
+GSM9739687	geo:GSE331144:GSM9739687	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739687	tissue: Human lung	True
+GSM9739687	geo:GSE331144:GSM9739687	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739687	dissociated into a single-cell suspension	True
+GSM9739687	geo:GSE331144:GSM9739687	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739687	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739687	geo:GSE331144:GSM9739687	disease_ontology_term_id	PATO:0000461	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739687	!Sample_title = S1_A001_Healthy_lung_parenchyma	True
+GSM9739687	geo:GSE331144:GSM9739687	disease_free_text	Healthy lung parenchyma	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739687	!Sample_title = S1_A001_Healthy_lung_parenchyma	True
+GSM9739688	geo:GSE331144:GSM9739688	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739688	tissue: Human lung	True
+GSM9739688	geo:GSE331144:GSM9739688	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739688	tissue: Human lung	True
+GSM9739688	geo:GSE331144:GSM9739688	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739688	dissociated into a single-cell suspension	True
+GSM9739688	geo:GSE331144:GSM9739688	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739688	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739688	geo:GSE331144:GSM9739688	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739688	!Sample_title = S2_U160_IPF_lung_upperlobe_replicate1	True
+GSM9739688	geo:GSE331144:GSM9739688	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739688	!Sample_title = S2_U160_IPF_lung_upperlobe_replicate1	True
+GSM9739689	geo:GSE331144:GSM9739689	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739689	tissue: Human lung	True
+GSM9739689	geo:GSE331144:GSM9739689	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739689	tissue: Human lung	True
+GSM9739689	geo:GSE331144:GSM9739689	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739689	dissociated into a single-cell suspension	True
+GSM9739689	geo:GSE331144:GSM9739689	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739689	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739689	geo:GSE331144:GSM9739689	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739689	!Sample_title = S3_U161_IPF_lung_upperlobe_replicate2	True
+GSM9739689	geo:GSE331144:GSM9739689	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739689	!Sample_title = S3_U161_IPF_lung_upperlobe_replicate2	True
+GSM9739690	geo:GSE331144:GSM9739690	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739690	tissue: Human lung	True
+GSM9739690	geo:GSE331144:GSM9739690	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739690	tissue: Human lung	True
+GSM9739690	geo:GSE331144:GSM9739690	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739690	dissociated into a single-cell suspension	True
+GSM9739690	geo:GSE331144:GSM9739690	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739690	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739690	geo:GSE331144:GSM9739690	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739690	!Sample_title = S4_U172_IPF_lung_upperlobe_replicate3	True
+GSM9739690	geo:GSE331144:GSM9739690	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739690	!Sample_title = S4_U172_IPF_lung_upperlobe_replicate3	True
+GSM9739691	geo:GSE331144:GSM9739691	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739691	tissue: Human lung	True
+GSM9739691	geo:GSE331144:GSM9739691	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739691	tissue: Human lung	True
+GSM9739691	geo:GSE331144:GSM9739691	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739691	dissociated into a single-cell suspension	True
+GSM9739691	geo:GSE331144:GSM9739691	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739691	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739691	geo:GSE331144:GSM9739691	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739691	!Sample_title = S5_U183_IPF_lung_upperlobe_replicate4	True
+GSM9739691	geo:GSE331144:GSM9739691	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739691	!Sample_title = S5_U183_IPF_lung_upperlobe_replicate4	True
+GSM9739692	geo:GSE331144:GSM9739692	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739692	tissue: Human lung	True
+GSM9739692	geo:GSE331144:GSM9739692	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739692	tissue: Human lung	True
+GSM9739692	geo:GSE331144:GSM9739692	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739692	dissociated into a single-cell suspension	True
+GSM9739692	geo:GSE331144:GSM9739692	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739692	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739692	geo:GSE331144:GSM9739692	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739692	!Sample_title = S6_U197_IPF_lung_upperlobe_replicate5	True
+GSM9739692	geo:GSE331144:GSM9739692	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739692	!Sample_title = S6_U197_IPF_lung_upperlobe_replicate5	True
+GSM9739693	geo:GSE331144:GSM9739693	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739693	tissue: Human lung	True
+GSM9739693	geo:GSE331144:GSM9739693	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739693	tissue: Human lung	True
+GSM9739693	geo:GSE331144:GSM9739693	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739693	dissociated into a single-cell suspension	True
+GSM9739693	geo:GSE331144:GSM9739693	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739693	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739693	geo:GSE331144:GSM9739693	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739693	!Sample_title = S7_U001_IPF_lung_upperlobe_replicate6	True
+GSM9739693	geo:GSE331144:GSM9739693	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739693	!Sample_title = S7_U001_IPF_lung_upperlobe_replicate6	True
+GSM9739694	geo:GSE331144:GSM9739694	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739694	tissue: Human lung	True
+GSM9739694	geo:GSE331144:GSM9739694	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739694	tissue: Human lung	True
+GSM9739694	geo:GSE331144:GSM9739694	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739694	dissociated into a single-cell suspension	True
+GSM9739694	geo:GSE331144:GSM9739694	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739694	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739694	geo:GSE331144:GSM9739694	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739694	!Sample_title = S8_U010_IPF_lung_upperlobe_replicate7	True
+GSM9739694	geo:GSE331144:GSM9739694	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739694	!Sample_title = S8_U010_IPF_lung_upperlobe_replicate7	True
+GSM9739695	geo:GSE331144:GSM9739695	tissue_free_text	Human lung	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739695	tissue: Human lung	True
+GSM9739695	geo:GSE331144:GSM9739695	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739695	tissue: Human lung	True
+GSM9739695	geo:GSE331144:GSM9739695	suspension_type	cell	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739695	dissociated into a single-cell suspension	True
+GSM9739695	geo:GSE331144:GSM9739695	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739695	formalin-fixed paraffin-embedded (FFPE)	True
+GSM9739695	geo:GSE331144:GSM9739695	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739695	!Sample_title = S9_L197_IPF_lung_lowerlobe_replicate8	True
+GSM9739695	geo:GSE331144:GSM9739695	disease_free_text	IPF	file	raw/fp-cdd48f47df00/GSE331144_family.soft.gz	GSM9739695	!Sample_title = S9_L197_IPF_lung_lowerlobe_replicate8	True

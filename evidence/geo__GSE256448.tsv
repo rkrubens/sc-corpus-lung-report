@@ -1,0 +1,38 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8098645	geo:GSE256448:GSM8098645	donor_id	<column SAMPLE_ID>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/SAMPLE_ID			True
+GSM8098645	geo:GSE256448:GSM8098645	disease_ontology_term_id	<column COPD>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/COPD			True
+GSM8098645	geo:GSE256448:GSM8098645	author_cell_type	<column Type>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/Type			True
+GSM8098646	geo:GSE256448:GSM8098646	donor_id	<column SAMPLE_ID>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/SAMPLE_ID			True
+GSM8098646	geo:GSE256448:GSM8098646	disease_ontology_term_id	<column COPD>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/COPD			True
+GSM8098646	geo:GSE256448:GSM8098646	author_cell_type	<column Type>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/Type			True
+GSM8098647	geo:GSE256448:GSM8098647	donor_id	<column SAMPLE_ID>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/SAMPLE_ID			True
+GSM8098647	geo:GSE256448:GSM8098647	disease_ontology_term_id	<column COPD>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/COPD			True
+GSM8098647	geo:GSE256448:GSM8098647	author_cell_type	<column Type>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/Type			True
+GSM8098648	geo:GSE256448:GSM8098648	donor_id	<column SAMPLE_ID>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/SAMPLE_ID			True
+GSM8098648	geo:GSE256448:GSM8098648	disease_ontology_term_id	<column COPD>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/COPD			True
+GSM8098648	geo:GSE256448:GSM8098648	author_cell_type	<column Type>	column	raw/fp-6565f2b34f40/GSE256448_PBEC_Cell_Metadata.tsv.gz/Type			True
+		organism	Homo sapiens	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Sample_organism_ch1 = Homo sapiens	True
+GSM8098645	geo:GSE256448:GSM8098645	disease_ontology_term_id	<map of column COPD>	file	evidence/PMC12699333.txt		Healthy cells are bronchial epithelial cells from the lungs of donors who have no prior illness	True
+GSM8098645	geo:GSE256448:GSM8098645	disease_ontology_term_id	<map of column COPD>	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls	True
+GSM8098645	geo:GSE256448:GSM8098645	tissue_free_text	bronchial epithelium (primary bronchial epithelial cells)	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098645	geo:GSE256448:GSM8098645	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098645	geo:GSE256448:GSM8098645	tissue_type	cell culture	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls were cultured in an air-liquid interface (ALI) model	True
+GSM8098645	geo:GSE256448:GSM8098645	suspension_type	cell	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		cells were trypsinized	True
+GSM8098646	geo:GSE256448:GSM8098646	disease_ontology_term_id	<map of column COPD>	file	evidence/PMC12699333.txt		Healthy cells are bronchial epithelial cells from the lungs of donors who have no prior illness	True
+GSM8098646	geo:GSE256448:GSM8098646	disease_ontology_term_id	<map of column COPD>	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls	True
+GSM8098646	geo:GSE256448:GSM8098646	tissue_free_text	bronchial epithelium (primary bronchial epithelial cells)	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098646	geo:GSE256448:GSM8098646	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098646	geo:GSE256448:GSM8098646	tissue_type	cell culture	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls were cultured in an air-liquid interface (ALI) model	True
+GSM8098646	geo:GSE256448:GSM8098646	suspension_type	cell	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		cells were trypsinized	True
+GSM8098647	geo:GSE256448:GSM8098647	disease_ontology_term_id	<map of column COPD>	file	evidence/PMC12699333.txt		Healthy cells are bronchial epithelial cells from the lungs of donors who have no prior illness	True
+GSM8098647	geo:GSE256448:GSM8098647	disease_ontology_term_id	<map of column COPD>	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls	True
+GSM8098647	geo:GSE256448:GSM8098647	tissue_free_text	bronchial epithelium (primary bronchial epithelial cells)	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098647	geo:GSE256448:GSM8098647	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098647	geo:GSE256448:GSM8098647	tissue_type	cell culture	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls were cultured in an air-liquid interface (ALI) model	True
+GSM8098647	geo:GSE256448:GSM8098647	suspension_type	cell	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		cells were trypsinized	True
+GSM8098648	geo:GSE256448:GSM8098648	disease_ontology_term_id	<map of column COPD>	file	evidence/PMC12699333.txt		Healthy cells are bronchial epithelial cells from the lungs of donors who have no prior illness	True
+GSM8098648	geo:GSE256448:GSM8098648	disease_ontology_term_id	<map of column COPD>	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls	True
+GSM8098648	geo:GSE256448:GSM8098648	tissue_free_text	bronchial epithelium (primary bronchial epithelial cells)	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098648	geo:GSE256448:GSM8098648	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Primary bronchial epithelial cell	True
+GSM8098648	geo:GSE256448:GSM8098648	tissue_type	cell culture	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		Bronchial epithelial cells from COPD and healthy controls were cultured in an air-liquid interface (ALI) model	True
+GSM8098648	geo:GSE256448:GSM8098648	suspension_type	cell	file	raw/fp-6565f2b34f40/GSE256448_family.soft.gz		cells were trypsinized	True

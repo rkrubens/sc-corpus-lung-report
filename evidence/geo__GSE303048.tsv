@@ -1,0 +1,134 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9116570	geo:GSE303048:GSM9116570	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116570	geo:GSE303048:GSM9116570	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM9116571	geo:GSE303048:GSM9116571	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116571	geo:GSE303048:GSM9116571	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM9116572	geo:GSE303048:GSM9116572	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116572	geo:GSE303048:GSM9116572	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM9116573	geo:GSE303048:GSM9116573	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116573	geo:GSE303048:GSM9116573	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM9116574	geo:GSE303048:GSM9116574	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116574	geo:GSE303048:GSM9116574	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM9116575	geo:GSE303048:GSM9116575	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116575	geo:GSE303048:GSM9116575	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM9116576	geo:GSE303048:GSM9116576	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116576	geo:GSE303048:GSM9116576	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9116577	geo:GSE303048:GSM9116577	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116577	geo:GSE303048:GSM9116577	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9116578	geo:GSE303048:GSM9116578	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116578	geo:GSE303048:GSM9116578	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9116579	geo:GSE303048:GSM9116579	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116579	geo:GSE303048:GSM9116579	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9116580	geo:GSE303048:GSM9116580	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116580	geo:GSE303048:GSM9116580	development_stage_ontology_term_id	HsapDv:0000126	derived	age_in_years:'32-year-old stage':ols:hsapdv		32	True
+GSM9116581	geo:GSE303048:GSM9116581	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116581	geo:GSE303048:GSM9116581	development_stage_ontology_term_id	HsapDv:0000126	derived	age_in_years:'32-year-old stage':ols:hsapdv		32	True
+GSM9116582	geo:GSE303048:GSM9116582	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116582	geo:GSE303048:GSM9116582	development_stage_ontology_term_id	HsapDv:0000126	derived	age_in_years:'32-year-old stage':ols:hsapdv		32	True
+GSM9116583	geo:GSE303048:GSM9116583	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116583	geo:GSE303048:GSM9116583	development_stage_ontology_term_id	HsapDv:0000126	derived	age_in_years:'32-year-old stage':ols:hsapdv		32	True
+GSM9116584	geo:GSE303048:GSM9116584	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116584	geo:GSE303048:GSM9116584	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9116585	geo:GSE303048:GSM9116585	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116585	geo:GSE303048:GSM9116585	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9116586	geo:GSE303048:GSM9116586	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116586	geo:GSE303048:GSM9116586	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9116587	geo:GSE303048:GSM9116587	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116587	geo:GSE303048:GSM9116587	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM9116588	geo:GSE303048:GSM9116588	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116588	geo:GSE303048:GSM9116588	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM9116589	geo:GSE303048:GSM9116589	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116589	geo:GSE303048:GSM9116589	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM9116590	geo:GSE303048:GSM9116590	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116590	geo:GSE303048:GSM9116590	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM9116591	geo:GSE303048:GSM9116591	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM9116591	geo:GSE303048:GSM9116591	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+		organism	Homo sapiens	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9116570	geo:GSE303048:GSM9116570	age	53	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116570	!Sample_characteristics_ch1 = age: 53	True
+GSM9116570	geo:GSE303048:GSM9116570	disease_free_text	SSc-ILD	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116570	!Sample_characteristics_ch1 = diagnosis: SSc-ILD	True
+GSM9116570	geo:GSE303048:GSM9116570	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116570	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116570	geo:GSE303048:GSM9116570	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116570	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116571	geo:GSE303048:GSM9116571	age	53	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116571	!Sample_characteristics_ch1 = age: 53	True
+GSM9116571	geo:GSE303048:GSM9116571	disease_free_text	SSc-ILD	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116571	!Sample_characteristics_ch1 = diagnosis: SSc-ILD	True
+GSM9116571	geo:GSE303048:GSM9116571	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116571	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116571	geo:GSE303048:GSM9116571	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116571	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116572	geo:GSE303048:GSM9116572	age	79	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116572	!Sample_characteristics_ch1 = age: 79	True
+GSM9116572	geo:GSE303048:GSM9116572	disease_free_text	SSc-ILD, PH	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116572	!Sample_characteristics_ch1 = diagnosis: SSc-ILD, PH	True
+GSM9116572	geo:GSE303048:GSM9116572	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116572	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116572	geo:GSE303048:GSM9116572	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116572	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116573	geo:GSE303048:GSM9116573	age	79	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116573	!Sample_characteristics_ch1 = age: 79	True
+GSM9116573	geo:GSE303048:GSM9116573	disease_free_text	SSc-ILD, PH	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116573	!Sample_characteristics_ch1 = diagnosis: SSc-ILD, PH	True
+GSM9116573	geo:GSE303048:GSM9116573	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116573	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116573	geo:GSE303048:GSM9116573	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116573	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116574	geo:GSE303048:GSM9116574	age	44	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116574	!Sample_characteristics_ch1 = age: 44	True
+GSM9116574	geo:GSE303048:GSM9116574	disease_free_text	N/A	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116574	!Sample_characteristics_ch1 = diagnosis: N/A	True
+GSM9116574	geo:GSE303048:GSM9116574	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116574	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116574	geo:GSE303048:GSM9116574	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116574	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116575	geo:GSE303048:GSM9116575	age	44	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116575	!Sample_characteristics_ch1 = age: 44	True
+GSM9116575	geo:GSE303048:GSM9116575	disease_free_text	N/A	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116575	!Sample_characteristics_ch1 = diagnosis: N/A	True
+GSM9116575	geo:GSE303048:GSM9116575	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116575	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116575	geo:GSE303048:GSM9116575	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116575	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116576	geo:GSE303048:GSM9116576	age	57	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116576	!Sample_characteristics_ch1 = age: 57	True
+GSM9116576	geo:GSE303048:GSM9116576	disease_free_text	SSc-ILD	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116576	!Sample_characteristics_ch1 = diagnosis: SSc-ILD	True
+GSM9116576	geo:GSE303048:GSM9116576	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116576	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116576	geo:GSE303048:GSM9116576	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116576	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116577	geo:GSE303048:GSM9116577	age	57	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116577	!Sample_characteristics_ch1 = age: 57	True
+GSM9116577	geo:GSE303048:GSM9116577	disease_free_text	SSc-ILD	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116577	!Sample_characteristics_ch1 = diagnosis: SSc-ILD	True
+GSM9116577	geo:GSE303048:GSM9116577	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116577	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116577	geo:GSE303048:GSM9116577	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116577	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116578	geo:GSE303048:GSM9116578	age	57	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116578	!Sample_characteristics_ch1 = age: 57	True
+GSM9116578	geo:GSE303048:GSM9116578	disease_free_text	SSc-ILD	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116578	!Sample_characteristics_ch1 = diagnosis: SSc-ILD	True
+GSM9116578	geo:GSE303048:GSM9116578	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116578	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116578	geo:GSE303048:GSM9116578	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116578	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116579	geo:GSE303048:GSM9116579	age	57	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116579	!Sample_characteristics_ch1 = age: 57	True
+GSM9116579	geo:GSE303048:GSM9116579	disease_free_text	SSc-ILD	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116579	!Sample_characteristics_ch1 = diagnosis: SSc-ILD	True
+GSM9116579	geo:GSE303048:GSM9116579	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116579	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116579	geo:GSE303048:GSM9116579	timepoint	Explant	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116579	!Sample_characteristics_ch1 = timepoint: Explant	True
+GSM9116580	geo:GSE303048:GSM9116580	age	32	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116580	!Sample_characteristics_ch1 = age: 32	True
+GSM9116580	geo:GSE303048:GSM9116580	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116580	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116580	geo:GSE303048:GSM9116580	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116580	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116580	geo:GSE303048:GSM9116580	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116580	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116581	geo:GSE303048:GSM9116581	age	32	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116581	!Sample_characteristics_ch1 = age: 32	True
+GSM9116581	geo:GSE303048:GSM9116581	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116581	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116581	geo:GSE303048:GSM9116581	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116581	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116581	geo:GSE303048:GSM9116581	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116581	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116582	geo:GSE303048:GSM9116582	age	32	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116582	!Sample_characteristics_ch1 = age: 32	True
+GSM9116582	geo:GSE303048:GSM9116582	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116582	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116582	geo:GSE303048:GSM9116582	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116582	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116582	geo:GSE303048:GSM9116582	timepoint	0'	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116582	!Sample_characteristics_ch1 = timepoint: 0'	True
+GSM9116583	geo:GSE303048:GSM9116583	age	32	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116583	!Sample_characteristics_ch1 = age: 32	True
+GSM9116583	geo:GSE303048:GSM9116583	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116583	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116583	geo:GSE303048:GSM9116583	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116583	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116583	geo:GSE303048:GSM9116583	timepoint	0'	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116583	!Sample_characteristics_ch1 = timepoint: 0'	True
+GSM9116584	geo:GSE303048:GSM9116584	age	27	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116584	!Sample_characteristics_ch1 = age: 27	True
+GSM9116584	geo:GSE303048:GSM9116584	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116584	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116584	geo:GSE303048:GSM9116584	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116584	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116584	geo:GSE303048:GSM9116584	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116584	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116585	geo:GSE303048:GSM9116585	age	27	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116585	!Sample_characteristics_ch1 = age: 27	True
+GSM9116585	geo:GSE303048:GSM9116585	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116585	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116585	geo:GSE303048:GSM9116585	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116585	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116585	geo:GSE303048:GSM9116585	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116585	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116586	geo:GSE303048:GSM9116586	age	27	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116586	!Sample_characteristics_ch1 = age: 27	True
+GSM9116586	geo:GSE303048:GSM9116586	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116586	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116586	geo:GSE303048:GSM9116586	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116586	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116586	geo:GSE303048:GSM9116586	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116586	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116587	geo:GSE303048:GSM9116587	age	27	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116587	!Sample_characteristics_ch1 = age: 27	True
+GSM9116587	geo:GSE303048:GSM9116587	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116587	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116587	geo:GSE303048:GSM9116587	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116587	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116587	geo:GSE303048:GSM9116587	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116587	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116588	geo:GSE303048:GSM9116588	age	37	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116588	!Sample_characteristics_ch1 = age: 37	True
+GSM9116588	geo:GSE303048:GSM9116588	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116588	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116588	geo:GSE303048:GSM9116588	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116588	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116588	geo:GSE303048:GSM9116588	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116588	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116589	geo:GSE303048:GSM9116589	age	37	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116589	!Sample_characteristics_ch1 = age: 37	True
+GSM9116589	geo:GSE303048:GSM9116589	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116589	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116589	geo:GSE303048:GSM9116589	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116589	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116589	geo:GSE303048:GSM9116589	timepoint	Donor in situ	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116589	!Sample_characteristics_ch1 = timepoint: Donor in situ	True
+GSM9116590	geo:GSE303048:GSM9116590	age	37	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116590	!Sample_characteristics_ch1 = age: 37	True
+GSM9116590	geo:GSE303048:GSM9116590	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116590	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116590	geo:GSE303048:GSM9116590	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116590	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116590	geo:GSE303048:GSM9116590	timepoint	0'	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116590	!Sample_characteristics_ch1 = timepoint: 0'	True
+GSM9116591	geo:GSE303048:GSM9116591	age	37	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116591	!Sample_characteristics_ch1 = age: 37	True
+GSM9116591	geo:GSE303048:GSM9116591	disease_free_text	Donor	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116591	!Sample_characteristics_ch1 = diagnosis: Donor	True
+GSM9116591	geo:GSE303048:GSM9116591	sex	Female	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116591	!Sample_characteristics_ch1 = gender: Female	True
+GSM9116591	geo:GSE303048:GSM9116591	timepoint	0'	file	raw/fp-eec540e2a034/GSE303048_family.soft.gz	GSM9116591	!Sample_characteristics_ch1 = timepoint: 0'	True

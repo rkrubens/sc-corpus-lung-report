@@ -1,0 +1,116 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+invivo_T101	geo:GSE134174:invivo_T101	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T120	geo:GSE134174:invivo_T120	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T121	geo:GSE134174:invivo_T121	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T126	geo:GSE134174:invivo_T126	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T137	geo:GSE134174:invivo_T137	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T153	geo:GSE134174:invivo_T153	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T154	geo:GSE134174:invivo_T154	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T164	geo:GSE134174:invivo_T164	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T165	geo:GSE134174:invivo_T165	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T166	geo:GSE134174:invivo_T166	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T167	geo:GSE134174:invivo_T167	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T84	geo:GSE134174:invivo_T84	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T85	geo:GSE134174:invivo_T85	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T90	geo:GSE134174:invivo_T90	donor_id	<column Donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/Donor			True
+invivo_T101	geo:GSE134174:invivo_T101	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T120	geo:GSE134174:invivo_T120	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T121	geo:GSE134174:invivo_T121	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T126	geo:GSE134174:invivo_T126	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T137	geo:GSE134174:invivo_T137	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T153	geo:GSE134174:invivo_T153	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T154	geo:GSE134174:invivo_T154	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T164	geo:GSE134174:invivo_T164	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T165	geo:GSE134174:invivo_T165	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T166	geo:GSE134174:invivo_T166	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T167	geo:GSE134174:invivo_T167	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T84	geo:GSE134174:invivo_T84	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T85	geo:GSE134174:invivo_T85	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invivo_T90	geo:GSE134174:invivo_T90	author_cell_type	<column subcluster_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invivo_metadata.txt.gz/subcluster_ident			True
+invitro_T84	geo:GSE134174:invitro_T84	donor_id	<column donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invitro_metadata.txt.gz/donor			True
+invitro_T85	geo:GSE134174:invitro_T85	donor_id	<column donor>	column	raw/fp-c3127321b615/GSE134174_Processed_invitro_metadata.txt.gz/donor			True
+invitro_T84	geo:GSE134174:invitro_T84	timepoint	<column day>	column	raw/fp-c3127321b615/GSE134174_Processed_invitro_metadata.txt.gz/day			True
+invitro_T85	geo:GSE134174:invitro_T85	timepoint	<column day>	column	raw/fp-c3127321b615/GSE134174_Processed_invitro_metadata.txt.gz/day			True
+invitro_T84	geo:GSE134174:invitro_T84	author_cell_type	<column clust_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invitro_metadata.txt.gz/clust_ident			True
+invitro_T85	geo:GSE134174:invitro_T85	author_cell_type	<column clust_ident>	column	raw/fp-c3127321b615/GSE134174_Processed_invitro_metadata.txt.gz/clust_ident			True
+		organism	Homo sapiens	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+invivo_T101	geo:GSE134174:invivo_T101	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T120	geo:GSE134174:invivo_T120	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T121	geo:GSE134174:invivo_T121	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T126	geo:GSE134174:invivo_T126	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T137	geo:GSE134174:invivo_T137	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T153	geo:GSE134174:invivo_T153	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T154	geo:GSE134174:invivo_T154	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T164	geo:GSE134174:invivo_T164	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T165	geo:GSE134174:invivo_T165	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T166	geo:GSE134174:invivo_T166	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T167	geo:GSE134174:invivo_T167	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T84	geo:GSE134174:invivo_T84	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T85	geo:GSE134174:invivo_T85	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T90	geo:GSE134174:invivo_T90	tissue_free_text	tracheal airway epithelium	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T101	geo:GSE134174:invivo_T101	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T120	geo:GSE134174:invivo_T120	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T121	geo:GSE134174:invivo_T121	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T126	geo:GSE134174:invivo_T126	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T137	geo:GSE134174:invivo_T137	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T153	geo:GSE134174:invivo_T153	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T154	geo:GSE134174:invivo_T154	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T164	geo:GSE134174:invivo_T164	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T165	geo:GSE134174:invivo_T165	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T166	geo:GSE134174:invivo_T166	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T167	geo:GSE134174:invivo_T167	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T84	geo:GSE134174:invivo_T84	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T85	geo:GSE134174:invivo_T85	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T90	geo:GSE134174:invivo_T90	tissue_type	tissue	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors whose lungs were not suitable for transplantation.	True
+invivo_T101	geo:GSE134174:invivo_T101	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T120	geo:GSE134174:invivo_T120	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T121	geo:GSE134174:invivo_T121	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T126	geo:GSE134174:invivo_T126	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T137	geo:GSE134174:invivo_T137	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T153	geo:GSE134174:invivo_T153	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T154	geo:GSE134174:invivo_T154	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T164	geo:GSE134174:invivo_T164	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T165	geo:GSE134174:invivo_T165	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T166	geo:GSE134174:invivo_T166	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T167	geo:GSE134174:invivo_T167	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T84	geo:GSE134174:invivo_T84	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T85	geo:GSE134174:invivo_T85	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T90	geo:GSE134174:invivo_T90	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		all cells were collected by centrifugation	True
+invivo_T101	geo:GSE134174:invivo_T101	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T120	geo:GSE134174:invivo_T120	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T121	geo:GSE134174:invivo_T121	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T126	geo:GSE134174:invivo_T126	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T137	geo:GSE134174:invivo_T137	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T153	geo:GSE134174:invivo_T153	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T154	geo:GSE134174:invivo_T154	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T164	geo:GSE134174:invivo_T164	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T165	geo:GSE134174:invivo_T165	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T166	geo:GSE134174:invivo_T166	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T167	geo:GSE134174:invivo_T167	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T84	geo:GSE134174:invivo_T84	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T85	geo:GSE134174:invivo_T85	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T90	geo:GSE134174:invivo_T90	assay	10x single cell (version 3 chemistry)	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		10x single cell (version 3 chemistry)	True
+invivo_T101	geo:GSE134174:invivo_T101	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T120	geo:GSE134174:invivo_T120	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T121	geo:GSE134174:invivo_T121	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T126	geo:GSE134174:invivo_T126	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T137	geo:GSE134174:invivo_T137	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T153	geo:GSE134174:invivo_T153	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T154	geo:GSE134174:invivo_T154	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T164	geo:GSE134174:invivo_T164	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T165	geo:GSE134174:invivo_T165	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T166	geo:GSE134174:invivo_T166	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T167	geo:GSE134174:invivo_T167	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T84	geo:GSE134174:invivo_T84	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T85	geo:GSE134174:invivo_T85	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invivo_T90	geo:GSE134174:invivo_T90	tissue_ontology_term_id	UBERON:0003126	file	evidence/PMC7237663.txt		Fifteen human tracheal airway epithelia were isolated from de-identified donors	True
+invitro_T84	geo:GSE134174:invitro_T84	tissue_free_text	tracheal airway epithelial ALI culture	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		!Sample_source_name_ch1 = Human epithelial tracheal, cultured	True
+invitro_T85	geo:GSE134174:invitro_T85	tissue_free_text	tracheal airway epithelial ALI culture	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		!Sample_source_name_ch1 = Human epithelial tracheal, cultured	True
+invitro_T84	geo:GSE134174:invitro_T84	tissue_type	cell culture	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		seeded onto bovine collagen-coated 6.5mm transwell inserts	True
+invitro_T85	geo:GSE134174:invitro_T85	tissue_type	cell culture	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		seeded onto bovine collagen-coated 6.5mm transwell inserts	True
+invitro_T84	geo:GSE134174:invitro_T84	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		Single cell suspensions were diluted	True
+invitro_T85	geo:GSE134174:invitro_T85	suspension_type	cell	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		Single cell suspensions were diluted	True
+invitro_T84	geo:GSE134174:invitro_T84	assay	ICELL8	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		ICELL8 single-cell poly-(A)+ transcriptome amplification	True
+invitro_T85	geo:GSE134174:invitro_T85	assay	ICELL8	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		ICELL8 single-cell poly-(A)+ transcriptome amplification	True
+invitro_T84	geo:GSE134174:invitro_T84	tissue_ontology_term_id	UBERON:0003126	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		!Sample_source_name_ch1 = Human epithelial tracheal, cultured	True
+invitro_T85	geo:GSE134174:invitro_T85	tissue_ontology_term_id	UBERON:0003126	file	raw/fp-c3127321b615/GSE134174_family.soft.gz		!Sample_source_name_ch1 = Human epithelial tracheal, cultured	True

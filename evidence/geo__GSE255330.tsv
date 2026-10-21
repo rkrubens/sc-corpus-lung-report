@@ -1,0 +1,525 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	!Sample_organism_ch1 = Homo sapiens	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	donor_id	Lu927	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	NSCLC Patient Lu927	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	donor_id	Lu927	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069417	NSCLC Patient Lu927	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069417	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069417	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069417	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069417	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069403	cells from NSCLC Patient Lu927	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069417	cells from NSCLC Patient Lu927	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	donor_id	Lu941	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069404	NSCLC Patient Lu941	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	donor_id	Lu941	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069418	NSCLC Patient Lu941	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069404	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069418	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069404	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069418	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069404	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069418	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069404	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069418	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069404	cells from NSCLC Patient Lu941	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069418	cells from NSCLC Patient Lu941	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	donor_id	Lu952	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069405	NSCLC Patient Lu952	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	donor_id	Lu952	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069419	NSCLC Patient Lu952	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069405	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069419	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069405	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069419	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069405	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069419	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069405	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069419	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069405	cells from NSCLC Patient Lu952	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069419	cells from NSCLC Patient Lu952	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	donor_id	Lu954	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069406	NSCLC Patient Lu954	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	donor_id	Lu954	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069420	NSCLC Patient Lu954	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069406	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069420	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069406	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069420	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069406	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069420	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069406	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069420	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069406	cells from NSCLC Patient Lu954	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069420	cells from NSCLC Patient Lu954	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	donor_id	Lu979	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069407	NSCLC Patient Lu979	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	donor_id	Lu979	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069421	NSCLC Patient Lu979	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069407	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069421	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069407	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069421	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069407	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069421	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069407	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069421	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069407	cells from NSCLC Patient Lu979	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069421	cells from NSCLC Patient Lu979	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	donor_id	Lu927	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069394	NSCLC Patient Lu927	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	donor_id	Lu927	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069408	NSCLC Patient Lu927	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069394	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069408	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069394	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069408	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069394	NSCLC Patient Lu927	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069408	NSCLC Patient Lu927	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069394	NSCLC Patient Lu927	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	donor_id	Lu941	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069395	NSCLC Patient Lu941	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	donor_id	Lu941	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069409	NSCLC Patient Lu941	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069395	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069409	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069395	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069409	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069395	NSCLC Patient Lu941	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069409	NSCLC Patient Lu941	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069395	NSCLC Patient Lu941	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	donor_id	Lu954	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069396	NSCLC Patient Lu954	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	donor_id	Lu954	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069410	NSCLC Patient Lu954	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069396	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069410	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069396	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069410	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069396	NSCLC Patient Lu954	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069410	NSCLC Patient Lu954	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069396	NSCLC Patient Lu954	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	donor_id	Lu979	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069397	NSCLC Patient Lu979	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	donor_id	Lu979	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069411	NSCLC Patient Lu979	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069397	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069411	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069397	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069411	!Sample_characteristics_ch1 = tissue: Blood	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069397	NSCLC Patient Lu979	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069411	NSCLC Patient Lu979	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069397	NSCLC Patient Lu979	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	donor_id	Lu927	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069398	NSCLC Patient Lu927	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	donor_id	Lu927	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069412	NSCLC Patient Lu927	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069398	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069412	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069398	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069412	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069398	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069412	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069398	NSCLC Patient Lu927	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069412	NSCLC Patient Lu927	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069398	NSCLC Patient Lu927	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	donor_id	Lu941	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069399	NSCLC Patient Lu941	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	donor_id	Lu941	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069413	NSCLC Patient Lu941	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069399	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069413	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069399	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069413	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069399	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069413	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069399	NSCLC Patient Lu941	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069413	NSCLC Patient Lu941	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069399	NSCLC Patient Lu941	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	donor_id	Lu952	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069400	NSCLC Patient Lu952	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	donor_id	Lu952	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069414	NSCLC Patient Lu952	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069400	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069414	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069400	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069414	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069400	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069414	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069400	NSCLC Patient Lu952	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069414	NSCLC Patient Lu952	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069400	NSCLC Patient Lu952	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	donor_id	Lu954	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069401	NSCLC Patient Lu954	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	donor_id	Lu954	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069415	NSCLC Patient Lu954	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069401	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069415	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069401	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069415	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069401	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069415	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069401	NSCLC Patient Lu954	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069415	NSCLC Patient Lu954	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069401	NSCLC Patient Lu954	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	donor_id	Lu979	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069402	NSCLC Patient Lu979	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	donor_id	Lu979	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069416	NSCLC Patient Lu979	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069402	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069416	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069402	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069416	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069402	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069416	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069402	NSCLC Patient Lu979	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069416	NSCLC Patient Lu979	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069402	NSCLC Patient Lu979	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069367	geo:GSE255330:GSM8069367	donor_id	Lu881	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069367	NSCLC Patient Lu881	True
+GSM8069367	geo:GSE255330:GSM8069367	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069367	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069367	geo:GSE255330:GSM8069367	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069367	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069367	geo:GSE255330:GSM8069367	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069367	NSCLC Patient Lu881	True
+GSM8069367	geo:GSE255330:GSM8069367	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069367	NSCLC Patient Lu881	True
+GSM8069367	geo:GSE255330:GSM8069367	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069367	geo:GSE255330:GSM8069367	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069367	geo:GSE255330:GSM8069367	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069367	geo:GSE255330:GSM8069367	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069368	geo:GSE255330:GSM8069368	donor_id	Lu883	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069368	NSCLC Patient Lu883	True
+GSM8069368	geo:GSE255330:GSM8069368	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069368	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069368	geo:GSE255330:GSM8069368	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069368	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069368	geo:GSE255330:GSM8069368	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069368	NSCLC Patient Lu883	True
+GSM8069368	geo:GSE255330:GSM8069368	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069368	NSCLC Patient Lu883	True
+GSM8069368	geo:GSE255330:GSM8069368	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069368	geo:GSE255330:GSM8069368	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069368	geo:GSE255330:GSM8069368	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069368	geo:GSE255330:GSM8069368	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069369	geo:GSE255330:GSM8069369	donor_id	Lu895	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069369	NSCLC Patient Lu895	True
+GSM8069369	geo:GSE255330:GSM8069369	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069369	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069369	geo:GSE255330:GSM8069369	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069369	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069369	geo:GSE255330:GSM8069369	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069369	NSCLC Patient Lu895	True
+GSM8069369	geo:GSE255330:GSM8069369	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069369	NSCLC Patient Lu895	True
+GSM8069369	geo:GSE255330:GSM8069369	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069369	geo:GSE255330:GSM8069369	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069369	geo:GSE255330:GSM8069369	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069369	geo:GSE255330:GSM8069369	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069370	geo:GSE255330:GSM8069370	donor_id	Lu898	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069370	NSCLC Patient Lu898	True
+GSM8069370	geo:GSE255330:GSM8069370	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069370	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069370	geo:GSE255330:GSM8069370	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069370	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069370	geo:GSE255330:GSM8069370	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069370	NSCLC Patient Lu898	True
+GSM8069370	geo:GSE255330:GSM8069370	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069370	NSCLC Patient Lu898	True
+GSM8069370	geo:GSE255330:GSM8069370	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069370	geo:GSE255330:GSM8069370	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069370	geo:GSE255330:GSM8069370	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069370	geo:GSE255330:GSM8069370	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069371	geo:GSE255330:GSM8069371	donor_id	Lu912	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069371	NSCLC Patient Lu912	True
+GSM8069371	geo:GSE255330:GSM8069371	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069371	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069371	geo:GSE255330:GSM8069371	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069371	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069371	geo:GSE255330:GSM8069371	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069371	NSCLC Patient Lu912	True
+GSM8069371	geo:GSE255330:GSM8069371	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069371	NSCLC Patient Lu912	True
+GSM8069371	geo:GSE255330:GSM8069371	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069371	geo:GSE255330:GSM8069371	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069371	geo:GSE255330:GSM8069371	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069371	geo:GSE255330:GSM8069371	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069372	geo:GSE255330:GSM8069372	donor_id	Lu929	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069372	NSCLC Patient Lu929	True
+GSM8069372	geo:GSE255330:GSM8069372	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069372	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069372	geo:GSE255330:GSM8069372	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069372	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069372	geo:GSE255330:GSM8069372	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069372	NSCLC Patient Lu929	True
+GSM8069372	geo:GSE255330:GSM8069372	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069372	NSCLC Patient Lu929	True
+GSM8069372	geo:GSE255330:GSM8069372	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069372	geo:GSE255330:GSM8069372	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069372	geo:GSE255330:GSM8069372	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069372	geo:GSE255330:GSM8069372	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069373	geo:GSE255330:GSM8069373	donor_id	Lu931	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069373	NSCLC Patient Lu931	True
+GSM8069373	geo:GSE255330:GSM8069373	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069373	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069373	geo:GSE255330:GSM8069373	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069373	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069373	geo:GSE255330:GSM8069373	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069373	NSCLC Patient Lu931	True
+GSM8069373	geo:GSE255330:GSM8069373	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069373	NSCLC Patient Lu931	True
+GSM8069373	geo:GSE255330:GSM8069373	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069373	geo:GSE255330:GSM8069373	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069373	geo:GSE255330:GSM8069373	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069373	geo:GSE255330:GSM8069373	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069374	geo:GSE255330:GSM8069374	donor_id	Lu934	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069374	NSCLC Patient Lu934	True
+GSM8069374	geo:GSE255330:GSM8069374	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069374	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069374	geo:GSE255330:GSM8069374	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069374	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069374	geo:GSE255330:GSM8069374	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069374	NSCLC Patient Lu934	True
+GSM8069374	geo:GSE255330:GSM8069374	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069374	NSCLC Patient Lu934	True
+GSM8069374	geo:GSE255330:GSM8069374	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069374	geo:GSE255330:GSM8069374	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069374	geo:GSE255330:GSM8069374	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069374	geo:GSE255330:GSM8069374	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069375	geo:GSE255330:GSM8069375	donor_id	Lu936	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069375	NSCLC Patient Lu936	True
+GSM8069375	geo:GSE255330:GSM8069375	tissue_free_text	Blood	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069375	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069375	geo:GSE255330:GSM8069375	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069375	!Sample_characteristics_ch1 = tissue: Blood	True
+GSM8069375	geo:GSE255330:GSM8069375	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069375	NSCLC Patient Lu936	True
+GSM8069375	geo:GSE255330:GSM8069375	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069375	NSCLC Patient Lu936	True
+GSM8069375	geo:GSE255330:GSM8069375	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069375	geo:GSE255330:GSM8069375	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069375	geo:GSE255330:GSM8069375	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069375	geo:GSE255330:GSM8069375	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069376	geo:GSE255330:GSM8069376	donor_id	Lu881	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069376	NSCLC Patient Lu881	True
+GSM8069376	geo:GSE255330:GSM8069376	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069376	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069376	geo:GSE255330:GSM8069376	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069376	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069376	geo:GSE255330:GSM8069376	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069376	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069376	geo:GSE255330:GSM8069376	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069376	geo:GSE255330:GSM8069376	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069376	NSCLC Patient Lu881	True
+GSM8069376	geo:GSE255330:GSM8069376	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069376	NSCLC Patient Lu881	True
+GSM8069376	geo:GSE255330:GSM8069376	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069376	geo:GSE255330:GSM8069376	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069376	geo:GSE255330:GSM8069376	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069376	geo:GSE255330:GSM8069376	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069377	geo:GSE255330:GSM8069377	donor_id	Lu883	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069377	NSCLC Patient Lu883	True
+GSM8069377	geo:GSE255330:GSM8069377	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069377	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069377	geo:GSE255330:GSM8069377	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069377	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069377	geo:GSE255330:GSM8069377	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069377	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069377	geo:GSE255330:GSM8069377	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069377	geo:GSE255330:GSM8069377	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069377	NSCLC Patient Lu883	True
+GSM8069377	geo:GSE255330:GSM8069377	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069377	NSCLC Patient Lu883	True
+GSM8069377	geo:GSE255330:GSM8069377	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069377	geo:GSE255330:GSM8069377	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069377	geo:GSE255330:GSM8069377	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069377	geo:GSE255330:GSM8069377	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069378	geo:GSE255330:GSM8069378	donor_id	Lu895	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069378	NSCLC Patient Lu895	True
+GSM8069378	geo:GSE255330:GSM8069378	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069378	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069378	geo:GSE255330:GSM8069378	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069378	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069378	geo:GSE255330:GSM8069378	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069378	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069378	geo:GSE255330:GSM8069378	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069378	geo:GSE255330:GSM8069378	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069378	NSCLC Patient Lu895	True
+GSM8069378	geo:GSE255330:GSM8069378	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069378	NSCLC Patient Lu895	True
+GSM8069378	geo:GSE255330:GSM8069378	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069378	geo:GSE255330:GSM8069378	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069378	geo:GSE255330:GSM8069378	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069378	geo:GSE255330:GSM8069378	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069379	geo:GSE255330:GSM8069379	donor_id	Lu898	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069379	NSCLC Patient Lu898	True
+GSM8069379	geo:GSE255330:GSM8069379	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069379	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069379	geo:GSE255330:GSM8069379	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069379	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069379	geo:GSE255330:GSM8069379	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069379	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069379	geo:GSE255330:GSM8069379	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069379	geo:GSE255330:GSM8069379	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069379	NSCLC Patient Lu898	True
+GSM8069379	geo:GSE255330:GSM8069379	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069379	NSCLC Patient Lu898	True
+GSM8069379	geo:GSE255330:GSM8069379	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069379	geo:GSE255330:GSM8069379	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069379	geo:GSE255330:GSM8069379	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069379	geo:GSE255330:GSM8069379	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069380	geo:GSE255330:GSM8069380	donor_id	Lu912	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069380	NSCLC Patient Lu912	True
+GSM8069380	geo:GSE255330:GSM8069380	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069380	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069380	geo:GSE255330:GSM8069380	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069380	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069380	geo:GSE255330:GSM8069380	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069380	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069380	geo:GSE255330:GSM8069380	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069380	geo:GSE255330:GSM8069380	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069380	NSCLC Patient Lu912	True
+GSM8069380	geo:GSE255330:GSM8069380	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069380	NSCLC Patient Lu912	True
+GSM8069380	geo:GSE255330:GSM8069380	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069380	geo:GSE255330:GSM8069380	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069380	geo:GSE255330:GSM8069380	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069380	geo:GSE255330:GSM8069380	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069381	geo:GSE255330:GSM8069381	donor_id	Lu929	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069381	NSCLC Patient Lu929	True
+GSM8069381	geo:GSE255330:GSM8069381	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069381	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069381	geo:GSE255330:GSM8069381	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069381	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069381	geo:GSE255330:GSM8069381	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069381	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069381	geo:GSE255330:GSM8069381	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069381	geo:GSE255330:GSM8069381	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069381	NSCLC Patient Lu929	True
+GSM8069381	geo:GSE255330:GSM8069381	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069381	NSCLC Patient Lu929	True
+GSM8069381	geo:GSE255330:GSM8069381	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069381	geo:GSE255330:GSM8069381	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069381	geo:GSE255330:GSM8069381	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069381	geo:GSE255330:GSM8069381	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069382	geo:GSE255330:GSM8069382	donor_id	Lu931	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069382	NSCLC Patient Lu931	True
+GSM8069382	geo:GSE255330:GSM8069382	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069382	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069382	geo:GSE255330:GSM8069382	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069382	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069382	geo:GSE255330:GSM8069382	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069382	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069382	geo:GSE255330:GSM8069382	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069382	geo:GSE255330:GSM8069382	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069382	NSCLC Patient Lu931	True
+GSM8069382	geo:GSE255330:GSM8069382	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069382	NSCLC Patient Lu931	True
+GSM8069382	geo:GSE255330:GSM8069382	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069382	geo:GSE255330:GSM8069382	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069382	geo:GSE255330:GSM8069382	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069382	geo:GSE255330:GSM8069382	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069383	geo:GSE255330:GSM8069383	donor_id	Lu934	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069383	NSCLC Patient Lu934	True
+GSM8069383	geo:GSE255330:GSM8069383	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069383	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069383	geo:GSE255330:GSM8069383	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069383	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069383	geo:GSE255330:GSM8069383	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069383	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069383	geo:GSE255330:GSM8069383	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069383	geo:GSE255330:GSM8069383	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069383	NSCLC Patient Lu934	True
+GSM8069383	geo:GSE255330:GSM8069383	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069383	NSCLC Patient Lu934	True
+GSM8069383	geo:GSE255330:GSM8069383	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069383	geo:GSE255330:GSM8069383	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069383	geo:GSE255330:GSM8069383	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069383	geo:GSE255330:GSM8069383	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069384	geo:GSE255330:GSM8069384	donor_id	Lu936	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069384	NSCLC Patient Lu936	True
+GSM8069384	geo:GSE255330:GSM8069384	tissue_free_text	Lung tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069384	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069384	geo:GSE255330:GSM8069384	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069384	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069384	geo:GSE255330:GSM8069384	sampled_site_condition	tumor	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069384	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8069384	geo:GSE255330:GSM8069384	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069384	geo:GSE255330:GSM8069384	disease_free_text	NSCLC	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069384	NSCLC Patient Lu936	True
+GSM8069384	geo:GSE255330:GSM8069384	disease_ontology_term_id	MONDO:0005233	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069384	NSCLC Patient Lu936	True
+GSM8069384	geo:GSE255330:GSM8069384	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC13105218.txt		modeling non-small cell lung cancer (NSCLC)	True
+GSM8069384	geo:GSE255330:GSM8069384	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069384	geo:GSE255330:GSM8069384	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069384	geo:GSE255330:GSM8069384	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069385	geo:GSE255330:GSM8069385	donor_id	Lu881	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069385	NSCLC Patient Lu881	True
+GSM8069385	geo:GSE255330:GSM8069385	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069385	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069385	geo:GSE255330:GSM8069385	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069385	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069385	geo:GSE255330:GSM8069385	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069385	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069385	geo:GSE255330:GSM8069385	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069385	geo:GSE255330:GSM8069385	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069385	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069385	geo:GSE255330:GSM8069385	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069385	cells from NSCLC Patient Lu881	True
+GSM8069385	geo:GSE255330:GSM8069385	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069385	geo:GSE255330:GSM8069385	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069385	geo:GSE255330:GSM8069385	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069386	geo:GSE255330:GSM8069386	donor_id	Lu883	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069386	NSCLC Patient Lu883	True
+GSM8069386	geo:GSE255330:GSM8069386	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069386	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069386	geo:GSE255330:GSM8069386	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069386	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069386	geo:GSE255330:GSM8069386	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069386	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069386	geo:GSE255330:GSM8069386	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069386	geo:GSE255330:GSM8069386	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069386	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069386	geo:GSE255330:GSM8069386	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069386	cells from NSCLC Patient Lu883	True
+GSM8069386	geo:GSE255330:GSM8069386	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069386	geo:GSE255330:GSM8069386	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069386	geo:GSE255330:GSM8069386	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069387	geo:GSE255330:GSM8069387	donor_id	Lu895	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069387	NSCLC Patient Lu895	True
+GSM8069387	geo:GSE255330:GSM8069387	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069387	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069387	geo:GSE255330:GSM8069387	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069387	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069387	geo:GSE255330:GSM8069387	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069387	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069387	geo:GSE255330:GSM8069387	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069387	geo:GSE255330:GSM8069387	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069387	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069387	geo:GSE255330:GSM8069387	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069387	cells from NSCLC Patient Lu895	True
+GSM8069387	geo:GSE255330:GSM8069387	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069387	geo:GSE255330:GSM8069387	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069387	geo:GSE255330:GSM8069387	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069388	geo:GSE255330:GSM8069388	donor_id	Lu898	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069388	NSCLC Patient Lu898	True
+GSM8069388	geo:GSE255330:GSM8069388	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069388	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069388	geo:GSE255330:GSM8069388	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069388	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069388	geo:GSE255330:GSM8069388	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069388	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069388	geo:GSE255330:GSM8069388	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069388	geo:GSE255330:GSM8069388	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069388	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069388	geo:GSE255330:GSM8069388	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069388	cells from NSCLC Patient Lu898	True
+GSM8069388	geo:GSE255330:GSM8069388	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069388	geo:GSE255330:GSM8069388	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069388	geo:GSE255330:GSM8069388	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069389	geo:GSE255330:GSM8069389	donor_id	Lu912	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069389	NSCLC Patient Lu912	True
+GSM8069389	geo:GSE255330:GSM8069389	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069389	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069389	geo:GSE255330:GSM8069389	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069389	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069389	geo:GSE255330:GSM8069389	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069389	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069389	geo:GSE255330:GSM8069389	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069389	geo:GSE255330:GSM8069389	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069389	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069389	geo:GSE255330:GSM8069389	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069389	cells from NSCLC Patient Lu912	True
+GSM8069389	geo:GSE255330:GSM8069389	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069389	geo:GSE255330:GSM8069389	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069389	geo:GSE255330:GSM8069389	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069390	geo:GSE255330:GSM8069390	donor_id	Lu929	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069390	NSCLC Patient Lu929	True
+GSM8069390	geo:GSE255330:GSM8069390	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069390	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069390	geo:GSE255330:GSM8069390	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069390	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069390	geo:GSE255330:GSM8069390	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069390	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069390	geo:GSE255330:GSM8069390	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069390	geo:GSE255330:GSM8069390	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069390	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069390	geo:GSE255330:GSM8069390	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069390	cells from NSCLC Patient Lu929	True
+GSM8069390	geo:GSE255330:GSM8069390	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069390	geo:GSE255330:GSM8069390	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069390	geo:GSE255330:GSM8069390	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069391	geo:GSE255330:GSM8069391	donor_id	Lu931	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069391	NSCLC Patient Lu931	True
+GSM8069391	geo:GSE255330:GSM8069391	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069391	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069391	geo:GSE255330:GSM8069391	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069391	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069391	geo:GSE255330:GSM8069391	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069391	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069391	geo:GSE255330:GSM8069391	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069391	geo:GSE255330:GSM8069391	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069391	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069391	geo:GSE255330:GSM8069391	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069391	cells from NSCLC Patient Lu931	True
+GSM8069391	geo:GSE255330:GSM8069391	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069391	geo:GSE255330:GSM8069391	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069391	geo:GSE255330:GSM8069391	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069392	geo:GSE255330:GSM8069392	donor_id	Lu934	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069392	NSCLC Patient Lu934	True
+GSM8069392	geo:GSE255330:GSM8069392	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069392	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069392	geo:GSE255330:GSM8069392	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069392	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069392	geo:GSE255330:GSM8069392	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069392	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069392	geo:GSE255330:GSM8069392	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069392	geo:GSE255330:GSM8069392	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069392	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069392	geo:GSE255330:GSM8069392	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069392	cells from NSCLC Patient Lu934	True
+GSM8069392	geo:GSE255330:GSM8069392	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069392	geo:GSE255330:GSM8069392	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069392	geo:GSE255330:GSM8069392	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSM8069393	geo:GSE255330:GSM8069393	donor_id	Lu936	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069393	NSCLC Patient Lu936	True
+GSM8069393	geo:GSE255330:GSM8069393	tissue_free_text	Lung adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069393	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069393	geo:GSE255330:GSM8069393	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069393	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069393	geo:GSE255330:GSM8069393	sampled_site_condition	adjacent normal	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069393	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069393	geo:GSE255330:GSM8069393	sample_collection_method	surgical resection	file	evidence/PMC13105218.txt		Samples of tumor and non-involved lung were then obtained from surgical specimens of the participants undergoing resection	True
+GSM8069393	geo:GSE255330:GSM8069393	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069393	!Sample_characteristics_ch1 = tissue: Lung adjacent normal	True
+GSM8069393	geo:GSE255330:GSM8069393	disease_free_text	adjacent normal lung of an NSCLC patient	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz	GSM8069393	cells from NSCLC Patient Lu936	True
+GSM8069393	geo:GSE255330:GSM8069393	tissue_type	tissue	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues (Lung Tumor/Lung adjacent normal/PBMC) of patients with NSCLC	True
+GSM8069393	geo:GSE255330:GSM8069393	cell_enrichment	CD45+	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45 positive cells were bead-enriched from processed tissues	True
+GSM8069393	geo:GSE255330:GSM8069393	suspension_type	nucleus	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		CD45positive cells after sorting or bead-based enrichment were subjected to nuclei isolation	True
+GSE255330_hs_AdjacentNormal_Lu927	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu927	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_AdjacentNormal_Lu941	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu941	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_AdjacentNormal_Lu952	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu952	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_AdjacentNormal_Lu954	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu954	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_AdjacentNormal_Lu979	geo:GSE255330:GSE255330_hs_AdjacentNormal_Lu979	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_PBMC_Lu927	geo:GSE255330:GSE255330_hs_PBMC_Lu927	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_PBMC_Lu941	geo:GSE255330:GSE255330_hs_PBMC_Lu941	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_PBMC_Lu954	geo:GSE255330:GSE255330_hs_PBMC_Lu954	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_PBMC_Lu979	geo:GSE255330:GSE255330_hs_PBMC_Lu979	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_Tumor_Lu927	geo:GSE255330:GSE255330_hs_Tumor_Lu927	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_Tumor_Lu941	geo:GSE255330:GSE255330_hs_Tumor_Lu941	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_Tumor_Lu952	geo:GSE255330:GSE255330_hs_Tumor_Lu952	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_Tumor_Lu954	geo:GSE255330:GSE255330_hs_Tumor_Lu954	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSE255330_hs_Tumor_Lu979	geo:GSE255330:GSE255330_hs_Tumor_Lu979	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069367	geo:GSE255330:GSM8069367	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069368	geo:GSE255330:GSM8069368	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069369	geo:GSE255330:GSM8069369	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069370	geo:GSE255330:GSM8069370	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069371	geo:GSE255330:GSM8069371	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069372	geo:GSE255330:GSM8069372	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069373	geo:GSE255330:GSM8069373	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069374	geo:GSE255330:GSM8069374	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069375	geo:GSE255330:GSM8069375	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069376	geo:GSE255330:GSM8069376	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069377	geo:GSE255330:GSM8069377	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069378	geo:GSE255330:GSM8069378	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069379	geo:GSE255330:GSM8069379	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069380	geo:GSE255330:GSM8069380	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069381	geo:GSE255330:GSM8069381	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069382	geo:GSE255330:GSM8069382	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069383	geo:GSE255330:GSM8069383	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069384	geo:GSE255330:GSM8069384	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069385	geo:GSE255330:GSM8069385	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069386	geo:GSE255330:GSM8069386	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069387	geo:GSE255330:GSM8069387	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069388	geo:GSE255330:GSM8069388	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069389	geo:GSE255330:GSM8069389	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069390	geo:GSE255330:GSM8069390	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069391	geo:GSE255330:GSM8069391	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069392	geo:GSE255330:GSM8069392	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True
+GSM8069393	geo:GSE255330:GSM8069393	atac.genome_assembly	hg38	file	raw/fp-fe37ffc1a41c/GSE255330_family.soft.gz		Assembly: Mouse:mm10; Human: hg38	True

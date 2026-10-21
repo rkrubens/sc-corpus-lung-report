@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7790998	geo:GSE243562:GSM7790998	tissue_free_text	Patient-derived xenograft	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7790998	!Sample_characteristics_ch1 = tissue: Patient-derived xenograft	True
+GSM7790998	geo:GSE243562:GSM7790998	treatment	Untreated	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7790998	!Sample_characteristics_ch1 = treatment: Untreated	True
+GSM7790999	geo:GSE243562:GSM7790999	tissue_free_text	Patient-derived xenograft	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7790999	!Sample_characteristics_ch1 = tissue: Patient-derived xenograft	True
+GSM7790999	geo:GSE243562:GSM7790999	treatment	Osimertinib for 6 weeks	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7790999	!Sample_characteristics_ch1 = treatment: Osimertinib for 6 weeks	True
+GSM7791000	geo:GSE243562:GSM7791000	tissue_free_text	Patient-derived xenograft	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7791000	!Sample_characteristics_ch1 = tissue: Patient-derived xenograft	True
+GSM7791000	geo:GSE243562:GSM7791000	treatment	Untreated	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7791000	!Sample_characteristics_ch1 = treatment: Untreated	True
+GSM7791001	geo:GSE243562:GSM7791001	tissue_free_text	Patient-derived xenograft	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7791001	!Sample_characteristics_ch1 = tissue: Patient-derived xenograft	True
+GSM7791001	geo:GSE243562:GSM7791001	treatment	Osimertinib for 6 weeks	file	raw/fp-c46e3fed998d/GSE243562_family.soft.gz	GSM7791001	!Sample_characteristics_ch1 = treatment: Osimertinib for 6 weeks	True

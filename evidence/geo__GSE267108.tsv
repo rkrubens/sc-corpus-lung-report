@@ -1,0 +1,74 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-37a9ccb73159/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+CFR1	geo:GSE267108:CFR1	donor_id	CFR1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259997	!Sample_description = CFR1	True
+CFR1	geo:GSE267108:CFR1	donor_id	CFR1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259997	we collected eight tumor samples from eight lung cancer patients	True
+CFR1	geo:GSE267108:CFR1	tissue_free_text	right upper lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259997	tissue: right upper lung	True
+CFR1	geo:GSE267108:CFR1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259997	tissue: right upper lung	True
+CFR1	geo:GSE267108:CFR1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+CFR1	geo:GSE267108:CFR1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+CFR1	geo:GSE267108:CFR1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259997	!Sample_source_name_ch1 = lung cancer tissue,pT1cN2M0	True
+CFR1	geo:GSE267108:CFR1	disease_stage	pT1cN2M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259997	lung cancer tissue,pT1cN2M0	True
+CFR1	geo:GSE267108:CFR1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+CHW1	geo:GSE267108:CHW1	donor_id	CHW1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260001	!Sample_description = CHW1	True
+CHW1	geo:GSE267108:CHW1	donor_id	CHW1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260001	we collected eight tumor samples from eight lung cancer patients	True
+CHW1	geo:GSE267108:CHW1	tissue_free_text	right upper lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260001	tissue: right upper lung	True
+CHW1	geo:GSE267108:CHW1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260001	tissue: right upper lung	True
+CHW1	geo:GSE267108:CHW1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+CHW1	geo:GSE267108:CHW1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+CHW1	geo:GSE267108:CHW1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260001	!Sample_source_name_ch1 = lung cancer tissue,pT1bN0M0	True
+CHW1	geo:GSE267108:CHW1	disease_stage	pT1bN0M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260001	lung cancer tissue,pT1bN0M0	True
+CHW1	geo:GSE267108:CHW1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+HRZ1	geo:GSE267108:HRZ1	donor_id	HRZ1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259999	!Sample_description = HRZ1	True
+HRZ1	geo:GSE267108:HRZ1	donor_id	HRZ1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259999	we collected eight tumor samples from eight lung cancer patients	True
+HRZ1	geo:GSE267108:HRZ1	tissue_free_text	right upper lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259999	tissue: right upper lung	True
+HRZ1	geo:GSE267108:HRZ1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259999	tissue: right upper lung	True
+HRZ1	geo:GSE267108:HRZ1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+HRZ1	geo:GSE267108:HRZ1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+HRZ1	geo:GSE267108:HRZ1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259999	!Sample_source_name_ch1 = lung cancer tissue,pT3NxM0	True
+HRZ1	geo:GSE267108:HRZ1	disease_stage	pT3NxM0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8259999	lung cancer tissue,pT3NxM0	True
+HRZ1	geo:GSE267108:HRZ1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+LJM1	geo:GSE267108:LJM1	donor_id	LJM1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260011	!Sample_description = LJM1	True
+LJM1	geo:GSE267108:LJM1	donor_id	LJM1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260011	we collected eight tumor samples from eight lung cancer patients	True
+LJM1	geo:GSE267108:LJM1	tissue_free_text	right lower lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260011	tissue: right lower lung	True
+LJM1	geo:GSE267108:LJM1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260011	tissue: right lower lung	True
+LJM1	geo:GSE267108:LJM1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+LJM1	geo:GSE267108:LJM1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+LJM1	geo:GSE267108:LJM1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260011	!Sample_source_name_ch1 = lung cancer tissue,pT2aN0M0	True
+LJM1	geo:GSE267108:LJM1	disease_stage	pT2aN0M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260011	lung cancer tissue,pT2aN0M0	True
+LJM1	geo:GSE267108:LJM1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+LYS1	geo:GSE267108:LYS1	donor_id	LYS1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260007	!Sample_description = LYS1	True
+LYS1	geo:GSE267108:LYS1	donor_id	LYS1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260007	we collected eight tumor samples from eight lung cancer patients	True
+LYS1	geo:GSE267108:LYS1	tissue_free_text	left lower lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260007	tissue: left lower lung	True
+LYS1	geo:GSE267108:LYS1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260007	tissue: left lower lung	True
+LYS1	geo:GSE267108:LYS1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+LYS1	geo:GSE267108:LYS1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+LYS1	geo:GSE267108:LYS1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260007	!Sample_source_name_ch1 = lung cancer tissue,pT3N0M0	True
+LYS1	geo:GSE267108:LYS1	disease_stage	pT3N0M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260007	lung cancer tissue,pT3N0M0	True
+LYS1	geo:GSE267108:LYS1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+WWM1	geo:GSE267108:WWM1	donor_id	WWM1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260003	!Sample_description = WWM1	True
+WWM1	geo:GSE267108:WWM1	donor_id	WWM1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260003	we collected eight tumor samples from eight lung cancer patients	True
+WWM1	geo:GSE267108:WWM1	tissue_free_text	right lower lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260003	tissue: right lower lung	True
+WWM1	geo:GSE267108:WWM1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260003	tissue: right lower lung	True
+WWM1	geo:GSE267108:WWM1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+WWM1	geo:GSE267108:WWM1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+WWM1	geo:GSE267108:WWM1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260003	!Sample_source_name_ch1 = lung cancer tissue,pT2aN0M0	True
+WWM1	geo:GSE267108:WWM1	disease_stage	pT2aN0M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260003	lung cancer tissue,pT2aN0M0	True
+WWM1	geo:GSE267108:WWM1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+WXQ1	geo:GSE267108:WXQ1	donor_id	WXQ1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260009	!Sample_description = WXQ1	True
+WXQ1	geo:GSE267108:WXQ1	donor_id	WXQ1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260009	we collected eight tumor samples from eight lung cancer patients	True
+WXQ1	geo:GSE267108:WXQ1	tissue_free_text	left upper lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260009	tissue: left upper lung	True
+WXQ1	geo:GSE267108:WXQ1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260009	tissue: left upper lung	True
+WXQ1	geo:GSE267108:WXQ1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+WXQ1	geo:GSE267108:WXQ1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+WXQ1	geo:GSE267108:WXQ1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260009	!Sample_source_name_ch1 = lung cancer tissue,pT1cN0M0	True
+WXQ1	geo:GSE267108:WXQ1	disease_stage	pT1cN0M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260009	lung cancer tissue,pT1cN0M0	True
+WXQ1	geo:GSE267108:WXQ1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True
+ZXM1	geo:GSE267108:ZXM1	donor_id	ZXM1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260005	!Sample_description = ZXM1	True
+ZXM1	geo:GSE267108:ZXM1	donor_id	ZXM1	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260005	we collected eight tumor samples from eight lung cancer patients	True
+ZXM1	geo:GSE267108:ZXM1	tissue_free_text	right lower lung	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260005	tissue: right lower lung	True
+ZXM1	geo:GSE267108:ZXM1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260005	tissue: right lower lung	True
+ZXM1	geo:GSE267108:ZXM1	disease_free_text	lung adenocarcinoma	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+ZXM1	geo:GSE267108:ZXM1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz		8 tumor tissue samples from 8 lung adenocarcinoma patients	True
+ZXM1	geo:GSE267108:ZXM1	tissue_type	tissue	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260005	!Sample_source_name_ch1 = lung cancer tissue,pT1cN0M0	True
+ZXM1	geo:GSE267108:ZXM1	disease_stage	pT1cN0M0	file	raw/fp-37a9ccb73159/GSE267108_family.soft.gz	GSM8260005	lung cancer tissue,pT1cN0M0	True
+ZXM1	geo:GSE267108:ZXM1	treatment_status	untreated	file	evidence/PMC11843243.txt		patients who had not received immunotherapy, chemotherapy, or radiotherapy prior to enrollment	True

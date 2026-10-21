@@ -1,0 +1,152 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64 years	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64 years	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68 years	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68 years	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75 years	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75 years	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79 years	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79 years	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69 years	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	assay_ontology_term_id	EFO:0700004	derived	ols:efo		BD Rhapsody Targeted mRNA	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69 years	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Homo sapiens 64 year	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	donor_id	D0428	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_01 ERS4957373 SAMEA7197149 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	sex	female	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_01 ERS4957373 SAMEA7197149 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	age	64 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_01 ERS4957373 SAMEA7197149 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_01 ERS4957373 SAMEA7197149 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	tissue_free_text	blood	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_01 ERS4957373 SAMEA7197149 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Separate PBMC using PANCOLL lymphocyte separation medium	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_01	arrayexpress:E-MTAB-9451:Lib_01	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	donor_id	D0428	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_02 ERS4957378 SAMEA7197154 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type lung tumour cell	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	sex	female	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_02 ERS4957378 SAMEA7197154 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type lung tumour cell	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	age	64 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_02 ERS4957378 SAMEA7197154 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type lung tumour cell	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_02 ERS4957378 SAMEA7197154 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type lung tumour cell	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	tissue_free_text	lung	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_02 ERS4957378 SAMEA7197154 Homo sapiens 64 year EFO UO_0000036 adult female D0428 adenocarcinoma with acinar type lung tumour cell	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Cut tumour into small pieces and dissociate the tumour tissue using the Human Tumor Dissociation Kit	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_02	arrayexpress:E-MTAB-9451:Lib_02	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	donor_id	D0429	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_03 ERS4957374 SAMEA7197150 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	sex	female	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_03 ERS4957374 SAMEA7197150 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	age	68 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_03 ERS4957374 SAMEA7197150 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_03 ERS4957374 SAMEA7197150 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	tissue_free_text	blood	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_03 ERS4957374 SAMEA7197150 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Separate PBMC using PANCOLL lymphocyte separation medium	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_03	arrayexpress:E-MTAB-9451:Lib_03	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	donor_id	D0429	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_04 ERS4957379 SAMEA7197155 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type lung tumour cell	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	sex	female	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_04 ERS4957379 SAMEA7197155 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type lung tumour cell	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	age	68 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_04 ERS4957379 SAMEA7197155 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type lung tumour cell	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_04 ERS4957379 SAMEA7197155 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type lung tumour cell	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	tissue_free_text	lung	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_04 ERS4957379 SAMEA7197155 Homo sapiens 68 year EFO UO_0000036 adult female D0429 adenocarcinoma with acinar type lung tumour cell	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Cut tumour into small pieces and dissociate the tumour tissue using the Human Tumor Dissociation Kit	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_04	arrayexpress:E-MTAB-9451:Lib_04	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	donor_id	D0430	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_05 ERS4957375 SAMEA7197151 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma blood peripheral blood mononuclear cell	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	sex	female	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_05 ERS4957375 SAMEA7197151 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma blood peripheral blood mononuclear cell	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	age	75 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_05 ERS4957375 SAMEA7197151 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma blood peripheral blood mononuclear cell	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_05 ERS4957375 SAMEA7197151 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma blood peripheral blood mononuclear cell	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	tissue_free_text	blood	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_05 ERS4957375 SAMEA7197151 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma blood peripheral blood mononuclear cell	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Separate PBMC using PANCOLL lymphocyte separation medium	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_05	arrayexpress:E-MTAB-9451:Lib_05	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	donor_id	D0430	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_06 ERS4957380 SAMEA7197156 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma lung tumour cell	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	sex	female	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_06 ERS4957380 SAMEA7197156 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma lung tumour cell	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	age	75 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_06 ERS4957380 SAMEA7197156 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma lung tumour cell	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_06 ERS4957380 SAMEA7197156 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma lung tumour cell	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	tissue_free_text	lung	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_06 ERS4957380 SAMEA7197156 Homo sapiens 75 year EFO UO_0000036 adult female D0430 adenocarcinoma lung tumour cell	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Cut tumour into small pieces and dissociate the tumour tissue using the Human Tumor Dissociation Kit	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_06	arrayexpress:E-MTAB-9451:Lib_06	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	donor_id	D0431	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_07 ERS4957376 SAMEA7197152 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma blood peripheral blood mononuclear cell	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	sex	male	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_07 ERS4957376 SAMEA7197152 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma blood peripheral blood mononuclear cell	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	age	79 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_07 ERS4957376 SAMEA7197152 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma blood peripheral blood mononuclear cell	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	disease_free_text	lung squamous cell carcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_07 ERS4957376 SAMEA7197152 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma blood peripheral blood mononuclear cell	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	disease_free_text	lung squamous cell carcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	tissue_free_text	blood	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_07 ERS4957376 SAMEA7197152 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma blood peripheral blood mononuclear cell	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Separate PBMC using PANCOLL lymphocyte separation medium	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_07	arrayexpress:E-MTAB-9451:Lib_07	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	donor_id	D0431	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_08 ERS4957381 SAMEA7197157 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma lung tumour cell	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	sex	male	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_08 ERS4957381 SAMEA7197157 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma lung tumour cell	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	age	79 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_08 ERS4957381 SAMEA7197157 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma lung tumour cell	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	disease_free_text	lung squamous cell carcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_08 ERS4957381 SAMEA7197157 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma lung tumour cell	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	disease_free_text	lung squamous cell carcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	tissue_free_text	lung	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_08 ERS4957381 SAMEA7197157 Homo sapiens 79 year EFO UO_0000036 adult male D0431 squamous cell carcinoma lung tumour cell	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Cut tumour into small pieces and dissociate the tumour tissue using the Human Tumor Dissociation Kit	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_08	arrayexpress:E-MTAB-9451:Lib_08	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	donor_id	D0432	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_09 ERS4957377 SAMEA7197153 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	sex	male	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_09 ERS4957377 SAMEA7197153 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	age	69 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_09 ERS4957377 SAMEA7197153 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_09 ERS4957377 SAMEA7197153 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	tissue_free_text	blood	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_09 ERS4957377 SAMEA7197153 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type blood peripheral blood mononuclear cell	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Separate PBMC using PANCOLL lymphocyte separation medium	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_09	arrayexpress:E-MTAB-9451:Lib_09	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	donor_id	D0432	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_10 ERS4957382 SAMEA7197158 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type lung tumour cell	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	sex	male	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_10 ERS4957382 SAMEA7197158 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type lung tumour cell	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	age	69 years	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_10 ERS4957382 SAMEA7197158 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type lung tumour cell	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_10 ERS4957382 SAMEA7197158 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type lung tumour cell	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	disease_free_text	lung adenocarcinoma	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Single cell RNA sequencing of paired non small cell lung carcinoma tissue and peripheral blood from 5 donors	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	tissue_free_text	lung	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		Lib_10 ERS4957382 SAMEA7197158 Homo sapiens 69 year EFO UO_0000036 adult male D0432 adenocarcinoma with acinar type lung tumour cell	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	tissue_type	tissue	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Cut tumour into small pieces and dissociate the tumour tissue using the Human Tumor Dissociation Kit	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	suspension_type	cell	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	sample_preservation	cryopreserved	file	raw/fp-3d53b2dacbda/E-MTAB-9451.idf.txt		Freeze single cell suspension in Gibco Recovery Cell Culture Freezing Medium	True
+Lib_10	arrayexpress:E-MTAB-9451:Lib_10	assay	BD Rhapsody Targeted mRNA	file	raw/fp-3d53b2dacbda/E-MTAB-9451.sdrf.txt		BD Rhapsody Immune Response Targeted Panel (Human)	True

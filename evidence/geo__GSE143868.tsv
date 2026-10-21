@@ -1,0 +1,65 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4275611	geo:GSE143868:GSM4275611	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275613	geo:GSE143868:GSM4275613	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275614	geo:GSE143868:GSM4275614	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275615	geo:GSE143868:GSM4275615	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275616	geo:GSE143868:GSM4275616	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275617	geo:GSE143868:GSM4275617	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275618	geo:GSE143868:GSM4275618	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275620	geo:GSE143868:GSM4275620	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275621	geo:GSE143868:GSM4275621	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275622	geo:GSE143868:GSM4275622	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275624	geo:GSE143868:GSM4275624	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275625	geo:GSE143868:GSM4275625	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275626	geo:GSE143868:GSM4275626	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275627	geo:GSE143868:GSM4275627	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275628	geo:GSE143868:GSM4275628	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275630	geo:GSE143868:GSM4275630	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275631	geo:GSE143868:GSM4275631	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275632	geo:GSE143868:GSM4275632	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275633	geo:GSE143868:GSM4275633	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275634	geo:GSE143868:GSM4275634	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275635	geo:GSE143868:GSM4275635	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275637	geo:GSE143868:GSM4275637	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275638	geo:GSE143868:GSM4275638	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275639	geo:GSE143868:GSM4275639	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275641	geo:GSE143868:GSM4275641	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275642	geo:GSE143868:GSM4275642	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275643	geo:GSE143868:GSM4275643	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+GSM4275644	geo:GSE143868:GSM4275644	tissue_ontology_term_id	UBERON:0000115	derived	ols:uberon		Lung epithelium	True
+		organism	Homo sapiens	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4275611	geo:GSE143868:GSM4275611	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275611	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275612	geo:GSE143868:GSM4275612	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275612	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True
+GSM4275613	geo:GSE143868:GSM4275613	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275613	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275614	geo:GSE143868:GSM4275614	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275614	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275615	geo:GSE143868:GSM4275615	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275615	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275616	geo:GSE143868:GSM4275616	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275616	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275617	geo:GSE143868:GSM4275617	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275617	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275618	geo:GSE143868:GSM4275618	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275618	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275619	geo:GSE143868:GSM4275619	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275619	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True
+GSM4275620	geo:GSE143868:GSM4275620	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275620	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275621	geo:GSE143868:GSM4275621	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275621	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275622	geo:GSE143868:GSM4275622	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275622	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275623	geo:GSE143868:GSM4275623	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275623	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True
+GSM4275624	geo:GSE143868:GSM4275624	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275624	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275625	geo:GSE143868:GSM4275625	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275625	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275626	geo:GSE143868:GSM4275626	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275626	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275627	geo:GSE143868:GSM4275627	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275627	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275628	geo:GSE143868:GSM4275628	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275628	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275629	geo:GSE143868:GSM4275629	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275629	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True
+GSM4275630	geo:GSE143868:GSM4275630	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275630	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275631	geo:GSE143868:GSM4275631	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275631	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275632	geo:GSE143868:GSM4275632	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275632	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275633	geo:GSE143868:GSM4275633	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275633	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275634	geo:GSE143868:GSM4275634	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275634	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275635	geo:GSE143868:GSM4275635	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275635	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275636	geo:GSE143868:GSM4275636	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275636	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True
+GSM4275637	geo:GSE143868:GSM4275637	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275637	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275638	geo:GSE143868:GSM4275638	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275638	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275639	geo:GSE143868:GSM4275639	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275639	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275640	geo:GSE143868:GSM4275640	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275640	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True
+GSM4275641	geo:GSE143868:GSM4275641	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275641	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275642	geo:GSE143868:GSM4275642	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275642	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275643	geo:GSE143868:GSM4275643	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275643	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275644	geo:GSE143868:GSM4275644	tissue_free_text	Lung epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275644	!Sample_characteristics_ch1 = tissue: Lung epithelium	True
+GSM4275645	geo:GSE143868:GSM4275645	tissue_free_text	Nasal epithelium	file	raw/fp-af1d3a726b18/GSE143868_family.soft.gz	GSM4275645	!Sample_characteristics_ch1 = tissue: Nasal epithelium	True

@@ -1,0 +1,982 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM10117341	geo:GSE335761:GSM10117341	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117341	geo:GSE335761:GSM10117341	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117341	geo:GSE335761:GSM10117341	development_stage_ontology_term_id	HsapDv:0000130	derived	age_in_years:'36-year-old stage':ols:hsapdv		36	True
+GSM10117341	geo:GSE335761:GSM10117341	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117342	geo:GSE335761:GSM10117342	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117342	geo:GSE335761:GSM10117342	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117342	geo:GSE335761:GSM10117342	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117342	geo:GSE335761:GSM10117342	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117343	geo:GSE335761:GSM10117343	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117343	geo:GSE335761:GSM10117343	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117343	geo:GSE335761:GSM10117343	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117343	geo:GSE335761:GSM10117343	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117344	geo:GSE335761:GSM10117344	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117344	geo:GSE335761:GSM10117344	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117344	geo:GSE335761:GSM10117344	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117344	geo:GSE335761:GSM10117344	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117345	geo:GSE335761:GSM10117345	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117345	geo:GSE335761:GSM10117345	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117345	geo:GSE335761:GSM10117345	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM10117345	geo:GSE335761:GSM10117345	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117346	geo:GSE335761:GSM10117346	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117346	geo:GSE335761:GSM10117346	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117346	geo:GSE335761:GSM10117346	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM10117346	geo:GSE335761:GSM10117346	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117347	geo:GSE335761:GSM10117347	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117347	geo:GSE335761:GSM10117347	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117347	geo:GSE335761:GSM10117347	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117347	geo:GSE335761:GSM10117347	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117348	geo:GSE335761:GSM10117348	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117348	geo:GSE335761:GSM10117348	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117348	geo:GSE335761:GSM10117348	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117348	geo:GSE335761:GSM10117348	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117349	geo:GSE335761:GSM10117349	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117349	geo:GSE335761:GSM10117349	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117349	geo:GSE335761:GSM10117349	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117349	geo:GSE335761:GSM10117349	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117350	geo:GSE335761:GSM10117350	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117350	geo:GSE335761:GSM10117350	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117350	geo:GSE335761:GSM10117350	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117350	geo:GSE335761:GSM10117350	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117351	geo:GSE335761:GSM10117351	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117351	geo:GSE335761:GSM10117351	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117351	geo:GSE335761:GSM10117351	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM10117351	geo:GSE335761:GSM10117351	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117352	geo:GSE335761:GSM10117352	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117352	geo:GSE335761:GSM10117352	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117352	geo:GSE335761:GSM10117352	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM10117352	geo:GSE335761:GSM10117352	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117353	geo:GSE335761:GSM10117353	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117353	geo:GSE335761:GSM10117353	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117353	geo:GSE335761:GSM10117353	development_stage_ontology_term_id	HsapDv:0000130	derived	age_in_years:'36-year-old stage':ols:hsapdv		36	True
+GSM10117353	geo:GSE335761:GSM10117353	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117354	geo:GSE335761:GSM10117354	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117354	geo:GSE335761:GSM10117354	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117354	geo:GSE335761:GSM10117354	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117354	geo:GSE335761:GSM10117354	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117355	geo:GSE335761:GSM10117355	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117355	geo:GSE335761:GSM10117355	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117355	geo:GSE335761:GSM10117355	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+GSM10117355	geo:GSE335761:GSM10117355	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117356	geo:GSE335761:GSM10117356	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117356	geo:GSE335761:GSM10117356	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117356	geo:GSE335761:GSM10117356	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM10117356	geo:GSE335761:GSM10117356	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117357	geo:GSE335761:GSM10117357	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117357	geo:GSE335761:GSM10117357	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117357	geo:GSE335761:GSM10117357	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117357	geo:GSE335761:GSM10117357	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117358	geo:GSE335761:GSM10117358	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117358	geo:GSE335761:GSM10117358	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117358	geo:GSE335761:GSM10117358	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM10117358	geo:GSE335761:GSM10117358	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117359	geo:GSE335761:GSM10117359	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117359	geo:GSE335761:GSM10117359	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117359	geo:GSE335761:GSM10117359	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM10117359	geo:GSE335761:GSM10117359	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117360	geo:GSE335761:GSM10117360	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117360	geo:GSE335761:GSM10117360	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117360	geo:GSE335761:GSM10117360	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM10117360	geo:GSE335761:GSM10117360	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117361	geo:GSE335761:GSM10117361	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117361	geo:GSE335761:GSM10117361	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117361	geo:GSE335761:GSM10117361	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM10117361	geo:GSE335761:GSM10117361	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117362	geo:GSE335761:GSM10117362	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117362	geo:GSE335761:GSM10117362	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117362	geo:GSE335761:GSM10117362	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM10117362	geo:GSE335761:GSM10117362	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117363	geo:GSE335761:GSM10117363	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117363	geo:GSE335761:GSM10117363	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117363	geo:GSE335761:GSM10117363	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117363	geo:GSE335761:GSM10117363	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117364	geo:GSE335761:GSM10117364	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117364	geo:GSE335761:GSM10117364	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117364	geo:GSE335761:GSM10117364	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM10117364	geo:GSE335761:GSM10117364	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117365	geo:GSE335761:GSM10117365	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117365	geo:GSE335761:GSM10117365	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117365	geo:GSE335761:GSM10117365	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM10117365	geo:GSE335761:GSM10117365	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117366	geo:GSE335761:GSM10117366	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117366	geo:GSE335761:GSM10117366	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117366	geo:GSE335761:GSM10117366	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117366	geo:GSE335761:GSM10117366	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117367	geo:GSE335761:GSM10117367	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117367	geo:GSE335761:GSM10117367	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117367	geo:GSE335761:GSM10117367	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+GSM10117367	geo:GSE335761:GSM10117367	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117368	geo:GSE335761:GSM10117368	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117368	geo:GSE335761:GSM10117368	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117368	geo:GSE335761:GSM10117368	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM10117368	geo:GSE335761:GSM10117368	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117369	geo:GSE335761:GSM10117369	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117369	geo:GSE335761:GSM10117369	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117369	geo:GSE335761:GSM10117369	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM10117369	geo:GSE335761:GSM10117369	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117370	geo:GSE335761:GSM10117370	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117370	geo:GSE335761:GSM10117370	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117370	geo:GSE335761:GSM10117370	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM10117370	geo:GSE335761:GSM10117370	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117371	geo:GSE335761:GSM10117371	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117371	geo:GSE335761:GSM10117371	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117371	geo:GSE335761:GSM10117371	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM10117371	geo:GSE335761:GSM10117371	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117372	geo:GSE335761:GSM10117372	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117372	geo:GSE335761:GSM10117372	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117372	geo:GSE335761:GSM10117372	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117372	geo:GSE335761:GSM10117372	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117373	geo:GSE335761:GSM10117373	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117373	geo:GSE335761:GSM10117373	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117373	geo:GSE335761:GSM10117373	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117373	geo:GSE335761:GSM10117373	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117374	geo:GSE335761:GSM10117374	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117374	geo:GSE335761:GSM10117374	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117374	geo:GSE335761:GSM10117374	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM10117374	geo:GSE335761:GSM10117374	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117375	geo:GSE335761:GSM10117375	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117375	geo:GSE335761:GSM10117375	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117375	geo:GSE335761:GSM10117375	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18	True
+GSM10117375	geo:GSE335761:GSM10117375	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117376	geo:GSE335761:GSM10117376	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117376	geo:GSE335761:GSM10117376	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117376	geo:GSE335761:GSM10117376	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM10117376	geo:GSE335761:GSM10117376	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117377	geo:GSE335761:GSM10117377	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117377	geo:GSE335761:GSM10117377	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117377	geo:GSE335761:GSM10117377	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM10117377	geo:GSE335761:GSM10117377	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117378	geo:GSE335761:GSM10117378	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117378	geo:GSE335761:GSM10117378	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117378	geo:GSE335761:GSM10117378	development_stage_ontology_term_id	HsapDv:0000122	derived	age_in_years:'28-year-old stage':ols:hsapdv		28	True
+GSM10117378	geo:GSE335761:GSM10117378	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117379	geo:GSE335761:GSM10117379	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117379	geo:GSE335761:GSM10117379	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117379	geo:GSE335761:GSM10117379	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM10117379	geo:GSE335761:GSM10117379	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117380	geo:GSE335761:GSM10117380	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117380	geo:GSE335761:GSM10117380	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117380	geo:GSE335761:GSM10117380	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM10117380	geo:GSE335761:GSM10117380	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117381	geo:GSE335761:GSM10117381	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117381	geo:GSE335761:GSM10117381	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117381	geo:GSE335761:GSM10117381	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM10117381	geo:GSE335761:GSM10117381	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117382	geo:GSE335761:GSM10117382	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117382	geo:GSE335761:GSM10117382	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117382	geo:GSE335761:GSM10117382	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM10117382	geo:GSE335761:GSM10117382	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117383	geo:GSE335761:GSM10117383	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117383	geo:GSE335761:GSM10117383	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117383	geo:GSE335761:GSM10117383	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM10117383	geo:GSE335761:GSM10117383	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117384	geo:GSE335761:GSM10117384	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117384	geo:GSE335761:GSM10117384	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117384	geo:GSE335761:GSM10117384	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM10117384	geo:GSE335761:GSM10117384	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117385	geo:GSE335761:GSM10117385	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117385	geo:GSE335761:GSM10117385	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117385	geo:GSE335761:GSM10117385	development_stage_ontology_term_id	HsapDv:0000122	derived	age_in_years:'28-year-old stage':ols:hsapdv		28	True
+GSM10117385	geo:GSE335761:GSM10117385	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117386	geo:GSE335761:GSM10117386	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117386	geo:GSE335761:GSM10117386	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117386	geo:GSE335761:GSM10117386	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM10117386	geo:GSE335761:GSM10117386	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117387	geo:GSE335761:GSM10117387	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117387	geo:GSE335761:GSM10117387	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117387	geo:GSE335761:GSM10117387	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM10117387	geo:GSE335761:GSM10117387	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117388	geo:GSE335761:GSM10117388	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117388	geo:GSE335761:GSM10117388	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117388	geo:GSE335761:GSM10117388	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM10117388	geo:GSE335761:GSM10117388	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117389	geo:GSE335761:GSM10117389	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117389	geo:GSE335761:GSM10117389	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117389	geo:GSE335761:GSM10117389	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM10117389	geo:GSE335761:GSM10117389	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117390	geo:GSE335761:GSM10117390	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117390	geo:GSE335761:GSM10117390	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117390	geo:GSE335761:GSM10117390	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM10117390	geo:GSE335761:GSM10117390	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117391	geo:GSE335761:GSM10117391	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117391	geo:GSE335761:GSM10117391	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117391	geo:GSE335761:GSM10117391	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117391	geo:GSE335761:GSM10117391	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117392	geo:GSE335761:GSM10117392	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117392	geo:GSE335761:GSM10117392	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117392	geo:GSE335761:GSM10117392	development_stage_ontology_term_id	HsapDv:0000122	derived	age_in_years:'28-year-old stage':ols:hsapdv		28	True
+GSM10117392	geo:GSE335761:GSM10117392	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117393	geo:GSE335761:GSM10117393	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117393	geo:GSE335761:GSM10117393	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117393	geo:GSE335761:GSM10117393	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM10117393	geo:GSE335761:GSM10117393	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117394	geo:GSE335761:GSM10117394	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117394	geo:GSE335761:GSM10117394	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117394	geo:GSE335761:GSM10117394	development_stage_ontology_term_id	HsapDv:0000208	derived	age_in_years:'82-year-old stage':ols:hsapdv		82	True
+GSM10117394	geo:GSE335761:GSM10117394	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117395	geo:GSE335761:GSM10117395	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117395	geo:GSE335761:GSM10117395	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117395	geo:GSE335761:GSM10117395	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117395	geo:GSE335761:GSM10117395	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117396	geo:GSE335761:GSM10117396	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117396	geo:GSE335761:GSM10117396	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117396	geo:GSE335761:GSM10117396	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM10117396	geo:GSE335761:GSM10117396	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117397	geo:GSE335761:GSM10117397	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117397	geo:GSE335761:GSM10117397	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117397	geo:GSE335761:GSM10117397	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM10117397	geo:GSE335761:GSM10117397	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117398	geo:GSE335761:GSM10117398	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117398	geo:GSE335761:GSM10117398	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117398	geo:GSE335761:GSM10117398	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18	True
+GSM10117398	geo:GSE335761:GSM10117398	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117399	geo:GSE335761:GSM10117399	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117399	geo:GSE335761:GSM10117399	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117399	geo:GSE335761:GSM10117399	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM10117399	geo:GSE335761:GSM10117399	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117400	geo:GSE335761:GSM10117400	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117400	geo:GSE335761:GSM10117400	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117400	geo:GSE335761:GSM10117400	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117400	geo:GSE335761:GSM10117400	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117401	geo:GSE335761:GSM10117401	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117401	geo:GSE335761:GSM10117401	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117401	geo:GSE335761:GSM10117401	development_stage_ontology_term_id	HsapDv:0000122	derived	age_in_years:'28-year-old stage':ols:hsapdv		28	True
+GSM10117401	geo:GSE335761:GSM10117401	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117402	geo:GSE335761:GSM10117402	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117402	geo:GSE335761:GSM10117402	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117402	geo:GSE335761:GSM10117402	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM10117402	geo:GSE335761:GSM10117402	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117403	geo:GSE335761:GSM10117403	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117403	geo:GSE335761:GSM10117403	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117403	geo:GSE335761:GSM10117403	development_stage_ontology_term_id	HsapDv:0000208	derived	age_in_years:'82-year-old stage':ols:hsapdv		82	True
+GSM10117403	geo:GSE335761:GSM10117403	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117404	geo:GSE335761:GSM10117404	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117404	geo:GSE335761:GSM10117404	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117404	geo:GSE335761:GSM10117404	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117404	geo:GSE335761:GSM10117404	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117405	geo:GSE335761:GSM10117405	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117405	geo:GSE335761:GSM10117405	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117405	geo:GSE335761:GSM10117405	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM10117405	geo:GSE335761:GSM10117405	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117406	geo:GSE335761:GSM10117406	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117406	geo:GSE335761:GSM10117406	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117406	geo:GSE335761:GSM10117406	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM10117406	geo:GSE335761:GSM10117406	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117407	geo:GSE335761:GSM10117407	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117407	geo:GSE335761:GSM10117407	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117407	geo:GSE335761:GSM10117407	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117407	geo:GSE335761:GSM10117407	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117408	geo:GSE335761:GSM10117408	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117408	geo:GSE335761:GSM10117408	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117408	geo:GSE335761:GSM10117408	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM10117408	geo:GSE335761:GSM10117408	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117409	geo:GSE335761:GSM10117409	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM10117409	geo:GSE335761:GSM10117409	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117409	geo:GSE335761:GSM10117409	development_stage_ontology_term_id	HsapDv:0000208	derived	age_in_years:'82-year-old stage':ols:hsapdv		82	True
+GSM10117409	geo:GSE335761:GSM10117409	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM10117410	geo:GSE335761:GSM10117410	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM10117410	geo:GSE335761:GSM10117410	assay_ontology_term_id	EFO:0920126	derived	ols:efo		Xenium	True
+GSM10117410	geo:GSE335761:GSM10117410	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM10117410	geo:GSE335761:GSM10117410	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM10117341	geo:GSE335761:GSM10117341	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117341	geo:GSE335761:GSM10117341	donor_id	BRP56441	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = donor id: BRP56441	True
+GSM10117341	geo:GSE335761:GSM10117341	age	36	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = age: 36	True
+GSM10117341	geo:GSE335761:GSM10117341	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117341	geo:GSE335761:GSM10117341	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117341	geo:GSE335761:GSM10117341	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117341	geo:GSE335761:GSM10117341	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117341	geo:GSE335761:GSM10117341	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117341	geo:GSE335761:GSM10117341	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117341	geo:GSE335761:GSM10117341	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117341	!Sample_label_ch1 = Xenium probe set	True
+GSM10117342	geo:GSE335761:GSM10117342	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117342	geo:GSE335761:GSM10117342	donor_id	BRP56442	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = donor id: BRP56442	True
+GSM10117342	geo:GSE335761:GSM10117342	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = age: 58	True
+GSM10117342	geo:GSE335761:GSM10117342	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117342	geo:GSE335761:GSM10117342	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117342	geo:GSE335761:GSM10117342	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117342	geo:GSE335761:GSM10117342	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117342	geo:GSE335761:GSM10117342	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117342	geo:GSE335761:GSM10117342	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117342	geo:GSE335761:GSM10117342	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117342	!Sample_label_ch1 = Xenium probe set	True
+GSM10117343	geo:GSE335761:GSM10117343	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117343	geo:GSE335761:GSM10117343	donor_id	BRP56444	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = donor id: BRP56444	True
+GSM10117343	geo:GSE335761:GSM10117343	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = age: 58	True
+GSM10117343	geo:GSE335761:GSM10117343	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117343	geo:GSE335761:GSM10117343	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117343	geo:GSE335761:GSM10117343	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117343	geo:GSE335761:GSM10117343	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117343	geo:GSE335761:GSM10117343	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117343	geo:GSE335761:GSM10117343	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117343	geo:GSE335761:GSM10117343	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117343	!Sample_label_ch1 = Xenium probe set	True
+GSM10117344	geo:GSE335761:GSM10117344	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117344	geo:GSE335761:GSM10117344	donor_id	BRP56970	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = donor id: BRP56970	True
+GSM10117344	geo:GSE335761:GSM10117344	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = age: 60	True
+GSM10117344	geo:GSE335761:GSM10117344	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117344	geo:GSE335761:GSM10117344	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117344	geo:GSE335761:GSM10117344	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117344	geo:GSE335761:GSM10117344	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117344	geo:GSE335761:GSM10117344	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117344	geo:GSE335761:GSM10117344	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117344	geo:GSE335761:GSM10117344	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117344	!Sample_label_ch1 = Xenium probe set	True
+GSM10117345	geo:GSE335761:GSM10117345	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117345	geo:GSE335761:GSM10117345	donor_id	BRP56973	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = donor id: BRP56973	True
+GSM10117345	geo:GSE335761:GSM10117345	age	78	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = age: 78	True
+GSM10117345	geo:GSE335761:GSM10117345	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117345	geo:GSE335761:GSM10117345	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117345	geo:GSE335761:GSM10117345	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117345	geo:GSE335761:GSM10117345	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117345	geo:GSE335761:GSM10117345	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117345	geo:GSE335761:GSM10117345	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117345	geo:GSE335761:GSM10117345	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117345	!Sample_label_ch1 = Xenium probe set	True
+GSM10117346	geo:GSE335761:GSM10117346	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117346	geo:GSE335761:GSM10117346	donor_id	BRP56975	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = donor id: BRP56975	True
+GSM10117346	geo:GSE335761:GSM10117346	age	38	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = age: 38	True
+GSM10117346	geo:GSE335761:GSM10117346	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117346	geo:GSE335761:GSM10117346	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117346	geo:GSE335761:GSM10117346	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117346	geo:GSE335761:GSM10117346	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117346	geo:GSE335761:GSM10117346	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117346	geo:GSE335761:GSM10117346	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117346	geo:GSE335761:GSM10117346	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117346	!Sample_label_ch1 = Xenium probe set	True
+GSM10117347	geo:GSE335761:GSM10117347	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117347	geo:GSE335761:GSM10117347	donor_id	BRP56442	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = donor id: BRP56442	True
+GSM10117347	geo:GSE335761:GSM10117347	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = age: 58	True
+GSM10117347	geo:GSE335761:GSM10117347	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117347	geo:GSE335761:GSM10117347	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117347	geo:GSE335761:GSM10117347	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117347	geo:GSE335761:GSM10117347	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117347	geo:GSE335761:GSM10117347	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117347	geo:GSE335761:GSM10117347	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117347	geo:GSE335761:GSM10117347	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117347	!Sample_label_ch1 = Xenium probe set	True
+GSM10117348	geo:GSE335761:GSM10117348	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117348	geo:GSE335761:GSM10117348	donor_id	BRP56444	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = donor id: BRP56444	True
+GSM10117348	geo:GSE335761:GSM10117348	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = age: 58	True
+GSM10117348	geo:GSE335761:GSM10117348	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117348	geo:GSE335761:GSM10117348	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117348	geo:GSE335761:GSM10117348	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117348	geo:GSE335761:GSM10117348	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117348	geo:GSE335761:GSM10117348	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117348	geo:GSE335761:GSM10117348	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117348	geo:GSE335761:GSM10117348	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117348	!Sample_label_ch1 = Xenium probe set	True
+GSM10117349	geo:GSE335761:GSM10117349	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117349	geo:GSE335761:GSM10117349	donor_id	BRP56444	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = donor id: BRP56444	True
+GSM10117349	geo:GSE335761:GSM10117349	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = age: 58	True
+GSM10117349	geo:GSE335761:GSM10117349	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117349	geo:GSE335761:GSM10117349	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117349	geo:GSE335761:GSM10117349	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117349	geo:GSE335761:GSM10117349	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117349	geo:GSE335761:GSM10117349	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117349	geo:GSE335761:GSM10117349	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117349	geo:GSE335761:GSM10117349	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117349	!Sample_label_ch1 = Xenium probe set	True
+GSM10117350	geo:GSE335761:GSM10117350	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117350	geo:GSE335761:GSM10117350	donor_id	BRP56970	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = donor id: BRP56970	True
+GSM10117350	geo:GSE335761:GSM10117350	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = age: 60	True
+GSM10117350	geo:GSE335761:GSM10117350	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117350	geo:GSE335761:GSM10117350	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117350	geo:GSE335761:GSM10117350	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117350	geo:GSE335761:GSM10117350	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117350	geo:GSE335761:GSM10117350	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117350	geo:GSE335761:GSM10117350	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117350	geo:GSE335761:GSM10117350	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117350	!Sample_label_ch1 = Xenium probe set	True
+GSM10117351	geo:GSE335761:GSM10117351	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117351	geo:GSE335761:GSM10117351	donor_id	BRP56971	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = donor id: BRP56971	True
+GSM10117351	geo:GSE335761:GSM10117351	age	62	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = age: 62	True
+GSM10117351	geo:GSE335761:GSM10117351	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117351	geo:GSE335761:GSM10117351	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117351	geo:GSE335761:GSM10117351	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117351	geo:GSE335761:GSM10117351	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117351	geo:GSE335761:GSM10117351	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117351	geo:GSE335761:GSM10117351	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117351	geo:GSE335761:GSM10117351	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117351	!Sample_label_ch1 = Xenium probe set	True
+GSM10117352	geo:GSE335761:GSM10117352	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117352	geo:GSE335761:GSM10117352	donor_id	BRP56973	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = donor id: BRP56973	True
+GSM10117352	geo:GSE335761:GSM10117352	age	78	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = age: 78	True
+GSM10117352	geo:GSE335761:GSM10117352	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117352	geo:GSE335761:GSM10117352	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117352	geo:GSE335761:GSM10117352	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117352	geo:GSE335761:GSM10117352	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117352	geo:GSE335761:GSM10117352	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117352	geo:GSE335761:GSM10117352	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117352	geo:GSE335761:GSM10117352	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117352	!Sample_label_ch1 = Xenium probe set	True
+GSM10117353	geo:GSE335761:GSM10117353	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117353	geo:GSE335761:GSM10117353	donor_id	BRP56441	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = donor id: BRP56441	True
+GSM10117353	geo:GSE335761:GSM10117353	age	36	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = age: 36	True
+GSM10117353	geo:GSE335761:GSM10117353	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117353	geo:GSE335761:GSM10117353	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117353	geo:GSE335761:GSM10117353	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117353	geo:GSE335761:GSM10117353	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117353	geo:GSE335761:GSM10117353	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117353	geo:GSE335761:GSM10117353	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117353	geo:GSE335761:GSM10117353	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117353	!Sample_label_ch1 = Xenium probe set	True
+GSM10117354	geo:GSE335761:GSM10117354	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117354	geo:GSE335761:GSM10117354	donor_id	BRP56442	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = donor id: BRP56442	True
+GSM10117354	geo:GSE335761:GSM10117354	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = age: 58	True
+GSM10117354	geo:GSE335761:GSM10117354	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117354	geo:GSE335761:GSM10117354	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117354	geo:GSE335761:GSM10117354	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117354	geo:GSE335761:GSM10117354	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117354	geo:GSE335761:GSM10117354	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117354	geo:GSE335761:GSM10117354	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117354	geo:GSE335761:GSM10117354	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117354	!Sample_label_ch1 = Xenium probe set	True
+GSM10117355	geo:GSE335761:GSM10117355	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117355	geo:GSE335761:GSM10117355	donor_id	BRP56443	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = donor id: BRP56443	True
+GSM10117355	geo:GSE335761:GSM10117355	age	51	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = age: 51	True
+GSM10117355	geo:GSE335761:GSM10117355	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117355	geo:GSE335761:GSM10117355	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117355	geo:GSE335761:GSM10117355	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117355	geo:GSE335761:GSM10117355	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117355	geo:GSE335761:GSM10117355	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117355	geo:GSE335761:GSM10117355	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117355	geo:GSE335761:GSM10117355	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117355	!Sample_label_ch1 = Xenium probe set	True
+GSM10117356	geo:GSE335761:GSM10117356	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117356	geo:GSE335761:GSM10117356	donor_id	BRP56969	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = donor id: BRP56969	True
+GSM10117356	geo:GSE335761:GSM10117356	age	64	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = age: 64	True
+GSM10117356	geo:GSE335761:GSM10117356	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117356	geo:GSE335761:GSM10117356	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117356	geo:GSE335761:GSM10117356	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117356	geo:GSE335761:GSM10117356	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117356	geo:GSE335761:GSM10117356	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117356	geo:GSE335761:GSM10117356	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117356	geo:GSE335761:GSM10117356	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117356	!Sample_label_ch1 = Xenium probe set	True
+GSM10117357	geo:GSE335761:GSM10117357	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117357	geo:GSE335761:GSM10117357	donor_id	BRP56970	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = donor id: BRP56970	True
+GSM10117357	geo:GSE335761:GSM10117357	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = age: 60	True
+GSM10117357	geo:GSE335761:GSM10117357	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117357	geo:GSE335761:GSM10117357	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117357	geo:GSE335761:GSM10117357	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117357	geo:GSE335761:GSM10117357	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117357	geo:GSE335761:GSM10117357	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117357	geo:GSE335761:GSM10117357	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117357	geo:GSE335761:GSM10117357	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117357	!Sample_label_ch1 = Xenium probe set	True
+GSM10117358	geo:GSE335761:GSM10117358	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117358	geo:GSE335761:GSM10117358	donor_id	BRP56971	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = donor id: BRP56971	True
+GSM10117358	geo:GSE335761:GSM10117358	age	62	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = age: 62	True
+GSM10117358	geo:GSE335761:GSM10117358	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117358	geo:GSE335761:GSM10117358	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117358	geo:GSE335761:GSM10117358	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117358	geo:GSE335761:GSM10117358	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117358	geo:GSE335761:GSM10117358	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117358	geo:GSE335761:GSM10117358	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117358	geo:GSE335761:GSM10117358	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117358	!Sample_label_ch1 = Xenium probe set	True
+GSM10117359	geo:GSE335761:GSM10117359	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117359	geo:GSE335761:GSM10117359	donor_id	BRP56972	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = donor id: BRP56972	True
+GSM10117359	geo:GSE335761:GSM10117359	age	67	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = age: 67	True
+GSM10117359	geo:GSE335761:GSM10117359	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117359	geo:GSE335761:GSM10117359	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117359	geo:GSE335761:GSM10117359	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117359	geo:GSE335761:GSM10117359	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117359	geo:GSE335761:GSM10117359	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117359	geo:GSE335761:GSM10117359	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117359	geo:GSE335761:GSM10117359	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117359	!Sample_label_ch1 = Xenium probe set	True
+GSM10117360	geo:GSE335761:GSM10117360	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117360	geo:GSE335761:GSM10117360	donor_id	BRP56975	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = donor id: BRP56975	True
+GSM10117360	geo:GSE335761:GSM10117360	age	38	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = age: 38	True
+GSM10117360	geo:GSE335761:GSM10117360	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117360	geo:GSE335761:GSM10117360	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117360	geo:GSE335761:GSM10117360	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117360	geo:GSE335761:GSM10117360	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117360	geo:GSE335761:GSM10117360	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117360	geo:GSE335761:GSM10117360	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117360	geo:GSE335761:GSM10117360	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117360	!Sample_label_ch1 = Xenium probe set	True
+GSM10117361	geo:GSE335761:GSM10117361	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117361	geo:GSE335761:GSM10117361	donor_id	BRP56442	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = donor id: BRP56442	True
+GSM10117361	geo:GSE335761:GSM10117361	age	58	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = age: 58	True
+GSM10117361	geo:GSE335761:GSM10117361	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117361	geo:GSE335761:GSM10117361	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117361	geo:GSE335761:GSM10117361	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117361	geo:GSE335761:GSM10117361	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117361	geo:GSE335761:GSM10117361	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117361	geo:GSE335761:GSM10117361	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117361	geo:GSE335761:GSM10117361	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117361	!Sample_label_ch1 = Xenium probe set	True
+GSM10117362	geo:GSE335761:GSM10117362	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117362	geo:GSE335761:GSM10117362	donor_id	BRP56969	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = donor id: BRP56969	True
+GSM10117362	geo:GSE335761:GSM10117362	age	64	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = age: 64	True
+GSM10117362	geo:GSE335761:GSM10117362	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117362	geo:GSE335761:GSM10117362	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117362	geo:GSE335761:GSM10117362	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117362	geo:GSE335761:GSM10117362	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117362	geo:GSE335761:GSM10117362	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117362	geo:GSE335761:GSM10117362	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117362	geo:GSE335761:GSM10117362	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117362	!Sample_label_ch1 = Xenium probe set	True
+GSM10117363	geo:GSE335761:GSM10117363	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117363	geo:GSE335761:GSM10117363	donor_id	BRP56970	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = donor id: BRP56970	True
+GSM10117363	geo:GSE335761:GSM10117363	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = age: 60	True
+GSM10117363	geo:GSE335761:GSM10117363	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117363	geo:GSE335761:GSM10117363	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117363	geo:GSE335761:GSM10117363	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117363	geo:GSE335761:GSM10117363	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117363	geo:GSE335761:GSM10117363	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117363	geo:GSE335761:GSM10117363	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117363	geo:GSE335761:GSM10117363	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117363	!Sample_label_ch1 = Xenium probe set	True
+GSM10117364	geo:GSE335761:GSM10117364	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117364	geo:GSE335761:GSM10117364	donor_id	BRP56971	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = donor id: BRP56971	True
+GSM10117364	geo:GSE335761:GSM10117364	age	62	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = age: 62	True
+GSM10117364	geo:GSE335761:GSM10117364	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117364	geo:GSE335761:GSM10117364	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117364	geo:GSE335761:GSM10117364	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117364	geo:GSE335761:GSM10117364	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117364	geo:GSE335761:GSM10117364	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117364	geo:GSE335761:GSM10117364	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117364	geo:GSE335761:GSM10117364	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117364	!Sample_label_ch1 = Xenium probe set	True
+GSM10117365	geo:GSE335761:GSM10117365	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117365	geo:GSE335761:GSM10117365	donor_id	BRP56972	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = donor id: BRP56972	True
+GSM10117365	geo:GSE335761:GSM10117365	age	67	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = age: 67	True
+GSM10117365	geo:GSE335761:GSM10117365	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117365	geo:GSE335761:GSM10117365	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117365	geo:GSE335761:GSM10117365	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117365	geo:GSE335761:GSM10117365	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117365	geo:GSE335761:GSM10117365	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117365	geo:GSE335761:GSM10117365	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117365	geo:GSE335761:GSM10117365	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117365	!Sample_label_ch1 = Xenium probe set	True
+GSM10117366	geo:GSE335761:GSM10117366	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117366	geo:GSE335761:GSM10117366	donor_id	BRP56974	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = donor id: BRP56974	True
+GSM10117366	geo:GSE335761:GSM10117366	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = age: 34	True
+GSM10117366	geo:GSE335761:GSM10117366	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117366	geo:GSE335761:GSM10117366	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117366	geo:GSE335761:GSM10117366	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117366	geo:GSE335761:GSM10117366	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117366	geo:GSE335761:GSM10117366	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117366	geo:GSE335761:GSM10117366	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117366	geo:GSE335761:GSM10117366	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117366	!Sample_label_ch1 = Xenium probe set	True
+GSM10117367	geo:GSE335761:GSM10117367	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117367	geo:GSE335761:GSM10117367	donor_id	BRP56443	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = donor id: BRP56443	True
+GSM10117367	geo:GSE335761:GSM10117367	age	51	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = age: 51	True
+GSM10117367	geo:GSE335761:GSM10117367	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117367	geo:GSE335761:GSM10117367	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117367	geo:GSE335761:GSM10117367	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117367	geo:GSE335761:GSM10117367	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117367	geo:GSE335761:GSM10117367	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117367	geo:GSE335761:GSM10117367	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117367	geo:GSE335761:GSM10117367	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117367	!Sample_label_ch1 = Xenium probe set	True
+GSM10117368	geo:GSE335761:GSM10117368	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117368	geo:GSE335761:GSM10117368	donor_id	BRP56969	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = donor id: BRP56969	True
+GSM10117368	geo:GSE335761:GSM10117368	age	64	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = age: 64	True
+GSM10117368	geo:GSE335761:GSM10117368	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117368	geo:GSE335761:GSM10117368	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117368	geo:GSE335761:GSM10117368	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117368	geo:GSE335761:GSM10117368	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117368	geo:GSE335761:GSM10117368	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117368	geo:GSE335761:GSM10117368	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117368	geo:GSE335761:GSM10117368	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117368	!Sample_label_ch1 = Xenium probe set	True
+GSM10117369	geo:GSE335761:GSM10117369	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117369	geo:GSE335761:GSM10117369	donor_id	BRP56969	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = donor id: BRP56969	True
+GSM10117369	geo:GSE335761:GSM10117369	age	64	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = age: 64	True
+GSM10117369	geo:GSE335761:GSM10117369	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117369	geo:GSE335761:GSM10117369	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117369	geo:GSE335761:GSM10117369	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117369	geo:GSE335761:GSM10117369	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117369	geo:GSE335761:GSM10117369	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117369	geo:GSE335761:GSM10117369	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117369	geo:GSE335761:GSM10117369	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117369	!Sample_label_ch1 = Xenium probe set	True
+GSM10117370	geo:GSE335761:GSM10117370	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117370	geo:GSE335761:GSM10117370	donor_id	BRP56972	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = donor id: BRP56972	True
+GSM10117370	geo:GSE335761:GSM10117370	age	67	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = age: 67	True
+GSM10117370	geo:GSE335761:GSM10117370	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117370	geo:GSE335761:GSM10117370	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117370	geo:GSE335761:GSM10117370	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117370	geo:GSE335761:GSM10117370	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117370	geo:GSE335761:GSM10117370	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117370	geo:GSE335761:GSM10117370	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117370	geo:GSE335761:GSM10117370	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117370	!Sample_label_ch1 = Xenium probe set	True
+GSM10117371	geo:GSE335761:GSM10117371	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117371	geo:GSE335761:GSM10117371	donor_id	BRP56972	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = donor id: BRP56972	True
+GSM10117371	geo:GSE335761:GSM10117371	age	67	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = age: 67	True
+GSM10117371	geo:GSE335761:GSM10117371	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117371	geo:GSE335761:GSM10117371	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117371	geo:GSE335761:GSM10117371	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117371	geo:GSE335761:GSM10117371	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117371	geo:GSE335761:GSM10117371	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117371	geo:GSE335761:GSM10117371	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117371	geo:GSE335761:GSM10117371	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117371	!Sample_label_ch1 = Xenium probe set	True
+GSM10117372	geo:GSE335761:GSM10117372	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117372	geo:GSE335761:GSM10117372	donor_id	BRP56974	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = donor id: BRP56974	True
+GSM10117372	geo:GSE335761:GSM10117372	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = age: 34	True
+GSM10117372	geo:GSE335761:GSM10117372	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117372	geo:GSE335761:GSM10117372	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117372	geo:GSE335761:GSM10117372	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117372	geo:GSE335761:GSM10117372	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117372	geo:GSE335761:GSM10117372	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117372	geo:GSE335761:GSM10117372	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117372	geo:GSE335761:GSM10117372	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117372	!Sample_label_ch1 = Xenium probe set	True
+GSM10117373	geo:GSE335761:GSM10117373	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117373	geo:GSE335761:GSM10117373	donor_id	BRP56974	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = donor id: BRP56974	True
+GSM10117373	geo:GSE335761:GSM10117373	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = age: 34	True
+GSM10117373	geo:GSE335761:GSM10117373	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117373	geo:GSE335761:GSM10117373	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117373	geo:GSE335761:GSM10117373	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117373	geo:GSE335761:GSM10117373	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117373	geo:GSE335761:GSM10117373	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117373	geo:GSE335761:GSM10117373	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117373	geo:GSE335761:GSM10117373	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117373	!Sample_label_ch1 = Xenium probe set	True
+GSM10117374	geo:GSE335761:GSM10117374	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117374	geo:GSE335761:GSM10117374	donor_id	BRP56976	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = donor id: BRP56976	True
+GSM10117374	geo:GSE335761:GSM10117374	age	33	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = age: 33	True
+GSM10117374	geo:GSE335761:GSM10117374	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117374	geo:GSE335761:GSM10117374	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117374	geo:GSE335761:GSM10117374	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117374	geo:GSE335761:GSM10117374	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117374	geo:GSE335761:GSM10117374	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117374	geo:GSE335761:GSM10117374	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117374	geo:GSE335761:GSM10117374	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117374	!Sample_label_ch1 = Xenium probe set	True
+GSM10117375	geo:GSE335761:GSM10117375	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117375	geo:GSE335761:GSM10117375	donor_id	BRP56977	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = donor id: BRP56977	True
+GSM10117375	geo:GSE335761:GSM10117375	age	18	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = age: 18	True
+GSM10117375	geo:GSE335761:GSM10117375	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117375	geo:GSE335761:GSM10117375	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117375	geo:GSE335761:GSM10117375	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117375	geo:GSE335761:GSM10117375	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117375	geo:GSE335761:GSM10117375	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117375	geo:GSE335761:GSM10117375	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117375	geo:GSE335761:GSM10117375	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117375	!Sample_label_ch1 = Xenium probe set	True
+GSM10117376	geo:GSE335761:GSM10117376	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117376	geo:GSE335761:GSM10117376	donor_id	BRP58006	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = donor id: BRP58006	True
+GSM10117376	geo:GSE335761:GSM10117376	age	30	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = age: 30	True
+GSM10117376	geo:GSE335761:GSM10117376	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117376	geo:GSE335761:GSM10117376	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117376	geo:GSE335761:GSM10117376	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117376	geo:GSE335761:GSM10117376	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117376	geo:GSE335761:GSM10117376	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117376	geo:GSE335761:GSM10117376	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117376	geo:GSE335761:GSM10117376	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117376	!Sample_label_ch1 = Xenium probe set	True
+GSM10117377	geo:GSE335761:GSM10117377	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117377	geo:GSE335761:GSM10117377	donor_id	BRP58006	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = donor id: BRP58006	True
+GSM10117377	geo:GSE335761:GSM10117377	age	30	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = age: 30	True
+GSM10117377	geo:GSE335761:GSM10117377	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117377	geo:GSE335761:GSM10117377	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117377	geo:GSE335761:GSM10117377	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117377	geo:GSE335761:GSM10117377	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117377	geo:GSE335761:GSM10117377	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117377	geo:GSE335761:GSM10117377	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117377	geo:GSE335761:GSM10117377	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117377	!Sample_label_ch1 = Xenium probe set	True
+GSM10117378	geo:GSE335761:GSM10117378	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117378	geo:GSE335761:GSM10117378	donor_id	BRP58008	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = donor id: BRP58008	True
+GSM10117378	geo:GSE335761:GSM10117378	age	28	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = age: 28	True
+GSM10117378	geo:GSE335761:GSM10117378	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117378	geo:GSE335761:GSM10117378	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117378	geo:GSE335761:GSM10117378	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117378	geo:GSE335761:GSM10117378	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117378	geo:GSE335761:GSM10117378	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117378	geo:GSE335761:GSM10117378	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117378	geo:GSE335761:GSM10117378	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117378	!Sample_label_ch1 = Xenium probe set	True
+GSM10117379	geo:GSE335761:GSM10117379	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117379	geo:GSE335761:GSM10117379	donor_id	BRP58009	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = donor id: BRP58009	True
+GSM10117379	geo:GSE335761:GSM10117379	age	76	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = age: 76	True
+GSM10117379	geo:GSE335761:GSM10117379	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117379	geo:GSE335761:GSM10117379	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117379	geo:GSE335761:GSM10117379	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117379	geo:GSE335761:GSM10117379	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117379	geo:GSE335761:GSM10117379	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117379	geo:GSE335761:GSM10117379	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117379	geo:GSE335761:GSM10117379	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117379	!Sample_label_ch1 = Xenium probe set	True
+GSM10117380	geo:GSE335761:GSM10117380	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117380	geo:GSE335761:GSM10117380	donor_id	BRP58011	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = donor id: BRP58011	True
+GSM10117380	geo:GSE335761:GSM10117380	age	74	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = age: 74	True
+GSM10117380	geo:GSE335761:GSM10117380	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117380	geo:GSE335761:GSM10117380	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117380	geo:GSE335761:GSM10117380	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117380	geo:GSE335761:GSM10117380	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117380	geo:GSE335761:GSM10117380	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117380	geo:GSE335761:GSM10117380	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117380	geo:GSE335761:GSM10117380	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117380	!Sample_label_ch1 = Xenium probe set	True
+GSM10117381	geo:GSE335761:GSM10117381	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117381	geo:GSE335761:GSM10117381	donor_id	BRP58011	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = donor id: BRP58011	True
+GSM10117381	geo:GSE335761:GSM10117381	age	74	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = age: 74	True
+GSM10117381	geo:GSE335761:GSM10117381	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117381	geo:GSE335761:GSM10117381	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117381	geo:GSE335761:GSM10117381	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117381	geo:GSE335761:GSM10117381	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117381	geo:GSE335761:GSM10117381	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117381	geo:GSE335761:GSM10117381	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117381	geo:GSE335761:GSM10117381	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117381	!Sample_label_ch1 = Xenium probe set	True
+GSM10117382	geo:GSE335761:GSM10117382	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117382	geo:GSE335761:GSM10117382	donor_id	BRP56976	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = donor id: BRP56976	True
+GSM10117382	geo:GSE335761:GSM10117382	age	33	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = age: 33	True
+GSM10117382	geo:GSE335761:GSM10117382	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117382	geo:GSE335761:GSM10117382	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117382	geo:GSE335761:GSM10117382	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117382	geo:GSE335761:GSM10117382	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117382	geo:GSE335761:GSM10117382	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117382	geo:GSE335761:GSM10117382	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117382	geo:GSE335761:GSM10117382	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117382	!Sample_label_ch1 = Xenium probe set	True
+GSM10117383	geo:GSE335761:GSM10117383	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117383	geo:GSE335761:GSM10117383	donor_id	BRP58006	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = donor id: BRP58006	True
+GSM10117383	geo:GSE335761:GSM10117383	age	30	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = age: 30	True
+GSM10117383	geo:GSE335761:GSM10117383	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117383	geo:GSE335761:GSM10117383	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117383	geo:GSE335761:GSM10117383	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117383	geo:GSE335761:GSM10117383	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117383	geo:GSE335761:GSM10117383	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117383	geo:GSE335761:GSM10117383	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117383	geo:GSE335761:GSM10117383	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117383	!Sample_label_ch1 = Xenium probe set	True
+GSM10117384	geo:GSE335761:GSM10117384	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117384	geo:GSE335761:GSM10117384	donor_id	BRP58006	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = donor id: BRP58006	True
+GSM10117384	geo:GSE335761:GSM10117384	age	30	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = age: 30	True
+GSM10117384	geo:GSE335761:GSM10117384	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117384	geo:GSE335761:GSM10117384	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117384	geo:GSE335761:GSM10117384	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117384	geo:GSE335761:GSM10117384	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117384	geo:GSE335761:GSM10117384	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117384	geo:GSE335761:GSM10117384	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117384	geo:GSE335761:GSM10117384	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117384	!Sample_label_ch1 = Xenium probe set	True
+GSM10117385	geo:GSE335761:GSM10117385	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117385	geo:GSE335761:GSM10117385	donor_id	BRP58008	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = donor id: BRP58008	True
+GSM10117385	geo:GSE335761:GSM10117385	age	28	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = age: 28	True
+GSM10117385	geo:GSE335761:GSM10117385	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117385	geo:GSE335761:GSM10117385	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117385	geo:GSE335761:GSM10117385	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117385	geo:GSE335761:GSM10117385	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117385	geo:GSE335761:GSM10117385	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117385	geo:GSE335761:GSM10117385	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117385	geo:GSE335761:GSM10117385	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117385	!Sample_label_ch1 = Xenium probe set	True
+GSM10117386	geo:GSE335761:GSM10117386	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117386	geo:GSE335761:GSM10117386	donor_id	BRP58009	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = donor id: BRP58009	True
+GSM10117386	geo:GSE335761:GSM10117386	age	76	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = age: 76	True
+GSM10117386	geo:GSE335761:GSM10117386	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117386	geo:GSE335761:GSM10117386	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117386	geo:GSE335761:GSM10117386	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117386	geo:GSE335761:GSM10117386	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117386	geo:GSE335761:GSM10117386	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117386	geo:GSE335761:GSM10117386	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117386	geo:GSE335761:GSM10117386	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117386	!Sample_label_ch1 = Xenium probe set	True
+GSM10117387	geo:GSE335761:GSM10117387	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117387	geo:GSE335761:GSM10117387	donor_id	BRP58011	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = donor id: BRP58011	True
+GSM10117387	geo:GSE335761:GSM10117387	age	74	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = age: 74	True
+GSM10117387	geo:GSE335761:GSM10117387	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117387	geo:GSE335761:GSM10117387	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117387	geo:GSE335761:GSM10117387	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117387	geo:GSE335761:GSM10117387	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117387	geo:GSE335761:GSM10117387	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117387	geo:GSE335761:GSM10117387	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117387	geo:GSE335761:GSM10117387	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117387	!Sample_label_ch1 = Xenium probe set	True
+GSM10117388	geo:GSE335761:GSM10117388	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117388	geo:GSE335761:GSM10117388	donor_id	BRP58011	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = donor id: BRP58011	True
+GSM10117388	geo:GSE335761:GSM10117388	age	74	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = age: 74	True
+GSM10117388	geo:GSE335761:GSM10117388	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117388	geo:GSE335761:GSM10117388	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117388	geo:GSE335761:GSM10117388	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117388	geo:GSE335761:GSM10117388	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117388	geo:GSE335761:GSM10117388	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117388	geo:GSE335761:GSM10117388	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117388	geo:GSE335761:GSM10117388	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117388	!Sample_label_ch1 = Xenium probe set	True
+GSM10117389	geo:GSE335761:GSM10117389	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117389	geo:GSE335761:GSM10117389	donor_id	BRP56976	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = donor id: BRP56976	True
+GSM10117389	geo:GSE335761:GSM10117389	age	33	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = age: 33	True
+GSM10117389	geo:GSE335761:GSM10117389	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117389	geo:GSE335761:GSM10117389	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117389	geo:GSE335761:GSM10117389	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117389	geo:GSE335761:GSM10117389	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117389	geo:GSE335761:GSM10117389	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117389	geo:GSE335761:GSM10117389	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117389	geo:GSE335761:GSM10117389	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117389	!Sample_label_ch1 = Xenium probe set	True
+GSM10117390	geo:GSE335761:GSM10117390	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117390	geo:GSE335761:GSM10117390	donor_id	BRP56978	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = donor id: BRP56978	True
+GSM10117390	geo:GSE335761:GSM10117390	age	37	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = age: 37	True
+GSM10117390	geo:GSE335761:GSM10117390	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117390	geo:GSE335761:GSM10117390	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117390	geo:GSE335761:GSM10117390	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117390	geo:GSE335761:GSM10117390	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117390	geo:GSE335761:GSM10117390	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117390	geo:GSE335761:GSM10117390	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117390	geo:GSE335761:GSM10117390	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117390	!Sample_label_ch1 = Xenium probe set	True
+GSM10117391	geo:GSE335761:GSM10117391	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117391	geo:GSE335761:GSM10117391	donor_id	BRP58007	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = donor id: BRP58007	True
+GSM10117391	geo:GSE335761:GSM10117391	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = age: 34	True
+GSM10117391	geo:GSE335761:GSM10117391	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117391	geo:GSE335761:GSM10117391	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117391	geo:GSE335761:GSM10117391	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117391	geo:GSE335761:GSM10117391	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117391	geo:GSE335761:GSM10117391	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117391	geo:GSE335761:GSM10117391	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117391	geo:GSE335761:GSM10117391	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117391	!Sample_label_ch1 = Xenium probe set	True
+GSM10117392	geo:GSE335761:GSM10117392	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117392	geo:GSE335761:GSM10117392	donor_id	BRP58008	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = donor id: BRP58008	True
+GSM10117392	geo:GSE335761:GSM10117392	age	28	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = age: 28	True
+GSM10117392	geo:GSE335761:GSM10117392	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117392	geo:GSE335761:GSM10117392	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117392	geo:GSE335761:GSM10117392	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117392	geo:GSE335761:GSM10117392	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117392	geo:GSE335761:GSM10117392	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117392	geo:GSE335761:GSM10117392	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117392	geo:GSE335761:GSM10117392	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117392	!Sample_label_ch1 = Xenium probe set	True
+GSM10117393	geo:GSE335761:GSM10117393	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117393	geo:GSE335761:GSM10117393	donor_id	BRP58009	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = donor id: BRP58009	True
+GSM10117393	geo:GSE335761:GSM10117393	age	76	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = age: 76	True
+GSM10117393	geo:GSE335761:GSM10117393	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117393	geo:GSE335761:GSM10117393	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117393	geo:GSE335761:GSM10117393	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117393	geo:GSE335761:GSM10117393	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117393	geo:GSE335761:GSM10117393	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117393	geo:GSE335761:GSM10117393	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117393	geo:GSE335761:GSM10117393	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117393	!Sample_label_ch1 = Xenium probe set	True
+GSM10117394	geo:GSE335761:GSM10117394	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117394	geo:GSE335761:GSM10117394	donor_id	BRP58010	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = donor id: BRP58010	True
+GSM10117394	geo:GSE335761:GSM10117394	age	82	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = age: 82	True
+GSM10117394	geo:GSE335761:GSM10117394	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117394	geo:GSE335761:GSM10117394	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117394	geo:GSE335761:GSM10117394	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117394	geo:GSE335761:GSM10117394	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117394	geo:GSE335761:GSM10117394	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117394	geo:GSE335761:GSM10117394	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117394	geo:GSE335761:GSM10117394	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117394	!Sample_label_ch1 = Xenium probe set	True
+GSM10117395	geo:GSE335761:GSM10117395	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117395	geo:GSE335761:GSM10117395	donor_id	BRP58012	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = donor id: BRP58012	True
+GSM10117395	geo:GSE335761:GSM10117395	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = age: 60	True
+GSM10117395	geo:GSE335761:GSM10117395	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117395	geo:GSE335761:GSM10117395	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117395	geo:GSE335761:GSM10117395	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117395	geo:GSE335761:GSM10117395	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117395	geo:GSE335761:GSM10117395	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117395	geo:GSE335761:GSM10117395	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117395	geo:GSE335761:GSM10117395	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117395	!Sample_label_ch1 = Xenium probe set	True
+GSM10117396	geo:GSE335761:GSM10117396	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117396	geo:GSE335761:GSM10117396	donor_id	BRP58013	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = donor id: BRP58013	True
+GSM10117396	geo:GSE335761:GSM10117396	age	68	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = age: 68	True
+GSM10117396	geo:GSE335761:GSM10117396	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117396	geo:GSE335761:GSM10117396	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117396	geo:GSE335761:GSM10117396	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117396	geo:GSE335761:GSM10117396	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117396	geo:GSE335761:GSM10117396	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117396	geo:GSE335761:GSM10117396	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117396	geo:GSE335761:GSM10117396	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117396	!Sample_label_ch1 = Xenium probe set	True
+GSM10117397	geo:GSE335761:GSM10117397	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117397	geo:GSE335761:GSM10117397	donor_id	BRP56976	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = donor id: BRP56976	True
+GSM10117397	geo:GSE335761:GSM10117397	age	33	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = age: 33	True
+GSM10117397	geo:GSE335761:GSM10117397	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117397	geo:GSE335761:GSM10117397	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117397	geo:GSE335761:GSM10117397	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117397	geo:GSE335761:GSM10117397	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117397	geo:GSE335761:GSM10117397	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117397	geo:GSE335761:GSM10117397	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117397	geo:GSE335761:GSM10117397	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117397	!Sample_label_ch1 = Xenium probe set	True
+GSM10117398	geo:GSE335761:GSM10117398	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117398	geo:GSE335761:GSM10117398	donor_id	BRP56977	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = donor id: BRP56977	True
+GSM10117398	geo:GSE335761:GSM10117398	age	18	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = age: 18	True
+GSM10117398	geo:GSE335761:GSM10117398	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117398	geo:GSE335761:GSM10117398	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117398	geo:GSE335761:GSM10117398	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117398	geo:GSE335761:GSM10117398	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117398	geo:GSE335761:GSM10117398	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117398	geo:GSE335761:GSM10117398	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117398	geo:GSE335761:GSM10117398	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117398	!Sample_label_ch1 = Xenium probe set	True
+GSM10117399	geo:GSE335761:GSM10117399	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117399	geo:GSE335761:GSM10117399	donor_id	BRP56978	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = donor id: BRP56978	True
+GSM10117399	geo:GSE335761:GSM10117399	age	37	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = age: 37	True
+GSM10117399	geo:GSE335761:GSM10117399	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117399	geo:GSE335761:GSM10117399	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117399	geo:GSE335761:GSM10117399	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117399	geo:GSE335761:GSM10117399	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117399	geo:GSE335761:GSM10117399	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117399	geo:GSE335761:GSM10117399	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117399	geo:GSE335761:GSM10117399	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117399	!Sample_label_ch1 = Xenium probe set	True
+GSM10117400	geo:GSE335761:GSM10117400	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117400	geo:GSE335761:GSM10117400	donor_id	BRP58007	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = donor id: BRP58007	True
+GSM10117400	geo:GSE335761:GSM10117400	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = age: 34	True
+GSM10117400	geo:GSE335761:GSM10117400	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117400	geo:GSE335761:GSM10117400	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117400	geo:GSE335761:GSM10117400	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117400	geo:GSE335761:GSM10117400	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117400	geo:GSE335761:GSM10117400	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117400	geo:GSE335761:GSM10117400	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117400	geo:GSE335761:GSM10117400	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117400	!Sample_label_ch1 = Xenium probe set	True
+GSM10117401	geo:GSE335761:GSM10117401	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117401	geo:GSE335761:GSM10117401	donor_id	BRP58008	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = donor id: BRP58008	True
+GSM10117401	geo:GSE335761:GSM10117401	age	28	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = age: 28	True
+GSM10117401	geo:GSE335761:GSM10117401	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117401	geo:GSE335761:GSM10117401	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117401	geo:GSE335761:GSM10117401	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117401	geo:GSE335761:GSM10117401	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117401	geo:GSE335761:GSM10117401	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117401	geo:GSE335761:GSM10117401	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117401	geo:GSE335761:GSM10117401	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117401	!Sample_label_ch1 = Xenium probe set	True
+GSM10117402	geo:GSE335761:GSM10117402	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117402	geo:GSE335761:GSM10117402	donor_id	BRP58009	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = donor id: BRP58009	True
+GSM10117402	geo:GSE335761:GSM10117402	age	76	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = age: 76	True
+GSM10117402	geo:GSE335761:GSM10117402	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117402	geo:GSE335761:GSM10117402	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117402	geo:GSE335761:GSM10117402	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117402	geo:GSE335761:GSM10117402	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117402	geo:GSE335761:GSM10117402	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117402	geo:GSE335761:GSM10117402	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117402	geo:GSE335761:GSM10117402	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117402	!Sample_label_ch1 = Xenium probe set	True
+GSM10117403	geo:GSE335761:GSM10117403	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117403	geo:GSE335761:GSM10117403	donor_id	BRP58010	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = donor id: BRP58010	True
+GSM10117403	geo:GSE335761:GSM10117403	age	82	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = age: 82	True
+GSM10117403	geo:GSE335761:GSM10117403	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117403	geo:GSE335761:GSM10117403	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117403	geo:GSE335761:GSM10117403	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117403	geo:GSE335761:GSM10117403	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117403	geo:GSE335761:GSM10117403	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117403	geo:GSE335761:GSM10117403	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117403	geo:GSE335761:GSM10117403	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117403	!Sample_label_ch1 = Xenium probe set	True
+GSM10117404	geo:GSE335761:GSM10117404	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117404	geo:GSE335761:GSM10117404	donor_id	BRP58012	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = donor id: BRP58012	True
+GSM10117404	geo:GSE335761:GSM10117404	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = age: 60	True
+GSM10117404	geo:GSE335761:GSM10117404	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117404	geo:GSE335761:GSM10117404	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117404	geo:GSE335761:GSM10117404	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117404	geo:GSE335761:GSM10117404	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117404	geo:GSE335761:GSM10117404	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117404	geo:GSE335761:GSM10117404	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117404	geo:GSE335761:GSM10117404	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117404	!Sample_label_ch1 = Xenium probe set	True
+GSM10117405	geo:GSE335761:GSM10117405	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117405	geo:GSE335761:GSM10117405	donor_id	BRP56978	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = donor id: BRP56978	True
+GSM10117405	geo:GSE335761:GSM10117405	age	37	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = age: 37	True
+GSM10117405	geo:GSE335761:GSM10117405	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117405	geo:GSE335761:GSM10117405	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117405	geo:GSE335761:GSM10117405	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117405	geo:GSE335761:GSM10117405	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117405	geo:GSE335761:GSM10117405	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117405	geo:GSE335761:GSM10117405	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117405	geo:GSE335761:GSM10117405	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117405	!Sample_label_ch1 = Xenium probe set	True
+GSM10117406	geo:GSE335761:GSM10117406	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117406	geo:GSE335761:GSM10117406	donor_id	BRP56978	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = donor id: BRP56978	True
+GSM10117406	geo:GSE335761:GSM10117406	age	37	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = age: 37	True
+GSM10117406	geo:GSE335761:GSM10117406	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117406	geo:GSE335761:GSM10117406	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117406	geo:GSE335761:GSM10117406	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117406	geo:GSE335761:GSM10117406	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117406	geo:GSE335761:GSM10117406	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117406	geo:GSE335761:GSM10117406	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117406	geo:GSE335761:GSM10117406	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117406	!Sample_label_ch1 = Xenium probe set	True
+GSM10117407	geo:GSE335761:GSM10117407	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117407	geo:GSE335761:GSM10117407	donor_id	BRP58007	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = donor id: BRP58007	True
+GSM10117407	geo:GSE335761:GSM10117407	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = age: 34	True
+GSM10117407	geo:GSE335761:GSM10117407	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117407	geo:GSE335761:GSM10117407	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117407	geo:GSE335761:GSM10117407	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117407	geo:GSE335761:GSM10117407	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117407	geo:GSE335761:GSM10117407	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117407	geo:GSE335761:GSM10117407	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117407	geo:GSE335761:GSM10117407	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117407	!Sample_label_ch1 = Xenium probe set	True
+GSM10117408	geo:GSE335761:GSM10117408	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117408	geo:GSE335761:GSM10117408	donor_id	BRP58007	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = donor id: BRP58007	True
+GSM10117408	geo:GSE335761:GSM10117408	age	34	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = age: 34	True
+GSM10117408	geo:GSE335761:GSM10117408	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117408	geo:GSE335761:GSM10117408	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117408	geo:GSE335761:GSM10117408	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117408	geo:GSE335761:GSM10117408	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117408	geo:GSE335761:GSM10117408	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117408	geo:GSE335761:GSM10117408	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117408	geo:GSE335761:GSM10117408	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117408	!Sample_label_ch1 = Xenium probe set	True
+GSM10117409	geo:GSE335761:GSM10117409	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117409	geo:GSE335761:GSM10117409	donor_id	BRP58010	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = donor id: BRP58010	True
+GSM10117409	geo:GSE335761:GSM10117409	age	82	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = age: 82	True
+GSM10117409	geo:GSE335761:GSM10117409	sex	Female	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = Sex: Female	True
+GSM10117409	geo:GSE335761:GSM10117409	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117409	geo:GSE335761:GSM10117409	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117409	geo:GSE335761:GSM10117409	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117409	geo:GSE335761:GSM10117409	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117409	geo:GSE335761:GSM10117409	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117409	geo:GSE335761:GSM10117409	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117409	!Sample_label_ch1 = Xenium probe set	True
+GSM10117410	geo:GSE335761:GSM10117410	tissue_free_text	lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117410	geo:GSE335761:GSM10117410	donor_id	BRP58012	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = donor id: BRP58012	True
+GSM10117410	geo:GSE335761:GSM10117410	age	60	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = age: 60	True
+GSM10117410	geo:GSE335761:GSM10117410	sex	Male	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = Sex: Male	True
+GSM10117410	geo:GSE335761:GSM10117410	disease_free_text	normal donor lung	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117410	geo:GSE335761:GSM10117410	sample_preservation	FFPE	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = tissue preservation method: FFPE	True
+GSM10117410	geo:GSE335761:GSM10117410	disease_ontology_term_id	PATO:0000461	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = disease state: normal donor lung	True
+GSM10117410	geo:GSE335761:GSM10117410	tissue_type	tissue	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_characteristics_ch1 = tissue: lung	True
+GSM10117410	geo:GSE335761:GSM10117410	suspension_type	na	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	Tissue microarray (TMA) blocks were constructed from FFPE normal donor lung tissue cores	True
+GSM10117410	geo:GSE335761:GSM10117410	assay	Xenium	file	raw/fp-e1486da7f8b6/GSE335761_family.soft.gz	GSM10117410	!Sample_label_ch1 = Xenium probe set	True

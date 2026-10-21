@@ -1,0 +1,126 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7105661	geo:GSE227691:GSM7105661	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105662	geo:GSE227691:GSM7105662	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105663	geo:GSE227691:GSM7105663	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105664	geo:GSE227691:GSM7105664	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105665	geo:GSE227691:GSM7105665	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105666	geo:GSE227691:GSM7105666	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105667	geo:GSE227691:GSM7105667	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105668	geo:GSE227691:GSM7105668	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105669	geo:GSE227691:GSM7105669	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105670	geo:GSE227691:GSM7105670	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105671	geo:GSE227691:GSM7105671	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM7105672	geo:GSE227691:GSM7105672	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+		organism	Homo sapiens	file	raw/fp-8324084ee958/GSE227691_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7105661	geo:GSE227691:GSM7105661	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105661	geo:GSE227691:GSM7105661	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105661	geo:GSE227691:GSM7105661	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105661	geo:GSE227691:GSM7105661	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105661	geo:GSE227691:GSM7105661	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105661	geo:GSE227691:GSM7105661	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105661	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105661	geo:GSE227691:GSM7105661	disease_free_text	no COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105661	!Sample_characteristics_ch1 = disease state: no COPD	True
+GSM7105661	geo:GSE227691:GSM7105661	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105661	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105662	geo:GSE227691:GSM7105662	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105662	geo:GSE227691:GSM7105662	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105662	geo:GSE227691:GSM7105662	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105662	geo:GSE227691:GSM7105662	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105662	geo:GSE227691:GSM7105662	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105662	geo:GSE227691:GSM7105662	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105662	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105662	geo:GSE227691:GSM7105662	disease_free_text	no COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105662	!Sample_characteristics_ch1 = disease state: no COPD	True
+GSM7105662	geo:GSE227691:GSM7105662	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105662	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105663	geo:GSE227691:GSM7105663	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105663	geo:GSE227691:GSM7105663	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105663	geo:GSE227691:GSM7105663	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105663	geo:GSE227691:GSM7105663	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105663	geo:GSE227691:GSM7105663	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105663	geo:GSE227691:GSM7105663	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105663	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105663	geo:GSE227691:GSM7105663	disease_free_text	no COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105663	!Sample_characteristics_ch1 = disease state: no COPD	True
+GSM7105663	geo:GSE227691:GSM7105663	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105663	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105664	geo:GSE227691:GSM7105664	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105664	geo:GSE227691:GSM7105664	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105664	geo:GSE227691:GSM7105664	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105664	geo:GSE227691:GSM7105664	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105664	geo:GSE227691:GSM7105664	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105664	geo:GSE227691:GSM7105664	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105664	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105664	geo:GSE227691:GSM7105664	disease_free_text	no COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105664	!Sample_characteristics_ch1 = disease state: no COPD	True
+GSM7105664	geo:GSE227691:GSM7105664	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105664	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105665	geo:GSE227691:GSM7105665	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105665	geo:GSE227691:GSM7105665	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105665	geo:GSE227691:GSM7105665	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105665	geo:GSE227691:GSM7105665	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105665	geo:GSE227691:GSM7105665	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105665	geo:GSE227691:GSM7105665	disease_stage	GOLD stage I	file	evidence/PMC10196003.txt		Mild COPD patients (GOLD stage I)	True
+GSM7105665	geo:GSE227691:GSM7105665	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105665	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105665	geo:GSE227691:GSM7105665	disease_free_text	mild COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105665	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105665	geo:GSE227691:GSM7105665	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105665	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105665	geo:GSE227691:GSM7105665	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105665	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105666	geo:GSE227691:GSM7105666	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105666	geo:GSE227691:GSM7105666	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105666	geo:GSE227691:GSM7105666	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105666	geo:GSE227691:GSM7105666	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105666	geo:GSE227691:GSM7105666	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105666	geo:GSE227691:GSM7105666	disease_stage	GOLD stage I	file	evidence/PMC10196003.txt		Mild COPD patients (GOLD stage I)	True
+GSM7105666	geo:GSE227691:GSM7105666	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105666	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105666	geo:GSE227691:GSM7105666	disease_free_text	mild COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105666	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105666	geo:GSE227691:GSM7105666	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105666	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105666	geo:GSE227691:GSM7105666	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105666	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105667	geo:GSE227691:GSM7105667	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105667	geo:GSE227691:GSM7105667	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105667	geo:GSE227691:GSM7105667	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105667	geo:GSE227691:GSM7105667	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105667	geo:GSE227691:GSM7105667	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105667	geo:GSE227691:GSM7105667	disease_stage	GOLD stage I	file	evidence/PMC10196003.txt		Mild COPD patients (GOLD stage I)	True
+GSM7105667	geo:GSE227691:GSM7105667	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105667	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105667	geo:GSE227691:GSM7105667	disease_free_text	mild COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105667	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105667	geo:GSE227691:GSM7105667	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105667	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105667	geo:GSE227691:GSM7105667	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105667	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105668	geo:GSE227691:GSM7105668	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105668	geo:GSE227691:GSM7105668	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105668	geo:GSE227691:GSM7105668	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105668	geo:GSE227691:GSM7105668	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105668	geo:GSE227691:GSM7105668	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105668	geo:GSE227691:GSM7105668	disease_stage	GOLD stage I	file	evidence/PMC10196003.txt		Mild COPD patients (GOLD stage I)	True
+GSM7105668	geo:GSE227691:GSM7105668	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105668	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105668	geo:GSE227691:GSM7105668	disease_free_text	mild COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105668	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105668	geo:GSE227691:GSM7105668	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105668	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105668	geo:GSE227691:GSM7105668	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105668	!Sample_characteristics_ch1 = disease state: mild COPD	True
+GSM7105669	geo:GSE227691:GSM7105669	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105669	geo:GSE227691:GSM7105669	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105669	geo:GSE227691:GSM7105669	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105669	geo:GSE227691:GSM7105669	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105669	geo:GSE227691:GSM7105669	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105669	geo:GSE227691:GSM7105669	disease_stage	GOLD stage II	file	evidence/PMC10196003.txt		Moderate COPD patients (GOLD stage II)	True
+GSM7105669	geo:GSE227691:GSM7105669	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105669	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105669	geo:GSE227691:GSM7105669	disease_free_text	moderate COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105669	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105669	geo:GSE227691:GSM7105669	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105669	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105669	geo:GSE227691:GSM7105669	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105669	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105670	geo:GSE227691:GSM7105670	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105670	geo:GSE227691:GSM7105670	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105670	geo:GSE227691:GSM7105670	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105670	geo:GSE227691:GSM7105670	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105670	geo:GSE227691:GSM7105670	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105670	geo:GSE227691:GSM7105670	disease_stage	GOLD stage II	file	evidence/PMC10196003.txt		Moderate COPD patients (GOLD stage II)	True
+GSM7105670	geo:GSE227691:GSM7105670	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105670	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105670	geo:GSE227691:GSM7105670	disease_free_text	moderate COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105670	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105670	geo:GSE227691:GSM7105670	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105670	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105670	geo:GSE227691:GSM7105670	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105670	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105671	geo:GSE227691:GSM7105671	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105671	geo:GSE227691:GSM7105671	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105671	geo:GSE227691:GSM7105671	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105671	geo:GSE227691:GSM7105671	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105671	geo:GSE227691:GSM7105671	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105671	geo:GSE227691:GSM7105671	disease_stage	GOLD stage II	file	evidence/PMC10196003.txt		Moderate COPD patients (GOLD stage II)	True
+GSM7105671	geo:GSE227691:GSM7105671	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105671	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105671	geo:GSE227691:GSM7105671	disease_free_text	moderate COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105671	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105671	geo:GSE227691:GSM7105671	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105671	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105671	geo:GSE227691:GSM7105671	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105671	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105672	geo:GSE227691:GSM7105672	tissue_type	tissue	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients	True
+GSM7105672	geo:GSE227691:GSM7105672	sample_collection_method	surgical resection	file	evidence/PMC10196003.txt		Lung resection specimens were obtained from patients who underwent surgery for solitary pulmonary tumors	True
+GSM7105672	geo:GSE227691:GSM7105672	treatment_status	no neoadjuvant therapy before surgery	file	evidence/PMC10196003.txt		none of them underwent neoadjuvant therapy before surgery	True
+GSM7105672	geo:GSE227691:GSM7105672	suspension_type	cell	file	evidence/PMC10196003.txt		single-cell suspensions were converted to barcoded scRNA-seq libraries	True
+GSM7105672	geo:GSE227691:GSM7105672	assay	10x 3' transcription profiling	file	evidence/PMC10196003.txt		Chromium Single Cell 3’ Library, Gel Bead & Multiplex Kit	True
+GSM7105672	geo:GSE227691:GSM7105672	disease_stage	GOLD stage II	file	evidence/PMC10196003.txt		Moderate COPD patients (GOLD stage II)	True
+GSM7105672	geo:GSE227691:GSM7105672	tissue_free_text	lung	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105672	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105672	geo:GSE227691:GSM7105672	disease_free_text	moderate COPD	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105672	!Sample_characteristics_ch1 = disease state: moderate COPD	True
+GSM7105672	geo:GSE227691:GSM7105672	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105672	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7105672	geo:GSE227691:GSM7105672	disease_ontology_term_id	MONDO:0005002	file	raw/fp-8324084ee958/GSE227691_family.soft.gz	GSM7105672	!Sample_characteristics_ch1 = disease state: moderate COPD	True

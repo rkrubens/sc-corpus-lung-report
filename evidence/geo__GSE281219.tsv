@@ -1,0 +1,66 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8615073	geo:GSE281219:GSM8615073	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615074	geo:GSE281219:GSM8615074	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615075	geo:GSE281219:GSM8615075	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615076	geo:GSE281219:GSM8615076	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615077	geo:GSE281219:GSM8615077	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615078	geo:GSE281219:GSM8615078	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615079	geo:GSE281219:GSM8615079	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615080	geo:GSE281219:GSM8615080	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615081	geo:GSE281219:GSM8615081	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615082	geo:GSE281219:GSM8615082	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615083	geo:GSE281219:GSM8615083	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615084	geo:GSE281219:GSM8615084	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615085	geo:GSE281219:GSM8615085	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615086	geo:GSE281219:GSM8615086	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615087	geo:GSE281219:GSM8615087	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615088	geo:GSE281219:GSM8615088	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615089	geo:GSE281219:GSM8615089	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615090	geo:GSE281219:GSM8615090	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615091	geo:GSE281219:GSM8615091	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615092	geo:GSE281219:GSM8615092	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615093	geo:GSE281219:GSM8615093	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615094	geo:GSE281219:GSM8615094	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615095	geo:GSE281219:GSM8615095	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615096	geo:GSE281219:GSM8615096	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615097	geo:GSE281219:GSM8615097	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615098	geo:GSE281219:GSM8615098	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615099	geo:GSE281219:GSM8615099	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615100	geo:GSE281219:GSM8615100	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615101	geo:GSE281219:GSM8615101	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615102	geo:GSE281219:GSM8615102	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615103	geo:GSE281219:GSM8615103	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8615104	geo:GSE281219:GSM8615104	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8615073	geo:GSE281219:GSM8615073	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615073	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615074	geo:GSE281219:GSM8615074	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615074	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615075	geo:GSE281219:GSM8615075	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615075	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615076	geo:GSE281219:GSM8615076	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615076	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615077	geo:GSE281219:GSM8615077	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615077	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615078	geo:GSE281219:GSM8615078	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615078	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615079	geo:GSE281219:GSM8615079	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615079	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615080	geo:GSE281219:GSM8615080	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615080	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615081	geo:GSE281219:GSM8615081	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615081	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615082	geo:GSE281219:GSM8615082	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615082	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615083	geo:GSE281219:GSM8615083	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615083	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615084	geo:GSE281219:GSM8615084	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615084	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615085	geo:GSE281219:GSM8615085	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615085	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615086	geo:GSE281219:GSM8615086	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615086	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615087	geo:GSE281219:GSM8615087	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615087	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615088	geo:GSE281219:GSM8615088	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615088	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615089	geo:GSE281219:GSM8615089	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615089	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615090	geo:GSE281219:GSM8615090	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615090	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615091	geo:GSE281219:GSM8615091	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615091	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615092	geo:GSE281219:GSM8615092	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615092	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615093	geo:GSE281219:GSM8615093	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615093	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615094	geo:GSE281219:GSM8615094	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615094	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615095	geo:GSE281219:GSM8615095	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615095	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615096	geo:GSE281219:GSM8615096	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615096	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615097	geo:GSE281219:GSM8615097	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615097	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615098	geo:GSE281219:GSM8615098	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615098	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615099	geo:GSE281219:GSM8615099	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615099	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615100	geo:GSE281219:GSM8615100	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615100	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615101	geo:GSE281219:GSM8615101	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615101	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615102	geo:GSE281219:GSM8615102	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615102	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615103	geo:GSE281219:GSM8615103	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615103	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8615104	geo:GSE281219:GSM8615104	tissue_free_text	Lung	file	raw/fp-e8f8c064ddc7/GSE281219_family.soft.gz	GSM8615104	!Sample_characteristics_ch1 = tissue: Lung	True

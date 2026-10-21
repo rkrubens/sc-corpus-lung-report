@@ -1,0 +1,5 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-3dd4acc5a254/GSE318867_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9505080	geo:GSE318867:GSM9505080	tissue_free_text	SCLC	file	raw/fp-3dd4acc5a254/GSE318867_family.soft.gz	GSM9505080	!Sample_characteristics_ch1 = tissue: SCLC	True
+GSM9505081	geo:GSE318867:GSM9505081	tissue_free_text	SCLC	file	raw/fp-3dd4acc5a254/GSE318867_family.soft.gz	GSM9505081	!Sample_characteristics_ch1 = tissue: SCLC	True
+GSM9505082	geo:GSE318867:GSM9505082	tissue_free_text	SCLC	file	raw/fp-3dd4acc5a254/GSE318867_family.soft.gz	GSM9505082	!Sample_characteristics_ch1 = tissue: SCLC	True

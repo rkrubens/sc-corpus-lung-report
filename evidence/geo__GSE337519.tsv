@@ -1,0 +1,9 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9856929	geo:GSE337519:GSM9856929	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+		organism	Homo sapiens	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9856929	geo:GSE337519:GSM9856929	tissue_free_text	tumor	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz	GSM9856929	!Sample_characteristics_ch1 = tissue: tumor	True
+GSM9856929	geo:GSE337519:GSM9856929	tissue_type	tissue	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz	GSM9856929	!Sample_characteristics_ch1 = tissue: tumor	True
+GSM9856929	geo:GSE337519:GSM9856929	disease_free_text	non small cell lung cancer	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz	GSM9856929	!Sample_description = one sample from non small cell lung cancer	True
+GSM9856929	geo:GSE337519:GSM9856929	disease_ontology_term_id	MONDO:0005233	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz	GSM9856929	!Sample_description = one sample from non small cell lung cancer	True
+GSM9856929	geo:GSE337519:GSM9856929	suspension_type	cell	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz	GSM9856929	Single-cell suspensions were loaded onto the 10x Genomics Chromium Controller	True
+GSM9856929	geo:GSE337519:GSM9856929	assay	10x 3' transcription profiling	file	raw/fp-88caf5c7c82f/GSE337519_family.soft.gz	GSM9856929	Chromium Single Cell 3' Reagent Kits	True

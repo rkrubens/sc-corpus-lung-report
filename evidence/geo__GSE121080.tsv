@@ -1,0 +1,106 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3425686	geo:GSE121080:GSM3425686	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425686	geo:GSE121080:GSM3425686	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425686	geo:GSE121080:GSM3425686	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM3425687	geo:GSE121080:GSM3425687	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425687	geo:GSE121080:GSM3425687	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425687	geo:GSE121080:GSM3425687	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM3425688	geo:GSE121080:GSM3425688	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425688	geo:GSE121080:GSM3425688	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425688	geo:GSE121080:GSM3425688	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM3425689	geo:GSE121080:GSM3425689	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425689	geo:GSE121080:GSM3425689	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425689	geo:GSE121080:GSM3425689	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM3425692	geo:GSE121080:GSM3425692	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425692	geo:GSE121080:GSM3425692	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425692	geo:GSE121080:GSM3425692	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM3425693	geo:GSE121080:GSM3425693	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425693	geo:GSE121080:GSM3425693	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425693	geo:GSE121080:GSM3425693	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM3425694	geo:GSE121080:GSM3425694	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425694	geo:GSE121080:GSM3425694	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425694	geo:GSE121080:GSM3425694	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM3425695	geo:GSE121080:GSM3425695	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM3425695	geo:GSE121080:GSM3425695	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3425695	geo:GSE121080:GSM3425695	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+		organism	Homo sapiens	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3425686	geo:GSE121080:GSM3425686	age	65	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = age: 65	True
+GSM3425686	geo:GSE121080:GSM3425686	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = gender: male	True
+GSM3425686	geo:GSE121080:GSM3425686	donor_id	Donor 1	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = individual: Donor 1	True
+GSM3425686	geo:GSE121080:GSM3425686	tissue_free_text	lung	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425686	geo:GSE121080:GSM3425686	treatment	media control	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = treatment: media control	True
+GSM3425686	geo:GSE121080:GSM3425686	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425686	geo:GSE121080:GSM3425686	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425686	geo:GSE121080:GSM3425686	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425686	geo:GSE121080:GSM3425686	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425686	geo:GSE121080:GSM3425686	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425686	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425687	geo:GSE121080:GSM3425687	age	65	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = age: 65	True
+GSM3425687	geo:GSE121080:GSM3425687	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = gender: male	True
+GSM3425687	geo:GSE121080:GSM3425687	donor_id	Donor 1	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = individual: Donor 1	True
+GSM3425687	geo:GSE121080:GSM3425687	tissue_free_text	lung	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425687	geo:GSE121080:GSM3425687	treatment	anti-CD3/anti-CD28 stimulation	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = treatment: anti-CD3/anti-CD28 stimulation	True
+GSM3425687	geo:GSE121080:GSM3425687	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425687	geo:GSE121080:GSM3425687	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425687	geo:GSE121080:GSM3425687	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425687	geo:GSE121080:GSM3425687	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425687	geo:GSE121080:GSM3425687	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425687	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425688	geo:GSE121080:GSM3425688	age	65	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = age: 65	True
+GSM3425688	geo:GSE121080:GSM3425688	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = gender: male	True
+GSM3425688	geo:GSE121080:GSM3425688	donor_id	Donor 1	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = individual: Donor 1	True
+GSM3425688	geo:GSE121080:GSM3425688	tissue_free_text	bone marrow	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425688	geo:GSE121080:GSM3425688	treatment	media control	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = treatment: media control	True
+GSM3425688	geo:GSE121080:GSM3425688	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425688	geo:GSE121080:GSM3425688	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425688	geo:GSE121080:GSM3425688	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425688	geo:GSE121080:GSM3425688	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425688	geo:GSE121080:GSM3425688	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425688	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425689	geo:GSE121080:GSM3425689	age	65	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = age: 65	True
+GSM3425689	geo:GSE121080:GSM3425689	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = gender: male	True
+GSM3425689	geo:GSE121080:GSM3425689	donor_id	Donor 1	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = individual: Donor 1	True
+GSM3425689	geo:GSE121080:GSM3425689	tissue_free_text	bone marrow	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425689	geo:GSE121080:GSM3425689	treatment	anti-CD3/anti-CD28 stimulation	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = treatment: anti-CD3/anti-CD28 stimulation	True
+GSM3425689	geo:GSE121080:GSM3425689	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425689	geo:GSE121080:GSM3425689	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425689	geo:GSE121080:GSM3425689	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425689	geo:GSE121080:GSM3425689	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425689	geo:GSE121080:GSM3425689	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425689	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425692	geo:GSE121080:GSM3425692	age	52	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = age: 52	True
+GSM3425692	geo:GSE121080:GSM3425692	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = gender: male	True
+GSM3425692	geo:GSE121080:GSM3425692	donor_id	Donor 2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = individual: Donor 2	True
+GSM3425692	geo:GSE121080:GSM3425692	tissue_free_text	lung	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425692	geo:GSE121080:GSM3425692	treatment	media control	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = treatment: media control	True
+GSM3425692	geo:GSE121080:GSM3425692	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425692	geo:GSE121080:GSM3425692	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425692	geo:GSE121080:GSM3425692	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425692	geo:GSE121080:GSM3425692	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425692	geo:GSE121080:GSM3425692	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425692	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425693	geo:GSE121080:GSM3425693	age	52	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = age: 52	True
+GSM3425693	geo:GSE121080:GSM3425693	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = gender: male	True
+GSM3425693	geo:GSE121080:GSM3425693	donor_id	Donor 2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = individual: Donor 2	True
+GSM3425693	geo:GSE121080:GSM3425693	tissue_free_text	lung	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425693	geo:GSE121080:GSM3425693	treatment	anti-CD3/anti-CD28 stimulation	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = treatment: anti-CD3/anti-CD28 stimulation	True
+GSM3425693	geo:GSE121080:GSM3425693	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = tissue: lung	True
+GSM3425693	geo:GSE121080:GSM3425693	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425693	geo:GSE121080:GSM3425693	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425693	geo:GSE121080:GSM3425693	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425693	geo:GSE121080:GSM3425693	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425693	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425694	geo:GSE121080:GSM3425694	age	52	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = age: 52	True
+GSM3425694	geo:GSE121080:GSM3425694	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = gender: male	True
+GSM3425694	geo:GSE121080:GSM3425694	donor_id	Donor 2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = individual: Donor 2	True
+GSM3425694	geo:GSE121080:GSM3425694	tissue_free_text	bone marrow	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425694	geo:GSE121080:GSM3425694	treatment	media control	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = treatment: media control	True
+GSM3425694	geo:GSE121080:GSM3425694	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425694	geo:GSE121080:GSM3425694	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425694	geo:GSE121080:GSM3425694	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425694	geo:GSE121080:GSM3425694	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425694	geo:GSE121080:GSM3425694	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425694	10x Chromium v2 Single Cell 3'-Solution	True
+GSM3425695	geo:GSE121080:GSM3425695	age	52	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = age: 52	True
+GSM3425695	geo:GSE121080:GSM3425695	sex	male	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = gender: male	True
+GSM3425695	geo:GSE121080:GSM3425695	donor_id	Donor 2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = individual: Donor 2	True
+GSM3425695	geo:GSE121080:GSM3425695	tissue_free_text	bone marrow	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425695	geo:GSE121080:GSM3425695	treatment	anti-CD3/anti-CD28 stimulation	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = treatment: anti-CD3/anti-CD28 stimulation	True
+GSM3425695	geo:GSE121080:GSM3425695	tissue_ontology_term_id	UBERON:0002371	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = tissue: bone marrow	True
+GSM3425695	geo:GSE121080:GSM3425695	tissue_type	tissue	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425695	geo:GSE121080:GSM3425695	suspension_type	cell	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	T cells were enriched from single-cell suspensions of each tissue	True
+GSM3425695	geo:GSE121080:GSM3425695	cell_enrichment	T cells (CD3 negative selection)	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	!Sample_characteristics_ch1 = cell type: enriched for T cells by CD3 negative selection	True
+GSM3425695	geo:GSE121080:GSM3425695	assay	10x 3' v2	file	raw/fp-58d7e28081e9/GSE121080_family.soft.gz	GSM3425695	10x Chromium v2 Single Cell 3'-Solution	True

@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-07de8164c831/GSE300007_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9052317	geo:GSE300007:GSM9052317	tissue_free_text	lung adenocarcinoma	file	raw/fp-07de8164c831/GSE300007_family.soft.gz	GSM9052317	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9052318	geo:GSE300007:GSM9052318	tissue_free_text	lung adenocarcinoma	file	raw/fp-07de8164c831/GSE300007_family.soft.gz	GSM9052318	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9052319	geo:GSE300007:GSM9052319	tissue_free_text	pleural mesothelioma	file	raw/fp-07de8164c831/GSE300007_family.soft.gz	GSM9052319	!Sample_characteristics_ch1 = tissue: pleural mesothelioma	True
+GSM9052320	geo:GSE300007:GSM9052320	tissue_free_text	pleural mesothelioma	file	raw/fp-07de8164c831/GSE300007_family.soft.gz	GSM9052320	!Sample_characteristics_ch1 = tissue: pleural mesothelioma	True
+GSM9052321	geo:GSE300007:GSM9052321	tissue_free_text	pleural mesothelioma	file	raw/fp-07de8164c831/GSE300007_family.soft.gz	GSM9052321	!Sample_characteristics_ch1 = tissue: pleural mesothelioma	True
+GSM9052322	geo:GSE300007:GSM9052322	tissue_free_text	pleural mesothelioma	file	raw/fp-07de8164c831/GSE300007_family.soft.gz	GSM9052322	!Sample_characteristics_ch1 = tissue: pleural mesothelioma	True

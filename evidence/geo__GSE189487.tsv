@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5702473	geo:GSE189487:GSM5702473	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5702474	geo:GSE189487:GSM5702474	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM5702475	geo:GSE189487:GSM5702475	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM5702476	geo:GSE189487:GSM5702476	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5702477	geo:GSE189487:GSM5702477	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5702478	geo:GSE189487:GSM5702478	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+		organism	Homo sapiens	file	raw/fp-af326d45965b/GSE189487_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5702473	geo:GSE189487:GSM5702473	sex	Female	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702473	!Sample_characteristics_ch1 = gender: Female	True
+GSM5702473	geo:GSE189487:GSM5702473	disease_free_text	IAC	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702473	!Sample_characteristics_ch1 = histolgical type: IAC	True
+GSM5702474	geo:GSE189487:GSM5702474	sex	Male	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702474	!Sample_characteristics_ch1 = gender: Male	True
+GSM5702474	geo:GSE189487:GSM5702474	disease_free_text	IAC	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702474	!Sample_characteristics_ch1 = histolgical type: IAC	True
+GSM5702475	geo:GSE189487:GSM5702475	sex	Male	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702475	!Sample_characteristics_ch1 = gender: Male	True
+GSM5702475	geo:GSE189487:GSM5702475	disease_free_text	MIA	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702475	!Sample_characteristics_ch1 = histolgical type: MIA	True
+GSM5702476	geo:GSE189487:GSM5702476	sex	Female	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702476	!Sample_characteristics_ch1 = gender: Female	True
+GSM5702476	geo:GSE189487:GSM5702476	disease_free_text	AIS	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702476	!Sample_characteristics_ch1 = histolgical type: AIS	True
+GSM5702477	geo:GSE189487:GSM5702477	sex	Female	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702477	!Sample_characteristics_ch1 = gender: Female	True
+GSM5702477	geo:GSE189487:GSM5702477	disease_free_text	MIA	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702477	!Sample_characteristics_ch1 = histolgical type: MIA	True
+GSM5702478	geo:GSE189487:GSM5702478	sex	Male	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702478	!Sample_characteristics_ch1 = gender: Male	True
+GSM5702478	geo:GSE189487:GSM5702478	disease_free_text	AIS	file	raw/fp-af326d45965b/GSE189487_family.soft.gz	GSM5702478	!Sample_characteristics_ch1 = histolgical type: AIS	True

@@ -1,0 +1,362 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+CTR002	geo:GSE284081:CTR002	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR007	geo:GSE284081:CTR007	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR008	geo:GSE284081:CTR008	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR011	geo:GSE284081:CTR011	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR031	geo:GSE284081:CTR031	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR064	geo:GSE284081:CTR064	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR072	geo:GSE284081:CTR072	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR073	geo:GSE284081:CTR073	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR075	geo:GSE284081:CTR075	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS001	geo:GSE284081:RAS001	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS002	geo:GSE284081:RAS002	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS004	geo:GSE284081:RAS004	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS005	geo:GSE284081:RAS005	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS008	geo:GSE284081:RAS008	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS009	geo:GSE284081:RAS009	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS010	geo:GSE284081:RAS010	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS011	geo:GSE284081:RAS011	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS012	geo:GSE284081:RAS012	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS013	geo:GSE284081:RAS013	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS014	geo:GSE284081:RAS014	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS015	geo:GSE284081:RAS015	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS016	geo:GSE284081:RAS016	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS017	geo:GSE284081:RAS017	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS018	geo:GSE284081:RAS018	disease_free_text	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR002	geo:GSE284081:CTR002	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR007	geo:GSE284081:CTR007	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR008	geo:GSE284081:CTR008	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR011	geo:GSE284081:CTR011	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR031	geo:GSE284081:CTR031	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR064	geo:GSE284081:CTR064	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR072	geo:GSE284081:CTR072	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR073	geo:GSE284081:CTR073	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR075	geo:GSE284081:CTR075	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS001	geo:GSE284081:RAS001	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS002	geo:GSE284081:RAS002	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS004	geo:GSE284081:RAS004	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS005	geo:GSE284081:RAS005	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS008	geo:GSE284081:RAS008	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS009	geo:GSE284081:RAS009	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS010	geo:GSE284081:RAS010	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS011	geo:GSE284081:RAS011	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS012	geo:GSE284081:RAS012	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS013	geo:GSE284081:RAS013	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS014	geo:GSE284081:RAS014	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS015	geo:GSE284081:RAS015	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS016	geo:GSE284081:RAS016	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS017	geo:GSE284081:RAS017	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+RAS018	geo:GSE284081:RAS018	disease_ontology_term_id	<column disease.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR002	geo:GSE284081:CTR002	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR007	geo:GSE284081:CTR007	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR008	geo:GSE284081:CTR008	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR011	geo:GSE284081:CTR011	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR031	geo:GSE284081:CTR031	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR064	geo:GSE284081:CTR064	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR072	geo:GSE284081:CTR072	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR073	geo:GSE284081:CTR073	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR075	geo:GSE284081:CTR075	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS001	geo:GSE284081:RAS001	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS002	geo:GSE284081:RAS002	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS004	geo:GSE284081:RAS004	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS005	geo:GSE284081:RAS005	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS008	geo:GSE284081:RAS008	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS009	geo:GSE284081:RAS009	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS010	geo:GSE284081:RAS010	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS011	geo:GSE284081:RAS011	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS012	geo:GSE284081:RAS012	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS013	geo:GSE284081:RAS013	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS014	geo:GSE284081:RAS014	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS015	geo:GSE284081:RAS015	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS016	geo:GSE284081:RAS016	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS017	geo:GSE284081:RAS017	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+RAS018	geo:GSE284081:RAS018	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR002	geo:GSE284081:CTR002	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR007	geo:GSE284081:CTR007	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR008	geo:GSE284081:CTR008	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR011	geo:GSE284081:CTR011	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR031	geo:GSE284081:CTR031	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR064	geo:GSE284081:CTR064	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR072	geo:GSE284081:CTR072	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR073	geo:GSE284081:CTR073	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR075	geo:GSE284081:CTR075	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS001	geo:GSE284081:RAS001	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS002	geo:GSE284081:RAS002	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS004	geo:GSE284081:RAS004	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS005	geo:GSE284081:RAS005	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS008	geo:GSE284081:RAS008	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS009	geo:GSE284081:RAS009	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS010	geo:GSE284081:RAS010	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS011	geo:GSE284081:RAS011	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS012	geo:GSE284081:RAS012	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS013	geo:GSE284081:RAS013	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS014	geo:GSE284081:RAS014	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS015	geo:GSE284081:RAS015	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS016	geo:GSE284081:RAS016	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS017	geo:GSE284081:RAS017	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+RAS018	geo:GSE284081:RAS018	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR002	geo:GSE284081:CTR002	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR007	geo:GSE284081:CTR007	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR008	geo:GSE284081:CTR008	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR011	geo:GSE284081:CTR011	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR031	geo:GSE284081:CTR031	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR064	geo:GSE284081:CTR064	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR072	geo:GSE284081:CTR072	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR073	geo:GSE284081:CTR073	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR075	geo:GSE284081:CTR075	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS001	geo:GSE284081:RAS001	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS002	geo:GSE284081:RAS002	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS004	geo:GSE284081:RAS004	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS005	geo:GSE284081:RAS005	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS008	geo:GSE284081:RAS008	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS009	geo:GSE284081:RAS009	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS010	geo:GSE284081:RAS010	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS011	geo:GSE284081:RAS011	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS012	geo:GSE284081:RAS012	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS013	geo:GSE284081:RAS013	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS014	geo:GSE284081:RAS014	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS015	geo:GSE284081:RAS015	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS016	geo:GSE284081:RAS016	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS017	geo:GSE284081:RAS017	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+RAS018	geo:GSE284081:RAS018	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR002	geo:GSE284081:CTR002	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR007	geo:GSE284081:CTR007	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR008	geo:GSE284081:CTR008	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR011	geo:GSE284081:CTR011	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR031	geo:GSE284081:CTR031	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR064	geo:GSE284081:CTR064	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR072	geo:GSE284081:CTR072	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR073	geo:GSE284081:CTR073	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+CTR075	geo:GSE284081:CTR075	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS001	geo:GSE284081:RAS001	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS002	geo:GSE284081:RAS002	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS004	geo:GSE284081:RAS004	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS005	geo:GSE284081:RAS005	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS008	geo:GSE284081:RAS008	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS009	geo:GSE284081:RAS009	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS010	geo:GSE284081:RAS010	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS011	geo:GSE284081:RAS011	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS012	geo:GSE284081:RAS012	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS013	geo:GSE284081:RAS013	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS014	geo:GSE284081:RAS014	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS015	geo:GSE284081:RAS015	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS016	geo:GSE284081:RAS016	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS017	geo:GSE284081:RAS017	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+RAS018	geo:GSE284081:RAS018	author_cell_type	<column cell.type.ident>	column	work/fp-4a83dbc7e7ae/GSE284081_RAS.Seurat.obj.final_converted/cell_metadata.tsv.gz/cell.type.ident			True
+		organism	Homo sapiens	file	raw/fp-4a83dbc7e7ae/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+CTR002	geo:GSE284081:CTR002	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR007	geo:GSE284081:CTR007	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR008	geo:GSE284081:CTR008	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR011	geo:GSE284081:CTR011	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR031	geo:GSE284081:CTR031	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR064	geo:GSE284081:CTR064	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR072	geo:GSE284081:CTR072	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR073	geo:GSE284081:CTR073	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR075	geo:GSE284081:CTR075	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS001	geo:GSE284081:RAS001	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS002	geo:GSE284081:RAS002	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS004	geo:GSE284081:RAS004	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS005	geo:GSE284081:RAS005	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS008	geo:GSE284081:RAS008	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS009	geo:GSE284081:RAS009	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS010	geo:GSE284081:RAS010	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS011	geo:GSE284081:RAS011	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS012	geo:GSE284081:RAS012	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS013	geo:GSE284081:RAS013	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS014	geo:GSE284081:RAS014	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS015	geo:GSE284081:RAS015	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS016	geo:GSE284081:RAS016	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS017	geo:GSE284081:RAS017	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+RAS018	geo:GSE284081:RAS018	disease_free_text	<map of column disease.ident>	file	evidence/PMC13612983.txt		RAS: restrictive allograft syndrome; CTRL: control	True
+CTR002	geo:GSE284081:CTR002	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR007	geo:GSE284081:CTR007	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR008	geo:GSE284081:CTR008	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR011	geo:GSE284081:CTR011	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR031	geo:GSE284081:CTR031	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR064	geo:GSE284081:CTR064	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR072	geo:GSE284081:CTR072	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR073	geo:GSE284081:CTR073	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR075	geo:GSE284081:CTR075	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS001	geo:GSE284081:RAS001	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS002	geo:GSE284081:RAS002	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS004	geo:GSE284081:RAS004	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS005	geo:GSE284081:RAS005	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS008	geo:GSE284081:RAS008	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS009	geo:GSE284081:RAS009	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS010	geo:GSE284081:RAS010	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS011	geo:GSE284081:RAS011	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS012	geo:GSE284081:RAS012	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS013	geo:GSE284081:RAS013	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS014	geo:GSE284081:RAS014	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS015	geo:GSE284081:RAS015	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS016	geo:GSE284081:RAS016	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS017	geo:GSE284081:RAS017	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS018	geo:GSE284081:RAS018	disease_free_text	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR002	geo:GSE284081:CTR002	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR007	geo:GSE284081:CTR007	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR008	geo:GSE284081:CTR008	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR011	geo:GSE284081:CTR011	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR031	geo:GSE284081:CTR031	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR064	geo:GSE284081:CTR064	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR072	geo:GSE284081:CTR072	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR073	geo:GSE284081:CTR073	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR075	geo:GSE284081:CTR075	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS001	geo:GSE284081:RAS001	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS002	geo:GSE284081:RAS002	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS004	geo:GSE284081:RAS004	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS005	geo:GSE284081:RAS005	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS008	geo:GSE284081:RAS008	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS009	geo:GSE284081:RAS009	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS010	geo:GSE284081:RAS010	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS011	geo:GSE284081:RAS011	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS012	geo:GSE284081:RAS012	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS013	geo:GSE284081:RAS013	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS014	geo:GSE284081:RAS014	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS015	geo:GSE284081:RAS015	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS016	geo:GSE284081:RAS016	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS017	geo:GSE284081:RAS017	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+RAS018	geo:GSE284081:RAS018	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		from 9 healthy control lungs	True
+CTR002	geo:GSE284081:CTR002	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR007	geo:GSE284081:CTR007	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR008	geo:GSE284081:CTR008	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR011	geo:GSE284081:CTR011	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR031	geo:GSE284081:CTR031	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR064	geo:GSE284081:CTR064	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR072	geo:GSE284081:CTR072	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR073	geo:GSE284081:CTR073	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR075	geo:GSE284081:CTR075	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS001	geo:GSE284081:RAS001	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS002	geo:GSE284081:RAS002	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS004	geo:GSE284081:RAS004	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS005	geo:GSE284081:RAS005	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS008	geo:GSE284081:RAS008	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS009	geo:GSE284081:RAS009	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS010	geo:GSE284081:RAS010	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS011	geo:GSE284081:RAS011	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS012	geo:GSE284081:RAS012	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS013	geo:GSE284081:RAS013	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS014	geo:GSE284081:RAS014	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS015	geo:GSE284081:RAS015	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS016	geo:GSE284081:RAS016	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS017	geo:GSE284081:RAS017	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS018	geo:GSE284081:RAS018	tissue_free_text	lung	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR002	geo:GSE284081:CTR002	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR007	geo:GSE284081:CTR007	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR008	geo:GSE284081:CTR008	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR011	geo:GSE284081:CTR011	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR031	geo:GSE284081:CTR031	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR064	geo:GSE284081:CTR064	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR072	geo:GSE284081:CTR072	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR073	geo:GSE284081:CTR073	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR075	geo:GSE284081:CTR075	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS001	geo:GSE284081:RAS001	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS002	geo:GSE284081:RAS002	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS004	geo:GSE284081:RAS004	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS005	geo:GSE284081:RAS005	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS008	geo:GSE284081:RAS008	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS009	geo:GSE284081:RAS009	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS010	geo:GSE284081:RAS010	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS011	geo:GSE284081:RAS011	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS012	geo:GSE284081:RAS012	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS013	geo:GSE284081:RAS013	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS014	geo:GSE284081:RAS014	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS015	geo:GSE284081:RAS015	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS016	geo:GSE284081:RAS016	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS017	geo:GSE284081:RAS017	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+RAS018	geo:GSE284081:RAS018	suspension_type	nucleus	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR002	geo:GSE284081:CTR002	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR007	geo:GSE284081:CTR007	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR008	geo:GSE284081:CTR008	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR011	geo:GSE284081:CTR011	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR031	geo:GSE284081:CTR031	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR064	geo:GSE284081:CTR064	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR072	geo:GSE284081:CTR072	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR073	geo:GSE284081:CTR073	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR075	geo:GSE284081:CTR075	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS001	geo:GSE284081:RAS001	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS002	geo:GSE284081:RAS002	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS004	geo:GSE284081:RAS004	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS005	geo:GSE284081:RAS005	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS008	geo:GSE284081:RAS008	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS009	geo:GSE284081:RAS009	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS010	geo:GSE284081:RAS010	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS011	geo:GSE284081:RAS011	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS012	geo:GSE284081:RAS012	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS013	geo:GSE284081:RAS013	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS014	geo:GSE284081:RAS014	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS015	geo:GSE284081:RAS015	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS016	geo:GSE284081:RAS016	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS017	geo:GSE284081:RAS017	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+RAS018	geo:GSE284081:RAS018	assay	10x gene expression flex	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR002	geo:GSE284081:CTR002	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR007	geo:GSE284081:CTR007	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR008	geo:GSE284081:CTR008	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR011	geo:GSE284081:CTR011	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR031	geo:GSE284081:CTR031	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR064	geo:GSE284081:CTR064	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR072	geo:GSE284081:CTR072	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR073	geo:GSE284081:CTR073	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR075	geo:GSE284081:CTR075	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS001	geo:GSE284081:RAS001	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS002	geo:GSE284081:RAS002	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS004	geo:GSE284081:RAS004	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS005	geo:GSE284081:RAS005	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS008	geo:GSE284081:RAS008	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS009	geo:GSE284081:RAS009	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS010	geo:GSE284081:RAS010	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS011	geo:GSE284081:RAS011	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS012	geo:GSE284081:RAS012	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS013	geo:GSE284081:RAS013	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS014	geo:GSE284081:RAS014	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS015	geo:GSE284081:RAS015	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS016	geo:GSE284081:RAS016	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS017	geo:GSE284081:RAS017	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+RAS018	geo:GSE284081:RAS018	sample_preservation	formalin fixed	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR002	geo:GSE284081:CTR002	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR007	geo:GSE284081:CTR007	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR008	geo:GSE284081:CTR008	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR011	geo:GSE284081:CTR011	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR031	geo:GSE284081:CTR031	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR064	geo:GSE284081:CTR064	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR072	geo:GSE284081:CTR072	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR073	geo:GSE284081:CTR073	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR075	geo:GSE284081:CTR075	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS001	geo:GSE284081:RAS001	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS002	geo:GSE284081:RAS002	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS004	geo:GSE284081:RAS004	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS005	geo:GSE284081:RAS005	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS008	geo:GSE284081:RAS008	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS009	geo:GSE284081:RAS009	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS010	geo:GSE284081:RAS010	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS011	geo:GSE284081:RAS011	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS012	geo:GSE284081:RAS012	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS013	geo:GSE284081:RAS013	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS014	geo:GSE284081:RAS014	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS015	geo:GSE284081:RAS015	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS016	geo:GSE284081:RAS016	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS017	geo:GSE284081:RAS017	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+RAS018	geo:GSE284081:RAS018	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR002	geo:GSE284081:CTR002	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR007	geo:GSE284081:CTR007	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR008	geo:GSE284081:CTR008	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR011	geo:GSE284081:CTR011	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR031	geo:GSE284081:CTR031	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR064	geo:GSE284081:CTR064	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR072	geo:GSE284081:CTR072	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR073	geo:GSE284081:CTR073	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+CTR075	geo:GSE284081:CTR075	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS001	geo:GSE284081:RAS001	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS002	geo:GSE284081:RAS002	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS004	geo:GSE284081:RAS004	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS005	geo:GSE284081:RAS005	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS008	geo:GSE284081:RAS008	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS009	geo:GSE284081:RAS009	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS010	geo:GSE284081:RAS010	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS011	geo:GSE284081:RAS011	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS012	geo:GSE284081:RAS012	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS013	geo:GSE284081:RAS013	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS014	geo:GSE284081:RAS014	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS015	geo:GSE284081:RAS015	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS016	geo:GSE284081:RAS016	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS017	geo:GSE284081:RAS017	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True
+RAS018	geo:GSE284081:RAS018	tissue_type	tissue	file	raw/fp-4a83dbc7e7ae/GSE284081_family.soft.gz		!Sample_characteristics_ch1 = tissue: tissue	True

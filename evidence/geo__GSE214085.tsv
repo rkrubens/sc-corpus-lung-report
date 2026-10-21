@@ -1,0 +1,257 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6598817	geo:GSE214085:GSM6598817	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598817	geo:GSE214085:GSM6598817	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6598817	geo:GSE214085:GSM6598817	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598817	geo:GSE214085:GSM6598817	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598818	geo:GSE214085:GSM6598818	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598818	geo:GSE214085:GSM6598818	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6598818	geo:GSE214085:GSM6598818	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598818	geo:GSE214085:GSM6598818	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598819	geo:GSE214085:GSM6598819	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598819	geo:GSE214085:GSM6598819	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6598819	geo:GSE214085:GSM6598819	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598819	geo:GSE214085:GSM6598819	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598820	geo:GSE214085:GSM6598820	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598820	geo:GSE214085:GSM6598820	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM6598820	geo:GSE214085:GSM6598820	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598820	geo:GSE214085:GSM6598820	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598821	geo:GSE214085:GSM6598821	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598821	geo:GSE214085:GSM6598821	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM6598821	geo:GSE214085:GSM6598821	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598821	geo:GSE214085:GSM6598821	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598822	geo:GSE214085:GSM6598822	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598822	geo:GSE214085:GSM6598822	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM6598822	geo:GSE214085:GSM6598822	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598822	geo:GSE214085:GSM6598822	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598823	geo:GSE214085:GSM6598823	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598823	geo:GSE214085:GSM6598823	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM6598823	geo:GSE214085:GSM6598823	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598823	geo:GSE214085:GSM6598823	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598824	geo:GSE214085:GSM6598824	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598824	geo:GSE214085:GSM6598824	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM6598824	geo:GSE214085:GSM6598824	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598824	geo:GSE214085:GSM6598824	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598825	geo:GSE214085:GSM6598825	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598825	geo:GSE214085:GSM6598825	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6598825	geo:GSE214085:GSM6598825	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598825	geo:GSE214085:GSM6598825	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598826	geo:GSE214085:GSM6598826	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598826	geo:GSE214085:GSM6598826	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6598826	geo:GSE214085:GSM6598826	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598826	geo:GSE214085:GSM6598826	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598827	geo:GSE214085:GSM6598827	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598827	geo:GSE214085:GSM6598827	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6598827	geo:GSE214085:GSM6598827	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598827	geo:GSE214085:GSM6598827	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598828	geo:GSE214085:GSM6598828	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598828	geo:GSE214085:GSM6598828	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM6598828	geo:GSE214085:GSM6598828	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598828	geo:GSE214085:GSM6598828	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598829	geo:GSE214085:GSM6598829	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598829	geo:GSE214085:GSM6598829	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM6598829	geo:GSE214085:GSM6598829	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598829	geo:GSE214085:GSM6598829	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598830	geo:GSE214085:GSM6598830	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598830	geo:GSE214085:GSM6598830	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM6598830	geo:GSE214085:GSM6598830	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598830	geo:GSE214085:GSM6598830	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598831	geo:GSE214085:GSM6598831	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598831	geo:GSE214085:GSM6598831	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM6598831	geo:GSE214085:GSM6598831	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598831	geo:GSE214085:GSM6598831	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598832	geo:GSE214085:GSM6598832	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598832	geo:GSE214085:GSM6598832	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM6598832	geo:GSE214085:GSM6598832	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598832	geo:GSE214085:GSM6598832	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598833	geo:GSE214085:GSM6598833	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598833	geo:GSE214085:GSM6598833	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM6598833	geo:GSE214085:GSM6598833	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598833	geo:GSE214085:GSM6598833	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598834	geo:GSE214085:GSM6598834	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598834	geo:GSE214085:GSM6598834	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM6598834	geo:GSE214085:GSM6598834	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598834	geo:GSE214085:GSM6598834	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+		organism	Homo sapiens	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		This Series includes human samples.	True
+GSM6598817	geo:GSE214085:GSM6598817	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598817	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598817	geo:GSE214085:GSM6598817	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598817	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598817	geo:GSE214085:GSM6598817	age	55	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598817	!Sample_characteristics_ch1 = age: 55	True
+GSM6598817	geo:GSE214085:GSM6598817	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598817	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598817	geo:GSE214085:GSM6598817	donor_id	2017-007-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598817	!Sample_characteristics_ch1 = corecode: 2017-007-CORE	True
+GSM6598817	geo:GSE214085:GSM6598817	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598818	geo:GSE214085:GSM6598818	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598818	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598818	geo:GSE214085:GSM6598818	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598818	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598818	geo:GSE214085:GSM6598818	age	57	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598818	!Sample_characteristics_ch1 = age: 57	True
+GSM6598818	geo:GSE214085:GSM6598818	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598818	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598818	geo:GSE214085:GSM6598818	donor_id	2017-025-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598818	!Sample_characteristics_ch1 = corecode: 2017-025-CORE	True
+GSM6598818	geo:GSE214085:GSM6598818	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598819	geo:GSE214085:GSM6598819	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598819	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598819	geo:GSE214085:GSM6598819	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598819	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598819	geo:GSE214085:GSM6598819	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598819	geo:GSE214085:GSM6598819	age	70	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598819	!Sample_characteristics_ch1 = age: 70	True
+GSM6598819	geo:GSE214085:GSM6598819	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598819	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598819	geo:GSE214085:GSM6598819	donor_id	2017-064-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598819	!Sample_characteristics_ch1 = corecode: 2017-064-LT	True
+GSM6598819	geo:GSE214085:GSM6598819	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598820	geo:GSE214085:GSM6598820	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598820	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598820	geo:GSE214085:GSM6598820	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598820	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598820	geo:GSE214085:GSM6598820	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598820	geo:GSE214085:GSM6598820	age	69	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598820	!Sample_characteristics_ch1 = age: 69	True
+GSM6598820	geo:GSE214085:GSM6598820	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598820	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598820	geo:GSE214085:GSM6598820	donor_id	2017-067-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598820	!Sample_characteristics_ch1 = corecode: 2017-067-LT	True
+GSM6598820	geo:GSE214085:GSM6598820	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598821	geo:GSE214085:GSM6598821	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598821	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598821	geo:GSE214085:GSM6598821	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598821	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598821	geo:GSE214085:GSM6598821	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598821	geo:GSE214085:GSM6598821	age	69	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598821	!Sample_characteristics_ch1 = age: 69	True
+GSM6598821	geo:GSE214085:GSM6598821	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598821	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598821	geo:GSE214085:GSM6598821	donor_id	2017-067-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598821	!Sample_characteristics_ch1 = corecode: 2017-067-LT	True
+GSM6598821	geo:GSE214085:GSM6598821	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598822	geo:GSE214085:GSM6598822	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598822	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598822	geo:GSE214085:GSM6598822	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598822	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598822	geo:GSE214085:GSM6598822	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598822	geo:GSE214085:GSM6598822	age	69	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598822	!Sample_characteristics_ch1 = age: 69	True
+GSM6598822	geo:GSE214085:GSM6598822	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598822	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598822	geo:GSE214085:GSM6598822	donor_id	2017-100-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598822	!Sample_characteristics_ch1 = corecode: 2017-100-LT	True
+GSM6598822	geo:GSE214085:GSM6598822	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598823	geo:GSE214085:GSM6598823	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598823	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598823	geo:GSE214085:GSM6598823	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598823	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598823	geo:GSE214085:GSM6598823	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598823	geo:GSE214085:GSM6598823	age	69	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598823	!Sample_characteristics_ch1 = age: 69	True
+GSM6598823	geo:GSE214085:GSM6598823	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598823	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598823	geo:GSE214085:GSM6598823	donor_id	2017-100-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598823	!Sample_characteristics_ch1 = corecode: 2017-100-LT	True
+GSM6598823	geo:GSE214085:GSM6598823	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598824	geo:GSE214085:GSM6598824	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598824	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598824	geo:GSE214085:GSM6598824	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598824	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598824	geo:GSE214085:GSM6598824	age	23	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598824	!Sample_characteristics_ch1 = age: 23	True
+GSM6598824	geo:GSE214085:GSM6598824	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598824	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598824	geo:GSE214085:GSM6598824	donor_id	2017-105-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598824	!Sample_characteristics_ch1 = corecode: 2017-105-CORE	True
+GSM6598824	geo:GSE214085:GSM6598824	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598825	geo:GSE214085:GSM6598825	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598825	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598825	geo:GSE214085:GSM6598825	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598825	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598825	geo:GSE214085:GSM6598825	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598825	geo:GSE214085:GSM6598825	age	67	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598825	!Sample_characteristics_ch1 = age: 67	True
+GSM6598825	geo:GSE214085:GSM6598825	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598825	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598825	geo:GSE214085:GSM6598825	donor_id	2017-126-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598825	!Sample_characteristics_ch1 = corecode: 2017-126-LT	True
+GSM6598825	geo:GSE214085:GSM6598825	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598826	geo:GSE214085:GSM6598826	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598826	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598826	geo:GSE214085:GSM6598826	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598826	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598826	geo:GSE214085:GSM6598826	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598826	geo:GSE214085:GSM6598826	age	67	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598826	!Sample_characteristics_ch1 = age: 67	True
+GSM6598826	geo:GSE214085:GSM6598826	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598826	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598826	geo:GSE214085:GSM6598826	donor_id	2017-126-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598826	!Sample_characteristics_ch1 = corecode: 2017-126-LT	True
+GSM6598826	geo:GSE214085:GSM6598826	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598827	geo:GSE214085:GSM6598827	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598827	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598827	geo:GSE214085:GSM6598827	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598827	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598827	geo:GSE214085:GSM6598827	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598827	geo:GSE214085:GSM6598827	age	57	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598827	!Sample_characteristics_ch1 = age: 57	True
+GSM6598827	geo:GSE214085:GSM6598827	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598827	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598827	geo:GSE214085:GSM6598827	donor_id	2019-087-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598827	!Sample_characteristics_ch1 = corecode: 2019-087-LT	True
+GSM6598827	geo:GSE214085:GSM6598827	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598828	geo:GSE214085:GSM6598828	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598828	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598828	geo:GSE214085:GSM6598828	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598828	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598828	geo:GSE214085:GSM6598828	age	33	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598828	!Sample_characteristics_ch1 = age: 33	True
+GSM6598828	geo:GSE214085:GSM6598828	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598828	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598828	geo:GSE214085:GSM6598828	donor_id	2019-095-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598828	!Sample_characteristics_ch1 = corecode: 2019-095-CORE	True
+GSM6598828	geo:GSE214085:GSM6598828	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598829	geo:GSE214085:GSM6598829	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598829	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598829	geo:GSE214085:GSM6598829	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598829	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598829	geo:GSE214085:GSM6598829	age	64	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598829	!Sample_characteristics_ch1 = age: 64	True
+GSM6598829	geo:GSE214085:GSM6598829	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598829	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598829	geo:GSE214085:GSM6598829	donor_id	2019-098-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598829	!Sample_characteristics_ch1 = corecode: 2019-098-CORE	True
+GSM6598829	geo:GSE214085:GSM6598829	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598830	geo:GSE214085:GSM6598830	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598830	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598830	geo:GSE214085:GSM6598830	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598830	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598830	geo:GSE214085:GSM6598830	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598830	geo:GSE214085:GSM6598830	age	50	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598830	!Sample_characteristics_ch1 = age: 50	True
+GSM6598830	geo:GSE214085:GSM6598830	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598830	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598830	geo:GSE214085:GSM6598830	donor_id	2019-102-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598830	!Sample_characteristics_ch1 = corecode: 2019-102-LT	True
+GSM6598830	geo:GSE214085:GSM6598830	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598830	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598830	geo:GSE214085:GSM6598830	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598831	geo:GSE214085:GSM6598831	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598831	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598831	geo:GSE214085:GSM6598831	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598831	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598831	geo:GSE214085:GSM6598831	age	38	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598831	!Sample_characteristics_ch1 = age: 38	True
+GSM6598831	geo:GSE214085:GSM6598831	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598831	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598831	geo:GSE214085:GSM6598831	donor_id	2019-106-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598831	!Sample_characteristics_ch1 = corecode: 2019-106-CORE	True
+GSM6598831	geo:GSE214085:GSM6598831	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598831	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598831	geo:GSE214085:GSM6598831	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598832	geo:GSE214085:GSM6598832	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598832	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598832	geo:GSE214085:GSM6598832	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598832	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598832	geo:GSE214085:GSM6598832	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598832	geo:GSE214085:GSM6598832	age	73	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598832	!Sample_characteristics_ch1 = age: 73	True
+GSM6598832	geo:GSE214085:GSM6598832	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598832	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598832	geo:GSE214085:GSM6598832	donor_id	2019-108-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598832	!Sample_characteristics_ch1 = corecode: 2019-108-LT	True
+GSM6598832	geo:GSE214085:GSM6598832	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598832	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598832	geo:GSE214085:GSM6598832	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598833	geo:GSE214085:GSM6598833	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598833	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598833	geo:GSE214085:GSM6598833	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598833	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598833	geo:GSE214085:GSM6598833	age	62	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598833	!Sample_characteristics_ch1 = age: 62	True
+GSM6598833	geo:GSE214085:GSM6598833	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598833	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598833	geo:GSE214085:GSM6598833	donor_id	2019-113-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598833	!Sample_characteristics_ch1 = corecode: 2019-113-CORE	True
+GSM6598833	geo:GSE214085:GSM6598833	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598833	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598833	geo:GSE214085:GSM6598833	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598834	geo:GSE214085:GSM6598834	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598834	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598834	geo:GSE214085:GSM6598834	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598834	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598834	geo:GSE214085:GSM6598834	age	63	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598834	!Sample_characteristics_ch1 = age: 63	True
+GSM6598834	geo:GSE214085:GSM6598834	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598834	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598834	geo:GSE214085:GSM6598834	donor_id	2019-114-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598834	!Sample_characteristics_ch1 = corecode: 2019-114-CORE	True
+GSM6598834	geo:GSE214085:GSM6598834	suspension_type	cell	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM6598835	geo:GSE214085:GSM6598835	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598835	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598835	geo:GSE214085:GSM6598835	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598835	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598835	geo:GSE214085:GSM6598835	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598835	geo:GSE214085:GSM6598835	age	57	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598835	!Sample_characteristics_ch1 = age: 57	True
+GSM6598835	geo:GSE214085:GSM6598835	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598835	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598835	geo:GSE214085:GSM6598835	donor_id	2019-087-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598835	!Sample_characteristics_ch1 = corecode: 2019-087-LT	True
+GSM6598835	geo:GSE214085:GSM6598835	suspension_type	nucleus	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		For scATAC, cells were lysed according to 10X Genomics' Nuclei Isolation for Single Cell ATAC Sequencing protocol	True
+GSM6598836	geo:GSE214085:GSM6598836	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598836	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598836	geo:GSE214085:GSM6598836	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598836	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598836	geo:GSE214085:GSM6598836	age	64	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598836	!Sample_characteristics_ch1 = age: 64	True
+GSM6598836	geo:GSE214085:GSM6598836	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598836	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598836	geo:GSE214085:GSM6598836	donor_id	2019-098-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598836	!Sample_characteristics_ch1 = corecode: 2019-098-CORE	True
+GSM6598836	geo:GSE214085:GSM6598836	suspension_type	nucleus	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		For scATAC, cells were lysed according to 10X Genomics' Nuclei Isolation for Single Cell ATAC Sequencing protocol	True
+GSM6598837	geo:GSE214085:GSM6598837	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598837	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598837	geo:GSE214085:GSM6598837	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598837	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598837	geo:GSE214085:GSM6598837	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598837	geo:GSE214085:GSM6598837	age	50	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598837	!Sample_characteristics_ch1 = age: 50	True
+GSM6598837	geo:GSE214085:GSM6598837	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598837	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598837	geo:GSE214085:GSM6598837	donor_id	2019-102-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598837	!Sample_characteristics_ch1 = corecode: 2019-102-LT	True
+GSM6598837	geo:GSE214085:GSM6598837	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598837	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598837	geo:GSE214085:GSM6598837	suspension_type	nucleus	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		For scATAC, cells were lysed according to 10X Genomics' Nuclei Isolation for Single Cell ATAC Sequencing protocol	True
+GSM6598838	geo:GSE214085:GSM6598838	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598838	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598838	geo:GSE214085:GSM6598838	disease_free_text	normal	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598838	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM6598838	geo:GSE214085:GSM6598838	age	38	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598838	!Sample_characteristics_ch1 = age: 38	True
+GSM6598838	geo:GSE214085:GSM6598838	sex	Male	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598838	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6598838	geo:GSE214085:GSM6598838	donor_id	2019-106-CORE	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598838	!Sample_characteristics_ch1 = corecode: 2019-106-CORE	True
+GSM6598838	geo:GSE214085:GSM6598838	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598838	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598838	geo:GSE214085:GSM6598838	suspension_type	nucleus	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		For scATAC, cells were lysed according to 10X Genomics' Nuclei Isolation for Single Cell ATAC Sequencing protocol	True
+GSM6598839	geo:GSE214085:GSM6598839	tissue_free_text	lung	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598839	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6598839	geo:GSE214085:GSM6598839	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598839	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM6598839	geo:GSE214085:GSM6598839	disease_free_text	idiopathic pulmonary fibrosis	file	evidence/PMC10411550.txt		Idiopathic pulmonary fibrosis (IPF) is a devastating fibrotic lung disease	True
+GSM6598839	geo:GSE214085:GSM6598839	age	73	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598839	!Sample_characteristics_ch1 = age: 73	True
+GSM6598839	geo:GSE214085:GSM6598839	sex	Female	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598839	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6598839	geo:GSE214085:GSM6598839	donor_id	2019-108-LT	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598839	!Sample_characteristics_ch1 = corecode: 2019-108-LT	True
+GSM6598839	geo:GSE214085:GSM6598839	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz	GSM6598839	!Sample_characteristics_ch1 = depletions: 50% CD45, EPCAM depleted	True
+GSM6598839	geo:GSE214085:GSM6598839	suspension_type	nucleus	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		For scATAC, cells were lysed according to 10X Genomics' Nuclei Isolation for Single Cell ATAC Sequencing protocol	True
+GSM6598835	geo:GSE214085:GSM6598835	atac.genome_assembly	hg19	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		Assembly: GRCh38 for scRNA and hg19 for scATAC	True
+GSM6598836	geo:GSE214085:GSM6598836	atac.genome_assembly	hg19	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		Assembly: GRCh38 for scRNA and hg19 for scATAC	True
+GSM6598837	geo:GSE214085:GSM6598837	atac.genome_assembly	hg19	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		Assembly: GRCh38 for scRNA and hg19 for scATAC	True
+GSM6598838	geo:GSE214085:GSM6598838	atac.genome_assembly	hg19	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		Assembly: GRCh38 for scRNA and hg19 for scATAC	True
+GSM6598839	geo:GSE214085:GSM6598839	atac.genome_assembly	hg19	file	raw/fp-7b17c827b5a9/GSE214085_family.soft.gz		Assembly: GRCh38 for scRNA and hg19 for scATAC	True
+GSM6598835	geo:GSE214085:GSM6598835	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598835	geo:GSE214085:GSM6598835	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6598835	geo:GSE214085:GSM6598835	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598835	geo:GSE214085:GSM6598835	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598836	geo:GSE214085:GSM6598836	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598836	geo:GSE214085:GSM6598836	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM6598836	geo:GSE214085:GSM6598836	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598836	geo:GSE214085:GSM6598836	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598837	geo:GSE214085:GSM6598837	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598837	geo:GSE214085:GSM6598837	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM6598837	geo:GSE214085:GSM6598837	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598837	geo:GSE214085:GSM6598837	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM6598838	geo:GSE214085:GSM6598838	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6598838	geo:GSE214085:GSM6598838	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM6598838	geo:GSE214085:GSM6598838	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598838	geo:GSE214085:GSM6598838	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6598839	geo:GSE214085:GSM6598839	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6598839	geo:GSE214085:GSM6598839	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM6598839	geo:GSE214085:GSM6598839	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6598839	geo:GSE214085:GSM6598839	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True

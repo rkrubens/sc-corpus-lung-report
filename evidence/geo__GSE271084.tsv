@@ -1,0 +1,16 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8368405	geo:GSE271084:GSM8368405	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8368406	geo:GSE271084:GSM8368406	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8368405	geo:GSE271084:GSM8368405	tissue_type	organoid	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz		Single-cell RNA sequencing of human primary tissue-derived SAE and SMG organoids	True
+GSM8368405	geo:GSE271084:GSM8368405	tissue_free_text	Surface airway epithelium	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368405	!Sample_characteristics_ch1 = tissue: Surface airway epithelium	True
+GSM8368405	geo:GSE271084:GSM8368405	disease_ontology_term_id	PATO:0000461	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368405	!Sample_characteristics_ch1 = condition: Healthy	True
+GSM8368405	geo:GSE271084:GSM8368405	treatment_status	untreated	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368405	!Sample_treatment_protocol_ch1 = Untreated	True
+GSM8368405	geo:GSE271084:GSM8368405	suspension_type	cell	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368405	into single cells using glass Pasteur pipettes	True
+GSM8368405	geo:GSE271084:GSM8368405	assay	10x 3' v3	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368405	Chromium 3’ Gene Expression solution v3.1	True
+GSM8368406	geo:GSE271084:GSM8368406	tissue_type	organoid	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz		Single-cell RNA sequencing of human primary tissue-derived SAE and SMG organoids	True
+GSM8368406	geo:GSE271084:GSM8368406	tissue_free_text	Submucosal gland epithelium	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368406	!Sample_characteristics_ch1 = tissue: Submucosal gland epithelium	True
+GSM8368406	geo:GSE271084:GSM8368406	disease_ontology_term_id	PATO:0000461	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368406	!Sample_characteristics_ch1 = condition: Healthy	True
+GSM8368406	geo:GSE271084:GSM8368406	treatment_status	untreated	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368406	!Sample_treatment_protocol_ch1 = Untreated	True
+GSM8368406	geo:GSE271084:GSM8368406	suspension_type	cell	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368406	into single cells using glass Pasteur pipettes	True
+GSM8368406	geo:GSE271084:GSM8368406	assay	10x 3' v3	file	raw/fp-fd9874d7dded/GSE271084_family.soft.gz	GSM8368406	Chromium 3’ Gene Expression solution v3.1	True

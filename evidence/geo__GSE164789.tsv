@@ -1,0 +1,312 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5019481	geo:GSE164789:GSM5019481	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019481	geo:GSE164789:GSM5019481	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM5019482	geo:GSE164789:GSM5019482	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019482	geo:GSE164789:GSM5019482	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM5019483	geo:GSE164789:GSM5019483	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019483	geo:GSE164789:GSM5019483	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+GSM5019484	geo:GSE164789:GSM5019484	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019484	geo:GSE164789:GSM5019484	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+GSM5019485	geo:GSE164789:GSM5019485	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019485	geo:GSE164789:GSM5019485	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM5019486	geo:GSE164789:GSM5019486	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019486	geo:GSE164789:GSM5019486	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM5019487	geo:GSE164789:GSM5019487	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019487	geo:GSE164789:GSM5019487	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019488	geo:GSE164789:GSM5019488	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019488	geo:GSE164789:GSM5019488	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019489	geo:GSE164789:GSM5019489	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019489	geo:GSE164789:GSM5019489	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM5019490	geo:GSE164789:GSM5019490	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019490	geo:GSE164789:GSM5019490	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM5019491	geo:GSE164789:GSM5019491	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019491	geo:GSE164789:GSM5019491	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM5019492	geo:GSE164789:GSM5019492	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019492	geo:GSE164789:GSM5019492	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM5019493	geo:GSE164789:GSM5019493	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019493	geo:GSE164789:GSM5019493	development_stage_ontology_term_id	HsapDv:0000142	derived	age_in_years:'48-year-old stage':ols:hsapdv		48	True
+GSM5019494	geo:GSE164789:GSM5019494	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019494	geo:GSE164789:GSM5019494	development_stage_ontology_term_id	HsapDv:0000142	derived	age_in_years:'48-year-old stage':ols:hsapdv		48	True
+GSM5019495	geo:GSE164789:GSM5019495	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019495	geo:GSE164789:GSM5019495	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM5019496	geo:GSE164789:GSM5019496	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019496	geo:GSE164789:GSM5019496	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM5019497	geo:GSE164789:GSM5019497	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019497	geo:GSE164789:GSM5019497	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM5019498	geo:GSE164789:GSM5019498	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019498	geo:GSE164789:GSM5019498	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM5019499	geo:GSE164789:GSM5019499	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019499	geo:GSE164789:GSM5019499	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM5019500	geo:GSE164789:GSM5019500	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019500	geo:GSE164789:GSM5019500	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM5019501	geo:GSE164789:GSM5019501	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019501	geo:GSE164789:GSM5019501	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM5019502	geo:GSE164789:GSM5019502	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019502	geo:GSE164789:GSM5019502	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM5019503	geo:GSE164789:GSM5019503	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019503	geo:GSE164789:GSM5019503	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM5019504	geo:GSE164789:GSM5019504	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019504	geo:GSE164789:GSM5019504	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM5019505	geo:GSE164789:GSM5019505	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019505	geo:GSE164789:GSM5019505	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM5019506	geo:GSE164789:GSM5019506	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019506	geo:GSE164789:GSM5019506	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM5019507	geo:GSE164789:GSM5019507	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019507	geo:GSE164789:GSM5019507	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM5019508	geo:GSE164789:GSM5019508	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019508	geo:GSE164789:GSM5019508	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM5019509	geo:GSE164789:GSM5019509	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019509	geo:GSE164789:GSM5019509	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM5019510	geo:GSE164789:GSM5019510	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019510	geo:GSE164789:GSM5019510	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM5019511	geo:GSE164789:GSM5019511	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019511	geo:GSE164789:GSM5019511	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM5019512	geo:GSE164789:GSM5019512	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019512	geo:GSE164789:GSM5019512	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM5019513	geo:GSE164789:GSM5019513	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019513	geo:GSE164789:GSM5019513	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM5019514	geo:GSE164789:GSM5019514	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019514	geo:GSE164789:GSM5019514	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM5019515	geo:GSE164789:GSM5019515	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019515	geo:GSE164789:GSM5019515	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM5019516	geo:GSE164789:GSM5019516	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019516	geo:GSE164789:GSM5019516	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM5019517	geo:GSE164789:GSM5019517	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019517	geo:GSE164789:GSM5019517	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019518	geo:GSE164789:GSM5019518	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019518	geo:GSE164789:GSM5019518	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019519	geo:GSE164789:GSM5019519	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019519	geo:GSE164789:GSM5019519	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM5019520	geo:GSE164789:GSM5019520	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019520	geo:GSE164789:GSM5019520	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM5019521	geo:GSE164789:GSM5019521	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019521	geo:GSE164789:GSM5019521	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM5019522	geo:GSE164789:GSM5019522	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019522	geo:GSE164789:GSM5019522	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM5019523	geo:GSE164789:GSM5019523	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019523	geo:GSE164789:GSM5019523	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM5019524	geo:GSE164789:GSM5019524	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019524	geo:GSE164789:GSM5019524	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM5019525	geo:GSE164789:GSM5019525	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019525	geo:GSE164789:GSM5019525	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM5019526	geo:GSE164789:GSM5019526	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019526	geo:GSE164789:GSM5019526	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM5019527	geo:GSE164789:GSM5019527	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019527	geo:GSE164789:GSM5019527	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019528	geo:GSE164789:GSM5019528	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019528	geo:GSE164789:GSM5019528	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019529	geo:GSE164789:GSM5019529	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019529	geo:GSE164789:GSM5019529	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM5019530	geo:GSE164789:GSM5019530	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019530	geo:GSE164789:GSM5019530	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM5019531	geo:GSE164789:GSM5019531	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019531	geo:GSE164789:GSM5019531	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM5019532	geo:GSE164789:GSM5019532	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019532	geo:GSE164789:GSM5019532	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM5019533	geo:GSE164789:GSM5019533	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019533	geo:GSE164789:GSM5019533	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM5019534	geo:GSE164789:GSM5019534	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019534	geo:GSE164789:GSM5019534	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM5019535	geo:GSE164789:GSM5019535	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019535	geo:GSE164789:GSM5019535	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM5019536	geo:GSE164789:GSM5019536	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019536	geo:GSE164789:GSM5019536	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM5019537	geo:GSE164789:GSM5019537	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019537	geo:GSE164789:GSM5019537	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM5019538	geo:GSE164789:GSM5019538	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019538	geo:GSE164789:GSM5019538	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM5019539	geo:GSE164789:GSM5019539	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019539	geo:GSE164789:GSM5019539	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019540	geo:GSE164789:GSM5019540	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM5019540	geo:GSE164789:GSM5019540	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM5019541	geo:GSE164789:GSM5019541	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019541	geo:GSE164789:GSM5019541	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM5019542	geo:GSE164789:GSM5019542	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM5019542	geo:GSE164789:GSM5019542	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+		organism	Homo sapiens	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5019481	geo:GSE164789:GSM5019481	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019481	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019481	geo:GSE164789:GSM5019481	age	58	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019481	!Sample_characteristics_ch1 = age: 58	True
+GSM5019481	geo:GSE164789:GSM5019481	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019481	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019482	geo:GSE164789:GSM5019482	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019482	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019482	geo:GSE164789:GSM5019482	age	58	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019482	!Sample_characteristics_ch1 = age: 58	True
+GSM5019482	geo:GSE164789:GSM5019482	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019482	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019483	geo:GSE164789:GSM5019483	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019483	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019483	geo:GSE164789:GSM5019483	age	51	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019483	!Sample_characteristics_ch1 = age: 51	True
+GSM5019483	geo:GSE164789:GSM5019483	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019483	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019484	geo:GSE164789:GSM5019484	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019484	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019484	geo:GSE164789:GSM5019484	age	51	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019484	!Sample_characteristics_ch1 = age: 51	True
+GSM5019484	geo:GSE164789:GSM5019484	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019484	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019485	geo:GSE164789:GSM5019485	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019485	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019485	geo:GSE164789:GSM5019485	age	75	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019485	!Sample_characteristics_ch1 = age: 75	True
+GSM5019485	geo:GSE164789:GSM5019485	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019485	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019486	geo:GSE164789:GSM5019486	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019486	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019486	geo:GSE164789:GSM5019486	age	75	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019486	!Sample_characteristics_ch1 = age: 75	True
+GSM5019486	geo:GSE164789:GSM5019486	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019486	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019487	geo:GSE164789:GSM5019487	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019487	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019487	geo:GSE164789:GSM5019487	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019487	!Sample_characteristics_ch1 = age: 49	True
+GSM5019487	geo:GSE164789:GSM5019487	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019487	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019488	geo:GSE164789:GSM5019488	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019488	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019488	geo:GSE164789:GSM5019488	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019488	!Sample_characteristics_ch1 = age: 49	True
+GSM5019488	geo:GSE164789:GSM5019488	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019488	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019489	geo:GSE164789:GSM5019489	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019489	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019489	geo:GSE164789:GSM5019489	age	68	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019489	!Sample_characteristics_ch1 = age: 68	True
+GSM5019489	geo:GSE164789:GSM5019489	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019489	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019490	geo:GSE164789:GSM5019490	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019490	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019490	geo:GSE164789:GSM5019490	age	68	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019490	!Sample_characteristics_ch1 = age: 68	True
+GSM5019490	geo:GSE164789:GSM5019490	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019490	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019491	geo:GSE164789:GSM5019491	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019491	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019491	geo:GSE164789:GSM5019491	age	68	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019491	!Sample_characteristics_ch1 = age: 68	True
+GSM5019491	geo:GSE164789:GSM5019491	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019491	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019492	geo:GSE164789:GSM5019492	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019492	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019492	geo:GSE164789:GSM5019492	age	68	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019492	!Sample_characteristics_ch1 = age: 68	True
+GSM5019492	geo:GSE164789:GSM5019492	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019492	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019493	geo:GSE164789:GSM5019493	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019493	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019493	geo:GSE164789:GSM5019493	age	48	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019493	!Sample_characteristics_ch1 = age: 48	True
+GSM5019493	geo:GSE164789:GSM5019493	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019493	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019494	geo:GSE164789:GSM5019494	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019494	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019494	geo:GSE164789:GSM5019494	age	48	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019494	!Sample_characteristics_ch1 = age: 48	True
+GSM5019494	geo:GSE164789:GSM5019494	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019494	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019495	geo:GSE164789:GSM5019495	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019495	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019495	geo:GSE164789:GSM5019495	age	56	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019495	!Sample_characteristics_ch1 = age: 56	True
+GSM5019495	geo:GSE164789:GSM5019495	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019495	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019496	geo:GSE164789:GSM5019496	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019496	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019496	geo:GSE164789:GSM5019496	age	56	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019496	!Sample_characteristics_ch1 = age: 56	True
+GSM5019496	geo:GSE164789:GSM5019496	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019496	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019497	geo:GSE164789:GSM5019497	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019497	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019497	geo:GSE164789:GSM5019497	age	72	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019497	!Sample_characteristics_ch1 = age: 72	True
+GSM5019497	geo:GSE164789:GSM5019497	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019497	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019498	geo:GSE164789:GSM5019498	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019498	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019498	geo:GSE164789:GSM5019498	age	72	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019498	!Sample_characteristics_ch1 = age: 72	True
+GSM5019498	geo:GSE164789:GSM5019498	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019498	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019499	geo:GSE164789:GSM5019499	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019499	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019499	geo:GSE164789:GSM5019499	age	72	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019499	!Sample_characteristics_ch1 = age: 72	True
+GSM5019499	geo:GSE164789:GSM5019499	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019499	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019500	geo:GSE164789:GSM5019500	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019500	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019500	geo:GSE164789:GSM5019500	age	72	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019500	!Sample_characteristics_ch1 = age: 72	True
+GSM5019500	geo:GSE164789:GSM5019500	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019500	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019501	geo:GSE164789:GSM5019501	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019501	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019501	geo:GSE164789:GSM5019501	age	38	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019501	!Sample_characteristics_ch1 = age: 38	True
+GSM5019501	geo:GSE164789:GSM5019501	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019501	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019502	geo:GSE164789:GSM5019502	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019502	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019502	geo:GSE164789:GSM5019502	age	60	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019502	!Sample_characteristics_ch1 = age: 60	True
+GSM5019502	geo:GSE164789:GSM5019502	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019502	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019503	geo:GSE164789:GSM5019503	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019503	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019503	geo:GSE164789:GSM5019503	age	60	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019503	!Sample_characteristics_ch1 = age: 60	True
+GSM5019503	geo:GSE164789:GSM5019503	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019503	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019504	geo:GSE164789:GSM5019504	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019504	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019504	geo:GSE164789:GSM5019504	age	38	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019504	!Sample_characteristics_ch1 = age: 38	True
+GSM5019504	geo:GSE164789:GSM5019504	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019504	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019505	geo:GSE164789:GSM5019505	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019505	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019505	geo:GSE164789:GSM5019505	age	63	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019505	!Sample_characteristics_ch1 = age: 63	True
+GSM5019505	geo:GSE164789:GSM5019505	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019505	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019506	geo:GSE164789:GSM5019506	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019506	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019506	geo:GSE164789:GSM5019506	age	63	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019506	!Sample_characteristics_ch1 = age: 63	True
+GSM5019506	geo:GSE164789:GSM5019506	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019506	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019507	geo:GSE164789:GSM5019507	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019507	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019507	geo:GSE164789:GSM5019507	age	52	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019507	!Sample_characteristics_ch1 = age: 52	True
+GSM5019507	geo:GSE164789:GSM5019507	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019507	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019508	geo:GSE164789:GSM5019508	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019508	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019508	geo:GSE164789:GSM5019508	age	52	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019508	!Sample_characteristics_ch1 = age: 52	True
+GSM5019508	geo:GSE164789:GSM5019508	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019508	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019509	geo:GSE164789:GSM5019509	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019509	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019509	geo:GSE164789:GSM5019509	age	73	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019509	!Sample_characteristics_ch1 = age: 73	True
+GSM5019509	geo:GSE164789:GSM5019509	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019509	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019510	geo:GSE164789:GSM5019510	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019510	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019510	geo:GSE164789:GSM5019510	age	73	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019510	!Sample_characteristics_ch1 = age: 73	True
+GSM5019510	geo:GSE164789:GSM5019510	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019510	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019511	geo:GSE164789:GSM5019511	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019511	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019511	geo:GSE164789:GSM5019511	age	80	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019511	!Sample_characteristics_ch1 = age: 80	True
+GSM5019511	geo:GSE164789:GSM5019511	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019511	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019512	geo:GSE164789:GSM5019512	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019512	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019512	geo:GSE164789:GSM5019512	age	80	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019512	!Sample_characteristics_ch1 = age: 80	True
+GSM5019512	geo:GSE164789:GSM5019512	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019512	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019513	geo:GSE164789:GSM5019513	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019513	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019513	geo:GSE164789:GSM5019513	age	44	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019513	!Sample_characteristics_ch1 = age: 44	True
+GSM5019513	geo:GSE164789:GSM5019513	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019513	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019514	geo:GSE164789:GSM5019514	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019514	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019514	geo:GSE164789:GSM5019514	age	44	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019514	!Sample_characteristics_ch1 = age: 44	True
+GSM5019514	geo:GSE164789:GSM5019514	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019514	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019515	geo:GSE164789:GSM5019515	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019515	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019515	geo:GSE164789:GSM5019515	age	30	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019515	!Sample_characteristics_ch1 = age: 30	True
+GSM5019515	geo:GSE164789:GSM5019515	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019515	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019516	geo:GSE164789:GSM5019516	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019516	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019516	geo:GSE164789:GSM5019516	age	30	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019516	!Sample_characteristics_ch1 = age: 30	True
+GSM5019516	geo:GSE164789:GSM5019516	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019516	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019517	geo:GSE164789:GSM5019517	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019517	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019517	geo:GSE164789:GSM5019517	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019517	!Sample_characteristics_ch1 = age: 49	True
+GSM5019517	geo:GSE164789:GSM5019517	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019517	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019518	geo:GSE164789:GSM5019518	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019518	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019518	geo:GSE164789:GSM5019518	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019518	!Sample_characteristics_ch1 = age: 49	True
+GSM5019518	geo:GSE164789:GSM5019518	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019518	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019519	geo:GSE164789:GSM5019519	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019519	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019519	geo:GSE164789:GSM5019519	age	54	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019519	!Sample_characteristics_ch1 = age: 54	True
+GSM5019519	geo:GSE164789:GSM5019519	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019519	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019520	geo:GSE164789:GSM5019520	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019520	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019520	geo:GSE164789:GSM5019520	age	54	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019520	!Sample_characteristics_ch1 = age: 54	True
+GSM5019520	geo:GSE164789:GSM5019520	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019520	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019521	geo:GSE164789:GSM5019521	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019521	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019521	geo:GSE164789:GSM5019521	age	67	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019521	!Sample_characteristics_ch1 = age: 67	True
+GSM5019521	geo:GSE164789:GSM5019521	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019521	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019522	geo:GSE164789:GSM5019522	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019522	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019522	geo:GSE164789:GSM5019522	age	67	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019522	!Sample_characteristics_ch1 = age: 67	True
+GSM5019522	geo:GSE164789:GSM5019522	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019522	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019523	geo:GSE164789:GSM5019523	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019523	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019523	geo:GSE164789:GSM5019523	age	55	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019523	!Sample_characteristics_ch1 = age: 55	True
+GSM5019523	geo:GSE164789:GSM5019523	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019523	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019524	geo:GSE164789:GSM5019524	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019524	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019524	geo:GSE164789:GSM5019524	age	55	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019524	!Sample_characteristics_ch1 = age: 55	True
+GSM5019524	geo:GSE164789:GSM5019524	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019524	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019525	geo:GSE164789:GSM5019525	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019525	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019525	geo:GSE164789:GSM5019525	age	71	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019525	!Sample_characteristics_ch1 = age: 71	True
+GSM5019525	geo:GSE164789:GSM5019525	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019525	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019526	geo:GSE164789:GSM5019526	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019526	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019526	geo:GSE164789:GSM5019526	age	71	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019526	!Sample_characteristics_ch1 = age: 71	True
+GSM5019526	geo:GSE164789:GSM5019526	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019526	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019527	geo:GSE164789:GSM5019527	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019527	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019527	geo:GSE164789:GSM5019527	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019527	!Sample_characteristics_ch1 = age: 49	True
+GSM5019527	geo:GSE164789:GSM5019527	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019527	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019528	geo:GSE164789:GSM5019528	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019528	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019528	geo:GSE164789:GSM5019528	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019528	!Sample_characteristics_ch1 = age: 49	True
+GSM5019528	geo:GSE164789:GSM5019528	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019528	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019529	geo:GSE164789:GSM5019529	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019529	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019529	geo:GSE164789:GSM5019529	age	46	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019529	!Sample_characteristics_ch1 = age: 46	True
+GSM5019529	geo:GSE164789:GSM5019529	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019529	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019530	geo:GSE164789:GSM5019530	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019530	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019530	geo:GSE164789:GSM5019530	age	46	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019530	!Sample_characteristics_ch1 = age: 46	True
+GSM5019530	geo:GSE164789:GSM5019530	disease_free_text	AIS	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019530	!Sample_characteristics_ch1 = histology: AIS	True
+GSM5019531	geo:GSE164789:GSM5019531	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019531	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019531	geo:GSE164789:GSM5019531	age	50	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019531	!Sample_characteristics_ch1 = age: 50	True
+GSM5019531	geo:GSE164789:GSM5019531	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019531	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019532	geo:GSE164789:GSM5019532	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019532	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019532	geo:GSE164789:GSM5019532	age	50	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019532	!Sample_characteristics_ch1 = age: 50	True
+GSM5019532	geo:GSE164789:GSM5019532	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019532	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019533	geo:GSE164789:GSM5019533	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019533	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019533	geo:GSE164789:GSM5019533	age	80	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019533	!Sample_characteristics_ch1 = age: 80	True
+GSM5019533	geo:GSE164789:GSM5019533	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019533	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019534	geo:GSE164789:GSM5019534	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019534	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019534	geo:GSE164789:GSM5019534	age	80	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019534	!Sample_characteristics_ch1 = age: 80	True
+GSM5019534	geo:GSE164789:GSM5019534	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019534	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019535	geo:GSE164789:GSM5019535	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019535	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019535	geo:GSE164789:GSM5019535	age	60	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019535	!Sample_characteristics_ch1 = age: 60	True
+GSM5019535	geo:GSE164789:GSM5019535	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019535	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019536	geo:GSE164789:GSM5019536	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019536	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019536	geo:GSE164789:GSM5019536	age	60	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019536	!Sample_characteristics_ch1 = age: 60	True
+GSM5019536	geo:GSE164789:GSM5019536	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019536	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019537	geo:GSE164789:GSM5019537	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019537	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019537	geo:GSE164789:GSM5019537	age	53	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019537	!Sample_characteristics_ch1 = age: 53	True
+GSM5019537	geo:GSE164789:GSM5019537	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019537	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019538	geo:GSE164789:GSM5019538	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019538	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019538	geo:GSE164789:GSM5019538	age	53	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019538	!Sample_characteristics_ch1 = age: 53	True
+GSM5019538	geo:GSE164789:GSM5019538	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019538	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019539	geo:GSE164789:GSM5019539	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019539	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019539	geo:GSE164789:GSM5019539	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019539	!Sample_characteristics_ch1 = age: 49	True
+GSM5019539	geo:GSE164789:GSM5019539	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019539	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019540	geo:GSE164789:GSM5019540	sex	F	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019540	!Sample_characteristics_ch1 = Sex: F	True
+GSM5019540	geo:GSE164789:GSM5019540	age	49	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019540	!Sample_characteristics_ch1 = age: 49	True
+GSM5019540	geo:GSE164789:GSM5019540	disease_free_text	MIA	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019540	!Sample_characteristics_ch1 = histology: MIA	True
+GSM5019541	geo:GSE164789:GSM5019541	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019541	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019541	geo:GSE164789:GSM5019541	age	64	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019541	!Sample_characteristics_ch1 = age: 64	True
+GSM5019541	geo:GSE164789:GSM5019541	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019541	!Sample_characteristics_ch1 = histology: IAC	True
+GSM5019542	geo:GSE164789:GSM5019542	sex	M	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019542	!Sample_characteristics_ch1 = Sex: M	True
+GSM5019542	geo:GSE164789:GSM5019542	age	64	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019542	!Sample_characteristics_ch1 = age: 64	True
+GSM5019542	geo:GSE164789:GSM5019542	disease_free_text	IAC	file	raw/fp-fc58a1a83068/GSE164789_family.soft.gz	GSM5019542	!Sample_characteristics_ch1 = histology: IAC	True

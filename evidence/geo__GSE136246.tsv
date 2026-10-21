@@ -1,0 +1,146 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4043237	geo:GSE136246:GSM4043237	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043237	geo:GSE136246:GSM4043237	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM4043238	geo:GSE136246:GSM4043238	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043238	geo:GSE136246:GSM4043238	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM4043239	geo:GSE136246:GSM4043239	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043239	geo:GSE136246:GSM4043239	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM4043240	geo:GSE136246:GSM4043240	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043240	geo:GSE136246:GSM4043240	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM4043241	geo:GSE136246:GSM4043241	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043241	geo:GSE136246:GSM4043241	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM4043242	geo:GSE136246:GSM4043242	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043242	geo:GSE136246:GSM4043242	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM4043243	geo:GSE136246:GSM4043243	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043243	geo:GSE136246:GSM4043243	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM4043244	geo:GSE136246:GSM4043244	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043244	geo:GSE136246:GSM4043244	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM4043245	geo:GSE136246:GSM4043245	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043245	geo:GSE136246:GSM4043245	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM4043246	geo:GSE136246:GSM4043246	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043246	geo:GSE136246:GSM4043246	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM4043247	geo:GSE136246:GSM4043247	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043247	geo:GSE136246:GSM4043247	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM4043248	geo:GSE136246:GSM4043248	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043248	geo:GSE136246:GSM4043248	development_stage_ontology_term_id	HsapDv:0000209	derived	age_in_years:'83-year-old stage':ols:hsapdv		83	True
+GSM4043249	geo:GSE136246:GSM4043249	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043249	geo:GSE136246:GSM4043249	development_stage_ontology_term_id	HsapDv:0000209	derived	age_in_years:'83-year-old stage':ols:hsapdv		83	True
+GSM4043250	geo:GSE136246:GSM4043250	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043250	geo:GSE136246:GSM4043250	development_stage_ontology_term_id	HsapDv:0000209	derived	age_in_years:'83-year-old stage':ols:hsapdv		83	True
+GSM4043251	geo:GSE136246:GSM4043251	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043251	geo:GSE136246:GSM4043251	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM4043252	geo:GSE136246:GSM4043252	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043252	geo:GSE136246:GSM4043252	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM4043253	geo:GSE136246:GSM4043253	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043253	geo:GSE136246:GSM4043253	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM4043254	geo:GSE136246:GSM4043254	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043254	geo:GSE136246:GSM4043254	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM4043255	geo:GSE136246:GSM4043255	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043255	geo:GSE136246:GSM4043255	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM4043256	geo:GSE136246:GSM4043256	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043256	geo:GSE136246:GSM4043256	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM4043257	geo:GSE136246:GSM4043257	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4043257	geo:GSE136246:GSM4043257	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM4043258	geo:GSE136246:GSM4043258	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043258	geo:GSE136246:GSM4043258	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM4043259	geo:GSE136246:GSM4043259	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043259	geo:GSE136246:GSM4043259	development_stage_ontology_term_id	HsapDv:0000142	derived	age_in_years:'48-year-old stage':ols:hsapdv		48	True
+GSM4043260	geo:GSE136246:GSM4043260	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4043260	geo:GSE136246:GSM4043260	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+		organism	Homo sapiens	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4043237	geo:GSE136246:GSM4043237	age	79	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043237	!Sample_characteristics_ch1 = age: 79	True
+GSM4043237	geo:GSE136246:GSM4043237	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043237	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043237	geo:GSE136246:GSM4043237	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043237	!Sample_characteristics_ch1 = gender: M	True
+GSM4043237	geo:GSE136246:GSM4043237	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043237	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043238	geo:GSE136246:GSM4043238	age	79	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043238	!Sample_characteristics_ch1 = age: 79	True
+GSM4043238	geo:GSE136246:GSM4043238	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043238	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043238	geo:GSE136246:GSM4043238	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043238	!Sample_characteristics_ch1 = gender: M	True
+GSM4043238	geo:GSE136246:GSM4043238	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043238	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043239	geo:GSE136246:GSM4043239	age	79	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043239	!Sample_characteristics_ch1 = age: 79	True
+GSM4043239	geo:GSE136246:GSM4043239	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043239	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043239	geo:GSE136246:GSM4043239	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043239	!Sample_characteristics_ch1 = gender: M	True
+GSM4043239	geo:GSE136246:GSM4043239	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043239	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043240	geo:GSE136246:GSM4043240	age	79	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043240	!Sample_characteristics_ch1 = age: 79	True
+GSM4043240	geo:GSE136246:GSM4043240	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043240	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043240	geo:GSE136246:GSM4043240	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043240	!Sample_characteristics_ch1 = gender: M	True
+GSM4043240	geo:GSE136246:GSM4043240	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043240	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043241	geo:GSE136246:GSM4043241	age	74	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043241	!Sample_characteristics_ch1 = age: 74	True
+GSM4043241	geo:GSE136246:GSM4043241	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043241	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043241	geo:GSE136246:GSM4043241	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043241	!Sample_characteristics_ch1 = gender: F	True
+GSM4043241	geo:GSE136246:GSM4043241	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043241	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043242	geo:GSE136246:GSM4043242	age	74	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043242	!Sample_characteristics_ch1 = age: 74	True
+GSM4043242	geo:GSE136246:GSM4043242	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043242	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043242	geo:GSE136246:GSM4043242	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043242	!Sample_characteristics_ch1 = gender: F	True
+GSM4043242	geo:GSE136246:GSM4043242	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043242	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043243	geo:GSE136246:GSM4043243	age	73	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043243	!Sample_characteristics_ch1 = age: 73	True
+GSM4043243	geo:GSE136246:GSM4043243	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043243	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043243	geo:GSE136246:GSM4043243	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043243	!Sample_characteristics_ch1 = gender: M	True
+GSM4043243	geo:GSE136246:GSM4043243	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043243	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043244	geo:GSE136246:GSM4043244	age	73	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043244	!Sample_characteristics_ch1 = age: 73	True
+GSM4043244	geo:GSE136246:GSM4043244	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043244	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043244	geo:GSE136246:GSM4043244	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043244	!Sample_characteristics_ch1 = gender: M	True
+GSM4043244	geo:GSE136246:GSM4043244	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043244	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043245	geo:GSE136246:GSM4043245	age	61	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043245	!Sample_characteristics_ch1 = age: 61	True
+GSM4043245	geo:GSE136246:GSM4043245	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043245	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043245	geo:GSE136246:GSM4043245	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043245	!Sample_characteristics_ch1 = gender: F	True
+GSM4043245	geo:GSE136246:GSM4043245	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043245	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043246	geo:GSE136246:GSM4043246	age	61	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043246	!Sample_characteristics_ch1 = age: 61	True
+GSM4043246	geo:GSE136246:GSM4043246	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043246	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043246	geo:GSE136246:GSM4043246	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043246	!Sample_characteristics_ch1 = gender: F	True
+GSM4043246	geo:GSE136246:GSM4043246	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043246	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043247	geo:GSE136246:GSM4043247	age	61	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043247	!Sample_characteristics_ch1 = age: 61	True
+GSM4043247	geo:GSE136246:GSM4043247	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043247	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043247	geo:GSE136246:GSM4043247	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043247	!Sample_characteristics_ch1 = gender: F	True
+GSM4043247	geo:GSE136246:GSM4043247	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043247	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043248	geo:GSE136246:GSM4043248	age	83	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043248	!Sample_characteristics_ch1 = age: 83	True
+GSM4043248	geo:GSE136246:GSM4043248	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043248	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043248	geo:GSE136246:GSM4043248	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043248	!Sample_characteristics_ch1 = gender: M	True
+GSM4043248	geo:GSE136246:GSM4043248	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043248	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043249	geo:GSE136246:GSM4043249	age	83	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043249	!Sample_characteristics_ch1 = age: 83	True
+GSM4043249	geo:GSE136246:GSM4043249	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043249	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043249	geo:GSE136246:GSM4043249	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043249	!Sample_characteristics_ch1 = gender: M	True
+GSM4043249	geo:GSE136246:GSM4043249	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043249	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043250	geo:GSE136246:GSM4043250	age	83	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043250	!Sample_characteristics_ch1 = age: 83	True
+GSM4043250	geo:GSE136246:GSM4043250	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043250	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043250	geo:GSE136246:GSM4043250	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043250	!Sample_characteristics_ch1 = gender: M	True
+GSM4043250	geo:GSE136246:GSM4043250	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043250	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043251	geo:GSE136246:GSM4043251	age	72	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043251	!Sample_characteristics_ch1 = age: 72	True
+GSM4043251	geo:GSE136246:GSM4043251	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043251	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043251	geo:GSE136246:GSM4043251	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043251	!Sample_characteristics_ch1 = gender: F	True
+GSM4043251	geo:GSE136246:GSM4043251	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043251	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043252	geo:GSE136246:GSM4043252	age	72	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043252	!Sample_characteristics_ch1 = age: 72	True
+GSM4043252	geo:GSE136246:GSM4043252	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043252	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043252	geo:GSE136246:GSM4043252	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043252	!Sample_characteristics_ch1 = gender: F	True
+GSM4043252	geo:GSE136246:GSM4043252	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043252	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043253	geo:GSE136246:GSM4043253	age	76	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043253	!Sample_characteristics_ch1 = age: 76	True
+GSM4043253	geo:GSE136246:GSM4043253	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043253	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043253	geo:GSE136246:GSM4043253	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043253	!Sample_characteristics_ch1 = gender: M	True
+GSM4043253	geo:GSE136246:GSM4043253	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043253	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043254	geo:GSE136246:GSM4043254	age	76	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043254	!Sample_characteristics_ch1 = age: 76	True
+GSM4043254	geo:GSE136246:GSM4043254	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043254	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043254	geo:GSE136246:GSM4043254	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043254	!Sample_characteristics_ch1 = gender: M	True
+GSM4043254	geo:GSE136246:GSM4043254	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043254	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043255	geo:GSE136246:GSM4043255	age	63	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043255	!Sample_characteristics_ch1 = age: 63	True
+GSM4043255	geo:GSE136246:GSM4043255	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043255	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043255	geo:GSE136246:GSM4043255	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043255	!Sample_characteristics_ch1 = gender: F	True
+GSM4043255	geo:GSE136246:GSM4043255	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043255	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043256	geo:GSE136246:GSM4043256	age	63	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043256	!Sample_characteristics_ch1 = age: 63	True
+GSM4043256	geo:GSE136246:GSM4043256	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043256	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043256	geo:GSE136246:GSM4043256	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043256	!Sample_characteristics_ch1 = gender: F	True
+GSM4043256	geo:GSE136246:GSM4043256	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043256	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043257	geo:GSE136246:GSM4043257	age	73	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043257	!Sample_characteristics_ch1 = age: 73	True
+GSM4043257	geo:GSE136246:GSM4043257	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043257	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043257	geo:GSE136246:GSM4043257	sex	M	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043257	!Sample_characteristics_ch1 = gender: M	True
+GSM4043257	geo:GSE136246:GSM4043257	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043257	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043258	geo:GSE136246:GSM4043258	age	80	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043258	!Sample_characteristics_ch1 = age: 80	True
+GSM4043258	geo:GSE136246:GSM4043258	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043258	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043258	geo:GSE136246:GSM4043258	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043258	!Sample_characteristics_ch1 = gender: F	True
+GSM4043258	geo:GSE136246:GSM4043258	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043258	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043259	geo:GSE136246:GSM4043259	age	48	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043259	!Sample_characteristics_ch1 = age: 48	True
+GSM4043259	geo:GSE136246:GSM4043259	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043259	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043259	geo:GSE136246:GSM4043259	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043259	!Sample_characteristics_ch1 = gender: F	True
+GSM4043259	geo:GSE136246:GSM4043259	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043259	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True
+GSM4043260	geo:GSE136246:GSM4043260	age	56	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043260	!Sample_characteristics_ch1 = age: 56	True
+GSM4043260	geo:GSE136246:GSM4043260	disease_free_text	Non-small-cell lung carcinoma (NSCLC)	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043260	!Sample_characteristics_ch1 = disease state: Non-small-cell lung carcinoma (NSCLC)	True
+GSM4043260	geo:GSE136246:GSM4043260	sex	F	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043260	!Sample_characteristics_ch1 = gender: F	True
+GSM4043260	geo:GSE136246:GSM4043260	tissue_free_text	non-small cell lung tumor	file	raw/fp-b3cc1bd9b8e8/GSE136246_family.soft.gz	GSM4043260	!Sample_characteristics_ch1 = tissue: non-small cell lung tumor	True

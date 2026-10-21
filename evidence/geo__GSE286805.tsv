@@ -1,0 +1,11 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8730242	geo:GSE286805:GSM8730242	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8730242	geo:GSE286805:GSM8730242	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM8730242	geo:GSE286805:GSM8730242	tissue_ontology_term_id	UBERON:0008953	derived	ols:uberon		lower lobe of left lung	True
+		organism	Homo sapiens	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8730242	geo:GSE286805:GSM8730242	donor_id	ENCDO856ZOJ	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		!Sample_characteristics_ch1 = donor_id: ENCDO856ZOJ	True
+GSM8730242	geo:GSE286805:GSM8730242	sex	female	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		!Sample_characteristics_ch1 = Sex: female	True
+GSM8730242	geo:GSE286805:GSM8730242	age	59	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		!Sample_characteristics_ch1 = age: 59 year	True
+GSM8730242	geo:GSE286805:GSM8730242	tissue_free_text	lower lobe of left lung	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		!Sample_characteristics_ch1 = tissue_type: lower lobe of left lung	True
+GSM8730242	geo:GSE286805:GSM8730242	suspension_type	nucleus	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		!Sample_characteristics_ch1 = subcellular fraction term name: nucleus	True
+GSM8730242	geo:GSE286805:GSM8730242	sample_preservation	flash-frozen	file	raw/fp-e3b529faaa61/GSE286805_family.soft.gz		preserved by flash-freezing nuclear fraction	True

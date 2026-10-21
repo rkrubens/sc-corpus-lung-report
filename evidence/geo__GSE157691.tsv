@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4912701	geo:GSE157691:GSM4912701	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4912701	geo:GSE157691:GSM4912701	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM4912701	geo:GSE157691:GSM4912701	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4912703	geo:GSE157691:GSM4912703	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4912703	geo:GSE157691:GSM4912703	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM4912703	geo:GSE157691:GSM4912703	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4912705	geo:GSE157691:GSM4912705	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4912705	geo:GSE157691:GSM4912705	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM4912705	geo:GSE157691:GSM4912705	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		ipf	True
+GSM4912707	geo:GSE157691:GSM4912707	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4912707	geo:GSE157691:GSM4912707	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM4912707	geo:GSE157691:GSM4912707	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		ipf	True
+		organism	Homo sapiens	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4912701	geo:GSE157691:GSM4912701	sex	male	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912701	!Sample_characteristics_ch1 = Sex: male	True
+GSM4912701	geo:GSE157691:GSM4912701	age	64	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912701	!Sample_characteristics_ch1 = age: 64	True
+GSM4912701	geo:GSE157691:GSM4912701	disease_free_text	normal	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912701	!Sample_characteristics_ch1 = disease: normal	True
+GSM4912703	geo:GSE157691:GSM4912703	sex	male	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912703	!Sample_characteristics_ch1 = Sex: male	True
+GSM4912703	geo:GSE157691:GSM4912703	age	64	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912703	!Sample_characteristics_ch1 = age: 64	True
+GSM4912703	geo:GSE157691:GSM4912703	disease_free_text	normal	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912703	!Sample_characteristics_ch1 = disease: normal	True
+GSM4912705	geo:GSE157691:GSM4912705	sex	male	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912705	!Sample_characteristics_ch1 = Sex: male	True
+GSM4912705	geo:GSE157691:GSM4912705	age	65	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912705	!Sample_characteristics_ch1 = age: 65	True
+GSM4912705	geo:GSE157691:GSM4912705	disease_free_text	ipf	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912705	!Sample_characteristics_ch1 = disease: ipf	True
+GSM4912707	geo:GSE157691:GSM4912707	sex	male	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912707	!Sample_characteristics_ch1 = Sex: male	True
+GSM4912707	geo:GSE157691:GSM4912707	age	64	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912707	!Sample_characteristics_ch1 = age: 64	True
+GSM4912707	geo:GSE157691:GSM4912707	disease_free_text	ipf	file	raw/fp-2db22b7cacae/GSE157691_family.soft.gz	GSM4912707	!Sample_characteristics_ch1 = disease: ipf	True

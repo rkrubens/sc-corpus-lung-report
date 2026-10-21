@@ -1,0 +1,79 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8444979	geo:GSE274199:GSM8444979	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8444979	geo:GSE274199:GSM8444979	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 year old	True
+GSM8444979	geo:GSE274199:GSM8444979	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444980	geo:GSE274199:GSM8444980	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8444980	geo:GSE274199:GSM8444980	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 year old	True
+GSM8444980	geo:GSE274199:GSM8444980	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444981	geo:GSE274199:GSM8444981	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8444981	geo:GSE274199:GSM8444981	development_stage_ontology_term_id	HsapDv:0000113	derived	age_in_years:'19-year-old stage':ols:hsapdv		19 year old	True
+GSM8444981	geo:GSE274199:GSM8444981	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444982	geo:GSE274199:GSM8444982	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8444982	geo:GSE274199:GSM8444982	development_stage_ontology_term_id	HsapDv:0000113	derived	age_in_years:'19-year-old stage':ols:hsapdv		19 year old	True
+GSM8444982	geo:GSE274199:GSM8444982	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444983	geo:GSE274199:GSM8444983	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8444983	geo:GSE274199:GSM8444983	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27 year old	True
+GSM8444983	geo:GSE274199:GSM8444983	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444986	geo:GSE274199:GSM8444986	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8444986	geo:GSE274199:GSM8444986	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27 year old	True
+GSM8444986	geo:GSE274199:GSM8444986	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444989	geo:GSE274199:GSM8444989	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8444989	geo:GSE274199:GSM8444989	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27 year old	True
+GSM8444989	geo:GSE274199:GSM8444989	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8444992	geo:GSE274199:GSM8444992	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8444992	geo:GSE274199:GSM8444992	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27 year old	True
+GSM8444992	geo:GSE274199:GSM8444992	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8445007	geo:GSE274199:GSM8445007	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8445007	geo:GSE274199:GSM8445007	development_stage_ontology_term_id	HsapDv:0000113	derived	age_in_years:'19-year-old stage':ols:hsapdv		19 year old	True
+GSM8445007	geo:GSE274199:GSM8445007	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8445020	geo:GSE274199:GSM8445020	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8445020	geo:GSE274199:GSM8445020	development_stage_ontology_term_id	HsapDv:0000135	derived	age_in_years:'41-year-old stage':ols:hsapdv		41 year old	True
+GSM8445020	geo:GSE274199:GSM8445020	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8444979	geo:GSE274199:GSM8444979	age	18 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444979	!Sample_characteristics_ch1 = age: 18 year old	True
+GSM8444979	geo:GSE274199:GSM8444979	disease_free_text	ISHLT Grade A4	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444979	!Sample_characteristics_ch1 = disease state: ISHLT Grade A4	True
+GSM8444979	geo:GSE274199:GSM8444979	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444979	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444979	geo:GSE274199:GSM8444979	sex	female	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444979	!Sample_characteristics_ch1 = Sex: female	True
+GSM8444980	geo:GSE274199:GSM8444980	sex	female	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444980	!Sample_characteristics_ch1 = Sex: female	True
+GSM8444980	geo:GSE274199:GSM8444980	age	18 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444980	!Sample_characteristics_ch1 = age: 18 year old	True
+GSM8444980	geo:GSE274199:GSM8444980	disease_free_text	ISHLT Grade A3	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444980	!Sample_characteristics_ch1 = disease state: ISHLT Grade A3	True
+GSM8444980	geo:GSE274199:GSM8444980	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444980	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444981	geo:GSE274199:GSM8444981	sex	female	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444981	!Sample_characteristics_ch1 = Sex: female	True
+GSM8444981	geo:GSE274199:GSM8444981	age	19 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444981	!Sample_characteristics_ch1 = age: 19 year old	True
+GSM8444981	geo:GSE274199:GSM8444981	disease_free_text	ISHLT Grade A3	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444981	!Sample_characteristics_ch1 = disease state: ISHLT Grade A3	True
+GSM8444981	geo:GSE274199:GSM8444981	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444981	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444982	geo:GSE274199:GSM8444982	sex	female	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444982	!Sample_characteristics_ch1 = Sex: female	True
+GSM8444982	geo:GSE274199:GSM8444982	age	19 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444982	!Sample_characteristics_ch1 = age: 19 year old	True
+GSM8444982	geo:GSE274199:GSM8444982	disease_free_text	ISHLT Grade A0	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444982	!Sample_characteristics_ch1 = disease state: ISHLT Grade A0	True
+GSM8444982	geo:GSE274199:GSM8444982	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444982	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444983	geo:GSE274199:GSM8444983	sex	male	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444983	!Sample_characteristics_ch1 = Sex: male	True
+GSM8444983	geo:GSE274199:GSM8444983	age	27 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444983	!Sample_characteristics_ch1 = age: 27 year old	True
+GSM8444983	geo:GSE274199:GSM8444983	disease_free_text	ISHLT Grade A0	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444983	!Sample_characteristics_ch1 = disease state: ISHLT Grade A0	True
+GSM8444983	geo:GSE274199:GSM8444983	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444983	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444986	geo:GSE274199:GSM8444986	sex	male	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444986	!Sample_characteristics_ch1 = Sex: male	True
+GSM8444986	geo:GSE274199:GSM8444986	age	27 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444986	!Sample_characteristics_ch1 = age: 27 year old	True
+GSM8444986	geo:GSE274199:GSM8444986	disease_free_text	ISHLT Grade A0	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444986	!Sample_characteristics_ch1 = disease state: ISHLT Grade A0	True
+GSM8444986	geo:GSE274199:GSM8444986	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444986	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444989	geo:GSE274199:GSM8444989	sex	male	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444989	!Sample_characteristics_ch1 = Sex: male	True
+GSM8444989	geo:GSE274199:GSM8444989	age	27 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444989	!Sample_characteristics_ch1 = age: 27 year old	True
+GSM8444989	geo:GSE274199:GSM8444989	disease_free_text	ISHLT Grade A0	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444989	!Sample_characteristics_ch1 = disease state: ISHLT Grade A0	True
+GSM8444989	geo:GSE274199:GSM8444989	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444989	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8444992	geo:GSE274199:GSM8444992	sex	male	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444992	!Sample_characteristics_ch1 = Sex: male	True
+GSM8444992	geo:GSE274199:GSM8444992	age	27 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444992	!Sample_characteristics_ch1 = age: 27 year old	True
+GSM8444992	geo:GSE274199:GSM8444992	disease_free_text	ISHLT Grade A0	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444992	!Sample_characteristics_ch1 = disease state: ISHLT Grade A0	True
+GSM8444992	geo:GSE274199:GSM8444992	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8444992	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8445007	geo:GSE274199:GSM8445007	sex	male	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445007	!Sample_characteristics_ch1 = Sex: male	True
+GSM8445007	geo:GSE274199:GSM8445007	age	19 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445007	!Sample_characteristics_ch1 = age: 19 year old	True
+GSM8445007	geo:GSE274199:GSM8445007	disease_free_text	ISHLT Grade A0	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445007	!Sample_characteristics_ch1 = disease state: ISHLT Grade A0	True
+GSM8445007	geo:GSE274199:GSM8445007	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445007	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8445020	geo:GSE274199:GSM8445020	sex	female	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445020	!Sample_characteristics_ch1 = Sex: female	True
+GSM8445020	geo:GSE274199:GSM8445020	age	41 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445020	!Sample_characteristics_ch1 = age: 41 year old	True
+GSM8445020	geo:GSE274199:GSM8445020	disease_free_text	ISHLT Grade A2	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445020	!Sample_characteristics_ch1 = disease state: ISHLT Grade A2	True
+GSM8445020	geo:GSE274199:GSM8445020	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM8445020	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9051456	geo:GSE274199:GSM9051456	sex	female	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM9051456	!Sample_characteristics_ch1 = Sex: female	True
+GSM9051456	geo:GSE274199:GSM9051456	age	18 year old	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM9051456	!Sample_characteristics_ch1 = age: 18 year old	True
+GSM9051456	geo:GSE274199:GSM9051456	disease_free_text	ISHLT Grade A3	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM9051456	!Sample_characteristics_ch1 = disease state: ISHLT Grade A3	True
+GSM9051456	geo:GSE274199:GSM9051456	tissue_free_text	lung	file	raw/fp-9a04ca0427fd/GSE274199_family.soft.gz	GSM9051456	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9051456	geo:GSE274199:GSM9051456	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9051456	geo:GSE274199:GSM9051456	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 year old	True
+GSM9051456	geo:GSE274199:GSM9051456	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True

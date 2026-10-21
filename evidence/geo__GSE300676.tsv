@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9066288	geo:GSE300676:GSM9066288	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066288	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066289	geo:GSE300676:GSM9066289	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066289	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066290	geo:GSE300676:GSM9066290	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066290	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066291	geo:GSE300676:GSM9066291	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066291	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066292	geo:GSE300676:GSM9066292	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066292	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066293	geo:GSE300676:GSM9066293	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066293	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066294	geo:GSE300676:GSM9066294	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066294	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9066295	geo:GSE300676:GSM9066295	tissue_free_text	lung adenocarcinoma	file	raw/fp-3249b8d5522e/GSE300676_family.soft.gz	GSM9066295	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True

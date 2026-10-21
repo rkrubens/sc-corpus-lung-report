@@ -1,0 +1,575 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+P1.post.1	geo:GSE179994:P1.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P1.post.2	geo:GSE179994:P1.post.2	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P1.post.3	geo:GSE179994:P1.post.3	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P1.pre	geo:GSE179994:P1.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P10.post.1	geo:GSE179994:P10.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P10.pre	geo:GSE179994:P10.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P11.pre	geo:GSE179994:P11.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P12.pre	geo:GSE179994:P12.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P13.post.1	geo:GSE179994:P13.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P13.post.2	geo:GSE179994:P13.post.2	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P13.pre	geo:GSE179994:P13.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P14.pre	geo:GSE179994:P14.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P15.pre	geo:GSE179994:P15.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P16.pre	geo:GSE179994:P16.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P17.pre	geo:GSE179994:P17.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P18.pre	geo:GSE179994:P18.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P19.post.1	geo:GSE179994:P19.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P19.pre	geo:GSE179994:P19.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P2.pre	geo:GSE179994:P2.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P20.pre	geo:GSE179994:P20.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P21.pre	geo:GSE179994:P21.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P22.pre	geo:GSE179994:P22.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P23.pre	geo:GSE179994:P23.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P24.pre	geo:GSE179994:P24.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P25.pre	geo:GSE179994:P25.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P26.pre	geo:GSE179994:P26.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P27.pre	geo:GSE179994:P27.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P28.pre	geo:GSE179994:P28.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P29.post.1	geo:GSE179994:P29.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P29.pre	geo:GSE179994:P29.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P3.pre	geo:GSE179994:P3.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P30.post.1	geo:GSE179994:P30.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P30.pre	geo:GSE179994:P30.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P33.post.1	geo:GSE179994:P33.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P33.pre	geo:GSE179994:P33.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P34.pre	geo:GSE179994:P34.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P35.post.1	geo:GSE179994:P35.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P35.pre	geo:GSE179994:P35.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P36.post.1	geo:GSE179994:P36.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P37.post.1	geo:GSE179994:P37.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P38.post.1	geo:GSE179994:P38.post.1	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P4.pre	geo:GSE179994:P4.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P5.pre	geo:GSE179994:P5.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P6.pre	geo:GSE179994:P6.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P7.pre	geo:GSE179994:P7.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P8.pre	geo:GSE179994:P8.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P9.pre	geo:GSE179994:P9.pre	donor_id	<column patient>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/patient			True
+P1.post.1	geo:GSE179994:P1.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P1.post.2	geo:GSE179994:P1.post.2	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P1.post.3	geo:GSE179994:P1.post.3	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P1.pre	geo:GSE179994:P1.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P10.post.1	geo:GSE179994:P10.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P10.pre	geo:GSE179994:P10.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P11.pre	geo:GSE179994:P11.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P12.pre	geo:GSE179994:P12.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P13.post.1	geo:GSE179994:P13.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P13.post.2	geo:GSE179994:P13.post.2	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P13.pre	geo:GSE179994:P13.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P14.pre	geo:GSE179994:P14.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P15.pre	geo:GSE179994:P15.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P16.pre	geo:GSE179994:P16.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P17.pre	geo:GSE179994:P17.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P18.pre	geo:GSE179994:P18.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P19.post.1	geo:GSE179994:P19.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P19.pre	geo:GSE179994:P19.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P2.pre	geo:GSE179994:P2.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P20.pre	geo:GSE179994:P20.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P21.pre	geo:GSE179994:P21.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P22.pre	geo:GSE179994:P22.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P23.pre	geo:GSE179994:P23.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P24.pre	geo:GSE179994:P24.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P25.pre	geo:GSE179994:P25.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P26.pre	geo:GSE179994:P26.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P27.pre	geo:GSE179994:P27.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P28.pre	geo:GSE179994:P28.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P29.post.1	geo:GSE179994:P29.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P29.pre	geo:GSE179994:P29.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P3.pre	geo:GSE179994:P3.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P30.post.1	geo:GSE179994:P30.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P30.pre	geo:GSE179994:P30.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P33.post.1	geo:GSE179994:P33.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P33.pre	geo:GSE179994:P33.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P34.pre	geo:GSE179994:P34.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P35.post.1	geo:GSE179994:P35.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P35.pre	geo:GSE179994:P35.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P36.post.1	geo:GSE179994:P36.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P37.post.1	geo:GSE179994:P37.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P38.post.1	geo:GSE179994:P38.post.1	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P4.pre	geo:GSE179994:P4.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P5.pre	geo:GSE179994:P5.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P6.pre	geo:GSE179994:P6.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P7.pre	geo:GSE179994:P7.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P8.pre	geo:GSE179994:P8.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P9.pre	geo:GSE179994:P9.pre	treatment_status	<column sample>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/sample			True
+P1.post.1	geo:GSE179994:P1.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P1.post.2	geo:GSE179994:P1.post.2	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P1.post.3	geo:GSE179994:P1.post.3	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P1.pre	geo:GSE179994:P1.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P10.post.1	geo:GSE179994:P10.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P10.pre	geo:GSE179994:P10.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P11.pre	geo:GSE179994:P11.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P12.pre	geo:GSE179994:P12.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P13.post.1	geo:GSE179994:P13.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P13.post.2	geo:GSE179994:P13.post.2	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P13.pre	geo:GSE179994:P13.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P14.pre	geo:GSE179994:P14.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P15.pre	geo:GSE179994:P15.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P16.pre	geo:GSE179994:P16.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P17.pre	geo:GSE179994:P17.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P18.pre	geo:GSE179994:P18.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P19.post.1	geo:GSE179994:P19.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P19.pre	geo:GSE179994:P19.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P2.pre	geo:GSE179994:P2.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P20.pre	geo:GSE179994:P20.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P21.pre	geo:GSE179994:P21.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P22.pre	geo:GSE179994:P22.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P23.pre	geo:GSE179994:P23.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P24.pre	geo:GSE179994:P24.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P25.pre	geo:GSE179994:P25.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P26.pre	geo:GSE179994:P26.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P27.pre	geo:GSE179994:P27.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P28.pre	geo:GSE179994:P28.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P29.post.1	geo:GSE179994:P29.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P29.pre	geo:GSE179994:P29.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P3.pre	geo:GSE179994:P3.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P30.post.1	geo:GSE179994:P30.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P30.pre	geo:GSE179994:P30.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P33.post.1	geo:GSE179994:P33.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P33.pre	geo:GSE179994:P33.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P34.pre	geo:GSE179994:P34.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P35.post.1	geo:GSE179994:P35.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P35.pre	geo:GSE179994:P35.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P36.post.1	geo:GSE179994:P36.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P37.post.1	geo:GSE179994:P37.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P38.post.1	geo:GSE179994:P38.post.1	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P4.pre	geo:GSE179994:P4.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P5.pre	geo:GSE179994:P5.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P6.pre	geo:GSE179994:P6.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P7.pre	geo:GSE179994:P7.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P8.pre	geo:GSE179994:P8.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P9.pre	geo:GSE179994:P9.pre	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+P1.post.1	geo:GSE179994:P1.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P1.post.2	geo:GSE179994:P1.post.2	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P1.post.3	geo:GSE179994:P1.post.3	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P1.pre	geo:GSE179994:P1.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P10.post.1	geo:GSE179994:P10.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P10.pre	geo:GSE179994:P10.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P11.pre	geo:GSE179994:P11.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P12.pre	geo:GSE179994:P12.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P13.post.1	geo:GSE179994:P13.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P13.post.2	geo:GSE179994:P13.post.2	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P13.pre	geo:GSE179994:P13.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P14.pre	geo:GSE179994:P14.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P15.pre	geo:GSE179994:P15.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P16.pre	geo:GSE179994:P16.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P17.pre	geo:GSE179994:P17.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P18.pre	geo:GSE179994:P18.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P19.post.1	geo:GSE179994:P19.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P19.pre	geo:GSE179994:P19.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P2.pre	geo:GSE179994:P2.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P20.pre	geo:GSE179994:P20.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P21.pre	geo:GSE179994:P21.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P22.pre	geo:GSE179994:P22.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P23.pre	geo:GSE179994:P23.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P24.pre	geo:GSE179994:P24.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P25.pre	geo:GSE179994:P25.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P26.pre	geo:GSE179994:P26.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P27.pre	geo:GSE179994:P27.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P28.pre	geo:GSE179994:P28.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P29.post.1	geo:GSE179994:P29.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P29.pre	geo:GSE179994:P29.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P3.pre	geo:GSE179994:P3.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P30.post.1	geo:GSE179994:P30.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P30.pre	geo:GSE179994:P30.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P33.post.1	geo:GSE179994:P33.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P33.pre	geo:GSE179994:P33.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P34.pre	geo:GSE179994:P34.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P35.post.1	geo:GSE179994:P35.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P35.pre	geo:GSE179994:P35.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P36.post.1	geo:GSE179994:P36.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P37.post.1	geo:GSE179994:P37.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P38.post.1	geo:GSE179994:P38.post.1	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P4.pre	geo:GSE179994:P4.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P5.pre	geo:GSE179994:P5.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P6.pre	geo:GSE179994:P6.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P7.pre	geo:GSE179994:P7.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P8.pre	geo:GSE179994:P8.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P9.pre	geo:GSE179994:P9.pre	author_cell_type	<column cluster>	column	raw/fp-154d45db6dd3/GSE179994_Tcell.metadata.tsv.gz/cluster			True
+P19.blood.post	geo:GSE179994:P19.blood.post	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+		organism	Homo sapiens	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+P1.post.1	geo:GSE179994:P1.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P1.post.2	geo:GSE179994:P1.post.2	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P1.post.3	geo:GSE179994:P1.post.3	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P1.pre	geo:GSE179994:P1.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P10.post.1	geo:GSE179994:P10.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P10.pre	geo:GSE179994:P10.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P11.pre	geo:GSE179994:P11.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P12.pre	geo:GSE179994:P12.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P13.post.1	geo:GSE179994:P13.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P13.post.2	geo:GSE179994:P13.post.2	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P13.pre	geo:GSE179994:P13.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P14.pre	geo:GSE179994:P14.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P15.pre	geo:GSE179994:P15.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P16.pre	geo:GSE179994:P16.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P17.pre	geo:GSE179994:P17.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P18.pre	geo:GSE179994:P18.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P19.post.1	geo:GSE179994:P19.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P19.pre	geo:GSE179994:P19.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P2.pre	geo:GSE179994:P2.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P20.pre	geo:GSE179994:P20.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P21.pre	geo:GSE179994:P21.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P22.pre	geo:GSE179994:P22.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P23.pre	geo:GSE179994:P23.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P24.pre	geo:GSE179994:P24.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P25.pre	geo:GSE179994:P25.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P26.pre	geo:GSE179994:P26.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P27.pre	geo:GSE179994:P27.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P28.pre	geo:GSE179994:P28.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P29.post.1	geo:GSE179994:P29.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P29.pre	geo:GSE179994:P29.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P3.pre	geo:GSE179994:P3.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P30.post.1	geo:GSE179994:P30.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P30.pre	geo:GSE179994:P30.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P33.post.1	geo:GSE179994:P33.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P33.pre	geo:GSE179994:P33.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P34.pre	geo:GSE179994:P34.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P35.post.1	geo:GSE179994:P35.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P35.pre	geo:GSE179994:P35.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P36.post.1	geo:GSE179994:P36.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P37.post.1	geo:GSE179994:P37.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P38.post.1	geo:GSE179994:P38.post.1	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P4.pre	geo:GSE179994:P4.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P5.pre	geo:GSE179994:P5.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P6.pre	geo:GSE179994:P6.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P7.pre	geo:GSE179994:P7.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P8.pre	geo:GSE179994:P8.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P9.pre	geo:GSE179994:P9.pre	tissue_free_text	tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Single-cell RNA-seq and single-cell TCR-seq of pre- and post-treatment tumour biospies	True
+P1.post.1	geo:GSE179994:P1.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.2	geo:GSE179994:P1.post.2	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.3	geo:GSE179994:P1.post.3	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.pre	geo:GSE179994:P1.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P10.post.1	geo:GSE179994:P10.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P10.pre	geo:GSE179994:P10.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P11.pre	geo:GSE179994:P11.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P12.pre	geo:GSE179994:P12.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.post.1	geo:GSE179994:P13.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.post.2	geo:GSE179994:P13.post.2	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.pre	geo:GSE179994:P13.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P14.pre	geo:GSE179994:P14.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P15.pre	geo:GSE179994:P15.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P16.pre	geo:GSE179994:P16.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P17.pre	geo:GSE179994:P17.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P18.pre	geo:GSE179994:P18.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.post.1	geo:GSE179994:P19.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.pre	geo:GSE179994:P19.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P2.pre	geo:GSE179994:P2.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P20.pre	geo:GSE179994:P20.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P21.pre	geo:GSE179994:P21.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P22.pre	geo:GSE179994:P22.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P23.pre	geo:GSE179994:P23.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P24.pre	geo:GSE179994:P24.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P25.pre	geo:GSE179994:P25.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P26.pre	geo:GSE179994:P26.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P27.pre	geo:GSE179994:P27.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P28.pre	geo:GSE179994:P28.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P29.post.1	geo:GSE179994:P29.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P29.pre	geo:GSE179994:P29.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P3.pre	geo:GSE179994:P3.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P30.post.1	geo:GSE179994:P30.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P30.pre	geo:GSE179994:P30.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P33.post.1	geo:GSE179994:P33.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P33.pre	geo:GSE179994:P33.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P34.pre	geo:GSE179994:P34.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P35.post.1	geo:GSE179994:P35.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P35.pre	geo:GSE179994:P35.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P36.post.1	geo:GSE179994:P36.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P37.post.1	geo:GSE179994:P37.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P38.post.1	geo:GSE179994:P38.post.1	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P4.pre	geo:GSE179994:P4.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P5.pre	geo:GSE179994:P5.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P6.pre	geo:GSE179994:P6.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P7.pre	geo:GSE179994:P7.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P8.pre	geo:GSE179994:P8.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P9.pre	geo:GSE179994:P9.pre	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.1	geo:GSE179994:P1.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.2	geo:GSE179994:P1.post.2	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.3	geo:GSE179994:P1.post.3	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.pre	geo:GSE179994:P1.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P10.post.1	geo:GSE179994:P10.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P10.pre	geo:GSE179994:P10.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P11.pre	geo:GSE179994:P11.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P12.pre	geo:GSE179994:P12.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.post.1	geo:GSE179994:P13.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.post.2	geo:GSE179994:P13.post.2	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.pre	geo:GSE179994:P13.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P14.pre	geo:GSE179994:P14.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P15.pre	geo:GSE179994:P15.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P16.pre	geo:GSE179994:P16.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P17.pre	geo:GSE179994:P17.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P18.pre	geo:GSE179994:P18.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.post.1	geo:GSE179994:P19.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.pre	geo:GSE179994:P19.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P2.pre	geo:GSE179994:P2.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P20.pre	geo:GSE179994:P20.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P21.pre	geo:GSE179994:P21.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P22.pre	geo:GSE179994:P22.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P23.pre	geo:GSE179994:P23.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P24.pre	geo:GSE179994:P24.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P25.pre	geo:GSE179994:P25.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P26.pre	geo:GSE179994:P26.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P27.pre	geo:GSE179994:P27.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P28.pre	geo:GSE179994:P28.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P29.post.1	geo:GSE179994:P29.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P29.pre	geo:GSE179994:P29.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P3.pre	geo:GSE179994:P3.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P30.post.1	geo:GSE179994:P30.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P30.pre	geo:GSE179994:P30.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P33.post.1	geo:GSE179994:P33.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P33.pre	geo:GSE179994:P33.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P34.pre	geo:GSE179994:P34.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P35.post.1	geo:GSE179994:P35.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P35.pre	geo:GSE179994:P35.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P36.post.1	geo:GSE179994:P36.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P37.post.1	geo:GSE179994:P37.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P38.post.1	geo:GSE179994:P38.post.1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P4.pre	geo:GSE179994:P4.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P5.pre	geo:GSE179994:P5.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P6.pre	geo:GSE179994:P6.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P7.pre	geo:GSE179994:P7.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P8.pre	geo:GSE179994:P8.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P9.pre	geo:GSE179994:P9.pre	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.1	geo:GSE179994:P1.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P1.post.2	geo:GSE179994:P1.post.2	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P1.post.3	geo:GSE179994:P1.post.3	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P1.pre	geo:GSE179994:P1.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P10.post.1	geo:GSE179994:P10.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P10.pre	geo:GSE179994:P10.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P11.pre	geo:GSE179994:P11.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P12.pre	geo:GSE179994:P12.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P13.post.1	geo:GSE179994:P13.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P13.post.2	geo:GSE179994:P13.post.2	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P13.pre	geo:GSE179994:P13.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P14.pre	geo:GSE179994:P14.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P15.pre	geo:GSE179994:P15.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P16.pre	geo:GSE179994:P16.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P17.pre	geo:GSE179994:P17.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P18.pre	geo:GSE179994:P18.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P19.post.1	geo:GSE179994:P19.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P19.pre	geo:GSE179994:P19.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P2.pre	geo:GSE179994:P2.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P20.pre	geo:GSE179994:P20.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P21.pre	geo:GSE179994:P21.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P22.pre	geo:GSE179994:P22.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P23.pre	geo:GSE179994:P23.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P24.pre	geo:GSE179994:P24.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P25.pre	geo:GSE179994:P25.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P26.pre	geo:GSE179994:P26.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P27.pre	geo:GSE179994:P27.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P28.pre	geo:GSE179994:P28.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P29.post.1	geo:GSE179994:P29.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P29.pre	geo:GSE179994:P29.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P3.pre	geo:GSE179994:P3.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P30.post.1	geo:GSE179994:P30.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P30.pre	geo:GSE179994:P30.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P33.post.1	geo:GSE179994:P33.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P33.pre	geo:GSE179994:P33.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P34.pre	geo:GSE179994:P34.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P35.post.1	geo:GSE179994:P35.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P35.pre	geo:GSE179994:P35.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P36.post.1	geo:GSE179994:P36.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P37.post.1	geo:GSE179994:P37.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P38.post.1	geo:GSE179994:P38.post.1	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P4.pre	geo:GSE179994:P4.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P5.pre	geo:GSE179994:P5.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P6.pre	geo:GSE179994:P6.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P7.pre	geo:GSE179994:P7.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P8.pre	geo:GSE179994:P8.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P9.pre	geo:GSE179994:P9.pre	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		Fresh tumour biopsies were cut into approximately 1-2 mm3 pieces	True
+P1.post.1	geo:GSE179994:P1.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P1.post.2	geo:GSE179994:P1.post.2	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P1.post.3	geo:GSE179994:P1.post.3	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P1.pre	geo:GSE179994:P1.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P10.post.1	geo:GSE179994:P10.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P10.pre	geo:GSE179994:P10.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P11.pre	geo:GSE179994:P11.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P12.pre	geo:GSE179994:P12.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P13.post.1	geo:GSE179994:P13.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P13.post.2	geo:GSE179994:P13.post.2	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P13.pre	geo:GSE179994:P13.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P14.pre	geo:GSE179994:P14.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P15.pre	geo:GSE179994:P15.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P16.pre	geo:GSE179994:P16.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P17.pre	geo:GSE179994:P17.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P18.pre	geo:GSE179994:P18.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P19.post.1	geo:GSE179994:P19.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P19.pre	geo:GSE179994:P19.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P2.pre	geo:GSE179994:P2.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P20.pre	geo:GSE179994:P20.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P21.pre	geo:GSE179994:P21.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P22.pre	geo:GSE179994:P22.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P23.pre	geo:GSE179994:P23.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P24.pre	geo:GSE179994:P24.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P25.pre	geo:GSE179994:P25.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P26.pre	geo:GSE179994:P26.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P27.pre	geo:GSE179994:P27.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P28.pre	geo:GSE179994:P28.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P29.post.1	geo:GSE179994:P29.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P29.pre	geo:GSE179994:P29.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P3.pre	geo:GSE179994:P3.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P30.post.1	geo:GSE179994:P30.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P30.pre	geo:GSE179994:P30.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P33.post.1	geo:GSE179994:P33.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P33.pre	geo:GSE179994:P33.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P34.pre	geo:GSE179994:P34.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P35.post.1	geo:GSE179994:P35.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P35.pre	geo:GSE179994:P35.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P36.post.1	geo:GSE179994:P36.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P37.post.1	geo:GSE179994:P37.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P38.post.1	geo:GSE179994:P38.post.1	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P4.pre	geo:GSE179994:P4.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P5.pre	geo:GSE179994:P5.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P6.pre	geo:GSE179994:P6.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P7.pre	geo:GSE179994:P7.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P8.pre	geo:GSE179994:P8.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P9.pre	geo:GSE179994:P9.pre	sample_collection_method	clinical tumour biopsy	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		47 clinical tumour biopsies	True
+P1.post.1	geo:GSE179994:P1.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P1.post.2	geo:GSE179994:P1.post.2	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P1.post.3	geo:GSE179994:P1.post.3	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P1.pre	geo:GSE179994:P1.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P10.post.1	geo:GSE179994:P10.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P10.pre	geo:GSE179994:P10.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P11.pre	geo:GSE179994:P11.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P12.pre	geo:GSE179994:P12.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P13.post.1	geo:GSE179994:P13.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P13.post.2	geo:GSE179994:P13.post.2	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P13.pre	geo:GSE179994:P13.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P14.pre	geo:GSE179994:P14.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P15.pre	geo:GSE179994:P15.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P16.pre	geo:GSE179994:P16.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P17.pre	geo:GSE179994:P17.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P18.pre	geo:GSE179994:P18.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P19.post.1	geo:GSE179994:P19.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P19.pre	geo:GSE179994:P19.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P2.pre	geo:GSE179994:P2.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P20.pre	geo:GSE179994:P20.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P21.pre	geo:GSE179994:P21.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P22.pre	geo:GSE179994:P22.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P23.pre	geo:GSE179994:P23.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P24.pre	geo:GSE179994:P24.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P25.pre	geo:GSE179994:P25.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P26.pre	geo:GSE179994:P26.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P27.pre	geo:GSE179994:P27.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P28.pre	geo:GSE179994:P28.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P29.post.1	geo:GSE179994:P29.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P29.pre	geo:GSE179994:P29.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P3.pre	geo:GSE179994:P3.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P30.post.1	geo:GSE179994:P30.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P30.pre	geo:GSE179994:P30.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P33.post.1	geo:GSE179994:P33.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P33.pre	geo:GSE179994:P33.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P34.pre	geo:GSE179994:P34.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P35.post.1	geo:GSE179994:P35.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P35.pre	geo:GSE179994:P35.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P36.post.1	geo:GSE179994:P36.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P37.post.1	geo:GSE179994:P37.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P38.post.1	geo:GSE179994:P38.post.1	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P4.pre	geo:GSE179994:P4.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P5.pre	geo:GSE179994:P5.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P6.pre	geo:GSE179994:P6.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P7.pre	geo:GSE179994:P7.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P8.pre	geo:GSE179994:P8.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P9.pre	geo:GSE179994:P9.pre	suspension_type	cell	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		The dissociated cells were subsequently passed through a 100	True
+P1.post.1	geo:GSE179994:P1.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P1.post.2	geo:GSE179994:P1.post.2	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P1.post.3	geo:GSE179994:P1.post.3	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P1.pre	geo:GSE179994:P1.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P10.post.1	geo:GSE179994:P10.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P10.pre	geo:GSE179994:P10.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P11.pre	geo:GSE179994:P11.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P12.pre	geo:GSE179994:P12.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P13.post.1	geo:GSE179994:P13.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P13.post.2	geo:GSE179994:P13.post.2	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P13.pre	geo:GSE179994:P13.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P14.pre	geo:GSE179994:P14.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P15.pre	geo:GSE179994:P15.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P16.pre	geo:GSE179994:P16.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P17.pre	geo:GSE179994:P17.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P18.pre	geo:GSE179994:P18.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P19.post.1	geo:GSE179994:P19.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P19.pre	geo:GSE179994:P19.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P2.pre	geo:GSE179994:P2.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P20.pre	geo:GSE179994:P20.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P21.pre	geo:GSE179994:P21.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P22.pre	geo:GSE179994:P22.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P23.pre	geo:GSE179994:P23.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P24.pre	geo:GSE179994:P24.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P25.pre	geo:GSE179994:P25.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P26.pre	geo:GSE179994:P26.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P27.pre	geo:GSE179994:P27.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P28.pre	geo:GSE179994:P28.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P29.post.1	geo:GSE179994:P29.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P29.pre	geo:GSE179994:P29.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P3.pre	geo:GSE179994:P3.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P30.post.1	geo:GSE179994:P30.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P30.pre	geo:GSE179994:P30.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P33.post.1	geo:GSE179994:P33.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P33.pre	geo:GSE179994:P33.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P34.pre	geo:GSE179994:P34.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P35.post.1	geo:GSE179994:P35.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P35.pre	geo:GSE179994:P35.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P36.post.1	geo:GSE179994:P36.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P37.post.1	geo:GSE179994:P37.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P38.post.1	geo:GSE179994:P38.post.1	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P4.pre	geo:GSE179994:P4.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P5.pre	geo:GSE179994:P5.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P6.pre	geo:GSE179994:P6.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P7.pre	geo:GSE179994:P7.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P8.pre	geo:GSE179994:P8.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P9.pre	geo:GSE179994:P9.pre	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		10x Chromium Single cell 5’ + VDJ Library	True
+P1.post.1	geo:GSE179994:P1.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.2	geo:GSE179994:P1.post.2	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.post.3	geo:GSE179994:P1.post.3	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P1.pre	geo:GSE179994:P1.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P10.post.1	geo:GSE179994:P10.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P10.pre	geo:GSE179994:P10.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P11.pre	geo:GSE179994:P11.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P12.pre	geo:GSE179994:P12.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.post.1	geo:GSE179994:P13.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.post.2	geo:GSE179994:P13.post.2	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P13.pre	geo:GSE179994:P13.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P14.pre	geo:GSE179994:P14.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P15.pre	geo:GSE179994:P15.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P16.pre	geo:GSE179994:P16.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P17.pre	geo:GSE179994:P17.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P18.pre	geo:GSE179994:P18.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.post.1	geo:GSE179994:P19.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.pre	geo:GSE179994:P19.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P2.pre	geo:GSE179994:P2.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P20.pre	geo:GSE179994:P20.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P21.pre	geo:GSE179994:P21.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P22.pre	geo:GSE179994:P22.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P23.pre	geo:GSE179994:P23.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P24.pre	geo:GSE179994:P24.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P25.pre	geo:GSE179994:P25.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P26.pre	geo:GSE179994:P26.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P27.pre	geo:GSE179994:P27.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P28.pre	geo:GSE179994:P28.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P29.post.1	geo:GSE179994:P29.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P29.pre	geo:GSE179994:P29.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P3.pre	geo:GSE179994:P3.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P30.post.1	geo:GSE179994:P30.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P30.pre	geo:GSE179994:P30.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P33.post.1	geo:GSE179994:P33.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P33.pre	geo:GSE179994:P33.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P34.pre	geo:GSE179994:P34.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P35.post.1	geo:GSE179994:P35.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P35.pre	geo:GSE179994:P35.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P36.post.1	geo:GSE179994:P36.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P37.post.1	geo:GSE179994:P37.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P38.post.1	geo:GSE179994:P38.post.1	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P4.pre	geo:GSE179994:P4.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P5.pre	geo:GSE179994:P5.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P6.pre	geo:GSE179994:P6.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P7.pre	geo:GSE179994:P7.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P8.pre	geo:GSE179994:P8.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P9.pre	geo:GSE179994:P9.pre	treatment_status	<map of column sample>	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz		pre- and post-treatment tumour biospies (n=47) from 36 non-small-cell lung cancer patients	True
+P19.blood.post	geo:GSE179994:P19.blood.post	donor_id	P019	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_characteristics_ch1 = patient id: P019	True
+P19.blood.post	geo:GSE179994:P19.blood.post	tissue_free_text	blood	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_description = P019.blood.post.Tcell.Seurat.object.rds.gz	True
+P19.blood.post	geo:GSE179994:P19.blood.post	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_description = P019.blood.post.Tcell.Seurat.object.rds.gz	True
+P19.blood.post	geo:GSE179994:P19.blood.post	tissue_type	tissue	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_description = P019.blood.post.Tcell.Seurat.object.rds.gz	True
+P19.blood.post	geo:GSE179994:P19.blood.post	disease_free_text	non-small-cell lung cancer	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_characteristics_ch1 = disease state: non-small-cell lung cancer patients	True
+P19.blood.post	geo:GSE179994:P19.blood.post	disease_ontology_term_id	MONDO:0005233	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_characteristics_ch1 = disease state: non-small-cell lung cancer patients	True
+P19.blood.post	geo:GSE179994:P19.blood.post	treatment_status	post-treatment	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	!Sample_characteristics_ch1 = condition: On-treatment	True
+P19.blood.post	geo:GSE179994:P19.blood.post	assay	10x 5' transcription profiling	file	raw/fp-154d45db6dd3/GSE179994_family.soft.gz	GSM5444629	10x Chromium Single cell 5’ + VDJ Library	True

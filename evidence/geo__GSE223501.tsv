@@ -1,0 +1,122 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6957676	geo:GSE223501:GSM6957676	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957677	geo:GSE223501:GSM6957677	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957678	geo:GSE223501:GSM6957678	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957680	geo:GSE223501:GSM6957680	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957681	geo:GSE223501:GSM6957681	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957682	geo:GSE223501:GSM6957682	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957683	geo:GSE223501:GSM6957683	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957684	geo:GSE223501:GSM6957684	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957685	geo:GSE223501:GSM6957685	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957686	geo:GSE223501:GSM6957686	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957687	geo:GSE223501:GSM6957687	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+GSM6957689	geo:GSE223501:GSM6957689	assay_ontology_term_id	EFO:0009920	derived	ols:efo		Slide-seq	True
+		organism	Homo sapiens	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6957676	geo:GSE223501:GSM6957676	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957676	geo:GSE223501:GSM6957676	disease_free_text	NSCLC brain metastasis	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957676	geo:GSE223501:GSM6957676	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	!Sample_characteristics_ch1 = metastatic site: Brain Metastasis	True
+GSM6957676	geo:GSE223501:GSM6957676	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957676	geo:GSE223501:GSM6957676	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957676	geo:GSE223501:GSM6957676	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957676	geo:GSE223501:GSM6957676	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957676	geo:GSE223501:GSM6957676	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957676	geo:GSE223501:GSM6957676	donor_id	PA019	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957676	!Sample_characteristics_ch1 = patient id: PA019	True
+GSM6957677	geo:GSE223501:GSM6957677	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957677	geo:GSE223501:GSM6957677	disease_free_text	NSCLC brain metastasis	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957677	geo:GSE223501:GSM6957677	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	!Sample_characteristics_ch1 = metastatic site: Brain Metastasis	True
+GSM6957677	geo:GSE223501:GSM6957677	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957677	geo:GSE223501:GSM6957677	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957677	geo:GSE223501:GSM6957677	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957677	geo:GSE223501:GSM6957677	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957677	geo:GSE223501:GSM6957677	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957677	geo:GSE223501:GSM6957677	donor_id	PA025	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957677	!Sample_characteristics_ch1 = patient id: PA025	True
+GSM6957678	geo:GSE223501:GSM6957678	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957678	geo:GSE223501:GSM6957678	disease_free_text	NSCLC brain metastasis	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957678	geo:GSE223501:GSM6957678	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	!Sample_characteristics_ch1 = metastatic site: Brain Metastasis	True
+GSM6957678	geo:GSE223501:GSM6957678	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957678	geo:GSE223501:GSM6957678	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957678	geo:GSE223501:GSM6957678	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957678	geo:GSE223501:GSM6957678	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957678	geo:GSE223501:GSM6957678	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957678	geo:GSE223501:GSM6957678	donor_id	PA054	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957678	!Sample_characteristics_ch1 = patient id: PA054	True
+GSM6957680	geo:GSE223501:GSM6957680	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957680	geo:GSE223501:GSM6957680	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957680	geo:GSE223501:GSM6957680	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957680	geo:GSE223501:GSM6957680	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957680	geo:GSE223501:GSM6957680	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957680	geo:GSE223501:GSM6957680	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957680	geo:GSE223501:GSM6957680	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957680	geo:GSE223501:GSM6957680	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957680	geo:GSE223501:GSM6957680	donor_id	N254	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957680	!Sample_characteristics_ch1 = patient id: N254	True
+GSM6957681	geo:GSE223501:GSM6957681	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957681	geo:GSE223501:GSM6957681	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957681	geo:GSE223501:GSM6957681	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957681	geo:GSE223501:GSM6957681	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957681	geo:GSE223501:GSM6957681	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957681	geo:GSE223501:GSM6957681	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957681	geo:GSE223501:GSM6957681	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957681	geo:GSE223501:GSM6957681	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957681	geo:GSE223501:GSM6957681	donor_id	N586	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957681	!Sample_characteristics_ch1 = patient id: N586	True
+GSM6957682	geo:GSE223501:GSM6957682	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957682	geo:GSE223501:GSM6957682	disease_free_text	NSCLC brain metastasis	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957682	geo:GSE223501:GSM6957682	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	!Sample_characteristics_ch1 = metastatic site: Brain Metastasis	True
+GSM6957682	geo:GSE223501:GSM6957682	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957682	geo:GSE223501:GSM6957682	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957682	geo:GSE223501:GSM6957682	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957682	geo:GSE223501:GSM6957682	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957682	geo:GSE223501:GSM6957682	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957682	geo:GSE223501:GSM6957682	donor_id	STK_14	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957682	!Sample_characteristics_ch1 = patient id: STK_14	True
+GSM6957683	geo:GSE223501:GSM6957683	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957683	geo:GSE223501:GSM6957683	disease_free_text	NSCLC brain metastasis	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957683	geo:GSE223501:GSM6957683	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	!Sample_characteristics_ch1 = metastatic site: Brain Metastasis	True
+GSM6957683	geo:GSE223501:GSM6957683	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957683	geo:GSE223501:GSM6957683	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957683	geo:GSE223501:GSM6957683	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957683	geo:GSE223501:GSM6957683	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957683	geo:GSE223501:GSM6957683	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957683	geo:GSE223501:GSM6957683	donor_id	STK_18	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957683	!Sample_characteristics_ch1 = patient id: STK_18	True
+GSM6957684	geo:GSE223501:GSM6957684	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957684	geo:GSE223501:GSM6957684	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957684	geo:GSE223501:GSM6957684	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957684	geo:GSE223501:GSM6957684	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957684	geo:GSE223501:GSM6957684	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957684	geo:GSE223501:GSM6957684	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957684	geo:GSE223501:GSM6957684	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957684	geo:GSE223501:GSM6957684	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957684	geo:GSE223501:GSM6957684	donor_id	STK_15	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957684	!Sample_characteristics_ch1 = patient id: STK_15	True
+GSM6957685	geo:GSE223501:GSM6957685	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957685	geo:GSE223501:GSM6957685	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957685	geo:GSE223501:GSM6957685	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957685	geo:GSE223501:GSM6957685	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957685	geo:GSE223501:GSM6957685	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957685	geo:GSE223501:GSM6957685	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957685	geo:GSE223501:GSM6957685	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957685	geo:GSE223501:GSM6957685	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957685	geo:GSE223501:GSM6957685	donor_id	STK_20	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957685	!Sample_characteristics_ch1 = patient id: STK_20	True
+GSM6957686	geo:GSE223501:GSM6957686	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957686	geo:GSE223501:GSM6957686	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957686	geo:GSE223501:GSM6957686	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957686	geo:GSE223501:GSM6957686	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957686	geo:GSE223501:GSM6957686	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957686	geo:GSE223501:GSM6957686	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957686	geo:GSE223501:GSM6957686	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957686	geo:GSE223501:GSM6957686	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957686	geo:GSE223501:GSM6957686	donor_id	STK22dot2	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957686	!Sample_characteristics_ch1 = patient id: STK22dot2	True
+GSM6957687	geo:GSE223501:GSM6957687	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957687	geo:GSE223501:GSM6957687	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957687	geo:GSE223501:GSM6957687	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957687	geo:GSE223501:GSM6957687	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957687	geo:GSE223501:GSM6957687	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957687	geo:GSE223501:GSM6957687	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957687	geo:GSE223501:GSM6957687	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957687	geo:GSE223501:GSM6957687	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957687	geo:GSE223501:GSM6957687	donor_id	KRAS_10	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957687	!Sample_characteristics_ch1 = patient id: KRAS_10	True
+GSM6957689	geo:GSE223501:GSM6957689	disease_ontology_term_id	MONDO:0005061	file	evidence/PMC12323702.txt		multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957689	geo:GSE223501:GSM6957689	disease_free_text	NSCLC primary tumor	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957689	geo:GSE223501:GSM6957689	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957689	geo:GSE223501:GSM6957689	tissue_type	tissue	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957689	geo:GSE223501:GSM6957689	suspension_type	na	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	10 uM frozen tumor sections was extracted and spatially indexed	True
+GSM6957689	geo:GSE223501:GSM6957689	treatment_status	untreated	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz		treatment-naïve non-small cell lung cancer (NSCLC) primary tumors	True
+GSM6957689	geo:GSE223501:GSM6957689	sample_preservation	frozen	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	RNA from 10 uM frozen tumor sections was extracted	True
+GSM6957689	geo:GSE223501:GSM6957689	assay	Slide-seq	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	!Sample_characteristics_ch1 = slideseqv2: yes	True
+GSM6957689	geo:GSE223501:GSM6957689	donor_id	KRAS_12	file	raw/fp-ba087a2dd7e6/GSE223501_family.soft.gz	GSM6957689	!Sample_characteristics_ch1 = patient id: KRAS_12	True

@@ -1,0 +1,13 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	assay_ontology_term_id	<column assay_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/assay_ontology_term_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	development_stage_ontology_term_id	<column development_stage_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/development_stage_ontology_term_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	disease_ontology_term_id	<column disease_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/disease_ontology_term_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	donor_id	<column donor_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/donor_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	self_reported_ethnicity_ontology_term_id	<column self_reported_ethnicity_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/self_reported_ethnicity_ontology_term_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	sex_ontology_term_id	<column sex_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/sex_ontology_term_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	suspension_type	<column suspension_type>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/suspension_type			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	tissue_ontology_term_id	<column tissue_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/tissue_ontology_term_id			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	tissue_type	<column tissue_type>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/tissue_type			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	author_cell_type	<column author_cell_type>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/author_cell_type			True
+0	cellxgene:b617ee1b-f8c8-4de9-b82b-e803ab93550d:0	cell_type_ontology_term_id	<column cell_type_ontology_term_id>	column	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/b617ee1b-f8c8-4de9-b82b-e803ab93550d.h5ad::obs/cell_type_ontology_term_id			True
+		organism	Homo sapiens	file	raw/a224abb3-7161-4a35-adc0-029b27bd4c48/portal_metadata.json		"""ontology_term_id"": ""NCBITaxon:9606"""	True

@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3204304	geo:GSE115982:GSM3204304	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3204305	geo:GSE115982:GSM3204305	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+		organism	Homo sapiens	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3204304	geo:GSE115982:GSM3204304	disease_free_text	Idiopathic Pulmonary Fibrosis	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_characteristics_ch1 = diagnosis: Idiopathic Pulmonary Fibrosis	True
+GSM3204304	geo:GSE115982:GSM3204304	disease_ontology_term_id	MONDO:0800504	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_characteristics_ch1 = diagnosis: Idiopathic Pulmonary Fibrosis	True
+GSM3204304	geo:GSE115982:GSM3204304	tissue_free_text	lung airway epithelial cells	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_characteristics_ch1 = tissue: lung airway epithelial cells	True
+GSM3204304	geo:GSE115982:GSM3204304	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_source_name_ch1 = Explanted lung tissue	True
+GSM3204304	geo:GSE115982:GSM3204304	tissue_type	cell culture	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_characteristics_ch1 = processing: in vitro cultured and expanded	True
+GSM3204304	geo:GSE115982:GSM3204304	cell_enrichment	EpCAM+ CCR10+	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_characteristics_ch1 = cell type: EpCAM+ CCR10+	True
+GSM3204304	geo:GSE115982:GSM3204304	suspension_type	cell	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	!Sample_description = Single cell RNA sequencing of cultured IPF primary epithelial cells	True
+GSM3204304	geo:GSE115982:GSM3204304	assay	10x 3' v2	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204304	Single-cell RNA-seq libraries were prepared per the Single Cell 3′ v2 Reagent Kits	True
+GSM3204305	geo:GSE115982:GSM3204305	disease_free_text	Idiopathic Pulmonary Fibrosis	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_characteristics_ch1 = diagnosis: Idiopathic Pulmonary Fibrosis	True
+GSM3204305	geo:GSE115982:GSM3204305	disease_ontology_term_id	MONDO:0800504	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_characteristics_ch1 = diagnosis: Idiopathic Pulmonary Fibrosis	True
+GSM3204305	geo:GSE115982:GSM3204305	tissue_free_text	lung airway epithelial cells	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_characteristics_ch1 = tissue: lung airway epithelial cells	True
+GSM3204305	geo:GSE115982:GSM3204305	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_source_name_ch1 = Explanted lung tissue	True
+GSM3204305	geo:GSE115982:GSM3204305	tissue_type	cell culture	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_characteristics_ch1 = processing: in vitro cultured and expanded	True
+GSM3204305	geo:GSE115982:GSM3204305	cell_enrichment	EpCAM+ CCR10-	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_characteristics_ch1 = cell type: EpCAM+ CCR10-	True
+GSM3204305	geo:GSE115982:GSM3204305	suspension_type	cell	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	!Sample_description = Single cell RNA sequencing of cultured IPF primary epithelial cells	True
+GSM3204305	geo:GSE115982:GSM3204305	assay	10x 3' v2	file	raw/fp-6dbeca46af7b/GSE115982_family.soft.gz	GSM3204305	Single-cell RNA-seq libraries were prepared per the Single Cell 3′ v2 Reagent Kits	True

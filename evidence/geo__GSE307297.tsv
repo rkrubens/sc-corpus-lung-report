@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-f626e8930346/GSE307297_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9221423	geo:GSE307297:GSM9221423	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221423	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221423	geo:GSE307297:GSM9221423	disease_free_text	Control	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221423	!Sample_characteristics_ch1 = subject status: Control	True
+GSM9221424	geo:GSE307297:GSM9221424	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221424	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221424	geo:GSE307297:GSM9221424	disease_free_text	Control	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221424	!Sample_characteristics_ch1 = subject status: Control	True
+GSM9221425	geo:GSE307297:GSM9221425	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221425	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221425	geo:GSE307297:GSM9221425	disease_free_text	Control	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221425	!Sample_characteristics_ch1 = subject status: Control	True
+GSM9221426	geo:GSE307297:GSM9221426	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221426	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221426	geo:GSE307297:GSM9221426	disease_free_text	Control	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221426	!Sample_characteristics_ch1 = subject status: Control	True
+GSM9221427	geo:GSE307297:GSM9221427	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221427	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221427	geo:GSE307297:GSM9221427	disease_free_text	Non-RA Connective tissue disease (CTD)-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221427	!Sample_characteristics_ch1 = subject status: Non-RA Connective tissue disease (CTD)-ILD patient	True
+GSM9221428	geo:GSE307297:GSM9221428	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221428	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221428	geo:GSE307297:GSM9221428	disease_free_text	Non-RA Connective tissue disease (CTD)-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221428	!Sample_characteristics_ch1 = subject status: Non-RA Connective tissue disease (CTD)-ILD patient	True
+GSM9221429	geo:GSE307297:GSM9221429	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221429	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221429	geo:GSE307297:GSM9221429	disease_free_text	Non-RA Connective tissue disease (CTD)-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221429	!Sample_characteristics_ch1 = subject status: Non-RA Connective tissue disease (CTD)-ILD patient	True
+GSM9221430	geo:GSE307297:GSM9221430	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221430	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221430	geo:GSE307297:GSM9221430	disease_free_text	RA-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221430	!Sample_characteristics_ch1 = subject status: RA-ILD patient	True
+GSM9221431	geo:GSE307297:GSM9221431	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221431	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221431	geo:GSE307297:GSM9221431	disease_free_text	RA-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221431	!Sample_characteristics_ch1 = subject status: RA-ILD patient	True
+GSM9221432	geo:GSE307297:GSM9221432	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221432	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221432	geo:GSE307297:GSM9221432	disease_free_text	RA-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221432	!Sample_characteristics_ch1 = subject status: RA-ILD patient	True
+GSM9221433	geo:GSE307297:GSM9221433	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221433	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221433	geo:GSE307297:GSM9221433	disease_free_text	RA-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221433	!Sample_characteristics_ch1 = subject status: RA-ILD patient	True
+GSM9221434	geo:GSE307297:GSM9221434	tissue_free_text	Human Lung	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221434	!Sample_characteristics_ch1 = tissue: Human Lung	True
+GSM9221434	geo:GSE307297:GSM9221434	disease_free_text	RA-ILD patient	file	raw/fp-f626e8930346/GSE307297_family.soft.gz	GSM9221434	!Sample_characteristics_ch1 = subject status: RA-ILD patient	True

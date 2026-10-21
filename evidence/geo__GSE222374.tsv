@@ -1,0 +1,74 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6921766	geo:GSE222374:GSM6921766	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6921766	geo:GSE222374:GSM6921766	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM6921766	geo:GSE222374:GSM6921766	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921766	geo:GSE222374:GSM6921766	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM6921766	geo:GSE222374:GSM6921766	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921766_MK2.h5ad_gunzip/GSM6921766_MK2.h5ad::obs/full_cell_type			True
+GSM6921767	geo:GSE222374:GSM6921767	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6921767	geo:GSE222374:GSM6921767	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6921767	geo:GSE222374:GSM6921767	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921767	geo:GSE222374:GSM6921767	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM6921767	geo:GSE222374:GSM6921767	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921767_LTC36.h5ad_gunzip/GSM6921767_LTC36.h5ad::obs/full_cell_type			True
+GSM6921768	geo:GSE222374:GSM6921768	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6921768	geo:GSE222374:GSM6921768	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921768	geo:GSE222374:GSM6921768	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM6921768	geo:GSE222374:GSM6921768	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921768_LTC37.h5ad_gunzip/GSM6921768_LTC37.h5ad::obs/full_cell_type			True
+GSM6921769	geo:GSE222374:GSM6921769	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6921769	geo:GSE222374:GSM6921769	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921769	geo:GSE222374:GSM6921769	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM6921769	geo:GSE222374:GSM6921769	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921769_LTC39.h5ad_gunzip/GSM6921769_LTC39.h5ad::obs/full_cell_type			True
+GSM6921770	geo:GSE222374:GSM6921770	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6921770	geo:GSE222374:GSM6921770	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM6921770	geo:GSE222374:GSM6921770	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921770	geo:GSE222374:GSM6921770	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM6921770	geo:GSE222374:GSM6921770	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921770_LTC23.h5ad_gunzip/GSM6921770_LTC23.h5ad::obs/full_cell_type			True
+GSM6921771	geo:GSE222374:GSM6921771	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6921771	geo:GSE222374:GSM6921771	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM6921771	geo:GSE222374:GSM6921771	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921771	geo:GSE222374:GSM6921771	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM6921771	geo:GSE222374:GSM6921771	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921771_LTC79.h5ad_gunzip/GSM6921771_LTC79.h5ad::obs/full_cell_type			True
+GSM6921772	geo:GSE222374:GSM6921772	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6921772	geo:GSE222374:GSM6921772	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6921772	geo:GSE222374:GSM6921772	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6921772	geo:GSE222374:GSM6921772	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM6921772	geo:GSE222374:GSM6921772	author_cell_type	<column full_cell_type>	column	work/fp-79f39bc16b23/GSE222374_RAW/GSM6921772_LTC80.h5ad_gunzip/GSM6921772_LTC80.h5ad::obs/full_cell_type			True
+		organism	Homo sapiens	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6921766	geo:GSE222374:GSM6921766	disease_free_text	normal	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921766	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM6921766	geo:GSE222374:GSM6921766	sex	male	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921766	!Sample_characteristics_ch1 = Sex: male	True
+GSM6921766	geo:GSE222374:GSM6921766	age	56	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921766	!Sample_characteristics_ch1 = age: 56	True
+GSM6921766	geo:GSE222374:GSM6921766	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921766	!Sample_source_name_ch1 = lung	True
+GSM6921766	geo:GSE222374:GSM6921766	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921766	Epcam+/DAPI- live single epithelial cell	True
+GSM6921767	geo:GSE222374:GSM6921767	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921767	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM6921767	geo:GSE222374:GSM6921767	disease_stage	end-stage	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		patients with end-stage COPD (N=6)	True
+GSM6921767	geo:GSE222374:GSM6921767	sex	male	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921767	!Sample_characteristics_ch1 = Sex: male	True
+GSM6921767	geo:GSE222374:GSM6921767	age	59	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921767	!Sample_characteristics_ch1 = age: 59	True
+GSM6921767	geo:GSE222374:GSM6921767	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921767	!Sample_source_name_ch1 = lung	True
+GSM6921767	geo:GSE222374:GSM6921767	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921767	Epcam+/DAPI- live single epithelial cell	True
+GSM6921768	geo:GSE222374:GSM6921768	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921768	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM6921768	geo:GSE222374:GSM6921768	disease_stage	end-stage	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		patients with end-stage COPD (N=6)	True
+GSM6921768	geo:GSE222374:GSM6921768	age	66	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921768	!Sample_characteristics_ch1 = age: 66	True
+GSM6921768	geo:GSE222374:GSM6921768	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921768	!Sample_source_name_ch1 = lung	True
+GSM6921768	geo:GSE222374:GSM6921768	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921768	Epcam+/DAPI- live single epithelial cell	True
+GSM6921769	geo:GSE222374:GSM6921769	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921769	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM6921769	geo:GSE222374:GSM6921769	disease_stage	end-stage	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		patients with end-stage COPD (N=6)	True
+GSM6921769	geo:GSE222374:GSM6921769	age	68	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921769	!Sample_characteristics_ch1 = age: 68	True
+GSM6921769	geo:GSE222374:GSM6921769	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921769	!Sample_source_name_ch1 = lung	True
+GSM6921769	geo:GSE222374:GSM6921769	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921769	Epcam+/DAPI- live single epithelial cell	True
+GSM6921770	geo:GSE222374:GSM6921770	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921770	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM6921770	geo:GSE222374:GSM6921770	disease_stage	end-stage	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		patients with end-stage COPD (N=6)	True
+GSM6921770	geo:GSE222374:GSM6921770	sex	male	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921770	!Sample_characteristics_ch1 = Sex: male	True
+GSM6921770	geo:GSE222374:GSM6921770	age	60	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921770	!Sample_characteristics_ch1 = age: 60	True
+GSM6921770	geo:GSE222374:GSM6921770	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921770	!Sample_source_name_ch1 = lung	True
+GSM6921770	geo:GSE222374:GSM6921770	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921770	Epcam+/DAPI- live single epithelial cell	True
+GSM6921771	geo:GSE222374:GSM6921771	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921771	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM6921771	geo:GSE222374:GSM6921771	disease_stage	end-stage	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		patients with end-stage COPD (N=6)	True
+GSM6921771	geo:GSE222374:GSM6921771	sex	male	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921771	!Sample_characteristics_ch1 = Sex: male	True
+GSM6921771	geo:GSE222374:GSM6921771	age	58	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921771	!Sample_characteristics_ch1 = age: 58	True
+GSM6921771	geo:GSE222374:GSM6921771	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921771	!Sample_source_name_ch1 = lung	True
+GSM6921771	geo:GSE222374:GSM6921771	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921771	Epcam+/DAPI- live single epithelial cell	True
+GSM6921772	geo:GSE222374:GSM6921772	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921772	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM6921772	geo:GSE222374:GSM6921772	disease_stage	end-stage	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz		patients with end-stage COPD (N=6)	True
+GSM6921772	geo:GSE222374:GSM6921772	sex	male	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921772	!Sample_characteristics_ch1 = Sex: male	True
+GSM6921772	geo:GSE222374:GSM6921772	age	61	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921772	!Sample_characteristics_ch1 = age: 61	True
+GSM6921772	geo:GSE222374:GSM6921772	tissue_free_text	lung	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921772	!Sample_source_name_ch1 = lung	True
+GSM6921772	geo:GSE222374:GSM6921772	cell_enrichment	EPCAM+ DAPI- live single epithelial cells (sorted)	file	raw/fp-79f39bc16b23/GSE222374_family.soft.gz	GSM6921772	Epcam+/DAPI- live single epithelial cell	True

@@ -1,0 +1,164 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9043712	geo:GSE299684:GSM9043712	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043713	geo:GSE299684:GSM9043713	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043714	geo:GSE299684:GSM9043714	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043715	geo:GSE299684:GSM9043715	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043716	geo:GSE299684:GSM9043716	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043717	geo:GSE299684:GSM9043717	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043718	geo:GSE299684:GSM9043718	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043719	geo:GSE299684:GSM9043719	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043720	geo:GSE299684:GSM9043720	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043721	geo:GSE299684:GSM9043721	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043722	geo:GSE299684:GSM9043722	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043723	geo:GSE299684:GSM9043723	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043724	geo:GSE299684:GSM9043724	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043725	geo:GSE299684:GSM9043725	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9043726	geo:GSE299684:GSM9043726	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9043712	geo:GSE299684:GSM9043712	tissue_free_text	Liver core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043712	geo:GSE299684:GSM9043712	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043712	geo:GSE299684:GSM9043712	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043712	geo:GSE299684:GSM9043712	tissue_ontology_term_id	UBERON:0002107	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043712	geo:GSE299684:GSM9043712	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043712	geo:GSE299684:GSM9043712	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043712	geo:GSE299684:GSM9043712	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043712	geo:GSE299684:GSM9043712	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043712	geo:GSE299684:GSM9043712	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043712	geo:GSE299684:GSM9043712	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043712	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043713	geo:GSE299684:GSM9043713	tissue_free_text	Liver core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043713	geo:GSE299684:GSM9043713	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043713	geo:GSE299684:GSM9043713	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043713	geo:GSE299684:GSM9043713	tissue_ontology_term_id	UBERON:0002107	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043713	geo:GSE299684:GSM9043713	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043713	geo:GSE299684:GSM9043713	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043713	geo:GSE299684:GSM9043713	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043713	geo:GSE299684:GSM9043713	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043713	geo:GSE299684:GSM9043713	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043713	geo:GSE299684:GSM9043713	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043713	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043714	geo:GSE299684:GSM9043714	tissue_free_text	Lymph node core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = tissue: Lymph node core needle biopsy	True
+GSM9043714	geo:GSE299684:GSM9043714	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043714	geo:GSE299684:GSM9043714	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043714	geo:GSE299684:GSM9043714	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = tissue: Lymph node core needle biopsy	True
+GSM9043714	geo:GSE299684:GSM9043714	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043714	geo:GSE299684:GSM9043714	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = tissue: Lymph node core needle biopsy	True
+GSM9043714	geo:GSE299684:GSM9043714	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_characteristics_ch1 = tissue: Lymph node core needle biopsy	True
+GSM9043714	geo:GSE299684:GSM9043714	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043714	geo:GSE299684:GSM9043714	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043714	geo:GSE299684:GSM9043714	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043714	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043715	geo:GSE299684:GSM9043715	tissue_free_text	Head and neck core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_characteristics_ch1 = tissue: Head and neck core needle biopsy	True
+GSM9043715	geo:GSE299684:GSM9043715	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043715	geo:GSE299684:GSM9043715	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043715	geo:GSE299684:GSM9043715	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043715	geo:GSE299684:GSM9043715	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_characteristics_ch1 = tissue: Head and neck core needle biopsy	True
+GSM9043715	geo:GSE299684:GSM9043715	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_characteristics_ch1 = tissue: Head and neck core needle biopsy	True
+GSM9043715	geo:GSE299684:GSM9043715	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043715	geo:GSE299684:GSM9043715	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043715	geo:GSE299684:GSM9043715	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043715	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043716	geo:GSE299684:GSM9043716	tissue_free_text	Adrenal gland core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043716	geo:GSE299684:GSM9043716	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043716	geo:GSE299684:GSM9043716	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043716	geo:GSE299684:GSM9043716	tissue_ontology_term_id	UBERON:0002369	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043716	geo:GSE299684:GSM9043716	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043716	geo:GSE299684:GSM9043716	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043716	geo:GSE299684:GSM9043716	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043716	geo:GSE299684:GSM9043716	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043716	geo:GSE299684:GSM9043716	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043716	geo:GSE299684:GSM9043716	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043716	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043717	geo:GSE299684:GSM9043717	tissue_free_text	Liver core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043717	geo:GSE299684:GSM9043717	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043717	geo:GSE299684:GSM9043717	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043717	geo:GSE299684:GSM9043717	tissue_ontology_term_id	UBERON:0002107	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043717	geo:GSE299684:GSM9043717	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043717	geo:GSE299684:GSM9043717	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043717	geo:GSE299684:GSM9043717	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_characteristics_ch1 = tissue: Liver core needle biopsy	True
+GSM9043717	geo:GSE299684:GSM9043717	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043717	geo:GSE299684:GSM9043717	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043717	geo:GSE299684:GSM9043717	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043717	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043718	geo:GSE299684:GSM9043718	tissue_free_text	Lung core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043718	geo:GSE299684:GSM9043718	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043718	geo:GSE299684:GSM9043718	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043718	geo:GSE299684:GSM9043718	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043718	geo:GSE299684:GSM9043718	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043718	geo:GSE299684:GSM9043718	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043718	geo:GSE299684:GSM9043718	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043718	geo:GSE299684:GSM9043718	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043718	geo:GSE299684:GSM9043718	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043718	geo:GSE299684:GSM9043718	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043718	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043719	geo:GSE299684:GSM9043719	tissue_free_text	Lung surgical resection	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = tissue: Lung surgical resection	True
+GSM9043719	geo:GSE299684:GSM9043719	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043719	geo:GSE299684:GSM9043719	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043719	geo:GSE299684:GSM9043719	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = tissue: Lung surgical resection	True
+GSM9043719	geo:GSE299684:GSM9043719	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043719	geo:GSE299684:GSM9043719	sample_collection_method	surgical resection	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = tissue: Lung surgical resection	True
+GSM9043719	geo:GSE299684:GSM9043719	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_characteristics_ch1 = tissue: Lung surgical resection	True
+GSM9043719	geo:GSE299684:GSM9043719	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043719	geo:GSE299684:GSM9043719	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043719	geo:GSE299684:GSM9043719	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043719	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043720	geo:GSE299684:GSM9043720	tissue_free_text	Brain surgical resection	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043720	geo:GSE299684:GSM9043720	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043720	geo:GSE299684:GSM9043720	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043720	geo:GSE299684:GSM9043720	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043720	geo:GSE299684:GSM9043720	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043720	geo:GSE299684:GSM9043720	sample_collection_method	surgical resection	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043720	geo:GSE299684:GSM9043720	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043720	geo:GSE299684:GSM9043720	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043720	geo:GSE299684:GSM9043720	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043720	geo:GSE299684:GSM9043720	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043720	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043721	geo:GSE299684:GSM9043721	tissue_free_text	Brain surgical resection	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043721	geo:GSE299684:GSM9043721	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043721	geo:GSE299684:GSM9043721	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043721	geo:GSE299684:GSM9043721	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043721	geo:GSE299684:GSM9043721	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043721	geo:GSE299684:GSM9043721	sample_collection_method	surgical resection	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043721	geo:GSE299684:GSM9043721	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_characteristics_ch1 = tissue: Brain surgical resection	True
+GSM9043721	geo:GSE299684:GSM9043721	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043721	geo:GSE299684:GSM9043721	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043721	geo:GSE299684:GSM9043721	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043721	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043722	geo:GSE299684:GSM9043722	tissue_free_text	Lung core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043722	geo:GSE299684:GSM9043722	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043722	geo:GSE299684:GSM9043722	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043722	geo:GSE299684:GSM9043722	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043722	geo:GSE299684:GSM9043722	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043722	geo:GSE299684:GSM9043722	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043722	geo:GSE299684:GSM9043722	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_characteristics_ch1 = tissue: Lung core needle biopsy	True
+GSM9043722	geo:GSE299684:GSM9043722	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043722	geo:GSE299684:GSM9043722	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043722	geo:GSE299684:GSM9043722	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043722	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043723	geo:GSE299684:GSM9043723	tissue_free_text	Lung/mediastinal core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_characteristics_ch1 = tissue: Lung/mediastinal core needle biopsy	True
+GSM9043723	geo:GSE299684:GSM9043723	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043723	geo:GSE299684:GSM9043723	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043723	geo:GSE299684:GSM9043723	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043723	geo:GSE299684:GSM9043723	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_characteristics_ch1 = tissue: Lung/mediastinal core needle biopsy	True
+GSM9043723	geo:GSE299684:GSM9043723	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_characteristics_ch1 = tissue: Lung/mediastinal core needle biopsy	True
+GSM9043723	geo:GSE299684:GSM9043723	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043723	geo:GSE299684:GSM9043723	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043723	geo:GSE299684:GSM9043723	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043723	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043724	geo:GSE299684:GSM9043724	tissue_free_text	Head and neck core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_characteristics_ch1 = tissue: Head and neck core needle biopsy	True
+GSM9043724	geo:GSE299684:GSM9043724	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043724	geo:GSE299684:GSM9043724	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043724	geo:GSE299684:GSM9043724	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043724	geo:GSE299684:GSM9043724	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_characteristics_ch1 = tissue: Head and neck core needle biopsy	True
+GSM9043724	geo:GSE299684:GSM9043724	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_characteristics_ch1 = tissue: Head and neck core needle biopsy	True
+GSM9043724	geo:GSE299684:GSM9043724	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043724	geo:GSE299684:GSM9043724	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043724	geo:GSE299684:GSM9043724	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043724	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043725	geo:GSE299684:GSM9043725	tissue_free_text	Retroperitoneal core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = tissue: Retroperitoneal core needle biopsy	True
+GSM9043725	geo:GSE299684:GSM9043725	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043725	geo:GSE299684:GSM9043725	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043725	geo:GSE299684:GSM9043725	tissue_ontology_term_id	UBERON:0003693	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = tissue: Retroperitoneal core needle biopsy	True
+GSM9043725	geo:GSE299684:GSM9043725	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043725	geo:GSE299684:GSM9043725	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = tissue: Retroperitoneal core needle biopsy	True
+GSM9043725	geo:GSE299684:GSM9043725	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_characteristics_ch1 = tissue: Retroperitoneal core needle biopsy	True
+GSM9043725	geo:GSE299684:GSM9043725	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043725	geo:GSE299684:GSM9043725	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043725	geo:GSE299684:GSM9043725	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043725	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True
+GSM9043726	geo:GSE299684:GSM9043726	tissue_free_text	Adrenal gland core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043726	geo:GSE299684:GSM9043726	disease_free_text	SCLC	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043726	geo:GSE299684:GSM9043726	treatment	relapsed	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM9043726	geo:GSE299684:GSM9043726	tissue_ontology_term_id	UBERON:0002369	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043726	geo:GSE299684:GSM9043726	disease_ontology_term_id	MONDO:0008433	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = cell line: SCLC	True
+GSM9043726	geo:GSE299684:GSM9043726	sample_collection_method	core needle biopsy	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043726	geo:GSE299684:GSM9043726	tissue_type	tissue	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_characteristics_ch1 = tissue: Adrenal gland core needle biopsy	True
+GSM9043726	geo:GSE299684:GSM9043726	suspension_type	cell	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043726	geo:GSE299684:GSM9043726	sample_preservation	fresh	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_extract_protocol_ch1 = Fresh tumors or biopsies were dissociated overnight to obtain single cell suspension.	True
+GSM9043726	geo:GSE299684:GSM9043726	assay	10x 3' v3	file	raw/fp-051eeecddfa6/GSE299684_family.soft.gz	GSM9043726	!Sample_extract_protocol_ch1 = Chromium Next GEM Single Cell 3' v3.1 (CG000204)	True

@@ -1,0 +1,56 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+026C-a	geo:GSE164829:026C-a	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+026C-b	geo:GSE164829:026C-b	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+115C	geo:GSE164829:115C	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+1931C	geo:GSE164829:1931C	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+1932C	geo:GSE164829:1932C	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+NDRI3	geo:GSE164829:NDRI3	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+		organism	Homo sapiens	file	raw/fp-bbf8e31b6a81/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+026C-a	geo:GSE164829:026C-a	tissue_free_text	Whole Lung Dissociate	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+026C-b	geo:GSE164829:026C-b	tissue_free_text	Whole Lung Dissociate	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+115C	geo:GSE164829:115C	tissue_free_text	Whole Lung Dissociate	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+1931C	geo:GSE164829:1931C	tissue_free_text	Whole Lung Dissociate	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+1932C	geo:GSE164829:1932C	tissue_free_text	Whole Lung Dissociate	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+NDRI3	geo:GSE164829:NDRI3	tissue_free_text	Whole Lung Dissociate	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+026C-a	geo:GSE164829:026C-a	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+026C-b	geo:GSE164829:026C-b	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+115C	geo:GSE164829:115C	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+1931C	geo:GSE164829:1931C	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+1932C	geo:GSE164829:1932C	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+NDRI3	geo:GSE164829:NDRI3	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+026C-a	geo:GSE164829:026C-a	tissue_type	tissue	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+026C-b	geo:GSE164829:026C-b	tissue_type	tissue	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+115C	geo:GSE164829:115C	tissue_type	tissue	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+1931C	geo:GSE164829:1931C	tissue_type	tissue	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+1932C	geo:GSE164829:1932C	tissue_type	tissue	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+NDRI3	geo:GSE164829:NDRI3	tissue_type	tissue	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = tissue: Whole Lung Dissociate	True
+026C-a	geo:GSE164829:026C-a	disease_ontology_term_id	PATO:0000461	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz		Whole Lung Dissociates from control lungs	True
+026C-b	geo:GSE164829:026C-b	disease_ontology_term_id	PATO:0000461	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz		Whole Lung Dissociates from control lungs	True
+115C	geo:GSE164829:115C	disease_ontology_term_id	PATO:0000461	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz		Whole Lung Dissociates from control lungs	True
+1931C	geo:GSE164829:1931C	disease_ontology_term_id	PATO:0000461	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz		Whole Lung Dissociates from control lungs	True
+1932C	geo:GSE164829:1932C	disease_ontology_term_id	PATO:0000461	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz		Whole Lung Dissociates from control lungs	True
+NDRI3	geo:GSE164829:NDRI3	disease_ontology_term_id	PATO:0000461	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz		Whole Lung Dissociates from control lungs	True
+026C-a	geo:GSE164829:026C-a	disease_free_text	Control	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = disease state: Control	True
+026C-b	geo:GSE164829:026C-b	disease_free_text	Control	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = disease state: Control	True
+115C	geo:GSE164829:115C	disease_free_text	Control	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = disease state: Control	True
+1931C	geo:GSE164829:1931C	disease_free_text	Control	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = disease state: Control	True
+1932C	geo:GSE164829:1932C	disease_free_text	Control	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = disease state: Control	True
+NDRI3	geo:GSE164829:NDRI3	disease_free_text	Control	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_characteristics_ch1 = disease state: Control	True
+026C-a	geo:GSE164829:026C-a	development_stage_ontology_term_id	HsapDv:0000258	file	evidence/PMC13007730.txt		healthy adult human lung data ( GSE164829 )	True
+026C-b	geo:GSE164829:026C-b	development_stage_ontology_term_id	HsapDv:0000258	file	evidence/PMC13007730.txt		healthy adult human lung data ( GSE164829 )	True
+115C	geo:GSE164829:115C	development_stage_ontology_term_id	HsapDv:0000258	file	evidence/PMC13007730.txt		healthy adult human lung data ( GSE164829 )	True
+1931C	geo:GSE164829:1931C	development_stage_ontology_term_id	HsapDv:0000258	file	evidence/PMC13007730.txt		healthy adult human lung data ( GSE164829 )	True
+1932C	geo:GSE164829:1932C	development_stage_ontology_term_id	HsapDv:0000258	file	evidence/PMC13007730.txt		healthy adult human lung data ( GSE164829 )	True
+NDRI3	geo:GSE164829:NDRI3	development_stage_ontology_term_id	HsapDv:0000258	file	evidence/PMC13007730.txt		healthy adult human lung data ( GSE164829 )	True
+026C-a	geo:GSE164829:026C-a	assay	10x 3' v2	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	10X Genomics 3 prime v2 for whole lung dissociates	True
+026C-b	geo:GSE164829:026C-b	assay	10x 3' v2	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	10X Genomics 3 prime v2 for whole lung dissociates	True
+115C	geo:GSE164829:115C	assay	10x 3' v2	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	10X Genomics 3 prime v2 for whole lung dissociates	True
+1931C	geo:GSE164829:1931C	assay	10x 3' v2	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	10X Genomics 3 prime v2 for whole lung dissociates	True
+1932C	geo:GSE164829:1932C	assay	10x 3' v2	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	10X Genomics 3 prime v2 for whole lung dissociates	True
+NDRI3	geo:GSE164829:NDRI3	assay	10x 3' v2	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	10X Genomics 3 prime v2 for whole lung dissociates	True
+026C-a	geo:GSE164829:026C-a	suspension_type	cell	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_extract_protocol_ch1 = single cell RNA-Seq	True
+026C-b	geo:GSE164829:026C-b	suspension_type	cell	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_extract_protocol_ch1 = single cell RNA-Seq	True
+115C	geo:GSE164829:115C	suspension_type	cell	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_extract_protocol_ch1 = single cell RNA-Seq	True
+1931C	geo:GSE164829:1931C	suspension_type	cell	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_extract_protocol_ch1 = single cell RNA-Seq	True
+1932C	geo:GSE164829:1932C	suspension_type	cell	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_extract_protocol_ch1 = single cell RNA-Seq	True
+NDRI3	geo:GSE164829:NDRI3	suspension_type	cell	file	raw/fp-bbf8e31b6a81/GSE164829_family.soft.gz	GSM5020379	!Sample_extract_protocol_ch1 = single cell RNA-Seq	True

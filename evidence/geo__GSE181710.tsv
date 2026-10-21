@@ -1,0 +1,173 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/asthma			True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/asthma			True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/asthma			True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/asthma			True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/asthma			True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/donor			True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/donor			True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/donor			True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/donor			True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/donor			True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/Sex			True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/Sex			True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/Sex			True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/Sex			True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4resting_annotation_dotbarcodes.tsv.gz/Sex			True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/asthma			True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/asthma			True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/asthma			True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/asthma			True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/asthma			True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	disease_free_text	<column asthma>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/asthma			True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/donor			True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/donor			True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/donor			True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/donor			True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/donor			True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	donor_id	<column donor>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/donor			True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/Sex			True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/Sex			True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/Sex			True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/Sex			True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/Sex			True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	sex_ontology_term_id	<column Sex>	column	work/fp-d87c64a1ccfe/GSE181710_sc_cd4stim_annotation_dotbarcodes.tsv.gz/Sex			True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_organism_ch1 = Homo sapiens	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+001_10x_018_GS_SH_4U_17	geo:GSE181710:001_10x_018_GS_SH_4U_17	treatment	unstimulated ex vivo	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_characteristics_ch1 = stimulation: Unstimulated	True
+003_10x_025_4U	geo:GSE181710:003_10x_025_4U	treatment	unstimulated ex vivo	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_characteristics_ch1 = stimulation: Unstimulated	True
+004_10x_018_GS_SH_4U_18	geo:GSE181710:004_10x_018_GS_SH_4U_18	treatment	unstimulated ex vivo	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_characteristics_ch1 = stimulation: Unstimulated	True
+009_10x_016_US2_86	geo:GSE181710:009_10x_016_US2_86	treatment	unstimulated ex vivo	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_characteristics_ch1 = stimulation: Unstimulated	True
+010_10x_016_US_87	geo:GSE181710:010_10x_016_US_87	treatment	unstimulated ex vivo	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_characteristics_ch1 = stimulation: Unstimulated	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	tissue_free_text	Bronchoalveolar lavage (BAL)	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_source_name_ch1 = Bronchoalveolar lavage (BAL)	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	sample_collection_method	bronchoalveolar lavage	file	evidence/PMC10964988.txt		We performed bronchoscopy and collected bronchoalveolar lavage (BAL) from patients with severe asthma	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	disease_ontology_term_id	MONDO:0004979	file	evidence/PMC10964988.txt		Patients with mild (GINA 1 to 3, n=14) and severe asthma (GINA 4 and 5, n=16) underwent fiberoptic bronchoscopy for collection of BAL samples	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	disease_free_text	<map of column asthma>	file	evidence/PMC10964988.txt		mild asthmatic (MA) and severe asthmatic (SA) patients	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	sex	<map of column Sex>	file	raw/fp-d87c64a1ccfe/GSE181710_library_patients_sex.txt.gz		Female	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	suspension_type	cell	file	evidence/PMC10964988.txt		performed single-cell RNA-sequencing on over 35,000 sorted CD4 + T cells	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	assay	10x 3' v3	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509812	!Sample_description = Single-cell RNA-seq with 10x Genomics 3' v3 GEX	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	sample_preservation	cryopreserved	file	evidence/PMC10964988.txt		All BAL samples were collected and cryopreserved in the UK	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509813	!Sample_characteristics_ch1 = stimulation: Stimulated	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509813	!Sample_characteristics_ch1 = stimulation: Stimulated	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509813	!Sample_characteristics_ch1 = stimulation: Stimulated	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509813	!Sample_characteristics_ch1 = stimulation: Stimulated	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509813	!Sample_characteristics_ch1 = stimulation: Stimulated	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	raw/fp-d87c64a1ccfe/GSE181710_family.soft.gz	GSM5509813	!Sample_characteristics_ch1 = stimulation: Stimulated	True
+001_10x_023_4S	geo:GSE181710:001_10x_023_4S	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	evidence/PMC10964988.txt		we stimulated, ex vivo, a fraction of BAL cells with phorbol 12-myristate 13-acetate (PMA) and Ionomycin for 2 hours	True
+002_10x_018_GS_SH_4S_17	geo:GSE181710:002_10x_018_GS_SH_4S_17	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	evidence/PMC10964988.txt		we stimulated, ex vivo, a fraction of BAL cells with phorbol 12-myristate 13-acetate (PMA) and Ionomycin for 2 hours	True
+004_10x_025_4S	geo:GSE181710:004_10x_025_4S	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	evidence/PMC10964988.txt		we stimulated, ex vivo, a fraction of BAL cells with phorbol 12-myristate 13-acetate (PMA) and Ionomycin for 2 hours	True
+006_10x_018_GS_SH_3S_18	geo:GSE181710:006_10x_018_GS_SH_3S_18	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	evidence/PMC10964988.txt		we stimulated, ex vivo, a fraction of BAL cells with phorbol 12-myristate 13-acetate (PMA) and Ionomycin for 2 hours	True
+008_10x_016_ST_86	geo:GSE181710:008_10x_016_ST_86	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	evidence/PMC10964988.txt		we stimulated, ex vivo, a fraction of BAL cells with phorbol 12-myristate 13-acetate (PMA) and Ionomycin for 2 hours	True
+011_10x_016_ST_87	geo:GSE181710:011_10x_016_ST_87	treatment	ex vivo stimulation with PMA and ionomycin for 2 hours	file	evidence/PMC10964988.txt		we stimulated, ex vivo, a fraction of BAL cells with phorbol 12-myristate 13-acetate (PMA) and Ionomycin for 2 hours	True

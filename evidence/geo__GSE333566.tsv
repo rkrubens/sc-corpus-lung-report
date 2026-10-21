@@ -1,0 +1,52 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9769250	geo:GSE333566:GSM9769250	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+GSM9769251	geo:GSE333566:GSM9769251	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+GSM9769252	geo:GSE333566:GSM9769252	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+GSM9769253	geo:GSE333566:GSM9769253	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+GSM9769255	geo:GSE333566:GSM9769255	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+		organism	Homo sapiens	file	raw/fp-abf82a0d1c10/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM9769250	geo:GSE333566:GSM9769250	tissue_free_text	lung organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	tissue: lung organoid	True
+GSM9769250	geo:GSE333566:GSM9769250	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	tissue: lung organoid	True
+GSM9769250	geo:GSE333566:GSM9769250	tissue_type	organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	tissue: lung organoid	True
+GSM9769250	geo:GSE333566:GSM9769250	suspension_type	cell	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	to generate a single cell suspension then fixed per 10X FLEX protocol	True
+GSM9769250	geo:GSE333566:GSM9769250	cell_enrichment	CD326+ (EpCAM) enriched epithelial cells	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	Primary CD326+ enriched human declined donor were cultured	True
+GSM9769250	geo:GSE333566:GSM9769250	assay	10x gene expression flex	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	Chromium Human Transcriptome Probe Set v1.1.0	True
+GSM9769250	geo:GSE333566:GSM9769250	gene_annotation_version	GRCh38-2020-A	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	Assembly: GRCh38-2020-A	True
+GSM9769250	geo:GSE333566:GSM9769250	sample_preservation	fixed (10X Flex protocol)	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	then fixed per 10X FLEX protocol	True
+GSM9769250	geo:GSE333566:GSM9769250	treatment	SFFFM/DMSO	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769250	treatment: SFFFM/DMSO	True
+GSM9769251	geo:GSE333566:GSM9769251	tissue_free_text	lung organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	tissue: lung organoid	True
+GSM9769251	geo:GSE333566:GSM9769251	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	tissue: lung organoid	True
+GSM9769251	geo:GSE333566:GSM9769251	tissue_type	organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	tissue: lung organoid	True
+GSM9769251	geo:GSE333566:GSM9769251	suspension_type	cell	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	to generate a single cell suspension then fixed per 10X FLEX protocol	True
+GSM9769251	geo:GSE333566:GSM9769251	cell_enrichment	CD326+ (EpCAM) enriched epithelial cells	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	Primary CD326+ enriched human declined donor were cultured	True
+GSM9769251	geo:GSE333566:GSM9769251	assay	10x gene expression flex	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	Chromium Human Transcriptome Probe Set v1.1.0	True
+GSM9769251	geo:GSE333566:GSM9769251	gene_annotation_version	GRCh38-2020-A	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	Assembly: GRCh38-2020-A	True
+GSM9769251	geo:GSE333566:GSM9769251	sample_preservation	fixed (10X Flex protocol)	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	then fixed per 10X FLEX protocol	True
+GSM9769251	geo:GSE333566:GSM9769251	treatment	SFFFM//Roxadustat	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769251	treatment: SFFFM//Roxadustat	True
+GSM9769252	geo:GSE333566:GSM9769252	tissue_free_text	lung organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	tissue: lung organoid	True
+GSM9769252	geo:GSE333566:GSM9769252	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	tissue: lung organoid	True
+GSM9769252	geo:GSE333566:GSM9769252	tissue_type	organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	tissue: lung organoid	True
+GSM9769252	geo:GSE333566:GSM9769252	suspension_type	cell	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	to generate a single cell suspension then fixed per 10X FLEX protocol	True
+GSM9769252	geo:GSE333566:GSM9769252	cell_enrichment	CD326+ (EpCAM) enriched epithelial cells	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	Primary CD326+ enriched human declined donor were cultured	True
+GSM9769252	geo:GSE333566:GSM9769252	assay	10x gene expression flex	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	Chromium Human Transcriptome Probe Set v1.1.0	True
+GSM9769252	geo:GSE333566:GSM9769252	gene_annotation_version	GRCh38-2020-A	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	Assembly: GRCh38-2020-A	True
+GSM9769252	geo:GSE333566:GSM9769252	sample_preservation	fixed (10X Flex protocol)	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	then fixed per 10X FLEX protocol	True
+GSM9769252	geo:GSE333566:GSM9769252	treatment	SFFFM//Roxadustat/PT-2385	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769252	treatment: SFFFM//Roxadustat/PT-2385	True
+GSM9769253	geo:GSE333566:GSM9769253	tissue_free_text	lung organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	tissue: lung organoid	True
+GSM9769253	geo:GSE333566:GSM9769253	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	tissue: lung organoid	True
+GSM9769253	geo:GSE333566:GSM9769253	tissue_type	organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	tissue: lung organoid	True
+GSM9769253	geo:GSE333566:GSM9769253	suspension_type	cell	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	to generate a single cell suspension then fixed per 10X FLEX protocol	True
+GSM9769253	geo:GSE333566:GSM9769253	cell_enrichment	CD326+ (EpCAM) enriched epithelial cells	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	Primary CD326+ enriched human declined donor were cultured	True
+GSM9769253	geo:GSE333566:GSM9769253	assay	10x gene expression flex	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	Chromium Human Transcriptome Probe Set v1.1.0	True
+GSM9769253	geo:GSE333566:GSM9769253	gene_annotation_version	GRCh38-2020-A	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	Assembly: GRCh38-2020-A	True
+GSM9769253	geo:GSE333566:GSM9769253	sample_preservation	fixed (10X Flex protocol)	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	then fixed per 10X FLEX protocol	True
+GSM9769253	geo:GSE333566:GSM9769253	treatment	SFFFM//Roxadustat/M-1002	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769253	treatment: SFFFM//Roxadustat/M-1002	True
+GSM9769255	geo:GSE333566:GSM9769255	tissue_free_text	lung organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	tissue: lung organoid	True
+GSM9769255	geo:GSE333566:GSM9769255	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	tissue: lung organoid	True
+GSM9769255	geo:GSE333566:GSM9769255	tissue_type	organoid	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	tissue: lung organoid	True
+GSM9769255	geo:GSE333566:GSM9769255	suspension_type	cell	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	to generate a single cell suspension then fixed per 10X FLEX protocol	True
+GSM9769255	geo:GSE333566:GSM9769255	cell_enrichment	CD326+ (EpCAM) enriched epithelial cells	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	Primary CD326+ enriched human declined donor were cultured	True
+GSM9769255	geo:GSE333566:GSM9769255	assay	10x gene expression flex	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	Chromium Human Transcriptome Probe Set v1.1.0	True
+GSM9769255	geo:GSE333566:GSM9769255	gene_annotation_version	GRCh38-2020-A	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	Assembly: GRCh38-2020-A	True
+GSM9769255	geo:GSE333566:GSM9769255	sample_preservation	fixed (10X Flex protocol)	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	then fixed per 10X FLEX protocol	True
+GSM9769255	geo:GSE333566:GSM9769255	treatment	ADM/Roxadustat	file	raw/fp-abf82a0d1c10/GSE333566_family.soft.gz	GSM9769255	treatment: ADM/Roxadustat	True

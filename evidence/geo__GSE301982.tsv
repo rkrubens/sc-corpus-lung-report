@@ -1,0 +1,754 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+CTR048	geo:GSE301982:CTR048	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR051	geo:GSE301982:CTR051	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR058	geo:GSE301982:CTR058	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR068	geo:GSE301982:CTR068	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR069	geo:GSE301982:CTR069	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR070	geo:GSE301982:CTR070	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR071	geo:GSE301982:CTR071	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE001	geo:GSE301982:PPFE001	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE002	geo:GSE301982:PPFE002	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE003	geo:GSE301982:PPFE003	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE004	geo:GSE301982:PPFE004	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE006	geo:GSE301982:PPFE006	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE007	geo:GSE301982:PPFE007	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE008	geo:GSE301982:PPFE008	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE009	geo:GSE301982:PPFE009	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE010	geo:GSE301982:PPFE010	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE011	geo:GSE301982:PPFE011	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE012	geo:GSE301982:PPFE012	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE013	geo:GSE301982:PPFE013	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE014	geo:GSE301982:PPFE014	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE015	geo:GSE301982:PPFE015	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE016	geo:GSE301982:PPFE016	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE017	geo:GSE301982:PPFE017	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE018	geo:GSE301982:PPFE018	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE019	geo:GSE301982:PPFE019	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE020	geo:GSE301982:PPFE020	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE021	geo:GSE301982:PPFE021	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE022	geo:GSE301982:PPFE022	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE023	geo:GSE301982:PPFE023	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE024	geo:GSE301982:PPFE024	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE025	geo:GSE301982:PPFE025	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE026	geo:GSE301982:PPFE026	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE028	geo:GSE301982:PPFE028	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE029	geo:GSE301982:PPFE029	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE031	geo:GSE301982:PPFE031	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE032	geo:GSE301982:PPFE032	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE033	geo:GSE301982:PPFE033	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE034	geo:GSE301982:PPFE034	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE035	geo:GSE301982:PPFE035	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE036	geo:GSE301982:PPFE036	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE037	geo:GSE301982:PPFE037	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE038	geo:GSE301982:PPFE038	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE039	geo:GSE301982:PPFE039	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE040	geo:GSE301982:PPFE040	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE041	geo:GSE301982:PPFE041	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE043	geo:GSE301982:PPFE043	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE044	geo:GSE301982:PPFE044	disease_free_text	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR048	geo:GSE301982:CTR048	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR051	geo:GSE301982:CTR051	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR058	geo:GSE301982:CTR058	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR068	geo:GSE301982:CTR068	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR069	geo:GSE301982:CTR069	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR070	geo:GSE301982:CTR070	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR071	geo:GSE301982:CTR071	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE001	geo:GSE301982:PPFE001	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE002	geo:GSE301982:PPFE002	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE003	geo:GSE301982:PPFE003	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE004	geo:GSE301982:PPFE004	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE006	geo:GSE301982:PPFE006	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE007	geo:GSE301982:PPFE007	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE008	geo:GSE301982:PPFE008	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE009	geo:GSE301982:PPFE009	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE010	geo:GSE301982:PPFE010	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE011	geo:GSE301982:PPFE011	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE012	geo:GSE301982:PPFE012	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE013	geo:GSE301982:PPFE013	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE014	geo:GSE301982:PPFE014	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE015	geo:GSE301982:PPFE015	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE016	geo:GSE301982:PPFE016	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE017	geo:GSE301982:PPFE017	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE018	geo:GSE301982:PPFE018	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE019	geo:GSE301982:PPFE019	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE020	geo:GSE301982:PPFE020	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE021	geo:GSE301982:PPFE021	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE022	geo:GSE301982:PPFE022	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE023	geo:GSE301982:PPFE023	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE024	geo:GSE301982:PPFE024	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE025	geo:GSE301982:PPFE025	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE026	geo:GSE301982:PPFE026	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE028	geo:GSE301982:PPFE028	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE029	geo:GSE301982:PPFE029	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE031	geo:GSE301982:PPFE031	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE032	geo:GSE301982:PPFE032	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE033	geo:GSE301982:PPFE033	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE034	geo:GSE301982:PPFE034	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE035	geo:GSE301982:PPFE035	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE036	geo:GSE301982:PPFE036	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE037	geo:GSE301982:PPFE037	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE038	geo:GSE301982:PPFE038	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE039	geo:GSE301982:PPFE039	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE040	geo:GSE301982:PPFE040	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE041	geo:GSE301982:PPFE041	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE043	geo:GSE301982:PPFE043	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+PPFE044	geo:GSE301982:PPFE044	disease_ontology_term_id	<column disease.ident>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/disease.ident			True
+CTR048	geo:GSE301982:CTR048	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR051	geo:GSE301982:CTR051	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR058	geo:GSE301982:CTR058	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR068	geo:GSE301982:CTR068	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR069	geo:GSE301982:CTR069	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR070	geo:GSE301982:CTR070	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR071	geo:GSE301982:CTR071	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE001	geo:GSE301982:PPFE001	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE002	geo:GSE301982:PPFE002	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE003	geo:GSE301982:PPFE003	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE004	geo:GSE301982:PPFE004	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE006	geo:GSE301982:PPFE006	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE007	geo:GSE301982:PPFE007	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE008	geo:GSE301982:PPFE008	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE009	geo:GSE301982:PPFE009	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE010	geo:GSE301982:PPFE010	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE011	geo:GSE301982:PPFE011	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE012	geo:GSE301982:PPFE012	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE013	geo:GSE301982:PPFE013	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE014	geo:GSE301982:PPFE014	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE015	geo:GSE301982:PPFE015	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE016	geo:GSE301982:PPFE016	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE017	geo:GSE301982:PPFE017	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE018	geo:GSE301982:PPFE018	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE019	geo:GSE301982:PPFE019	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE020	geo:GSE301982:PPFE020	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE021	geo:GSE301982:PPFE021	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE022	geo:GSE301982:PPFE022	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE023	geo:GSE301982:PPFE023	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE024	geo:GSE301982:PPFE024	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE025	geo:GSE301982:PPFE025	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE026	geo:GSE301982:PPFE026	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE028	geo:GSE301982:PPFE028	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE029	geo:GSE301982:PPFE029	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE031	geo:GSE301982:PPFE031	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE032	geo:GSE301982:PPFE032	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE033	geo:GSE301982:PPFE033	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE034	geo:GSE301982:PPFE034	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE035	geo:GSE301982:PPFE035	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE036	geo:GSE301982:PPFE036	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE037	geo:GSE301982:PPFE037	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE038	geo:GSE301982:PPFE038	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE039	geo:GSE301982:PPFE039	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE040	geo:GSE301982:PPFE040	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE041	geo:GSE301982:PPFE041	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE043	geo:GSE301982:PPFE043	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+PPFE044	geo:GSE301982:PPFE044	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+CTR048	geo:GSE301982:CTR048	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR051	geo:GSE301982:CTR051	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR058	geo:GSE301982:CTR058	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR068	geo:GSE301982:CTR068	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR069	geo:GSE301982:CTR069	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR070	geo:GSE301982:CTR070	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR071	geo:GSE301982:CTR071	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE001	geo:GSE301982:PPFE001	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE002	geo:GSE301982:PPFE002	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE003	geo:GSE301982:PPFE003	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE004	geo:GSE301982:PPFE004	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE006	geo:GSE301982:PPFE006	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE007	geo:GSE301982:PPFE007	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE008	geo:GSE301982:PPFE008	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE009	geo:GSE301982:PPFE009	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE010	geo:GSE301982:PPFE010	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE011	geo:GSE301982:PPFE011	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE012	geo:GSE301982:PPFE012	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE013	geo:GSE301982:PPFE013	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE014	geo:GSE301982:PPFE014	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE015	geo:GSE301982:PPFE015	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE016	geo:GSE301982:PPFE016	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE017	geo:GSE301982:PPFE017	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE018	geo:GSE301982:PPFE018	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE019	geo:GSE301982:PPFE019	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE020	geo:GSE301982:PPFE020	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE021	geo:GSE301982:PPFE021	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE022	geo:GSE301982:PPFE022	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE023	geo:GSE301982:PPFE023	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE024	geo:GSE301982:PPFE024	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE025	geo:GSE301982:PPFE025	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE026	geo:GSE301982:PPFE026	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE028	geo:GSE301982:PPFE028	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE029	geo:GSE301982:PPFE029	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE031	geo:GSE301982:PPFE031	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE032	geo:GSE301982:PPFE032	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE033	geo:GSE301982:PPFE033	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE034	geo:GSE301982:PPFE034	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE035	geo:GSE301982:PPFE035	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE036	geo:GSE301982:PPFE036	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE037	geo:GSE301982:PPFE037	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE038	geo:GSE301982:PPFE038	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE039	geo:GSE301982:PPFE039	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE040	geo:GSE301982:PPFE040	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE041	geo:GSE301982:PPFE041	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE043	geo:GSE301982:PPFE043	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+PPFE044	geo:GSE301982:PPFE044	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+CTR048	geo:GSE301982:CTR048	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR051	geo:GSE301982:CTR051	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR058	geo:GSE301982:CTR058	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR068	geo:GSE301982:CTR068	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR069	geo:GSE301982:CTR069	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR070	geo:GSE301982:CTR070	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR071	geo:GSE301982:CTR071	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE001	geo:GSE301982:PPFE001	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE002	geo:GSE301982:PPFE002	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE003	geo:GSE301982:PPFE003	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE004	geo:GSE301982:PPFE004	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE006	geo:GSE301982:PPFE006	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE007	geo:GSE301982:PPFE007	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE008	geo:GSE301982:PPFE008	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE009	geo:GSE301982:PPFE009	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE010	geo:GSE301982:PPFE010	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE011	geo:GSE301982:PPFE011	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE012	geo:GSE301982:PPFE012	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE013	geo:GSE301982:PPFE013	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE014	geo:GSE301982:PPFE014	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE015	geo:GSE301982:PPFE015	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE016	geo:GSE301982:PPFE016	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE017	geo:GSE301982:PPFE017	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE018	geo:GSE301982:PPFE018	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE019	geo:GSE301982:PPFE019	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE020	geo:GSE301982:PPFE020	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE021	geo:GSE301982:PPFE021	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE022	geo:GSE301982:PPFE022	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE023	geo:GSE301982:PPFE023	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE024	geo:GSE301982:PPFE024	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE025	geo:GSE301982:PPFE025	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE026	geo:GSE301982:PPFE026	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE028	geo:GSE301982:PPFE028	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE029	geo:GSE301982:PPFE029	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE031	geo:GSE301982:PPFE031	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE032	geo:GSE301982:PPFE032	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE033	geo:GSE301982:PPFE033	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE034	geo:GSE301982:PPFE034	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE035	geo:GSE301982:PPFE035	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE036	geo:GSE301982:PPFE036	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE037	geo:GSE301982:PPFE037	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE038	geo:GSE301982:PPFE038	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE039	geo:GSE301982:PPFE039	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE040	geo:GSE301982:PPFE040	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE041	geo:GSE301982:PPFE041	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE043	geo:GSE301982:PPFE043	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+PPFE044	geo:GSE301982:PPFE044	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CTR048	geo:GSE301982:CTR048	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+CTR051	geo:GSE301982:CTR051	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+CTR058	geo:GSE301982:CTR058	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+CTR068	geo:GSE301982:CTR068	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+CTR069	geo:GSE301982:CTR069	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+CTR070	geo:GSE301982:CTR070	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+CTR071	geo:GSE301982:CTR071	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE001	geo:GSE301982:PPFE001	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE002	geo:GSE301982:PPFE002	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE003	geo:GSE301982:PPFE003	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE004	geo:GSE301982:PPFE004	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE006	geo:GSE301982:PPFE006	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE007	geo:GSE301982:PPFE007	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE008	geo:GSE301982:PPFE008	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE009	geo:GSE301982:PPFE009	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE010	geo:GSE301982:PPFE010	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE011	geo:GSE301982:PPFE011	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE012	geo:GSE301982:PPFE012	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE013	geo:GSE301982:PPFE013	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE014	geo:GSE301982:PPFE014	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE015	geo:GSE301982:PPFE015	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE016	geo:GSE301982:PPFE016	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE017	geo:GSE301982:PPFE017	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE018	geo:GSE301982:PPFE018	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE019	geo:GSE301982:PPFE019	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE020	geo:GSE301982:PPFE020	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE021	geo:GSE301982:PPFE021	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE022	geo:GSE301982:PPFE022	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE023	geo:GSE301982:PPFE023	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE024	geo:GSE301982:PPFE024	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE025	geo:GSE301982:PPFE025	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE026	geo:GSE301982:PPFE026	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE028	geo:GSE301982:PPFE028	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE029	geo:GSE301982:PPFE029	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE031	geo:GSE301982:PPFE031	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE032	geo:GSE301982:PPFE032	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE033	geo:GSE301982:PPFE033	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE034	geo:GSE301982:PPFE034	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE035	geo:GSE301982:PPFE035	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE036	geo:GSE301982:PPFE036	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE037	geo:GSE301982:PPFE037	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE038	geo:GSE301982:PPFE038	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE039	geo:GSE301982:PPFE039	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE040	geo:GSE301982:PPFE040	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE041	geo:GSE301982:PPFE041	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE043	geo:GSE301982:PPFE043	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+PPFE044	geo:GSE301982:PPFE044	author_cell_type	<column Celltype>	column	work/fp-8f48040da70f/GSE301982_PPFE.selectedCTRL_30062025_converted/cell_metadata.tsv.gz/Celltype			True
+		organism	Homo sapiens	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+CTR048	geo:GSE301982:CTR048	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR051	geo:GSE301982:CTR051	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR058	geo:GSE301982:CTR058	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR068	geo:GSE301982:CTR068	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR069	geo:GSE301982:CTR069	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR070	geo:GSE301982:CTR070	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR071	geo:GSE301982:CTR071	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE001	geo:GSE301982:PPFE001	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE002	geo:GSE301982:PPFE002	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE003	geo:GSE301982:PPFE003	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE004	geo:GSE301982:PPFE004	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE006	geo:GSE301982:PPFE006	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE007	geo:GSE301982:PPFE007	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE008	geo:GSE301982:PPFE008	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE009	geo:GSE301982:PPFE009	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE010	geo:GSE301982:PPFE010	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE011	geo:GSE301982:PPFE011	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE012	geo:GSE301982:PPFE012	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE013	geo:GSE301982:PPFE013	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE014	geo:GSE301982:PPFE014	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE015	geo:GSE301982:PPFE015	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE016	geo:GSE301982:PPFE016	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE017	geo:GSE301982:PPFE017	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE018	geo:GSE301982:PPFE018	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE019	geo:GSE301982:PPFE019	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE020	geo:GSE301982:PPFE020	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE021	geo:GSE301982:PPFE021	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE022	geo:GSE301982:PPFE022	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE023	geo:GSE301982:PPFE023	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE024	geo:GSE301982:PPFE024	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE025	geo:GSE301982:PPFE025	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE026	geo:GSE301982:PPFE026	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE028	geo:GSE301982:PPFE028	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE029	geo:GSE301982:PPFE029	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE031	geo:GSE301982:PPFE031	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE032	geo:GSE301982:PPFE032	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE033	geo:GSE301982:PPFE033	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE034	geo:GSE301982:PPFE034	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE035	geo:GSE301982:PPFE035	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE036	geo:GSE301982:PPFE036	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE037	geo:GSE301982:PPFE037	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE038	geo:GSE301982:PPFE038	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE039	geo:GSE301982:PPFE039	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE040	geo:GSE301982:PPFE040	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE041	geo:GSE301982:PPFE041	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE043	geo:GSE301982:PPFE043	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+PPFE044	geo:GSE301982:PPFE044	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		PPFE patients undergoing lung re-transplantation	True
+CTR048	geo:GSE301982:CTR048	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR051	geo:GSE301982:CTR051	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR058	geo:GSE301982:CTR058	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR068	geo:GSE301982:CTR068	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR069	geo:GSE301982:CTR069	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR070	geo:GSE301982:CTR070	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR071	geo:GSE301982:CTR071	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE001	geo:GSE301982:PPFE001	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE002	geo:GSE301982:PPFE002	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE003	geo:GSE301982:PPFE003	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE004	geo:GSE301982:PPFE004	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE006	geo:GSE301982:PPFE006	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE007	geo:GSE301982:PPFE007	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE008	geo:GSE301982:PPFE008	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE009	geo:GSE301982:PPFE009	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE010	geo:GSE301982:PPFE010	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE011	geo:GSE301982:PPFE011	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE012	geo:GSE301982:PPFE012	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE013	geo:GSE301982:PPFE013	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE014	geo:GSE301982:PPFE014	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE015	geo:GSE301982:PPFE015	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE016	geo:GSE301982:PPFE016	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE017	geo:GSE301982:PPFE017	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE018	geo:GSE301982:PPFE018	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE019	geo:GSE301982:PPFE019	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE020	geo:GSE301982:PPFE020	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE021	geo:GSE301982:PPFE021	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE022	geo:GSE301982:PPFE022	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE023	geo:GSE301982:PPFE023	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE024	geo:GSE301982:PPFE024	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE025	geo:GSE301982:PPFE025	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE026	geo:GSE301982:PPFE026	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE028	geo:GSE301982:PPFE028	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE029	geo:GSE301982:PPFE029	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE031	geo:GSE301982:PPFE031	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE032	geo:GSE301982:PPFE032	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE033	geo:GSE301982:PPFE033	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE034	geo:GSE301982:PPFE034	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE035	geo:GSE301982:PPFE035	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE036	geo:GSE301982:PPFE036	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE037	geo:GSE301982:PPFE037	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE038	geo:GSE301982:PPFE038	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE039	geo:GSE301982:PPFE039	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE040	geo:GSE301982:PPFE040	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE041	geo:GSE301982:PPFE041	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE043	geo:GSE301982:PPFE043	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE044	geo:GSE301982:PPFE044	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR048	geo:GSE301982:CTR048	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR051	geo:GSE301982:CTR051	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR058	geo:GSE301982:CTR058	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR068	geo:GSE301982:CTR068	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR069	geo:GSE301982:CTR069	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR070	geo:GSE301982:CTR070	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR071	geo:GSE301982:CTR071	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE001	geo:GSE301982:PPFE001	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE002	geo:GSE301982:PPFE002	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE003	geo:GSE301982:PPFE003	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE004	geo:GSE301982:PPFE004	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE006	geo:GSE301982:PPFE006	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE007	geo:GSE301982:PPFE007	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE008	geo:GSE301982:PPFE008	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE009	geo:GSE301982:PPFE009	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE010	geo:GSE301982:PPFE010	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE011	geo:GSE301982:PPFE011	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE012	geo:GSE301982:PPFE012	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE013	geo:GSE301982:PPFE013	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE014	geo:GSE301982:PPFE014	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE015	geo:GSE301982:PPFE015	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE016	geo:GSE301982:PPFE016	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE017	geo:GSE301982:PPFE017	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE018	geo:GSE301982:PPFE018	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE019	geo:GSE301982:PPFE019	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE020	geo:GSE301982:PPFE020	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE021	geo:GSE301982:PPFE021	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE022	geo:GSE301982:PPFE022	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE023	geo:GSE301982:PPFE023	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE024	geo:GSE301982:PPFE024	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE025	geo:GSE301982:PPFE025	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE026	geo:GSE301982:PPFE026	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE028	geo:GSE301982:PPFE028	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE029	geo:GSE301982:PPFE029	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE031	geo:GSE301982:PPFE031	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE032	geo:GSE301982:PPFE032	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE033	geo:GSE301982:PPFE033	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE034	geo:GSE301982:PPFE034	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE035	geo:GSE301982:PPFE035	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE036	geo:GSE301982:PPFE036	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE037	geo:GSE301982:PPFE037	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE038	geo:GSE301982:PPFE038	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE039	geo:GSE301982:PPFE039	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE040	geo:GSE301982:PPFE040	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE041	geo:GSE301982:PPFE041	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE043	geo:GSE301982:PPFE043	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+PPFE044	geo:GSE301982:PPFE044	disease_free_text	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		The pleuroparenchymal fibroelastosis atlas reveals aberrant cell states	True
+CTR048	geo:GSE301982:CTR048	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR051	geo:GSE301982:CTR051	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR058	geo:GSE301982:CTR058	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR068	geo:GSE301982:CTR068	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR069	geo:GSE301982:CTR069	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR070	geo:GSE301982:CTR070	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR071	geo:GSE301982:CTR071	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE001	geo:GSE301982:PPFE001	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE002	geo:GSE301982:PPFE002	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE003	geo:GSE301982:PPFE003	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE004	geo:GSE301982:PPFE004	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE006	geo:GSE301982:PPFE006	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE007	geo:GSE301982:PPFE007	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE008	geo:GSE301982:PPFE008	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE009	geo:GSE301982:PPFE009	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE010	geo:GSE301982:PPFE010	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE011	geo:GSE301982:PPFE011	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE012	geo:GSE301982:PPFE012	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE013	geo:GSE301982:PPFE013	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE014	geo:GSE301982:PPFE014	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE015	geo:GSE301982:PPFE015	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE016	geo:GSE301982:PPFE016	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE017	geo:GSE301982:PPFE017	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE018	geo:GSE301982:PPFE018	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE019	geo:GSE301982:PPFE019	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE020	geo:GSE301982:PPFE020	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE021	geo:GSE301982:PPFE021	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE022	geo:GSE301982:PPFE022	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE023	geo:GSE301982:PPFE023	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE024	geo:GSE301982:PPFE024	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE025	geo:GSE301982:PPFE025	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE026	geo:GSE301982:PPFE026	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE028	geo:GSE301982:PPFE028	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE029	geo:GSE301982:PPFE029	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE031	geo:GSE301982:PPFE031	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE032	geo:GSE301982:PPFE032	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE033	geo:GSE301982:PPFE033	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE034	geo:GSE301982:PPFE034	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE035	geo:GSE301982:PPFE035	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE036	geo:GSE301982:PPFE036	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE037	geo:GSE301982:PPFE037	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE038	geo:GSE301982:PPFE038	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE039	geo:GSE301982:PPFE039	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE040	geo:GSE301982:PPFE040	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE041	geo:GSE301982:PPFE041	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE043	geo:GSE301982:PPFE043	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+PPFE044	geo:GSE301982:PPFE044	disease_ontology_term_id	<map of column disease.ident>	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		healthy control lungs	True
+CTR048	geo:GSE301982:CTR048	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR051	geo:GSE301982:CTR051	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR058	geo:GSE301982:CTR058	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR068	geo:GSE301982:CTR068	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR069	geo:GSE301982:CTR069	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR070	geo:GSE301982:CTR070	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR071	geo:GSE301982:CTR071	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE001	geo:GSE301982:PPFE001	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE002	geo:GSE301982:PPFE002	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE003	geo:GSE301982:PPFE003	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE004	geo:GSE301982:PPFE004	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE006	geo:GSE301982:PPFE006	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE007	geo:GSE301982:PPFE007	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE008	geo:GSE301982:PPFE008	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE009	geo:GSE301982:PPFE009	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE010	geo:GSE301982:PPFE010	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE011	geo:GSE301982:PPFE011	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE012	geo:GSE301982:PPFE012	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE013	geo:GSE301982:PPFE013	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE014	geo:GSE301982:PPFE014	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE015	geo:GSE301982:PPFE015	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE016	geo:GSE301982:PPFE016	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE017	geo:GSE301982:PPFE017	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE018	geo:GSE301982:PPFE018	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE019	geo:GSE301982:PPFE019	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE020	geo:GSE301982:PPFE020	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE021	geo:GSE301982:PPFE021	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE022	geo:GSE301982:PPFE022	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE023	geo:GSE301982:PPFE023	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE024	geo:GSE301982:PPFE024	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE025	geo:GSE301982:PPFE025	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE026	geo:GSE301982:PPFE026	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE028	geo:GSE301982:PPFE028	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE029	geo:GSE301982:PPFE029	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE031	geo:GSE301982:PPFE031	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE032	geo:GSE301982:PPFE032	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE033	geo:GSE301982:PPFE033	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE034	geo:GSE301982:PPFE034	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE035	geo:GSE301982:PPFE035	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE036	geo:GSE301982:PPFE036	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE037	geo:GSE301982:PPFE037	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE038	geo:GSE301982:PPFE038	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE039	geo:GSE301982:PPFE039	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE040	geo:GSE301982:PPFE040	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE041	geo:GSE301982:PPFE041	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE043	geo:GSE301982:PPFE043	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE044	geo:GSE301982:PPFE044	tissue_free_text	lung	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR048	geo:GSE301982:CTR048	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR051	geo:GSE301982:CTR051	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR058	geo:GSE301982:CTR058	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR068	geo:GSE301982:CTR068	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR069	geo:GSE301982:CTR069	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR070	geo:GSE301982:CTR070	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR071	geo:GSE301982:CTR071	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE001	geo:GSE301982:PPFE001	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE002	geo:GSE301982:PPFE002	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE003	geo:GSE301982:PPFE003	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE004	geo:GSE301982:PPFE004	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE006	geo:GSE301982:PPFE006	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE007	geo:GSE301982:PPFE007	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE008	geo:GSE301982:PPFE008	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE009	geo:GSE301982:PPFE009	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE010	geo:GSE301982:PPFE010	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE011	geo:GSE301982:PPFE011	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE012	geo:GSE301982:PPFE012	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE013	geo:GSE301982:PPFE013	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE014	geo:GSE301982:PPFE014	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE015	geo:GSE301982:PPFE015	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE016	geo:GSE301982:PPFE016	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE017	geo:GSE301982:PPFE017	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE018	geo:GSE301982:PPFE018	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE019	geo:GSE301982:PPFE019	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE020	geo:GSE301982:PPFE020	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE021	geo:GSE301982:PPFE021	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE022	geo:GSE301982:PPFE022	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE023	geo:GSE301982:PPFE023	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE024	geo:GSE301982:PPFE024	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE025	geo:GSE301982:PPFE025	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE026	geo:GSE301982:PPFE026	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE028	geo:GSE301982:PPFE028	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE029	geo:GSE301982:PPFE029	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE031	geo:GSE301982:PPFE031	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE032	geo:GSE301982:PPFE032	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE033	geo:GSE301982:PPFE033	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE034	geo:GSE301982:PPFE034	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE035	geo:GSE301982:PPFE035	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE036	geo:GSE301982:PPFE036	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE037	geo:GSE301982:PPFE037	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE038	geo:GSE301982:PPFE038	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE039	geo:GSE301982:PPFE039	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE040	geo:GSE301982:PPFE040	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE041	geo:GSE301982:PPFE041	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE043	geo:GSE301982:PPFE043	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+PPFE044	geo:GSE301982:PPFE044	suspension_type	nucleus	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Single-nuclei RNA-sequencing (snRNA-seq) using the 10x Genomics Flex technology	True
+CTR048	geo:GSE301982:CTR048	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR051	geo:GSE301982:CTR051	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR058	geo:GSE301982:CTR058	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR068	geo:GSE301982:CTR068	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR069	geo:GSE301982:CTR069	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR070	geo:GSE301982:CTR070	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR071	geo:GSE301982:CTR071	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE001	geo:GSE301982:PPFE001	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE002	geo:GSE301982:PPFE002	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE003	geo:GSE301982:PPFE003	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE004	geo:GSE301982:PPFE004	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE006	geo:GSE301982:PPFE006	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE007	geo:GSE301982:PPFE007	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE008	geo:GSE301982:PPFE008	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE009	geo:GSE301982:PPFE009	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE010	geo:GSE301982:PPFE010	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE011	geo:GSE301982:PPFE011	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE012	geo:GSE301982:PPFE012	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE013	geo:GSE301982:PPFE013	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE014	geo:GSE301982:PPFE014	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE015	geo:GSE301982:PPFE015	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE016	geo:GSE301982:PPFE016	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE017	geo:GSE301982:PPFE017	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE018	geo:GSE301982:PPFE018	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE019	geo:GSE301982:PPFE019	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE020	geo:GSE301982:PPFE020	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE021	geo:GSE301982:PPFE021	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE022	geo:GSE301982:PPFE022	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE023	geo:GSE301982:PPFE023	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE024	geo:GSE301982:PPFE024	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE025	geo:GSE301982:PPFE025	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE026	geo:GSE301982:PPFE026	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE028	geo:GSE301982:PPFE028	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE029	geo:GSE301982:PPFE029	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE031	geo:GSE301982:PPFE031	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE032	geo:GSE301982:PPFE032	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE033	geo:GSE301982:PPFE033	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE034	geo:GSE301982:PPFE034	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE035	geo:GSE301982:PPFE035	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE036	geo:GSE301982:PPFE036	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE037	geo:GSE301982:PPFE037	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE038	geo:GSE301982:PPFE038	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE039	geo:GSE301982:PPFE039	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE040	geo:GSE301982:PPFE040	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE041	geo:GSE301982:PPFE041	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE043	geo:GSE301982:PPFE043	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+PPFE044	geo:GSE301982:PPFE044	assay	10x gene expression flex	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		using the 10x Genomics Flex technology	True
+CTR048	geo:GSE301982:CTR048	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR051	geo:GSE301982:CTR051	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR058	geo:GSE301982:CTR058	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR068	geo:GSE301982:CTR068	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR069	geo:GSE301982:CTR069	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR070	geo:GSE301982:CTR070	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR071	geo:GSE301982:CTR071	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE001	geo:GSE301982:PPFE001	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE002	geo:GSE301982:PPFE002	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE003	geo:GSE301982:PPFE003	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE004	geo:GSE301982:PPFE004	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE006	geo:GSE301982:PPFE006	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE007	geo:GSE301982:PPFE007	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE008	geo:GSE301982:PPFE008	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE009	geo:GSE301982:PPFE009	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE010	geo:GSE301982:PPFE010	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE011	geo:GSE301982:PPFE011	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE012	geo:GSE301982:PPFE012	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE013	geo:GSE301982:PPFE013	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE014	geo:GSE301982:PPFE014	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE015	geo:GSE301982:PPFE015	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE016	geo:GSE301982:PPFE016	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE017	geo:GSE301982:PPFE017	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE018	geo:GSE301982:PPFE018	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE019	geo:GSE301982:PPFE019	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE020	geo:GSE301982:PPFE020	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE021	geo:GSE301982:PPFE021	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE022	geo:GSE301982:PPFE022	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE023	geo:GSE301982:PPFE023	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE024	geo:GSE301982:PPFE024	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE025	geo:GSE301982:PPFE025	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE026	geo:GSE301982:PPFE026	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE028	geo:GSE301982:PPFE028	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE029	geo:GSE301982:PPFE029	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE031	geo:GSE301982:PPFE031	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE032	geo:GSE301982:PPFE032	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE033	geo:GSE301982:PPFE033	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE034	geo:GSE301982:PPFE034	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE035	geo:GSE301982:PPFE035	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE036	geo:GSE301982:PPFE036	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE037	geo:GSE301982:PPFE037	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE038	geo:GSE301982:PPFE038	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE039	geo:GSE301982:PPFE039	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE040	geo:GSE301982:PPFE040	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE041	geo:GSE301982:PPFE041	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE043	geo:GSE301982:PPFE043	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+PPFE044	geo:GSE301982:PPFE044	sample_preservation	formalin fixed	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Nuclei isolation from formalin fixed lung tissue	True
+CTR048	geo:GSE301982:CTR048	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR051	geo:GSE301982:CTR051	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR058	geo:GSE301982:CTR058	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR068	geo:GSE301982:CTR068	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR069	geo:GSE301982:CTR069	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR070	geo:GSE301982:CTR070	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR071	geo:GSE301982:CTR071	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE001	geo:GSE301982:PPFE001	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE002	geo:GSE301982:PPFE002	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE003	geo:GSE301982:PPFE003	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE004	geo:GSE301982:PPFE004	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE006	geo:GSE301982:PPFE006	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE007	geo:GSE301982:PPFE007	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE008	geo:GSE301982:PPFE008	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE009	geo:GSE301982:PPFE009	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE010	geo:GSE301982:PPFE010	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE011	geo:GSE301982:PPFE011	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE012	geo:GSE301982:PPFE012	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE013	geo:GSE301982:PPFE013	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE014	geo:GSE301982:PPFE014	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE015	geo:GSE301982:PPFE015	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE016	geo:GSE301982:PPFE016	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE017	geo:GSE301982:PPFE017	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE018	geo:GSE301982:PPFE018	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE019	geo:GSE301982:PPFE019	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE020	geo:GSE301982:PPFE020	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE021	geo:GSE301982:PPFE021	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE022	geo:GSE301982:PPFE022	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE023	geo:GSE301982:PPFE023	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE024	geo:GSE301982:PPFE024	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE025	geo:GSE301982:PPFE025	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE026	geo:GSE301982:PPFE026	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE028	geo:GSE301982:PPFE028	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE029	geo:GSE301982:PPFE029	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE031	geo:GSE301982:PPFE031	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE032	geo:GSE301982:PPFE032	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE033	geo:GSE301982:PPFE033	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE034	geo:GSE301982:PPFE034	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE035	geo:GSE301982:PPFE035	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE036	geo:GSE301982:PPFE036	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE037	geo:GSE301982:PPFE037	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE038	geo:GSE301982:PPFE038	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE039	geo:GSE301982:PPFE039	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE040	geo:GSE301982:PPFE040	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE041	geo:GSE301982:PPFE041	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE043	geo:GSE301982:PPFE043	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+PPFE044	geo:GSE301982:PPFE044	cell_enrichment	DAPI+ nuclei sorted by FANS	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		Fluorescence Activated Nuclei Sorting of DAPI+ single nuclei	True
+CTR048	geo:GSE301982:CTR048	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+CTR051	geo:GSE301982:CTR051	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+CTR058	geo:GSE301982:CTR058	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+CTR068	geo:GSE301982:CTR068	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+CTR069	geo:GSE301982:CTR069	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+CTR070	geo:GSE301982:CTR070	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+CTR071	geo:GSE301982:CTR071	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE001	geo:GSE301982:PPFE001	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE002	geo:GSE301982:PPFE002	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE003	geo:GSE301982:PPFE003	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE004	geo:GSE301982:PPFE004	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE006	geo:GSE301982:PPFE006	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE007	geo:GSE301982:PPFE007	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE008	geo:GSE301982:PPFE008	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE009	geo:GSE301982:PPFE009	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE010	geo:GSE301982:PPFE010	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE011	geo:GSE301982:PPFE011	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE012	geo:GSE301982:PPFE012	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE013	geo:GSE301982:PPFE013	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE014	geo:GSE301982:PPFE014	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE015	geo:GSE301982:PPFE015	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE016	geo:GSE301982:PPFE016	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE017	geo:GSE301982:PPFE017	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE018	geo:GSE301982:PPFE018	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE019	geo:GSE301982:PPFE019	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE020	geo:GSE301982:PPFE020	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE021	geo:GSE301982:PPFE021	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE022	geo:GSE301982:PPFE022	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE023	geo:GSE301982:PPFE023	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE024	geo:GSE301982:PPFE024	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE025	geo:GSE301982:PPFE025	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE026	geo:GSE301982:PPFE026	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE028	geo:GSE301982:PPFE028	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE029	geo:GSE301982:PPFE029	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE031	geo:GSE301982:PPFE031	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE032	geo:GSE301982:PPFE032	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE033	geo:GSE301982:PPFE033	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE034	geo:GSE301982:PPFE034	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE035	geo:GSE301982:PPFE035	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE036	geo:GSE301982:PPFE036	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE037	geo:GSE301982:PPFE037	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE038	geo:GSE301982:PPFE038	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE039	geo:GSE301982:PPFE039	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE040	geo:GSE301982:PPFE040	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE041	geo:GSE301982:PPFE041	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE043	geo:GSE301982:PPFE043	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True
+PPFE044	geo:GSE301982:PPFE044	tissue_type	tissue	file	raw/fp-8f48040da70f/GSE301982_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung tissue	True

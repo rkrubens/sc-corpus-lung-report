@@ -1,0 +1,58 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8636829	geo:GSE282149:GSM8636829	tissue_free_text	human bronchial epithelia	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636829	geo:GSE282149:GSM8636829	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636829	geo:GSE282149:GSM8636829	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636829	geo:GSE282149:GSM8636829	disease_free_text	IPF	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636829	geo:GSE282149:GSM8636829	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636829	geo:GSE282149:GSM8636829	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	!Sample_title = Airway BCs of IPF patient1	True
+GSM8636829	geo:GSE282149:GSM8636829	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636829	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636830	geo:GSE282149:GSM8636830	tissue_free_text	human bronchial epithelia	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636830	geo:GSE282149:GSM8636830	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636830	geo:GSE282149:GSM8636830	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636830	geo:GSE282149:GSM8636830	disease_free_text	IPF	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636830	geo:GSE282149:GSM8636830	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636830	geo:GSE282149:GSM8636830	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	!Sample_title = Airway BCs of IPF patient2	True
+GSM8636830	geo:GSE282149:GSM8636830	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636830	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636831	geo:GSE282149:GSM8636831	tissue_free_text	human bronchial epithelia	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636831	geo:GSE282149:GSM8636831	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636831	geo:GSE282149:GSM8636831	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636831	geo:GSE282149:GSM8636831	disease_free_text	IPF	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636831	geo:GSE282149:GSM8636831	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636831	geo:GSE282149:GSM8636831	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	!Sample_title = Airway BCs of IPF patient3	True
+GSM8636831	geo:GSE282149:GSM8636831	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636831	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636832	geo:GSE282149:GSM8636832	tissue_free_text	human bronchial epithelia	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636832	geo:GSE282149:GSM8636832	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636832	geo:GSE282149:GSM8636832	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636832	geo:GSE282149:GSM8636832	disease_free_text	healthy	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	!Sample_characteristics_ch1 = cell type: healthy	True
+GSM8636832	geo:GSE282149:GSM8636832	disease_ontology_term_id	PATO:0000461	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	!Sample_characteristics_ch1 = cell type: healthy	True
+GSM8636832	geo:GSE282149:GSM8636832	disease_ontology_term_id	PATO:0000461	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	!Sample_title = Airway BCs of healthy control1	True
+GSM8636832	geo:GSE282149:GSM8636832	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636832	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636833	geo:GSE282149:GSM8636833	tissue_free_text	human bronchial epithelia	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636833	geo:GSE282149:GSM8636833	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636833	geo:GSE282149:GSM8636833	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636833	geo:GSE282149:GSM8636833	disease_free_text	healthy	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	!Sample_characteristics_ch1 = cell type: healthy	True
+GSM8636833	geo:GSE282149:GSM8636833	disease_ontology_term_id	PATO:0000461	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	!Sample_characteristics_ch1 = cell type: healthy	True
+GSM8636833	geo:GSE282149:GSM8636833	disease_ontology_term_id	PATO:0000461	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	!Sample_title = Airway BCs of healthy control2	True
+GSM8636833	geo:GSE282149:GSM8636833	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636833	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636834	geo:GSE282149:GSM8636834	tissue_free_text	human bronchial epithelia	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636834	geo:GSE282149:GSM8636834	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM8636834	geo:GSE282149:GSM8636834	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636834	geo:GSE282149:GSM8636834	disease_free_text	healthy	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	!Sample_characteristics_ch1 = cell type: healthy	True
+GSM8636834	geo:GSE282149:GSM8636834	disease_ontology_term_id	PATO:0000461	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	!Sample_characteristics_ch1 = cell type: healthy	True
+GSM8636834	geo:GSE282149:GSM8636834	disease_ontology_term_id	PATO:0000461	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	!Sample_title = Airway BCs of healthy control3	True
+GSM8636834	geo:GSE282149:GSM8636834	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636834	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636835	geo:GSE282149:GSM8636835	tissue_free_text	the margin of the excised lung tissue	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	!Sample_characteristics_ch1 = tissue: the margin of the excised lung tissue	True
+GSM8636835	geo:GSE282149:GSM8636835	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	!Sample_characteristics_ch1 = tissue: the margin of the excised lung tissue	True
+GSM8636835	geo:GSE282149:GSM8636835	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	cultured on a lawn of irradiated 3T3-J2 feeder	True
+GSM8636835	geo:GSE282149:GSM8636835	disease_free_text	IPF	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636835	geo:GSE282149:GSM8636835	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636835	geo:GSE282149:GSM8636835	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	!Sample_title = Distal BCs of IPF patient sample	True
+GSM8636835	geo:GSE282149:GSM8636835	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636835	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True
+GSM8636836	geo:GSE282149:GSM8636836	tissue_free_text	the margin of the excised lung tissue	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	!Sample_characteristics_ch1 = tissue: the margin of the excised lung tissue	True
+GSM8636836	geo:GSE282149:GSM8636836	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	!Sample_characteristics_ch1 = tissue: the margin of the excised lung tissue	True
+GSM8636836	geo:GSE282149:GSM8636836	tissue_type	cell culture	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	Primary fibroblast were expanded at 37°C in a 5% CO2 atmosphere	True
+GSM8636836	geo:GSE282149:GSM8636836	disease_free_text	IPF	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636836	geo:GSE282149:GSM8636836	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	!Sample_characteristics_ch1 = cell type: IPF	True
+GSM8636836	geo:GSE282149:GSM8636836	disease_ontology_term_id	MONDO:0800504	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	!Sample_title = Fibroblast of IPF patient sample	True
+GSM8636836	geo:GSE282149:GSM8636836	suspension_type	cell	file	raw/fp-f362bc9d6822/GSE282149_family.soft.gz	GSM8636836	followed by single-cell capture and barcoding according to BD Rhapsody workflow	True

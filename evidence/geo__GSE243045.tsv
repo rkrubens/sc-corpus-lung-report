@@ -1,0 +1,42 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7777871	geo:GSE243045:GSM7777871	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7777872	geo:GSE243045:GSM7777872	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7777873	geo:GSE243045:GSM7777873	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7777874	geo:GSE243045:GSM7777874	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7777875	geo:GSE243045:GSM7777875	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+		organism	Homo sapiens	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7777871	geo:GSE243045:GSM7777871	donor_id	Donor1	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777871	!Sample_title = ALI0,HBECS,Donor1	True
+GSM7777871	geo:GSE243045:GSM7777871	tissue_free_text	bronchial airways	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777871	tissue: bronchial airways	True
+GSM7777871	geo:GSE243045:GSM7777871	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777871	cell type: Human Bronchial Epithelial Cells (HBECS)	True
+GSM7777871	geo:GSE243045:GSM7777871	tissue_type	cell culture	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz		The study here generated single-cell dataset of human airways after in vitro regeneration at the Air-Liquid Interface.	True
+GSM7777871	geo:GSE243045:GSM7777871	timepoint	ALI0	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777871	differentiation day: ALI0	True
+GSM7777871	geo:GSE243045:GSM7777871	suspension_type	cell	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777871	Cells were centrifuged at 150 g	True
+GSM7777871	geo:GSE243045:GSM7777871	assay	10x 3' v2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777871	Chromium™ Single Cell 3’ Reagent Kits, v2	True
+GSM7777872	geo:GSE243045:GSM7777872	donor_id	Donor1	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777872	!Sample_title = ALI28,HBECS,Donor1	True
+GSM7777872	geo:GSE243045:GSM7777872	tissue_free_text	bronchial airways	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777872	tissue: bronchial airways	True
+GSM7777872	geo:GSE243045:GSM7777872	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777872	cell type: Human Bronchial Epithelial Cells (HBECS)	True
+GSM7777872	geo:GSE243045:GSM7777872	tissue_type	cell culture	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz		The study here generated single-cell dataset of human airways after in vitro regeneration at the Air-Liquid Interface.	True
+GSM7777872	geo:GSE243045:GSM7777872	timepoint	ALI28	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777872	differentiation day: ALI28	True
+GSM7777872	geo:GSE243045:GSM7777872	suspension_type	cell	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777872	Cells were centrifuged at 150 g	True
+GSM7777872	geo:GSE243045:GSM7777872	assay	10x 3' v2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777872	Chromium™ Single Cell 3’ Reagent Kits, v2	True
+GSM7777873	geo:GSE243045:GSM7777873	donor_id	Donor2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777873	!Sample_title = ALI28,HBECS,Donor2	True
+GSM7777873	geo:GSE243045:GSM7777873	tissue_free_text	bronchial airways	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777873	tissue: bronchial airways	True
+GSM7777873	geo:GSE243045:GSM7777873	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777873	cell type: Human Bronchial Epithelial Cells (HBECS)	True
+GSM7777873	geo:GSE243045:GSM7777873	tissue_type	cell culture	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz		The study here generated single-cell dataset of human airways after in vitro regeneration at the Air-Liquid Interface.	True
+GSM7777873	geo:GSE243045:GSM7777873	timepoint	ALI28	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777873	differentiation day: ALI28	True
+GSM7777873	geo:GSE243045:GSM7777873	suspension_type	cell	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777873	Cells were centrifuged at 150 g	True
+GSM7777873	geo:GSE243045:GSM7777873	assay	10x 3' v2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777873	Chromium™ Single Cell 3’ Reagent Kits, v2	True
+GSM7777874	geo:GSE243045:GSM7777874	donor_id	Donor1	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777874	!Sample_title = Prolif,HBECS,Donor1	True
+GSM7777874	geo:GSE243045:GSM7777874	tissue_free_text	bronchial airways	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777874	tissue: bronchial airways	True
+GSM7777874	geo:GSE243045:GSM7777874	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777874	cell type: Human Bronchial Epithelial Cells (HBECS)	True
+GSM7777874	geo:GSE243045:GSM7777874	tissue_type	cell culture	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz		The study here generated single-cell dataset of human airways after in vitro regeneration at the Air-Liquid Interface.	True
+GSM7777874	geo:GSE243045:GSM7777874	timepoint	Prolif	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777874	differentiation day: Prolif	True
+GSM7777874	geo:GSE243045:GSM7777874	suspension_type	cell	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777874	Cells were centrifuged at 150 g	True
+GSM7777874	geo:GSE243045:GSM7777874	assay	10x 3' v2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777874	Chromium™ Single Cell 3’ Reagent Kits, v2	True
+GSM7777875	geo:GSE243045:GSM7777875	donor_id	Donor2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777875	!Sample_title = Prolif,HBECS,Donor2	True
+GSM7777875	geo:GSE243045:GSM7777875	tissue_free_text	bronchial airways	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777875	tissue: bronchial airways	True
+GSM7777875	geo:GSE243045:GSM7777875	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777875	cell type: Human Bronchial Epithelial Cells (HBECS)	True
+GSM7777875	geo:GSE243045:GSM7777875	tissue_type	cell culture	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz		The study here generated single-cell dataset of human airways after in vitro regeneration at the Air-Liquid Interface.	True
+GSM7777875	geo:GSE243045:GSM7777875	timepoint	Prolif	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777875	differentiation day: Prolif	True
+GSM7777875	geo:GSE243045:GSM7777875	suspension_type	cell	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777875	Cells were centrifuged at 150 g	True
+GSM7777875	geo:GSE243045:GSM7777875	assay	10x 3' v2	file	raw/fp-3df160d9e47f/GSE243045_family.soft.gz	GSM7777875	Chromium™ Single Cell 3’ Reagent Kits, v2	True

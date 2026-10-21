@@ -1,0 +1,466 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+ControlYu01	geo:GSE252465:ControlYu01	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+ControlYu02	geo:GSE252465:ControlYu02	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+ControlYu03	geo:GSE252465:ControlYu03	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+ControlYu04	geo:GSE252465:ControlYu04	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+ControlYu06	geo:GSE252465:ControlYu06	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu02	geo:GSE252465:IPFYu02	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu04	geo:GSE252465:IPFYu04	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu05	geo:GSE252465:IPFYu05	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu06	geo:GSE252465:IPFYu06	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu07	geo:GSE252465:IPFYu07	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu08	geo:GSE252465:IPFYu08	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu10	geo:GSE252465:IPFYu10	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu11	geo:GSE252465:IPFYu11	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu12	geo:GSE252465:IPFYu12	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu13	geo:GSE252465:IPFYu13	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+IPFYu14	geo:GSE252465:IPFYu14	donor_id	<column pnt_in_paper>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/pnt_in_paper			True
+ControlYu01	geo:GSE252465:ControlYu01	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+ControlYu02	geo:GSE252465:ControlYu02	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+ControlYu03	geo:GSE252465:ControlYu03	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+ControlYu04	geo:GSE252465:ControlYu04	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+ControlYu06	geo:GSE252465:ControlYu06	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu02	geo:GSE252465:IPFYu02	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu04	geo:GSE252465:IPFYu04	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu05	geo:GSE252465:IPFYu05	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu06	geo:GSE252465:IPFYu06	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu07	geo:GSE252465:IPFYu07	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu08	geo:GSE252465:IPFYu08	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu10	geo:GSE252465:IPFYu10	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu11	geo:GSE252465:IPFYu11	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu12	geo:GSE252465:IPFYu12	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu13	geo:GSE252465:IPFYu13	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+IPFYu14	geo:GSE252465:IPFYu14	sex_ontology_term_id	<column Gender>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Gender			True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	<column Age>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Age			True
+ControlYu01	geo:GSE252465:ControlYu01	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+ControlYu02	geo:GSE252465:ControlYu02	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+ControlYu03	geo:GSE252465:ControlYu03	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+ControlYu04	geo:GSE252465:ControlYu04	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+ControlYu06	geo:GSE252465:ControlYu06	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu02	geo:GSE252465:IPFYu02	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu04	geo:GSE252465:IPFYu04	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu05	geo:GSE252465:IPFYu05	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu06	geo:GSE252465:IPFYu06	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu07	geo:GSE252465:IPFYu07	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu08	geo:GSE252465:IPFYu08	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu10	geo:GSE252465:IPFYu10	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu11	geo:GSE252465:IPFYu11	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu12	geo:GSE252465:IPFYu12	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu13	geo:GSE252465:IPFYu13	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+IPFYu14	geo:GSE252465:IPFYu14	disease_free_text	<column Disease>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/Disease			True
+ControlYu01	geo:GSE252465:ControlYu01	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+ControlYu02	geo:GSE252465:ControlYu02	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+ControlYu03	geo:GSE252465:ControlYu03	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+ControlYu04	geo:GSE252465:ControlYu04	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+ControlYu06	geo:GSE252465:ControlYu06	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu02	geo:GSE252465:IPFYu02	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu04	geo:GSE252465:IPFYu04	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu05	geo:GSE252465:IPFYu05	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu06	geo:GSE252465:IPFYu06	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu07	geo:GSE252465:IPFYu07	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu08	geo:GSE252465:IPFYu08	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu10	geo:GSE252465:IPFYu10	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu11	geo:GSE252465:IPFYu11	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu12	geo:GSE252465:IPFYu12	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu13	geo:GSE252465:IPFYu13	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+IPFYu14	geo:GSE252465:IPFYu14	disease_stage	<column IPFgroup>	column	work/fp-f27a8305d01f/GSE252465_ILD_combined_sct_rpca20230720_converted/cell_metadata.tsv.gz/IPFgroup			True
+ControlYu01	geo:GSE252465:ControlYu01	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+ControlYu02	geo:GSE252465:ControlYu02	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+ControlYu03	geo:GSE252465:ControlYu03	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+ControlYu04	geo:GSE252465:ControlYu04	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+ControlYu06	geo:GSE252465:ControlYu06	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu02	geo:GSE252465:IPFYu02	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu04	geo:GSE252465:IPFYu04	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu05	geo:GSE252465:IPFYu05	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu06	geo:GSE252465:IPFYu06	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu07	geo:GSE252465:IPFYu07	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu08	geo:GSE252465:IPFYu08	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu10	geo:GSE252465:IPFYu10	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu11	geo:GSE252465:IPFYu11	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu12	geo:GSE252465:IPFYu12	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu13	geo:GSE252465:IPFYu13	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPFYu14	geo:GSE252465:IPFYu14	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+ControlYu01	geo:GSE252465:ControlYu01	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+ControlYu02	geo:GSE252465:ControlYu02	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+ControlYu03	geo:GSE252465:ControlYu03	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+ControlYu04	geo:GSE252465:ControlYu04	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+ControlYu06	geo:GSE252465:ControlYu06	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu02	geo:GSE252465:IPFYu02	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu04	geo:GSE252465:IPFYu04	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu05	geo:GSE252465:IPFYu05	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu06	geo:GSE252465:IPFYu06	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu07	geo:GSE252465:IPFYu07	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu08	geo:GSE252465:IPFYu08	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu10	geo:GSE252465:IPFYu10	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu11	geo:GSE252465:IPFYu11	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu12	geo:GSE252465:IPFYu12	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu13	geo:GSE252465:IPFYu13	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+IPFYu14	geo:GSE252465:IPFYu14	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+ControlYu01	geo:GSE252465:ControlYu01	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+ControlYu02	geo:GSE252465:ControlYu02	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+ControlYu03	geo:GSE252465:ControlYu03	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+ControlYu04	geo:GSE252465:ControlYu04	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+ControlYu06	geo:GSE252465:ControlYu06	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu02	geo:GSE252465:IPFYu02	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu04	geo:GSE252465:IPFYu04	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu05	geo:GSE252465:IPFYu05	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu06	geo:GSE252465:IPFYu06	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu07	geo:GSE252465:IPFYu07	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu08	geo:GSE252465:IPFYu08	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu10	geo:GSE252465:IPFYu10	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu11	geo:GSE252465:IPFYu11	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu12	geo:GSE252465:IPFYu12	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu13	geo:GSE252465:IPFYu13	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+IPFYu14	geo:GSE252465:IPFYu14	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+ControlYu01	geo:GSE252465:ControlYu01	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+ControlYu02	geo:GSE252465:ControlYu02	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+ControlYu03	geo:GSE252465:ControlYu03	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+ControlYu04	geo:GSE252465:ControlYu04	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+ControlYu06	geo:GSE252465:ControlYu06	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu02	geo:GSE252465:IPFYu02	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu04	geo:GSE252465:IPFYu04	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu05	geo:GSE252465:IPFYu05	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu06	geo:GSE252465:IPFYu06	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu07	geo:GSE252465:IPFYu07	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu08	geo:GSE252465:IPFYu08	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu10	geo:GSE252465:IPFYu10	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu11	geo:GSE252465:IPFYu11	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu12	geo:GSE252465:IPFYu12	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu13	geo:GSE252465:IPFYu13	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+IPFYu14	geo:GSE252465:IPFYu14	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+ControlYu01	geo:GSE252465:ControlYu01	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+ControlYu02	geo:GSE252465:ControlYu02	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+ControlYu03	geo:GSE252465:ControlYu03	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+ControlYu04	geo:GSE252465:ControlYu04	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+ControlYu06	geo:GSE252465:ControlYu06	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu02	geo:GSE252465:IPFYu02	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu04	geo:GSE252465:IPFYu04	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu05	geo:GSE252465:IPFYu05	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu06	geo:GSE252465:IPFYu06	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu07	geo:GSE252465:IPFYu07	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu08	geo:GSE252465:IPFYu08	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu10	geo:GSE252465:IPFYu10	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu11	geo:GSE252465:IPFYu11	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu12	geo:GSE252465:IPFYu12	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu13	geo:GSE252465:IPFYu13	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPFYu14	geo:GSE252465:IPFYu14	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+		organism	Homo sapiens	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+ControlYu01	geo:GSE252465:ControlYu01	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+ControlYu02	geo:GSE252465:ControlYu02	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+ControlYu03	geo:GSE252465:ControlYu03	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+ControlYu04	geo:GSE252465:ControlYu04	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+ControlYu06	geo:GSE252465:ControlYu06	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu02	geo:GSE252465:IPFYu02	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu04	geo:GSE252465:IPFYu04	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu05	geo:GSE252465:IPFYu05	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu06	geo:GSE252465:IPFYu06	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu07	geo:GSE252465:IPFYu07	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu08	geo:GSE252465:IPFYu08	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu10	geo:GSE252465:IPFYu10	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu11	geo:GSE252465:IPFYu11	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu12	geo:GSE252465:IPFYu12	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu13	geo:GSE252465:IPFYu13	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+IPFYu14	geo:GSE252465:IPFYu14	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+ControlYu01	geo:GSE252465:ControlYu01	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+ControlYu02	geo:GSE252465:ControlYu02	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+ControlYu03	geo:GSE252465:ControlYu03	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+ControlYu04	geo:GSE252465:ControlYu04	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+ControlYu06	geo:GSE252465:ControlYu06	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu02	geo:GSE252465:IPFYu02	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu04	geo:GSE252465:IPFYu04	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu05	geo:GSE252465:IPFYu05	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu06	geo:GSE252465:IPFYu06	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu07	geo:GSE252465:IPFYu07	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu08	geo:GSE252465:IPFYu08	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu10	geo:GSE252465:IPFYu10	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu11	geo:GSE252465:IPFYu11	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu12	geo:GSE252465:IPFYu12	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu13	geo:GSE252465:IPFYu13	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+IPFYu14	geo:GSE252465:IPFYu14	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = disease: control	True
+ControlYu01	geo:GSE252465:ControlYu01	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+ControlYu02	geo:GSE252465:ControlYu02	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+ControlYu03	geo:GSE252465:ControlYu03	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+ControlYu04	geo:GSE252465:ControlYu04	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+ControlYu06	geo:GSE252465:ControlYu06	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu02	geo:GSE252465:IPFYu02	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu04	geo:GSE252465:IPFYu04	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu05	geo:GSE252465:IPFYu05	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu06	geo:GSE252465:IPFYu06	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu07	geo:GSE252465:IPFYu07	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu08	geo:GSE252465:IPFYu08	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu10	geo:GSE252465:IPFYu10	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu11	geo:GSE252465:IPFYu11	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu12	geo:GSE252465:IPFYu12	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu13	geo:GSE252465:IPFYu13	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+IPFYu14	geo:GSE252465:IPFYu14	disease_free_text	<map of column Disease>	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		11 IPF affected individuals and 11 healthy controls	True
+ControlYu01	geo:GSE252465:ControlYu01	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu02	geo:GSE252465:ControlYu02	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu03	geo:GSE252465:ControlYu03	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu04	geo:GSE252465:ControlYu04	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu06	geo:GSE252465:ControlYu06	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu02	geo:GSE252465:IPFYu02	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu04	geo:GSE252465:IPFYu04	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu05	geo:GSE252465:IPFYu05	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu06	geo:GSE252465:IPFYu06	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu07	geo:GSE252465:IPFYu07	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu08	geo:GSE252465:IPFYu08	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu10	geo:GSE252465:IPFYu10	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu11	geo:GSE252465:IPFYu11	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu12	geo:GSE252465:IPFYu12	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu13	geo:GSE252465:IPFYu13	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu14	geo:GSE252465:IPFYu14	tissue_free_text	Lung BALF	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu01	geo:GSE252465:ControlYu01	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu02	geo:GSE252465:ControlYu02	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu03	geo:GSE252465:ControlYu03	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu04	geo:GSE252465:ControlYu04	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu06	geo:GSE252465:ControlYu06	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu02	geo:GSE252465:IPFYu02	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu04	geo:GSE252465:IPFYu04	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu05	geo:GSE252465:IPFYu05	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu06	geo:GSE252465:IPFYu06	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu07	geo:GSE252465:IPFYu07	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu08	geo:GSE252465:IPFYu08	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu10	geo:GSE252465:IPFYu10	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu11	geo:GSE252465:IPFYu11	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu12	geo:GSE252465:IPFYu12	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu13	geo:GSE252465:IPFYu13	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+IPFYu14	geo:GSE252465:IPFYu14	tissue_type	tissue	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung BALF	True
+ControlYu01	geo:GSE252465:ControlYu01	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+ControlYu02	geo:GSE252465:ControlYu02	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+ControlYu03	geo:GSE252465:ControlYu03	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+ControlYu04	geo:GSE252465:ControlYu04	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+ControlYu06	geo:GSE252465:ControlYu06	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu02	geo:GSE252465:IPFYu02	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu04	geo:GSE252465:IPFYu04	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu05	geo:GSE252465:IPFYu05	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu06	geo:GSE252465:IPFYu06	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu07	geo:GSE252465:IPFYu07	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu08	geo:GSE252465:IPFYu08	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu10	geo:GSE252465:IPFYu10	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu11	geo:GSE252465:IPFYu11	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu12	geo:GSE252465:IPFYu12	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu13	geo:GSE252465:IPFYu13	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+IPFYu14	geo:GSE252465:IPFYu14	suspension_type	cell	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		20,000 BALF cells were loaded into the array	True
+ControlYu01	geo:GSE252465:ControlYu01	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+ControlYu02	geo:GSE252465:ControlYu02	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+ControlYu03	geo:GSE252465:ControlYu03	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+ControlYu04	geo:GSE252465:ControlYu04	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+ControlYu06	geo:GSE252465:ControlYu06	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu02	geo:GSE252465:IPFYu02	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu04	geo:GSE252465:IPFYu04	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu05	geo:GSE252465:IPFYu05	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu06	geo:GSE252465:IPFYu06	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu07	geo:GSE252465:IPFYu07	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu08	geo:GSE252465:IPFYu08	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu10	geo:GSE252465:IPFYu10	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu11	geo:GSE252465:IPFYu11	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu12	geo:GSE252465:IPFYu12	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu13	geo:GSE252465:IPFYu13	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True
+IPFYu14	geo:GSE252465:IPFYu14	treatment	no	file	raw/fp-f27a8305d01f/GSE252465_family.soft.gz		!Sample_characteristics_ch1 = treatment: no	True

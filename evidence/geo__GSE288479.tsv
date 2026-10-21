@@ -1,0 +1,217 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8768560	geo:GSE288479:GSM8768560	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768560	geo:GSE288479:GSM8768560	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768560	geo:GSE288479:GSM8768560	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768560	geo:GSE288479:GSM8768560	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768560	geo:GSE288479:GSM8768560	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768560_cell_metadata.tsv/V14			True
+GSM8768561	geo:GSE288479:GSM8768561	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768561	geo:GSE288479:GSM8768561	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768561	geo:GSE288479:GSM8768561	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768561	geo:GSE288479:GSM8768561	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768561	geo:GSE288479:GSM8768561	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768561_cell_metadata.tsv/V14			True
+GSM8768562	geo:GSE288479:GSM8768562	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768562	geo:GSE288479:GSM8768562	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768562	geo:GSE288479:GSM8768562	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768562	geo:GSE288479:GSM8768562	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768562	geo:GSE288479:GSM8768562	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768562_cell_metadata.tsv/V14			True
+GSM8768563	geo:GSE288479:GSM8768563	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768563	geo:GSE288479:GSM8768563	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768563	geo:GSE288479:GSM8768563	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768563	geo:GSE288479:GSM8768563	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768563	geo:GSE288479:GSM8768563	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768563_cell_metadata.tsv/V14			True
+GSM8768564	geo:GSE288479:GSM8768564	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768564	geo:GSE288479:GSM8768564	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768564	geo:GSE288479:GSM8768564	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768564	geo:GSE288479:GSM8768564	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768564	geo:GSE288479:GSM8768564	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768564_cell_metadata.tsv/V14			True
+GSM8768565	geo:GSE288479:GSM8768565	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768565	geo:GSE288479:GSM8768565	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768565	geo:GSE288479:GSM8768565	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768565	geo:GSE288479:GSM8768565	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768565	geo:GSE288479:GSM8768565	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768565_cell_metadata.tsv/V14			True
+GSM8768566	geo:GSE288479:GSM8768566	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768566	geo:GSE288479:GSM8768566	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768566	geo:GSE288479:GSM8768566	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768566	geo:GSE288479:GSM8768566	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768566	geo:GSE288479:GSM8768566	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768566_cell_metadata.tsv/V14			True
+GSM8768567	geo:GSE288479:GSM8768567	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768567	geo:GSE288479:GSM8768567	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768567	geo:GSE288479:GSM8768567	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768567	geo:GSE288479:GSM8768567	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768567	geo:GSE288479:GSM8768567	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768567_cell_metadata.tsv/V14			True
+GSM8768568	geo:GSE288479:GSM8768568	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768568	geo:GSE288479:GSM8768568	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768568	geo:GSE288479:GSM8768568	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768568	geo:GSE288479:GSM8768568	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768568	geo:GSE288479:GSM8768568	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768568_cell_metadata.tsv/V14			True
+GSM8768569	geo:GSE288479:GSM8768569	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768569	geo:GSE288479:GSM8768569	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768569	geo:GSE288479:GSM8768569	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768569	geo:GSE288479:GSM8768569	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768569	geo:GSE288479:GSM8768569	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768569_cell_metadata.tsv/V14			True
+GSM8768570	geo:GSE288479:GSM8768570	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768570	geo:GSE288479:GSM8768570	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768570	geo:GSE288479:GSM8768570	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768570	geo:GSE288479:GSM8768570	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768570	geo:GSE288479:GSM8768570	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768570_cell_metadata.tsv/V14			True
+GSM8768571	geo:GSE288479:GSM8768571	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768571	geo:GSE288479:GSM8768571	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768571	geo:GSE288479:GSM8768571	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768571	geo:GSE288479:GSM8768571	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768571	geo:GSE288479:GSM8768571	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768571_cell_metadata.tsv/V14			True
+GSM8768572	geo:GSE288479:GSM8768572	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768572	geo:GSE288479:GSM8768572	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768572	geo:GSE288479:GSM8768572	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768572	geo:GSE288479:GSM8768572	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768572	geo:GSE288479:GSM8768572	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768572_cell_metadata.tsv/V14			True
+GSM8768573	geo:GSE288479:GSM8768573	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768573	geo:GSE288479:GSM8768573	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768573	geo:GSE288479:GSM8768573	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768573	geo:GSE288479:GSM8768573	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8768573	geo:GSE288479:GSM8768573	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768573_cell_metadata.tsv/V14			True
+GSM8768574	geo:GSE288479:GSM8768574	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768574	geo:GSE288479:GSM8768574	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768574	geo:GSE288479:GSM8768574	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768574	geo:GSE288479:GSM8768574	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768574	geo:GSE288479:GSM8768574	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768574_cell_metadata.tsv/V14			True
+GSM8768575	geo:GSE288479:GSM8768575	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768575	geo:GSE288479:GSM8768575	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM8768575	geo:GSE288479:GSM8768575	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768575	geo:GSE288479:GSM8768575	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8768575	geo:GSE288479:GSM8768575	author_cell_type	<column V14>	column	work/fp-434d06c10ded/derived/GSM8768575_cell_metadata.tsv/V14			True
+GSM8768597	geo:GSE288479:GSM8768597	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8768597	geo:GSE288479:GSM8768597	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8768597	geo:GSE288479:GSM8768597	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8768597	geo:GSE288479:GSM8768597	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8768560	geo:GSE288479:GSM8768560	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768560	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768560	geo:GSE288479:GSM8768560	donor_id	SMC26	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768560	!Sample_characteristics_ch1 = individuals: SMC26	True
+GSM8768560	geo:GSE288479:GSM8768560	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768560	geo:GSE288479:GSM8768560	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768560	!Sample_title = SMC26, Distant normal (DN) lung region	True
+GSM8768560	geo:GSE288479:GSM8768560	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768560	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768560	geo:GSE288479:GSM8768560	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768560	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768560	geo:GSE288479:GSM8768560	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768560	Chromium Single Cell 3’ v2 Kit	True
+GSM8768561	geo:GSE288479:GSM8768561	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768561	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768561	geo:GSE288479:GSM8768561	donor_id	SMC26	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768561	!Sample_characteristics_ch1 = individuals: SMC26	True
+GSM8768561	geo:GSE288479:GSM8768561	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768561	geo:GSE288479:GSM8768561	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768561	!Sample_title = SMC26, Adjacent normal (AN) lung region	True
+GSM8768561	geo:GSE288479:GSM8768561	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768561	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768561	geo:GSE288479:GSM8768561	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768561	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768561	geo:GSE288479:GSM8768561	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768561	Chromium Single Cell 3’ v2 Kit	True
+GSM8768562	geo:GSE288479:GSM8768562	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768562	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768562	geo:GSE288479:GSM8768562	donor_id	SMC26	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768562	!Sample_characteristics_ch1 = individuals: SMC26	True
+GSM8768562	geo:GSE288479:GSM8768562	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768562	geo:GSE288479:GSM8768562	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768562	geo:GSE288479:GSM8768562	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768562	!Sample_title = SMC26, Ground-glass (GG) component	True
+GSM8768562	geo:GSE288479:GSM8768562	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768562	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768562	geo:GSE288479:GSM8768562	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768562	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768562	geo:GSE288479:GSM8768562	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768562	Chromium Single Cell 3’ v2 Kit	True
+GSM8768563	geo:GSE288479:GSM8768563	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768563	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768563	geo:GSE288479:GSM8768563	donor_id	SMC26	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768563	!Sample_characteristics_ch1 = individuals: SMC26	True
+GSM8768563	geo:GSE288479:GSM8768563	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768563	geo:GSE288479:GSM8768563	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768563	geo:GSE288479:GSM8768563	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768563	!Sample_title = SMC26, Solid (S) component	True
+GSM8768563	geo:GSE288479:GSM8768563	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768563	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768563	geo:GSE288479:GSM8768563	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768563	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768563	geo:GSE288479:GSM8768563	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768563	Chromium Single Cell 3’ v2 Kit	True
+GSM8768564	geo:GSE288479:GSM8768564	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768564	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768564	geo:GSE288479:GSM8768564	donor_id	SMC27	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768564	!Sample_characteristics_ch1 = individuals: SMC27	True
+GSM8768564	geo:GSE288479:GSM8768564	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768564	geo:GSE288479:GSM8768564	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768564	!Sample_title = SMC27, Distant normal (DN) lung region	True
+GSM8768564	geo:GSE288479:GSM8768564	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768564	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768564	geo:GSE288479:GSM8768564	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768564	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768564	geo:GSE288479:GSM8768564	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768564	Chromium Single Cell 3’ v2 Kit	True
+GSM8768565	geo:GSE288479:GSM8768565	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768565	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768565	geo:GSE288479:GSM8768565	donor_id	SMC27	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768565	!Sample_characteristics_ch1 = individuals: SMC27	True
+GSM8768565	geo:GSE288479:GSM8768565	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768565	geo:GSE288479:GSM8768565	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768565	!Sample_title = SMC27, Adjacent normal (AN) lung region	True
+GSM8768565	geo:GSE288479:GSM8768565	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768565	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768565	geo:GSE288479:GSM8768565	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768565	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768565	geo:GSE288479:GSM8768565	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768565	Chromium Single Cell 3’ v2 Kit	True
+GSM8768566	geo:GSE288479:GSM8768566	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768566	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768566	geo:GSE288479:GSM8768566	donor_id	SMC27	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768566	!Sample_characteristics_ch1 = individuals: SMC27	True
+GSM8768566	geo:GSE288479:GSM8768566	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768566	geo:GSE288479:GSM8768566	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768566	geo:GSE288479:GSM8768566	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768566	!Sample_title = SMC27, Ground-glass (GG) component	True
+GSM8768566	geo:GSE288479:GSM8768566	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768566	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768566	geo:GSE288479:GSM8768566	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768566	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768566	geo:GSE288479:GSM8768566	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768566	Chromium Single Cell 3’ v2 Kit	True
+GSM8768567	geo:GSE288479:GSM8768567	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768567	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768567	geo:GSE288479:GSM8768567	donor_id	SMC27	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768567	!Sample_characteristics_ch1 = individuals: SMC27	True
+GSM8768567	geo:GSE288479:GSM8768567	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768567	geo:GSE288479:GSM8768567	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768567	geo:GSE288479:GSM8768567	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768567	!Sample_title = SMC27, Solid (S) component	True
+GSM8768567	geo:GSE288479:GSM8768567	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768567	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768567	geo:GSE288479:GSM8768567	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768567	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768567	geo:GSE288479:GSM8768567	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768567	Chromium Single Cell 3’ v2 Kit	True
+GSM8768568	geo:GSE288479:GSM8768568	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768568	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768568	geo:GSE288479:GSM8768568	donor_id	SMC29	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768568	!Sample_characteristics_ch1 = individuals: SMC29	True
+GSM8768568	geo:GSE288479:GSM8768568	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768568	geo:GSE288479:GSM8768568	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768568	!Sample_title = SMC29, Distant normal (DN) lung region	True
+GSM8768568	geo:GSE288479:GSM8768568	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768568	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768568	geo:GSE288479:GSM8768568	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768568	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768568	geo:GSE288479:GSM8768568	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768568	Chromium Single Cell 3’ v2 Kit	True
+GSM8768569	geo:GSE288479:GSM8768569	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768569	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768569	geo:GSE288479:GSM8768569	donor_id	SMC29	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768569	!Sample_characteristics_ch1 = individuals: SMC29	True
+GSM8768569	geo:GSE288479:GSM8768569	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768569	geo:GSE288479:GSM8768569	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768569	!Sample_title = SMC29, Adjacent normal (AN) lung region	True
+GSM8768569	geo:GSE288479:GSM8768569	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768569	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768569	geo:GSE288479:GSM8768569	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768569	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768569	geo:GSE288479:GSM8768569	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768569	Chromium Single Cell 3’ v2 Kit	True
+GSM8768570	geo:GSE288479:GSM8768570	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768570	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768570	geo:GSE288479:GSM8768570	donor_id	SMC29	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768570	!Sample_characteristics_ch1 = individuals: SMC29	True
+GSM8768570	geo:GSE288479:GSM8768570	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768570	geo:GSE288479:GSM8768570	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768570	geo:GSE288479:GSM8768570	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768570	!Sample_title = SMC29, Ground-glass (GG) component	True
+GSM8768570	geo:GSE288479:GSM8768570	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768570	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768570	geo:GSE288479:GSM8768570	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768570	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768570	geo:GSE288479:GSM8768570	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768570	Chromium Single Cell 3’ v2 Kit	True
+GSM8768571	geo:GSE288479:GSM8768571	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768571	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768571	geo:GSE288479:GSM8768571	donor_id	SMC29	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768571	!Sample_characteristics_ch1 = individuals: SMC29	True
+GSM8768571	geo:GSE288479:GSM8768571	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768571	geo:GSE288479:GSM8768571	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768571	geo:GSE288479:GSM8768571	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768571	!Sample_title = SMC29, Solid (S) component	True
+GSM8768571	geo:GSE288479:GSM8768571	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768571	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768571	geo:GSE288479:GSM8768571	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768571	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768571	geo:GSE288479:GSM8768571	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768571	Chromium Single Cell 3’ v2 Kit	True
+GSM8768572	geo:GSE288479:GSM8768572	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768572	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768572	geo:GSE288479:GSM8768572	donor_id	SMC30	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768572	!Sample_characteristics_ch1 = individuals: SMC30	True
+GSM8768572	geo:GSE288479:GSM8768572	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768572	geo:GSE288479:GSM8768572	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768572	!Sample_title = SMC30, Distant normal (DN) lung region	True
+GSM8768572	geo:GSE288479:GSM8768572	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768572	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768572	geo:GSE288479:GSM8768572	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768572	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768572	geo:GSE288479:GSM8768572	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768572	Chromium Single Cell 3’ v2 Kit	True
+GSM8768573	geo:GSE288479:GSM8768573	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768573	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768573	geo:GSE288479:GSM8768573	donor_id	SMC30	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768573	!Sample_characteristics_ch1 = individuals: SMC30	True
+GSM8768573	geo:GSE288479:GSM8768573	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768573	geo:GSE288479:GSM8768573	disease_free_text	normal	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768573	!Sample_title = SMC30, Adjacent normal (AN) lung region	True
+GSM8768573	geo:GSE288479:GSM8768573	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768573	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768573	geo:GSE288479:GSM8768573	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768573	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768573	geo:GSE288479:GSM8768573	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768573	Chromium Single Cell 3’ v2 Kit	True
+GSM8768574	geo:GSE288479:GSM8768574	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768574	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768574	geo:GSE288479:GSM8768574	donor_id	SMC30	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768574	!Sample_characteristics_ch1 = individuals: SMC30	True
+GSM8768574	geo:GSE288479:GSM8768574	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768574	geo:GSE288479:GSM8768574	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768574	geo:GSE288479:GSM8768574	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768574	!Sample_title = SMC30, Ground-glass (GG) component	True
+GSM8768574	geo:GSE288479:GSM8768574	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768574	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768574	geo:GSE288479:GSM8768574	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768574	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768574	geo:GSE288479:GSM8768574	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768574	Chromium Single Cell 3’ v2 Kit	True
+GSM8768575	geo:GSE288479:GSM8768575	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768575	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768575	geo:GSE288479:GSM8768575	donor_id	SMC30	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768575	!Sample_characteristics_ch1 = individuals: SMC30	True
+GSM8768575	geo:GSE288479:GSM8768575	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		scRNA-seq) was conducted on four female, never-smoker patients	True
+GSM8768575	geo:GSE288479:GSM8768575	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz		four components (distant and adjacent normal lung and solid [S] and ground-glass [GG] components) of part-solid-type LUADs	True
+GSM8768575	geo:GSE288479:GSM8768575	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768575	!Sample_title = SMC30, Solid (S) component	True
+GSM8768575	geo:GSE288479:GSM8768575	suspension_type	cell	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768575	Single-cell suspensions were filtered through a 40 μm cell strainer	True
+GSM8768575	geo:GSE288479:GSM8768575	sample_preservation	fresh	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768575	fresh tumor and normal lung tissues were enzymatically dissociated	True
+GSM8768575	geo:GSE288479:GSM8768575	assay	10x 3' v2	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768575	Chromium Single Cell 3’ v2 Kit	True
+GSM8768597	geo:GSE288479:GSM8768597	tissue_free_text	Lung	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8768597	geo:GSE288479:GSM8768597	donor_id	SMC19	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_characteristics_ch1 = individuals: SMC19	True
+GSM8768597	geo:GSE288479:GSM8768597	sex	female	file	evidence/PMC12360329.txt		in 11 female never‐smokers with stage I disease	True
+GSM8768597	geo:GSE288479:GSM8768597	sex	female	file	evidence/PMC12360329.txt		n = 1, SMC‐19	True
+GSM8768597	geo:GSE288479:GSM8768597	sex	female	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_characteristics_ch1 = individuals: SMC19	True
+GSM8768597	geo:GSE288479:GSM8768597	disease_free_text	lung adenocarcinoma	file	evidence/PMC12360329.txt		spatial transcriptomics on an early‐stage LUAD (SMC‐19)	True
+GSM8768597	geo:GSE288479:GSM8768597	disease_free_text	lung adenocarcinoma	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_title = SMC19, whole slide	True
+GSM8768597	geo:GSE288479:GSM8768597	disease_stage	early-stage	file	evidence/PMC12360329.txt		spatial transcriptomics on an early‐stage LUAD (SMC‐19)	True
+GSM8768597	geo:GSE288479:GSM8768597	suspension_type	na	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_description = FFPE Spatial transcriptomes (Visium)	True
+GSM8768597	geo:GSE288479:GSM8768597	sample_preservation	FFPE	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_description = FFPE Spatial transcriptomes (Visium)	True
+GSM8768597	geo:GSE288479:GSM8768597	assay	Visium Spatial Gene Expression	file	raw/fp-434d06c10ded/GSE288479_family.soft.gz	GSM8768597	!Sample_description = FFPE Spatial transcriptomes (Visium)	True

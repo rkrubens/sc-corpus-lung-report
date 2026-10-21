@@ -1,0 +1,40 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9069589	geo:GSE300851:GSM9069589	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9069591	geo:GSE300851:GSM9069591	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9293141	geo:GSE300851:GSM9293141	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9293142	geo:GSE300851:GSM9293142	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+		organism	Homo sapiens	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9069589	geo:GSE300851:GSM9069589	tissue_free_text	Mesothelium/pleura	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	!Sample_characteristics_ch1 = tissue: Mesothelium/pleura	True
+GSM9069589	geo:GSE300851:GSM9069589	tissue_ontology_term_id	UBERON:0000977	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	!Sample_characteristics_ch1 = tissue: Mesothelium/pleura	True
+GSM9069589	geo:GSE300851:GSM9069589	tissue_type	tissue	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	!Sample_characteristics_ch1 = tissue: Mesothelium/pleura	True
+GSM9069589	geo:GSE300851:GSM9069589	disease_free_text	malignant pleural mesothelioma	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz		Two formalin-fixed & paraffin-embedded (FFPE) malignant pleural mesothelioma tissue blocks	True
+GSM9069589	geo:GSE300851:GSM9069589	disease_ontology_term_id	MONDO:0005112	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz		Two formalin-fixed & paraffin-embedded (FFPE) malignant pleural mesothelioma tissue blocks	True
+GSM9069589	geo:GSE300851:GSM9069589	assay	Visium Spatial Gene Expression	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	!Sample_title = Visium CytAssist Spatial Gene and Protein Expression, GEX,PBC_PR_6837	True
+GSM9069589	geo:GSE300851:GSM9069589	suspension_type	na	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	5 micron FFPE sections were placed on	True
+GSM9069589	geo:GSE300851:GSM9069589	sample_preservation	FFPE	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	Two formalin-fixed & paraffin-embedded (FFPE) malignant mesothelioma tissue blocks	True
+GSM9069589	geo:GSE300851:GSM9069589	gene_annotation_version	hg38	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069589	!Sample_data_processing = Assembly: hg38	True
+GSM9069591	geo:GSE300851:GSM9069591	tissue_free_text	Mesothelium/pleura	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	!Sample_characteristics_ch1 = tissue: Mesothelium/pleura	True
+GSM9069591	geo:GSE300851:GSM9069591	tissue_ontology_term_id	UBERON:0000977	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	!Sample_characteristics_ch1 = tissue: Mesothelium/pleura	True
+GSM9069591	geo:GSE300851:GSM9069591	tissue_type	tissue	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	!Sample_characteristics_ch1 = tissue: Mesothelium/pleura	True
+GSM9069591	geo:GSE300851:GSM9069591	disease_free_text	malignant pleural mesothelioma	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz		Two formalin-fixed & paraffin-embedded (FFPE) malignant pleural mesothelioma tissue blocks	True
+GSM9069591	geo:GSE300851:GSM9069591	disease_ontology_term_id	MONDO:0005112	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz		Two formalin-fixed & paraffin-embedded (FFPE) malignant pleural mesothelioma tissue blocks	True
+GSM9069591	geo:GSE300851:GSM9069591	assay	Visium Spatial Gene Expression	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	!Sample_title = Visium CytAssist Spatial Gene and Protein Expression, GEX, PBC-PR_6835-5A	True
+GSM9069591	geo:GSE300851:GSM9069591	suspension_type	na	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	5 micron FFPE sections were placed on	True
+GSM9069591	geo:GSE300851:GSM9069591	sample_preservation	FFPE	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	Two formalin-fixed & paraffin-embedded (FFPE) malignant mesothelioma tissue blocks	True
+GSM9069591	geo:GSE300851:GSM9069591	gene_annotation_version	hg38	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9069591	!Sample_data_processing = Assembly: hg38	True
+GSM9293141	geo:GSE300851:GSM9293141	tissue_free_text	Lung	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9293141	geo:GSE300851:GSM9293141	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9293141	geo:GSE300851:GSM9293141	tissue_type	tissue	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9293141	geo:GSE300851:GSM9293141	disease_free_text	chronic lung disease	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_title = Chronic lung disease 1	True
+GSM9293141	geo:GSE300851:GSM9293141	assay	Visium Spatial Gene Expression	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_description = 10x Genomics Visium v2 FFPE	True
+GSM9293141	geo:GSE300851:GSM9293141	suspension_type	na	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_description = 10x Genomics Visium v2 FFPE	True
+GSM9293141	geo:GSE300851:GSM9293141	sample_preservation	FFPE	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_description = 10x Genomics Visium v2 FFPE	True
+GSM9293141	geo:GSE300851:GSM9293141	gene_annotation_version	hg38	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293141	!Sample_data_processing = Assembly: hg38	True
+GSM9293142	geo:GSE300851:GSM9293142	tissue_free_text	Lung	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9293142	geo:GSE300851:GSM9293142	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9293142	geo:GSE300851:GSM9293142	tissue_type	tissue	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9293142	geo:GSE300851:GSM9293142	disease_free_text	chronic lung disease	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_title = Chronic lung disease 11	True
+GSM9293142	geo:GSE300851:GSM9293142	assay	Visium Spatial Gene Expression	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_description = 10x Genomics Visium v2 FFPE	True
+GSM9293142	geo:GSE300851:GSM9293142	suspension_type	na	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_description = 10x Genomics Visium v2 FFPE	True
+GSM9293142	geo:GSE300851:GSM9293142	sample_preservation	FFPE	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_description = 10x Genomics Visium v2 FFPE	True
+GSM9293142	geo:GSE300851:GSM9293142	gene_annotation_version	hg38	file	raw/fp-6e66c439f09e/GSE300851_family.soft.gz	GSM9293142	!Sample_data_processing = Assembly: hg38	True

@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5388414	geo:GSE178361:GSM5388414	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM5388415	geo:GSE178361:GSM5388415	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+		organism	Homo sapiens	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5388414	geo:GSE178361:GSM5388414	age	Adult	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz	GSM5388414	!Sample_characteristics_ch1 = age: Adult	True
+GSM5388414	geo:GSE178361:GSM5388414	disease_free_text	Normal	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz	GSM5388414	!Sample_characteristics_ch1 = disease: Normal	True
+GSM5388414	geo:GSE178361:GSM5388414	tissue_free_text	lung tissue	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz	GSM5388414	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM5388415	geo:GSE178361:GSM5388415	age	Adult	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz	GSM5388415	!Sample_characteristics_ch1 = age: Adult	True
+GSM5388415	geo:GSE178361:GSM5388415	disease_free_text	Normal	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz	GSM5388415	!Sample_characteristics_ch1 = disease: Normal	True
+GSM5388415	geo:GSE178361:GSM5388415	tissue_free_text	lung tissue	file	raw/fp-79e6c874a3e5/GSE178361_family.soft.gz	GSM5388415	!Sample_characteristics_ch1 = tissue: lung tissue	True

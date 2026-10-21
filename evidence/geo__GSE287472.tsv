@@ -1,0 +1,12 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8746298	geo:GSE287472:GSM8746298	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8746298	geo:GSE287472:GSM8746298	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-5e152821d0a6/GSE287472_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8746298	geo:GSE287472:GSM8746298	disease_free_text	lung adenocarcinoma	file	raw/fp-5e152821d0a6/GSE287472_family.soft.gz	GSM8746298	!Sample_characteristics_ch1 = tissue: LUAD	True
+GSM8746298	geo:GSE287472:GSM8746298	disease_free_text	lung adenocarcinoma	file	evidence/PMC13292226.txt		Patients with advanced stage III LUAD were recruited	True
+GSM8746298	geo:GSE287472:GSM8746298	tissue_free_text	lung	file	raw/fp-5e152821d0a6/GSE287472_family.soft.gz	GSM8746298	!Sample_source_name_ch1 = LUAD tissue biopsy	True
+GSM8746298	geo:GSE287472:GSM8746298	tissue_free_text	lung	file	evidence/PMC13292226.txt		Resected lung tissues were categorized	True
+GSM8746298	geo:GSE287472:GSM8746298	tissue_type	tissue	file	raw/fp-5e152821d0a6/GSE287472_family.soft.gz	GSM8746298	!Sample_source_name_ch1 = LUAD tissue biopsy	True
+GSM8746298	geo:GSE287472:GSM8746298	sample_collection_method	surgical resection	file	evidence/PMC13292226.txt		Surgically resected tissue samples	True
+GSM8746298	geo:GSE287472:GSM8746298	sample_preservation	FFPE	file	evidence/PMC13292226.txt		Formalin-fixed paraffin-embedded (FFPE) blocks were sectioned	True
+GSM8746298	geo:GSE287472:GSM8746298	suspension_type	na	file	evidence/PMC13292226.txt		Formalin-fixed paraffin-embedded (FFPE) blocks were sectioned	True

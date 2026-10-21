@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8863830	geo:GSE292700:GSM8863830	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8863831	geo:GSE292700:GSM8863831	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8863832	geo:GSE292700:GSM8863832	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8863833	geo:GSE292700:GSM8863833	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8863834	geo:GSE292700:GSM8863834	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8863835	geo:GSE292700:GSM8863835	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8863830	geo:GSE292700:GSM8863830	disease_free_text	lung adenocarcinoma	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863830	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8863830	geo:GSE292700:GSM8863830	tissue_free_text	tumor	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863830	!Sample_characteristics_ch1 = tissue: tumor	True
+GSM8863831	geo:GSE292700:GSM8863831	disease_free_text	lung adenocarcinoma	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863831	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8863831	geo:GSE292700:GSM8863831	tissue_free_text	paracancerous	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863831	!Sample_characteristics_ch1 = tissue: paracancerous	True
+GSM8863832	geo:GSE292700:GSM8863832	disease_free_text	lung adenocarcinoma	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863832	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8863832	geo:GSE292700:GSM8863832	tissue_free_text	peripheral blood	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863832	!Sample_characteristics_ch1 = tissue: peripheral blood	True
+GSM8863833	geo:GSE292700:GSM8863833	disease_free_text	lung adenocarcinoma	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863833	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8863833	geo:GSE292700:GSM8863833	tissue_free_text	tumor	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863833	!Sample_characteristics_ch1 = tissue: tumor	True
+GSM8863834	geo:GSE292700:GSM8863834	disease_free_text	lung adenocarcinoma	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863834	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8863834	geo:GSE292700:GSM8863834	tissue_free_text	paracancerous	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863834	!Sample_characteristics_ch1 = tissue: paracancerous	True
+GSM8863835	geo:GSE292700:GSM8863835	disease_free_text	lung adenocarcinoma	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863835	!Sample_characteristics_ch1 = disease state: lung adenocarcinoma	True
+GSM8863835	geo:GSE292700:GSM8863835	tissue_free_text	peripheral blood	file	raw/fp-dc5939cd7c7c/GSE292700_family.soft.gz	GSM8863835	!Sample_characteristics_ch1 = tissue: peripheral blood	True

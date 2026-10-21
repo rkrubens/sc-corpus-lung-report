@@ -1,0 +1,43 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7093228	geo:GSE227210:GSM7093228	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7093228	geo:GSE227210:GSM7093228	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7093228	geo:GSE227210:GSM7093228	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM7093228	geo:GSE227210:GSM7093228	author_cell_type	<column annot3>	column	work/fp-14b2144e901e/derived/GSM7093228_authors_cell_annotation.tsv.gz/annot3			True
+GSM7093229	geo:GSE227210:GSM7093229	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7093229	geo:GSE227210:GSM7093229	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7093229	geo:GSE227210:GSM7093229	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM7093230	geo:GSE227210:GSM7093230	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7093230	geo:GSE227210:GSM7093230	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7093230	geo:GSE227210:GSM7093230	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM7093230	geo:GSE227210:GSM7093230	author_cell_type	<column annot3>	column	work/fp-14b2144e901e/derived/GSM7093230_authors_cell_annotation.tsv.gz/annot3			True
+		organism	Homo sapiens	file	raw/fp-14b2144e901e/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM7093228	geo:GSE227210:GSM7093228	donor_id	R710000551	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	!Sample_title = R710000551 AATD CD45neg Rep1	True
+GSM7093228	geo:GSE227210:GSM7093228	disease_ontology_term_id	MONDO:0013282	file	evidence/PMC11443245.txt		alpha-1 antitrypsin deficiency [AATD] homozygous for the Z mutation	True
+GSM7093228	geo:GSE227210:GSM7093228	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	!Sample_characteristics_ch1 = tissue: Peripheral lung tissue	True
+GSM7093228	geo:GSE227210:GSM7093228	assay	10x 3' v2	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	Chromium Single Cell 3’ v2 chemistry	True
+GSM7093228	geo:GSE227210:GSM7093228	suspension_type	cell	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	Cellular suspensions were loaded on a GemCode Single Cell Instrument	True
+GSM7093228	geo:GSE227210:GSM7093228	cell_enrichment	CD45-reduced	file	evidence/PMC11443245.txt		dissociated and CD45-reduced as previously described	True
+GSM7093228	geo:GSE227210:GSM7093228	tissue_free_text	Peripheral lung tissue	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	!Sample_characteristics_ch1 = tissue: Peripheral lung tissue	True
+GSM7093228	geo:GSE227210:GSM7093228	disease_free_text	AATD	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	!Sample_characteristics_ch1 = disease: AATD	True
+GSM7093228	geo:GSE227210:GSM7093228	sex	Female	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7093228	geo:GSE227210:GSM7093228	age	45	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093228	!Sample_characteristics_ch1 = age: 45	True
+GSM7093229	geo:GSE227210:GSM7093229	donor_id	R710000551	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	!Sample_title = R710000551 AATD CD45neg Rep2	True
+GSM7093229	geo:GSE227210:GSM7093229	disease_ontology_term_id	MONDO:0013282	file	evidence/PMC11443245.txt		alpha-1 antitrypsin deficiency [AATD] homozygous for the Z mutation	True
+GSM7093229	geo:GSE227210:GSM7093229	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	!Sample_characteristics_ch1 = tissue: Peripheral lung tissue	True
+GSM7093229	geo:GSE227210:GSM7093229	assay	10x 3' v2	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	Chromium Single Cell 3’ v2 chemistry	True
+GSM7093229	geo:GSE227210:GSM7093229	suspension_type	cell	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	Cellular suspensions were loaded on a GemCode Single Cell Instrument	True
+GSM7093229	geo:GSE227210:GSM7093229	cell_enrichment	CD45-reduced	file	evidence/PMC11443245.txt		dissociated and CD45-reduced as previously described	True
+GSM7093229	geo:GSE227210:GSM7093229	tissue_free_text	Peripheral lung tissue	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	!Sample_characteristics_ch1 = tissue: Peripheral lung tissue	True
+GSM7093229	geo:GSE227210:GSM7093229	disease_free_text	AATD	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	!Sample_characteristics_ch1 = disease: AATD	True
+GSM7093229	geo:GSE227210:GSM7093229	sex	Female	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7093229	geo:GSE227210:GSM7093229	age	45	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093229	!Sample_characteristics_ch1 = age: 45	True
+GSM7093230	geo:GSE227210:GSM7093230	donor_id	R710000575	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	!Sample_supplementary_file_1 = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7093nnn/GSM7093230/suppl/GSM7093230_R710000575_CD45neg.h5	True
+GSM7093230	geo:GSE227210:GSM7093230	disease_ontology_term_id	MONDO:0013282	file	evidence/PMC11443245.txt		alpha-1 antitrypsin deficiency [AATD] homozygous for the Z mutation	True
+GSM7093230	geo:GSE227210:GSM7093230	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	!Sample_characteristics_ch1 = tissue: Peripheral lung tissue	True
+GSM7093230	geo:GSE227210:GSM7093230	assay	10x 3' v2	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	Chromium Single Cell 3’ v2 chemistry	True
+GSM7093230	geo:GSE227210:GSM7093230	suspension_type	cell	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	Cellular suspensions were loaded on a GemCode Single Cell Instrument	True
+GSM7093230	geo:GSE227210:GSM7093230	cell_enrichment	CD45-reduced	file	evidence/PMC11443245.txt		dissociated and CD45-reduced as previously described	True
+GSM7093230	geo:GSE227210:GSM7093230	tissue_free_text	Peripheral lung tissue	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	!Sample_characteristics_ch1 = tissue: Peripheral lung tissue	True
+GSM7093230	geo:GSE227210:GSM7093230	disease_free_text	AATD	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	!Sample_characteristics_ch1 = disease: AATD	True
+GSM7093230	geo:GSE227210:GSM7093230	sex	Male	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7093230	geo:GSE227210:GSM7093230	age	49	file	raw/fp-14b2144e901e/GSE227210_family.soft.gz	GSM7093230	!Sample_characteristics_ch1 = age: 49	True

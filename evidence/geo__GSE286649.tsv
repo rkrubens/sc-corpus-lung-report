@@ -1,0 +1,12 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8730012	geo:GSE286649:GSM8730012	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8730012	geo:GSE286649:GSM8730012	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+GSM8730012	geo:GSE286649:GSM8730012	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8730012	geo:GSE286649:GSM8730012	donor_id	ENCDO528BHB	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		donor_id: ENCDO528BHB	True
+GSM8730012	geo:GSE286649:GSM8730012	sex	female	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		Sex: female	True
+GSM8730012	geo:GSE286649:GSM8730012	age	47	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		age: 47 year	True
+GSM8730012	geo:GSE286649:GSM8730012	tissue_free_text	lung	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		tissue_type: lung	True
+GSM8730012	geo:GSE286649:GSM8730012	tissue_type	tissue	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		biomaterial_type: tissue	True
+GSM8730012	geo:GSE286649:GSM8730012	suspension_type	nucleus	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		subcellular fraction term name: nucleus	True
+GSM8730012	geo:GSE286649:GSM8730012	sample_preservation	flash-frozen	file	raw/fp-97b275d183df/GSE286649_family.soft.gz		preserved by flash-freezing nuclear fraction	True

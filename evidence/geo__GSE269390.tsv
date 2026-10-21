@@ -1,0 +1,86 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8314258	geo:GSE269390:GSM8314258	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8314258	geo:GSE269390:GSM8314258	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM8314259	geo:GSE269390:GSM8314259	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8314259	geo:GSE269390:GSM8314259	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM8314260	geo:GSE269390:GSM8314260	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8314260	geo:GSE269390:GSM8314260	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM8314261	geo:GSE269390:GSM8314261	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8314261	geo:GSE269390:GSM8314261	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM8314262	geo:GSE269390:GSM8314262	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8314262	geo:GSE269390:GSM8314262	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8314263	geo:GSE269390:GSM8314263	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8314263	geo:GSE269390:GSM8314263	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+		organism	Homo sapiens	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8314258	geo:GSE269390:GSM8314258	tissue_type	tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_source_name_ch1 = Distal lung tissue	True
+GSM8314258	geo:GSE269390:GSM8314258	suspension_type	cell	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	Single-cell suspensions then were treated with ACK buffer	True
+GSM8314258	geo:GSE269390:GSM8314258	cell_enrichment	EPCAM magnetic bead based selection (EPCAM-enriched fraction)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	The EPCAM enriched fraction was used as the input for the single cell libraries.	True
+GSM8314258	geo:GSE269390:GSM8314258	sample_collection_method	lung transplantation explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		who underwent lung transplantation	True
+GSM8314258	geo:GSE269390:GSM8314258	sample_preservation	cryopreserved (90% FBS, 10% DMSO)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		cryopreserved in 90%FBS and 10% DMSO until processed for sequencing	True
+GSM8314258	geo:GSE269390:GSM8314258	gene_annotation_version	GRCh38-2020-A	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_data_processing = Assembly: GRCh38-2020-A	True
+GSM8314258	geo:GSE269390:GSM8314258	tissue_free_text	Distal lung tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314258	geo:GSE269390:GSM8314258	disease_free_text	COPD explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314258	geo:GSE269390:GSM8314258	sex	Male	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8314258	geo:GSE269390:GSM8314258	age	62	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_characteristics_ch1 = age: 62	True
+GSM8314258	geo:GSE269390:GSM8314258	disease_ontology_term_id	MONDO:0005002	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314258	geo:GSE269390:GSM8314258	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314258	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314259	geo:GSE269390:GSM8314259	tissue_type	tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_source_name_ch1 = Distal lung tissue	True
+GSM8314259	geo:GSE269390:GSM8314259	suspension_type	cell	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	Single-cell suspensions then were treated with ACK buffer	True
+GSM8314259	geo:GSE269390:GSM8314259	cell_enrichment	EPCAM magnetic bead based selection (EPCAM-enriched fraction)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	The EPCAM enriched fraction was used as the input for the single cell libraries.	True
+GSM8314259	geo:GSE269390:GSM8314259	sample_collection_method	lung transplantation explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		who underwent lung transplantation	True
+GSM8314259	geo:GSE269390:GSM8314259	sample_preservation	cryopreserved (90% FBS, 10% DMSO)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		cryopreserved in 90%FBS and 10% DMSO until processed for sequencing	True
+GSM8314259	geo:GSE269390:GSM8314259	gene_annotation_version	GRCh38-2020-A	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_data_processing = Assembly: GRCh38-2020-A	True
+GSM8314259	geo:GSE269390:GSM8314259	tissue_free_text	Distal lung tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314259	geo:GSE269390:GSM8314259	disease_free_text	COPD explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314259	geo:GSE269390:GSM8314259	sex	Male	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8314259	geo:GSE269390:GSM8314259	age	62	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_characteristics_ch1 = age: 62	True
+GSM8314259	geo:GSE269390:GSM8314259	disease_ontology_term_id	MONDO:0005002	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314259	geo:GSE269390:GSM8314259	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314259	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314260	geo:GSE269390:GSM8314260	tissue_type	tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_source_name_ch1 = Distal lung tissue	True
+GSM8314260	geo:GSE269390:GSM8314260	suspension_type	cell	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	Single-cell suspensions then were treated with ACK buffer	True
+GSM8314260	geo:GSE269390:GSM8314260	cell_enrichment	EPCAM magnetic bead based selection (EPCAM-enriched fraction)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	The EPCAM enriched fraction was used as the input for the single cell libraries.	True
+GSM8314260	geo:GSE269390:GSM8314260	sample_collection_method	lung transplantation explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		who underwent lung transplantation	True
+GSM8314260	geo:GSE269390:GSM8314260	sample_preservation	cryopreserved (90% FBS, 10% DMSO)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		cryopreserved in 90%FBS and 10% DMSO until processed for sequencing	True
+GSM8314260	geo:GSE269390:GSM8314260	gene_annotation_version	GRCh38-2020-A	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_data_processing = Assembly: GRCh38-2020-A	True
+GSM8314260	geo:GSE269390:GSM8314260	tissue_free_text	Distal lung tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314260	geo:GSE269390:GSM8314260	disease_free_text	COPD explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314260	geo:GSE269390:GSM8314260	sex	Female	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8314260	geo:GSE269390:GSM8314260	age	56	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_characteristics_ch1 = age: 56	True
+GSM8314260	geo:GSE269390:GSM8314260	disease_ontology_term_id	MONDO:0005002	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314260	geo:GSE269390:GSM8314260	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314260	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314261	geo:GSE269390:GSM8314261	tissue_type	tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_source_name_ch1 = Distal lung tissue	True
+GSM8314261	geo:GSE269390:GSM8314261	suspension_type	cell	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	Single-cell suspensions then were treated with ACK buffer	True
+GSM8314261	geo:GSE269390:GSM8314261	cell_enrichment	EPCAM magnetic bead based selection (EPCAM-enriched fraction)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	The EPCAM enriched fraction was used as the input for the single cell libraries.	True
+GSM8314261	geo:GSE269390:GSM8314261	sample_collection_method	lung transplantation explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		who underwent lung transplantation	True
+GSM8314261	geo:GSE269390:GSM8314261	sample_preservation	cryopreserved (90% FBS, 10% DMSO)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		cryopreserved in 90%FBS and 10% DMSO until processed for sequencing	True
+GSM8314261	geo:GSE269390:GSM8314261	gene_annotation_version	GRCh38-2020-A	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_data_processing = Assembly: GRCh38-2020-A	True
+GSM8314261	geo:GSE269390:GSM8314261	tissue_free_text	Distal lung tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314261	geo:GSE269390:GSM8314261	disease_free_text	COPD explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314261	geo:GSE269390:GSM8314261	sex	Female	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8314261	geo:GSE269390:GSM8314261	age	53	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_characteristics_ch1 = age: 53	True
+GSM8314261	geo:GSE269390:GSM8314261	disease_ontology_term_id	MONDO:0005002	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314261	geo:GSE269390:GSM8314261	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314261	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314262	geo:GSE269390:GSM8314262	tissue_type	tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_source_name_ch1 = Distal lung tissue	True
+GSM8314262	geo:GSE269390:GSM8314262	suspension_type	cell	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	Single-cell suspensions then were treated with ACK buffer	True
+GSM8314262	geo:GSE269390:GSM8314262	cell_enrichment	EPCAM magnetic bead based selection (EPCAM-enriched fraction)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	The EPCAM enriched fraction was used as the input for the single cell libraries.	True
+GSM8314262	geo:GSE269390:GSM8314262	sample_collection_method	lung transplantation explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		who underwent lung transplantation	True
+GSM8314262	geo:GSE269390:GSM8314262	sample_preservation	cryopreserved (90% FBS, 10% DMSO)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		cryopreserved in 90%FBS and 10% DMSO until processed for sequencing	True
+GSM8314262	geo:GSE269390:GSM8314262	gene_annotation_version	GRCh38-2020-A	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_data_processing = Assembly: GRCh38-2020-A	True
+GSM8314262	geo:GSE269390:GSM8314262	tissue_free_text	Distal lung tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314262	geo:GSE269390:GSM8314262	disease_free_text	COPD explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314262	geo:GSE269390:GSM8314262	sex	Female	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8314262	geo:GSE269390:GSM8314262	age	66	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_characteristics_ch1 = age: 66	True
+GSM8314262	geo:GSE269390:GSM8314262	disease_ontology_term_id	MONDO:0005002	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314262	geo:GSE269390:GSM8314262	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314262	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314263	geo:GSE269390:GSM8314263	tissue_type	tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_source_name_ch1 = Distal lung tissue	True
+GSM8314263	geo:GSE269390:GSM8314263	suspension_type	cell	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	Single-cell suspensions then were treated with ACK buffer	True
+GSM8314263	geo:GSE269390:GSM8314263	cell_enrichment	EPCAM magnetic bead based selection (EPCAM-enriched fraction)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	The EPCAM enriched fraction was used as the input for the single cell libraries.	True
+GSM8314263	geo:GSE269390:GSM8314263	sample_collection_method	lung transplantation explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		who underwent lung transplantation	True
+GSM8314263	geo:GSE269390:GSM8314263	sample_preservation	cryopreserved (90% FBS, 10% DMSO)	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz		cryopreserved in 90%FBS and 10% DMSO until processed for sequencing	True
+GSM8314263	geo:GSE269390:GSM8314263	gene_annotation_version	GRCh38-2020-A	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_data_processing = Assembly: GRCh38-2020-A	True
+GSM8314263	geo:GSE269390:GSM8314263	tissue_free_text	Distal lung tissue	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True
+GSM8314263	geo:GSE269390:GSM8314263	disease_free_text	COPD explant	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314263	geo:GSE269390:GSM8314263	sex	Male	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8314263	geo:GSE269390:GSM8314263	age	52	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_characteristics_ch1 = age: 52	True
+GSM8314263	geo:GSE269390:GSM8314263	disease_ontology_term_id	MONDO:0005002	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_characteristics_ch1 = disease state: COPD explant	True
+GSM8314263	geo:GSE269390:GSM8314263	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-ede0b81a6550/GSE269390_family.soft.gz	GSM8314263	!Sample_characteristics_ch1 = tissue: Distal lung tissue	True

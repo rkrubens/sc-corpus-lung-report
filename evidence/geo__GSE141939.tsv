@@ -1,0 +1,452 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+BR001	geo:GSE141939:BR001	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR002	geo:GSE141939:BR002	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR003	geo:GSE141939:BR003	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR004	geo:GSE141939:BR004	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR005	geo:GSE141939:BR005	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR006	geo:GSE141939:BR006	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR007	geo:GSE141939:BR007	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR008	geo:GSE141939:BR008	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR009	geo:GSE141939:BR009	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR010	geo:GSE141939:BR010	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR011	geo:GSE141939:BR011	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR012	geo:GSE141939:BR012	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR013	geo:GSE141939:BR013	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR014	geo:GSE141939:BR014	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR015	geo:GSE141939:BR015	donor_id	<column library>	column	work/fp-248d47f508e0/cell_metadata.tsv/library			True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	<column age>	column	work/fp-248d47f508e0/cell_metadata.tsv/age			True
+BR001	geo:GSE141939:BR001	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR002	geo:GSE141939:BR002	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR003	geo:GSE141939:BR003	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR004	geo:GSE141939:BR004	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR005	geo:GSE141939:BR005	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR006	geo:GSE141939:BR006	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR007	geo:GSE141939:BR007	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR008	geo:GSE141939:BR008	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR009	geo:GSE141939:BR009	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR010	geo:GSE141939:BR010	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR011	geo:GSE141939:BR011	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR012	geo:GSE141939:BR012	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR013	geo:GSE141939:BR013	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR014	geo:GSE141939:BR014	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR015	geo:GSE141939:BR015	sex_ontology_term_id	<column sex_code>	column	work/fp-248d47f508e0/cell_metadata.tsv/sex_code			True
+BR001	geo:GSE141939:BR001	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR002	geo:GSE141939:BR002	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR003	geo:GSE141939:BR003	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR004	geo:GSE141939:BR004	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR005	geo:GSE141939:BR005	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR006	geo:GSE141939:BR006	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR007	geo:GSE141939:BR007	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR008	geo:GSE141939:BR008	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR009	geo:GSE141939:BR009	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR010	geo:GSE141939:BR010	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR011	geo:GSE141939:BR011	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR012	geo:GSE141939:BR012	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR013	geo:GSE141939:BR013	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR014	geo:GSE141939:BR014	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR015	geo:GSE141939:BR015	disease_free_text	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR001	geo:GSE141939:BR001	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR002	geo:GSE141939:BR002	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR003	geo:GSE141939:BR003	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR004	geo:GSE141939:BR004	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR005	geo:GSE141939:BR005	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR006	geo:GSE141939:BR006	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR007	geo:GSE141939:BR007	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR008	geo:GSE141939:BR008	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR009	geo:GSE141939:BR009	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR010	geo:GSE141939:BR010	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR011	geo:GSE141939:BR011	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR012	geo:GSE141939:BR012	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR013	geo:GSE141939:BR013	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR014	geo:GSE141939:BR014	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR015	geo:GSE141939:BR015	disease_ontology_term_id	<column group>	column	work/fp-248d47f508e0/cell_metadata.tsv/group			True
+BR001	geo:GSE141939:BR001	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR002	geo:GSE141939:BR002	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR003	geo:GSE141939:BR003	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR004	geo:GSE141939:BR004	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR005	geo:GSE141939:BR005	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR006	geo:GSE141939:BR006	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR007	geo:GSE141939:BR007	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR008	geo:GSE141939:BR008	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR009	geo:GSE141939:BR009	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR010	geo:GSE141939:BR010	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR011	geo:GSE141939:BR011	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR012	geo:GSE141939:BR012	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR013	geo:GSE141939:BR013	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR014	geo:GSE141939:BR014	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR015	geo:GSE141939:BR015	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+BR001	geo:GSE141939:BR001	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR002	geo:GSE141939:BR002	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR003	geo:GSE141939:BR003	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR004	geo:GSE141939:BR004	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR005	geo:GSE141939:BR005	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR006	geo:GSE141939:BR006	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR007	geo:GSE141939:BR007	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR008	geo:GSE141939:BR008	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR009	geo:GSE141939:BR009	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR010	geo:GSE141939:BR010	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR011	geo:GSE141939:BR011	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR012	geo:GSE141939:BR012	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR013	geo:GSE141939:BR013	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR014	geo:GSE141939:BR014	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR015	geo:GSE141939:BR015	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+BR001	geo:GSE141939:BR001	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR002	geo:GSE141939:BR002	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR003	geo:GSE141939:BR003	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR004	geo:GSE141939:BR004	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR005	geo:GSE141939:BR005	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR006	geo:GSE141939:BR006	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR007	geo:GSE141939:BR007	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR008	geo:GSE141939:BR008	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR009	geo:GSE141939:BR009	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR010	geo:GSE141939:BR010	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR011	geo:GSE141939:BR011	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR012	geo:GSE141939:BR012	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR013	geo:GSE141939:BR013	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR014	geo:GSE141939:BR014	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR015	geo:GSE141939:BR015	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+BR001	geo:GSE141939:BR001	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR002	geo:GSE141939:BR002	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR003	geo:GSE141939:BR003	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR004	geo:GSE141939:BR004	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR005	geo:GSE141939:BR005	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR006	geo:GSE141939:BR006	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR007	geo:GSE141939:BR007	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR008	geo:GSE141939:BR008	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR009	geo:GSE141939:BR009	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR010	geo:GSE141939:BR010	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR011	geo:GSE141939:BR011	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR012	geo:GSE141939:BR012	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR013	geo:GSE141939:BR013	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR014	geo:GSE141939:BR014	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+BR015	geo:GSE141939:BR015	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+		organism	Homo sapiens	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+BR001	geo:GSE141939:BR001	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR002	geo:GSE141939:BR002	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR003	geo:GSE141939:BR003	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR004	geo:GSE141939:BR004	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR005	geo:GSE141939:BR005	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR006	geo:GSE141939:BR006	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR007	geo:GSE141939:BR007	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR008	geo:GSE141939:BR008	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR009	geo:GSE141939:BR009	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR010	geo:GSE141939:BR010	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR011	geo:GSE141939:BR011	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR012	geo:GSE141939:BR012	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR013	geo:GSE141939:BR013	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR014	geo:GSE141939:BR014	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR015	geo:GSE141939:BR015	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: m	True
+BR001	geo:GSE141939:BR001	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR002	geo:GSE141939:BR002	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR003	geo:GSE141939:BR003	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR004	geo:GSE141939:BR004	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR005	geo:GSE141939:BR005	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR006	geo:GSE141939:BR006	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR007	geo:GSE141939:BR007	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR008	geo:GSE141939:BR008	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR009	geo:GSE141939:BR009	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR010	geo:GSE141939:BR010	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR011	geo:GSE141939:BR011	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR012	geo:GSE141939:BR012	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR013	geo:GSE141939:BR013	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR014	geo:GSE141939:BR014	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR015	geo:GSE141939:BR015	sex	<map of column sex_code>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_characteristics_ch1 = Sex: f	True
+BR001	geo:GSE141939:BR001	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR002	geo:GSE141939:BR002	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR003	geo:GSE141939:BR003	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR004	geo:GSE141939:BR004	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR005	geo:GSE141939:BR005	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR006	geo:GSE141939:BR006	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR007	geo:GSE141939:BR007	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR008	geo:GSE141939:BR008	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR009	geo:GSE141939:BR009	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR010	geo:GSE141939:BR010	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR011	geo:GSE141939:BR011	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR012	geo:GSE141939:BR012	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR013	geo:GSE141939:BR013	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR014	geo:GSE141939:BR014	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR015	geo:GSE141939:BR015	disease_free_text	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR001	geo:GSE141939:BR001	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR002	geo:GSE141939:BR002	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR003	geo:GSE141939:BR003	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR004	geo:GSE141939:BR004	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR005	geo:GSE141939:BR005	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR006	geo:GSE141939:BR006	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR007	geo:GSE141939:BR007	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR008	geo:GSE141939:BR008	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR009	geo:GSE141939:BR009	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR010	geo:GSE141939:BR010	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR011	geo:GSE141939:BR011	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR012	geo:GSE141939:BR012	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR013	geo:GSE141939:BR013	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR014	geo:GSE141939:BR014	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR015	geo:GSE141939:BR015	disease_free_text	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR001	geo:GSE141939:BR001	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR002	geo:GSE141939:BR002	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR003	geo:GSE141939:BR003	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR004	geo:GSE141939:BR004	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR005	geo:GSE141939:BR005	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR006	geo:GSE141939:BR006	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR007	geo:GSE141939:BR007	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR008	geo:GSE141939:BR008	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR009	geo:GSE141939:BR009	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR010	geo:GSE141939:BR010	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR011	geo:GSE141939:BR011	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR012	geo:GSE141939:BR012	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR013	geo:GSE141939:BR013	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR014	geo:GSE141939:BR014	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR015	geo:GSE141939:BR015	disease_ontology_term_id	<map of column group>	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		9 IPF patients with UIP pattern and 6 nonUIP controls	True
+BR001	geo:GSE141939:BR001	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR002	geo:GSE141939:BR002	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR003	geo:GSE141939:BR003	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR004	geo:GSE141939:BR004	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR005	geo:GSE141939:BR005	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR006	geo:GSE141939:BR006	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR007	geo:GSE141939:BR007	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR008	geo:GSE141939:BR008	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR009	geo:GSE141939:BR009	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR010	geo:GSE141939:BR010	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR011	geo:GSE141939:BR011	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR012	geo:GSE141939:BR012	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR013	geo:GSE141939:BR013	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR014	geo:GSE141939:BR014	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR015	geo:GSE141939:BR015	disease_ontology_term_id	<map of column group>	file	evidence/PMC9513076.txt		six patients with nonUIP fibrotic ILDs	True
+BR001	geo:GSE141939:BR001	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR002	geo:GSE141939:BR002	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR003	geo:GSE141939:BR003	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR004	geo:GSE141939:BR004	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR005	geo:GSE141939:BR005	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR006	geo:GSE141939:BR006	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR007	geo:GSE141939:BR007	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR008	geo:GSE141939:BR008	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR009	geo:GSE141939:BR009	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR010	geo:GSE141939:BR010	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR011	geo:GSE141939:BR011	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR012	geo:GSE141939:BR012	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR013	geo:GSE141939:BR013	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR014	geo:GSE141939:BR014	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR015	geo:GSE141939:BR015	tissue_free_text	bronchial brush cells	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		!Sample_source_name_ch1 = bronchial brush cells	True
+BR001	geo:GSE141939:BR001	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR002	geo:GSE141939:BR002	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR003	geo:GSE141939:BR003	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR004	geo:GSE141939:BR004	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR005	geo:GSE141939:BR005	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR006	geo:GSE141939:BR006	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR007	geo:GSE141939:BR007	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR008	geo:GSE141939:BR008	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR009	geo:GSE141939:BR009	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR010	geo:GSE141939:BR010	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR011	geo:GSE141939:BR011	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR012	geo:GSE141939:BR012	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR013	geo:GSE141939:BR013	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR014	geo:GSE141939:BR014	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR015	geo:GSE141939:BR015	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR001	geo:GSE141939:BR001	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR002	geo:GSE141939:BR002	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR003	geo:GSE141939:BR003	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR004	geo:GSE141939:BR004	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR005	geo:GSE141939:BR005	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR006	geo:GSE141939:BR006	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR007	geo:GSE141939:BR007	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR008	geo:GSE141939:BR008	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR009	geo:GSE141939:BR009	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR010	geo:GSE141939:BR010	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR011	geo:GSE141939:BR011	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR012	geo:GSE141939:BR012	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR013	geo:GSE141939:BR013	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR014	geo:GSE141939:BR014	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR015	geo:GSE141939:BR015	sample_collection_method	bronchial brushing during flexible bronchoscopy	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe during flexible bronchoscopy	True
+BR001	geo:GSE141939:BR001	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR002	geo:GSE141939:BR002	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR003	geo:GSE141939:BR003	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR004	geo:GSE141939:BR004	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR005	geo:GSE141939:BR005	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR006	geo:GSE141939:BR006	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR007	geo:GSE141939:BR007	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR008	geo:GSE141939:BR008	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR009	geo:GSE141939:BR009	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR010	geo:GSE141939:BR010	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR011	geo:GSE141939:BR011	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR012	geo:GSE141939:BR012	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR013	geo:GSE141939:BR013	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR014	geo:GSE141939:BR014	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR015	geo:GSE141939:BR015	tissue_type	tissue	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		harvested by bronchial brushes of sub-segmental bronchi of the right lower lobe	True
+BR001	geo:GSE141939:BR001	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR002	geo:GSE141939:BR002	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR003	geo:GSE141939:BR003	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR004	geo:GSE141939:BR004	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR005	geo:GSE141939:BR005	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR006	geo:GSE141939:BR006	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR007	geo:GSE141939:BR007	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR008	geo:GSE141939:BR008	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR009	geo:GSE141939:BR009	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR010	geo:GSE141939:BR010	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR011	geo:GSE141939:BR011	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR012	geo:GSE141939:BR012	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR013	geo:GSE141939:BR013	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR014	geo:GSE141939:BR014	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR015	geo:GSE141939:BR015	suspension_type	cell	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2	True
+BR001	geo:GSE141939:BR001	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR002	geo:GSE141939:BR002	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR003	geo:GSE141939:BR003	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR004	geo:GSE141939:BR004	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR005	geo:GSE141939:BR005	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR006	geo:GSE141939:BR006	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR007	geo:GSE141939:BR007	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR008	geo:GSE141939:BR008	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR009	geo:GSE141939:BR009	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR010	geo:GSE141939:BR010	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR011	geo:GSE141939:BR011	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR012	geo:GSE141939:BR012	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR013	geo:GSE141939:BR013	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR014	geo:GSE141939:BR014	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True
+BR015	geo:GSE141939:BR015	assay	10x 3' v2	file	raw/fp-248d47f508e0/GSE141939_family.soft.gz		Single-cell libraries were prepared using the standard 10x Genomics single cell 3' reagent kits v2 processing workflow	True

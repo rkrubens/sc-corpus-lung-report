@@ -1,0 +1,4 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-c0532db320cb/GSE296751_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8975916	geo:GSE296751:GSM8975916	tissue_free_text	Lung tissue	file	raw/fp-c0532db320cb/GSE296751_family.soft.gz	GSM8975916	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8975916	geo:GSE296751:GSM8975916	disease_free_text	patients with IPF	file	raw/fp-c0532db320cb/GSE296751_family.soft.gz	GSM8975916	!Sample_characteristics_ch1 = subject status: patients with IPF	True

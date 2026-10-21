@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-226497094b88/GSE196638_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5897133	geo:GSE196638:GSM5897133	age	adult	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897133	!Sample_characteristics_ch1 = age: adult	True
+GSM5897133	geo:GSE196638:GSM5897133	tissue_free_text	lung (distal)	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897133	!Sample_characteristics_ch1 = tissue: lung (distal)	True
+GSM5897134	geo:GSE196638:GSM5897134	age	adult	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897134	!Sample_characteristics_ch1 = age: adult	True
+GSM5897134	geo:GSE196638:GSM5897134	tissue_free_text	lung (distal)	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897134	!Sample_characteristics_ch1 = tissue: lung (distal)	True
+GSM5897135	geo:GSE196638:GSM5897135	age	adult	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897135	!Sample_characteristics_ch1 = age: adult	True
+GSM5897135	geo:GSE196638:GSM5897135	tissue_free_text	lung (distal)	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897135	!Sample_characteristics_ch1 = tissue: lung (distal)	True
+GSM5897136	geo:GSE196638:GSM5897136	age	adult	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897136	!Sample_characteristics_ch1 = age: adult	True
+GSM5897136	geo:GSE196638:GSM5897136	tissue_free_text	lung (distal)	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897136	!Sample_characteristics_ch1 = tissue: lung (distal)	True
+GSM5897137	geo:GSE196638:GSM5897137	age	adult	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897137	!Sample_characteristics_ch1 = age: adult	True
+GSM5897137	geo:GSE196638:GSM5897137	tissue_free_text	lung (distal)	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897137	!Sample_characteristics_ch1 = tissue: lung (distal)	True
+GSM5897138	geo:GSE196638:GSM5897138	age	adult	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897138	!Sample_characteristics_ch1 = age: adult	True
+GSM5897138	geo:GSE196638:GSM5897138	tissue_free_text	lung (distal)	file	raw/fp-226497094b88/GSE196638_family.soft.gz	GSM5897138	!Sample_characteristics_ch1 = tissue: lung (distal)	True

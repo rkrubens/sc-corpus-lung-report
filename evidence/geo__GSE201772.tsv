@@ -1,0 +1,242 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+sample21	geo:GSE201772:sample21	tissue_free_text	<column sname>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/sname			True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+Sample17H	geo:GSE201772:Sample17H	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+Sample18H	geo:GSE201772:Sample18H	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+sample21	geo:GSE201772:sample21	disease_free_text	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+Sample17H	geo:GSE201772:Sample17H	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+Sample18H	geo:GSE201772:Sample18H	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+sample21	geo:GSE201772:sample21	disease_ontology_term_id	<column Clinics>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Clinics			True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+Sample17H	geo:GSE201772:Sample17H	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+Sample18H	geo:GSE201772:Sample18H	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+sample21	geo:GSE201772:sample21	sex_ontology_term_id	<column Gender>	column	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz/Gender			True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Sample17H	geo:GSE201772:Sample17H	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Sample18H	geo:GSE201772:Sample18H	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+sample21	geo:GSE201772:sample21	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Sample17H	geo:GSE201772:Sample17H	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Sample18H	geo:GSE201772:Sample18H	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+sample21	geo:GSE201772:sample21	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+		organism	Homo sapiens	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_title = Healthy 1 [nextseq3.Sample2]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071102	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_title = Healthy 2 [nextseq5.s11]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071103	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_title = Healthy 3 [NextSeq7.Sample15]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071104	!Sample_characteristics_ch1 = tissue: Proximal lung donor tissue	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_title = Healthy 4 [NovaSeq6.Pavan1]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071105	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_title = Healthy 5 [nextseq5.S10]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071106	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_title = Healthy 6 [Sample17H]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071107	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_title = Healthy 7 [Sample18H]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071108	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_title = Healthy 8 [sample21]	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample17H	geo:GSE201772:Sample17H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+Sample18H	geo:GSE201772:Sample18H	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+sample21	geo:GSE201772:sample21	tissue_free_text	<map of column sname>	file	raw/fp-7b026707b261/GSE201772_family.soft.gz	GSM6071109	!Sample_characteristics_ch1 = tissue: Biopsy	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+Sample17H	geo:GSE201772:Sample17H	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+Sample18H	geo:GSE201772:Sample18H	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+sample21	geo:GSE201772:sample21	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		!Sample_source_name_ch1 = proximall lung cells	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+Sample17H	geo:GSE201772:Sample17H	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+Sample18H	geo:GSE201772:Sample18H	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+sample21	geo:GSE201772:sample21	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+Sample17H	geo:GSE201772:Sample17H	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+Sample18H	geo:GSE201772:Sample18H	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+sample21	geo:GSE201772:sample21	disease_free_text	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['Cancer control']	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+Sample17H	geo:GSE201772:Sample17H	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+Sample18H	geo:GSE201772:Sample18H	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+sample21	geo:GSE201772:sample21	disease_ontology_term_id	<map of column Clinics>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['HEALTHY']	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+Sample17H	geo:GSE201772:Sample17H	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+Sample18H	geo:GSE201772:Sample18H	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+sample21	geo:GSE201772:sample21	disease_ontology_term_id	<map of column Clinics>	file	evidence/PMC9378779.txt		primary cells isolated from healthy bronchial airways	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+Sample17H	geo:GSE201772:Sample17H	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+Sample18H	geo:GSE201772:Sample18H	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+sample21	geo:GSE201772:sample21	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['M'],['Never smoker']	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+Sample17H	geo:GSE201772:Sample17H	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+Sample18H	geo:GSE201772:Sample18H	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+sample21	geo:GSE201772:sample21	sex	<map of column Gender>	file	raw/fp-7b026707b261/GSE201772_Mastcell_data.csv.gz		['OLD'],['F'],['Never smoker']	True
+NextSeq7.Sample15	geo:GSE201772:NextSeq7.Sample15	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+NovaSeq6.Pavan1	geo:GSE201772:NovaSeq6.Pavan1	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+Sample17H	geo:GSE201772:Sample17H	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+Sample18H	geo:GSE201772:Sample18H	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+nextseq3.sample2	geo:GSE201772:nextseq3.sample2	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+nextseq5.S10	geo:GSE201772:nextseq5.S10	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+nextseq5.S11	geo:GSE201772:nextseq5.S11	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True
+sample21	geo:GSE201772:sample21	suspension_type	cell	file	raw/fp-7b026707b261/GSE201772_family.soft.gz		Total RNA was extracted from 160546 cells in from all samples	True

@@ -1,0 +1,93 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+18-577	geo:GSE224210:18-577	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+20-469	geo:GSE224210:20-469	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+20-469_DT	geo:GSE224210:20-469_DT	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+21-013	geo:GSE224210:21-013	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+21-287_DT	geo:GSE224210:21-287_DT	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+21-361	geo:GSE224210:21-361	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+21-361_DT	geo:GSE224210:21-361_DT	disease_free_text	<column disease>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/disease			True
+18-577	geo:GSE224210:18-577	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+20-469	geo:GSE224210:20-469	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+20-469_DT	geo:GSE224210:20-469_DT	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+21-013	geo:GSE224210:21-013	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+21-287_DT	geo:GSE224210:21-287_DT	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+21-361	geo:GSE224210:21-361	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+21-361_DT	geo:GSE224210:21-361_DT	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+18-577	geo:GSE224210:18-577	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+20-469	geo:GSE224210:20-469	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+20-469_DT	geo:GSE224210:20-469_DT	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+21-013	geo:GSE224210:21-013	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+21-287_DT	geo:GSE224210:21-287_DT	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+21-361	geo:GSE224210:21-361	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+21-361_DT	geo:GSE224210:21-361_DT	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+18-577	geo:GSE224210:18-577	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+20-469	geo:GSE224210:20-469	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+20-469_DT	geo:GSE224210:20-469_DT	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+21-013	geo:GSE224210:21-013	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+21-287_DT	geo:GSE224210:21-287_DT	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+21-361	geo:GSE224210:21-361	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+21-361_DT	geo:GSE224210:21-361_DT	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+18-577	geo:GSE224210:18-577	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+20-469	geo:GSE224210:20-469	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+20-469_DT	geo:GSE224210:20-469_DT	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+21-013	geo:GSE224210:21-013	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+21-287_DT	geo:GSE224210:21-287_DT	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+21-361	geo:GSE224210:21-361	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+21-361_DT	geo:GSE224210:21-361_DT	author_cell_type	<column annotation>	column	work/fp-13ee4564fcc1/Cell_Identities_matrix_barcodes.tsv.gz/annotation			True
+		organism	Homo sapiens	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+18-577	geo:GSE224210:18-577	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+20-469	geo:GSE224210:20-469	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+20-469_DT	geo:GSE224210:20-469_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+21-013	geo:GSE224210:21-013	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+21-287_DT	geo:GSE224210:21-287_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+21-361	geo:GSE224210:21-361	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+21-361_DT	geo:GSE224210:21-361_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Cell Identities.csv	True
+18-577	geo:GSE224210:18-577	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+20-469	geo:GSE224210:20-469	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+20-469_DT	geo:GSE224210:20-469_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+21-013	geo:GSE224210:21-013	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+21-287_DT	geo:GSE224210:21-287_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+21-361	geo:GSE224210:21-361	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+21-361_DT	geo:GSE224210:21-361_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		cell identities including barcodes, CLAD vs control disease annotation, sample ID, and cell type annotations	True
+18-577	geo:GSE224210:18-577	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+20-469	geo:GSE224210:20-469	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+20-469_DT	geo:GSE224210:20-469_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+21-013	geo:GSE224210:21-013	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+21-287_DT	geo:GSE224210:21-287_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+21-361	geo:GSE224210:21-361	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+21-361_DT	geo:GSE224210:21-361_DT	disease_free_text	<map of column disease>	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Donor control lung tissue underwent formal pahtology evaluation that confirmed the absence of any significant lung disease	True
+18-577	geo:GSE224210:18-577	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+20-469	geo:GSE224210:20-469	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+20-469_DT	geo:GSE224210:20-469_DT	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+21-013	geo:GSE224210:21-013	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+21-287_DT	geo:GSE224210:21-287_DT	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+21-361	geo:GSE224210:21-361	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+21-361_DT	geo:GSE224210:21-361_DT	tissue_free_text	lung	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+18-577	geo:GSE224210:18-577	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+20-469	geo:GSE224210:20-469	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+20-469_DT	geo:GSE224210:20-469_DT	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+21-013	geo:GSE224210:21-013	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+21-287_DT	geo:GSE224210:21-287_DT	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+21-361	geo:GSE224210:21-361	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+21-361_DT	geo:GSE224210:21-361_DT	tissue_type	tissue	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_characteristics_ch1 = cell line: Primary lung tissue	True
+18-577	geo:GSE224210:18-577	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+20-469	geo:GSE224210:20-469	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+20-469_DT	geo:GSE224210:20-469_DT	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-013	geo:GSE224210:21-013	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-287_DT	geo:GSE224210:21-287_DT	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-361	geo:GSE224210:21-361	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-361_DT	geo:GSE224210:21-361_DT	suspension_type	cell	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+18-577	geo:GSE224210:18-577	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+20-469	geo:GSE224210:20-469	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+20-469_DT	geo:GSE224210:20-469_DT	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-013	geo:GSE224210:21-013	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-287_DT	geo:GSE224210:21-287_DT	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-361	geo:GSE224210:21-361	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+21-361_DT	geo:GSE224210:21-361_DT	assay	10x 3' v2	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		Single cells were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+18-577	geo:GSE224210:18-577	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+20-469	geo:GSE224210:20-469	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+20-469_DT	geo:GSE224210:20-469_DT	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+21-013	geo:GSE224210:21-013	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+21-287_DT	geo:GSE224210:21-287_DT	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+21-361	geo:GSE224210:21-361	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True
+21-361_DT	geo:GSE224210:21-361_DT	gene_annotation_version	GRCh38	file	raw/fp-13ee4564fcc1/GSE224210_family.soft.gz		!Sample_data_processing = Assembly: GRCh38	True

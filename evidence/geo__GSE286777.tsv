@@ -1,0 +1,15 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8730204	geo:GSE286777:GSM8730204	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8730204	geo:GSE286777:GSM8730204	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+		organism	Homo sapiens	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8730204	geo:GSE286777:GSM8730204	donor_id	ENCDO520EJG	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		donor_id: ENCDO520EJG	True
+GSM8730204	geo:GSE286777:GSM8730204	sex	male	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		Sex: male	True
+GSM8730204	geo:GSE286777:GSM8730204	age	60	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		age: 60 year	True
+GSM8730204	geo:GSE286777:GSM8730204	tissue_free_text	upper lobe of left lung	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		tissue_type: upper lobe of left lung	True
+GSM8730204	geo:GSE286777:GSM8730204	tissue_ontology_term_id	UBERON:0008952	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		tissue_type: upper lobe of left lung	True
+GSM8730204	geo:GSE286777:GSM8730204	tissue_type	tissue	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		biomaterial_type: tissue	True
+GSM8730204	geo:GSE286777:GSM8730204	disease_free_text	lungs with severe emphysema	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		health state: DM: no; HTN: yes; CAD: no; lungs with severe emphysema	True
+GSM8730204	geo:GSE286777:GSM8730204	disease_ontology_term_id	MONDO:0004849	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		health state: DM: no; HTN: yes; CAD: no; lungs with severe emphysema	True
+GSM8730204	geo:GSE286777:GSM8730204	suspension_type	nucleus	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		subcellular fraction term name: nucleus	True
+GSM8730204	geo:GSE286777:GSM8730204	sample_preservation	flash-freezing	file	raw/fp-12493d18ed44/GSE286777_family.soft.gz		preserved by flash-freezing nuclear fraction	True
+GSM8730204	geo:GSE286777:GSM8730204	gene_annotation_version	V29	file	work/fp-12493d18ed44/GSE286777_RAW/GSM8730204_ENCLB615BOP_README.txt.gz		genome annotation: V29	True

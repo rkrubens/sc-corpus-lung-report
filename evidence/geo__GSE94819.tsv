@@ -1,0 +1,29 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+DGM-10161	geo:GSE94819:DGM-10161	donor_id	<column individual id>	column	work/fp-c48cf6e73b89/GSE94819_cell_metadata.tsv/individual id			True
+DGM-10500	geo:GSE94819:DGM-10500	donor_id	<column individual id>	column	work/fp-c48cf6e73b89/GSE94819_cell_metadata.tsv/individual id			True
+DGM-13206	geo:GSE94819:DGM-13206	donor_id	<column individual id>	column	work/fp-c48cf6e73b89/GSE94819_cell_metadata.tsv/individual id			True
+DGM-10161	geo:GSE94819:DGM-10161	tissue_free_text	<column source_name>	column	work/fp-c48cf6e73b89/GSE94819_cell_metadata.tsv/source_name			True
+DGM-10500	geo:GSE94819:DGM-10500	tissue_free_text	<column source_name>	column	work/fp-c48cf6e73b89/GSE94819_cell_metadata.tsv/source_name			True
+DGM-13206	geo:GSE94819:DGM-13206	tissue_free_text	<column source_name>	column	work/fp-c48cf6e73b89/GSE94819_cell_metadata.tsv/source_name			True
+		organism	Homo sapiens	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+DGM-10161	geo:GSE94819:DGM-10161	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the small airway epithelium (10th-12th generations of bronchi) were collected by bronchoscopic brushing	True
+DGM-10500	geo:GSE94819:DGM-10500	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the small airway epithelium (10th-12th generations of bronchi) were collected by bronchoscopic brushing	True
+DGM-13206	geo:GSE94819:DGM-13206	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the small airway epithelium (10th-12th generations of bronchi) were collected by bronchoscopic brushing	True
+DGM-10161	geo:GSE94819:DGM-10161	disease_ontology_term_id	PATO:0000461	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		Three healthy nonsmokers, with no history of exposure to any tobacco products	True
+DGM-10500	geo:GSE94819:DGM-10500	disease_ontology_term_id	PATO:0000461	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		Three healthy nonsmokers, with no history of exposure to any tobacco products	True
+DGM-13206	geo:GSE94819:DGM-13206	disease_ontology_term_id	PATO:0000461	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		Three healthy nonsmokers, with no history of exposure to any tobacco products	True
+DGM-10161	geo:GSE94819:DGM-10161	disease_free_text	healthy nonsmoker	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		Three healthy nonsmokers, with no history of exposure to any tobacco products	True
+DGM-10500	geo:GSE94819:DGM-10500	disease_free_text	healthy nonsmoker	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		Three healthy nonsmokers, with no history of exposure to any tobacco products	True
+DGM-13206	geo:GSE94819:DGM-13206	disease_free_text	healthy nonsmoker	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		Three healthy nonsmokers, with no history of exposure to any tobacco products	True
+DGM-10161	geo:GSE94819:DGM-10161	sample_collection_method	bronchoscopic brushing	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the small airway epithelium (10th-12th generations of bronchi) were collected by bronchoscopic brushing	True
+DGM-10500	geo:GSE94819:DGM-10500	sample_collection_method	bronchoscopic brushing	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the small airway epithelium (10th-12th generations of bronchi) were collected by bronchoscopic brushing	True
+DGM-13206	geo:GSE94819:DGM-13206	sample_collection_method	bronchoscopic brushing	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the small airway epithelium (10th-12th generations of bronchi) were collected by bronchoscopic brushing	True
+DGM-10161	geo:GSE94819:DGM-10161	suspension_type	cell	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the single cell suspension (15 μl; 400~600 cells/μl) were loaded into the medium-sized (10 to 17 μm in diameter) microfluidic RNA-seq chip	True
+DGM-10500	geo:GSE94819:DGM-10500	suspension_type	cell	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the single cell suspension (15 μl; 400~600 cells/μl) were loaded into the medium-sized (10 to 17 μm in diameter) microfluidic RNA-seq chip	True
+DGM-13206	geo:GSE94819:DGM-13206	suspension_type	cell	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		the single cell suspension (15 μl; 400~600 cells/μl) were loaded into the medium-sized (10 to 17 μm in diameter) microfluidic RNA-seq chip	True
+DGM-10161	geo:GSE94819:DGM-10161	cell_enrichment	size-selective C1 chip enriching club and basal cells	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		To enrich the cell capture of club cells and basal cells, and minimize the inclusion with larger differentiated ciliated and mucin-secreting cells	True
+DGM-10500	geo:GSE94819:DGM-10500	cell_enrichment	size-selective C1 chip enriching club and basal cells	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		To enrich the cell capture of club cells and basal cells, and minimize the inclusion with larger differentiated ciliated and mucin-secreting cells	True
+DGM-13206	geo:GSE94819:DGM-13206	cell_enrichment	size-selective C1 chip enriching club and basal cells	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		To enrich the cell capture of club cells and basal cells, and minimize the inclusion with larger differentiated ciliated and mucin-secreting cells	True
+DGM-10161	geo:GSE94819:DGM-10161	gene_annotation_version	Ensembl 79	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		using the Ensembl release 79 transcriptome	True
+DGM-10500	geo:GSE94819:DGM-10500	gene_annotation_version	Ensembl 79	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		using the Ensembl release 79 transcriptome	True
+DGM-13206	geo:GSE94819:DGM-13206	gene_annotation_version	Ensembl 79	file	raw/fp-c48cf6e73b89/GSE94819_family.soft.gz		using the Ensembl release 79 transcriptome	True

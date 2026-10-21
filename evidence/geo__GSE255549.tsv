@@ -1,0 +1,121 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz		!Series_sample_taxid = 9606	True
+		organism	Homo sapiens	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8074552	geo:GSE255549:GSM8074552	donor_id	Pt14	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074552	!Sample_title = Pt14_TIL-RNA	True
+GSM8074552	geo:GSE255549:GSM8074552	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074552	geo:GSE255549:GSM8074552	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074552	geo:GSE255549:GSM8074552	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074552	geo:GSE255549:GSM8074552	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074552	!Sample_library_source = transcriptomic single cell	True
+GSM8074552	geo:GSE255549:GSM8074552	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074552	treatment: cultured	True
+GSM8074552	geo:GSE255549:GSM8074552	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074552	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074552	geo:GSE255549:GSM8074552	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074552	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074553	geo:GSE255549:GSM8074553	donor_id	Pt16	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074553	!Sample_title = Pt16_TIL-RNA	True
+GSM8074553	geo:GSE255549:GSM8074553	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074553	geo:GSE255549:GSM8074553	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074553	geo:GSE255549:GSM8074553	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074553	geo:GSE255549:GSM8074553	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074553	!Sample_library_source = transcriptomic single cell	True
+GSM8074553	geo:GSE255549:GSM8074553	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074553	treatment: cultured	True
+GSM8074553	geo:GSE255549:GSM8074553	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074553	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074553	geo:GSE255549:GSM8074553	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074553	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074554	geo:GSE255549:GSM8074554	donor_id	Pt25	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074554	!Sample_title = Pt25_TIL-RNA	True
+GSM8074554	geo:GSE255549:GSM8074554	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074554	geo:GSE255549:GSM8074554	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074554	geo:GSE255549:GSM8074554	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074554	geo:GSE255549:GSM8074554	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074554	!Sample_library_source = transcriptomic single cell	True
+GSM8074554	geo:GSE255549:GSM8074554	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074554	treatment: cultured	True
+GSM8074554	geo:GSE255549:GSM8074554	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074554	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074554	geo:GSE255549:GSM8074554	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074554	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074555	geo:GSE255549:GSM8074555	donor_id	Pt31	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074555	!Sample_title = Pt31_Baseline_Tumor-RNA	True
+GSM8074555	geo:GSE255549:GSM8074555	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074555	geo:GSE255549:GSM8074555	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074555	geo:GSE255549:GSM8074555	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074555	geo:GSE255549:GSM8074555	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074555	!Sample_library_source = transcriptomic single cell	True
+GSM8074555	geo:GSE255549:GSM8074555	tissue_type	tissue	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074555	treatment: isolated	True
+GSM8074555	geo:GSE255549:GSM8074555	timepoint	baseline	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074555	!Sample_title = Pt31_Baseline_Tumor-RNA	True
+GSM8074555	geo:GSE255549:GSM8074555	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074555	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074555	geo:GSE255549:GSM8074555	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074555	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074556	geo:GSE255549:GSM8074556	donor_id	Pt31	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074556	!Sample_title = Pt31_TIL-RNA	True
+GSM8074556	geo:GSE255549:GSM8074556	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074556	geo:GSE255549:GSM8074556	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074556	geo:GSE255549:GSM8074556	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074556	geo:GSE255549:GSM8074556	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074556	!Sample_library_source = transcriptomic single cell	True
+GSM8074556	geo:GSE255549:GSM8074556	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074556	treatment: cultured	True
+GSM8074556	geo:GSE255549:GSM8074556	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074556	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074556	geo:GSE255549:GSM8074556	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074556	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074557	geo:GSE255549:GSM8074557	donor_id	Pt3	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	!Sample_title = Pt3_Aph-RNA	True
+GSM8074557	geo:GSE255549:GSM8074557	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074557	geo:GSE255549:GSM8074557	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074557	geo:GSE255549:GSM8074557	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074557	geo:GSE255549:GSM8074557	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	!Sample_library_source = transcriptomic single cell	True
+GSM8074557	geo:GSE255549:GSM8074557	tissue_type	tissue	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	tissue: blood	True
+GSM8074557	geo:GSE255549:GSM8074557	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	tissue: blood	True
+GSM8074557	geo:GSE255549:GSM8074557	sample_collection_method	apheresis	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	treatment: Apheresis	True
+GSM8074557	geo:GSE255549:GSM8074557	tissue_free_text	blood	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	!Sample_characteristics_ch1 = tissue: blood	True
+GSM8074557	geo:GSE255549:GSM8074557	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074557	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074558	geo:GSE255549:GSM8074558	donor_id	Pt3	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074558	!Sample_title = Pt3_Baseline_Tumor-RNA	True
+GSM8074558	geo:GSE255549:GSM8074558	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074558	geo:GSE255549:GSM8074558	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074558	geo:GSE255549:GSM8074558	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074558	geo:GSE255549:GSM8074558	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074558	!Sample_library_source = transcriptomic single cell	True
+GSM8074558	geo:GSE255549:GSM8074558	tissue_type	tissue	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074558	treatment: isolated	True
+GSM8074558	geo:GSE255549:GSM8074558	timepoint	baseline	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074558	!Sample_title = Pt3_Baseline_Tumor-RNA	True
+GSM8074558	geo:GSE255549:GSM8074558	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074558	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074558	geo:GSE255549:GSM8074558	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074558	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074559	geo:GSE255549:GSM8074559	donor_id	Pt3	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074559	!Sample_title = Pt3_PD_Tumor-RNA	True
+GSM8074559	geo:GSE255549:GSM8074559	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074559	geo:GSE255549:GSM8074559	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074559	geo:GSE255549:GSM8074559	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074559	geo:GSE255549:GSM8074559	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074559	!Sample_library_source = transcriptomic single cell	True
+GSM8074559	geo:GSE255549:GSM8074559	tissue_type	tissue	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074559	treatment: isolated	True
+GSM8074559	geo:GSE255549:GSM8074559	timepoint	PD	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074559	!Sample_title = Pt3_PD_Tumor-RNA	True
+GSM8074559	geo:GSE255549:GSM8074559	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074559	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074559	geo:GSE255549:GSM8074559	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074559	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074560	geo:GSE255549:GSM8074560	donor_id	Pt3	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074560	!Sample_title = Pt3_TD-RNA	True
+GSM8074560	geo:GSE255549:GSM8074560	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074560	geo:GSE255549:GSM8074560	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074560	geo:GSE255549:GSM8074560	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074560	geo:GSE255549:GSM8074560	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074560	!Sample_library_source = transcriptomic single cell	True
+GSM8074560	geo:GSE255549:GSM8074560	tissue_type	tissue	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074560	treatment: isolated	True
+GSM8074560	geo:GSE255549:GSM8074560	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074560	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074560	geo:GSE255549:GSM8074560	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074560	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074561	geo:GSE255549:GSM8074561	donor_id	Pt3	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074561	!Sample_title = Pt3_TIL-RNA	True
+GSM8074561	geo:GSE255549:GSM8074561	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074561	geo:GSE255549:GSM8074561	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074561	geo:GSE255549:GSM8074561	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074561	geo:GSE255549:GSM8074561	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074561	!Sample_library_source = transcriptomic single cell	True
+GSM8074561	geo:GSE255549:GSM8074561	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074561	treatment: cultured	True
+GSM8074561	geo:GSE255549:GSM8074561	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074561	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074561	geo:GSE255549:GSM8074561	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074561	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074562	geo:GSE255549:GSM8074562	donor_id	Pt5	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074562	!Sample_title = Pt5_TIL-RNA	True
+GSM8074562	geo:GSE255549:GSM8074562	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074562	geo:GSE255549:GSM8074562	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074562	geo:GSE255549:GSM8074562	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074562	geo:GSE255549:GSM8074562	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074562	!Sample_library_source = transcriptomic single cell	True
+GSM8074562	geo:GSE255549:GSM8074562	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074562	treatment: cultured	True
+GSM8074562	geo:GSE255549:GSM8074562	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074562	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074562	geo:GSE255549:GSM8074562	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074562	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074563	geo:GSE255549:GSM8074563	donor_id	Pt7	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074563	!Sample_title = Pt7_TIL-RNA	True
+GSM8074563	geo:GSE255549:GSM8074563	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074563	geo:GSE255549:GSM8074563	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074563	geo:GSE255549:GSM8074563	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074563	geo:GSE255549:GSM8074563	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074563	!Sample_library_source = transcriptomic single cell	True
+GSM8074563	geo:GSE255549:GSM8074563	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074563	treatment: cultured	True
+GSM8074563	geo:GSE255549:GSM8074563	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074563	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074563	geo:GSE255549:GSM8074563	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074563	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074564	geo:GSE255549:GSM8074564	donor_id	Pt9	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074564	!Sample_title = Pt9_Baseline_Tumor-RNA	True
+GSM8074564	geo:GSE255549:GSM8074564	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074564	geo:GSE255549:GSM8074564	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074564	geo:GSE255549:GSM8074564	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074564	geo:GSE255549:GSM8074564	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074564	!Sample_library_source = transcriptomic single cell	True
+GSM8074564	geo:GSE255549:GSM8074564	tissue_type	tissue	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074564	treatment: isolated	True
+GSM8074564	geo:GSE255549:GSM8074564	timepoint	baseline	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074564	!Sample_title = Pt9_Baseline_Tumor-RNA	True
+GSM8074564	geo:GSE255549:GSM8074564	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074564	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074564	geo:GSE255549:GSM8074564	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074564	!Sample_characteristics_ch1 = cell type: T cells	True
+GSM8074565	geo:GSE255549:GSM8074565	donor_id	Pt9	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074565	!Sample_title = Pt9_TIL-RNA	True
+GSM8074565	geo:GSE255549:GSM8074565	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074565	geo:GSE255549:GSM8074565	disease_free_text	metastatic non-small cell lung cancer (NSCLC)	file	evidence/PMC12987398.txt		patients with metastatic non-small cell lung cancer (NSCLC) on a clinical trial	True
+GSM8074565	geo:GSE255549:GSM8074565	disease_stage	stage 4 NSCLC	file	evidence/PMC12987398.txt		eligible patients had histologically proven stage 4 NSCLC	True
+GSM8074565	geo:GSE255549:GSM8074565	suspension_type	cell	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074565	!Sample_library_source = transcriptomic single cell	True
+GSM8074565	geo:GSE255549:GSM8074565	tissue_type	cell culture	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074565	treatment: cultured	True
+GSM8074565	geo:GSE255549:GSM8074565	tissue_free_text	Tumor	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074565	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM8074565	geo:GSE255549:GSM8074565	cell_enrichment	T cells	file	raw/fp-7f1fa79a43c5/GSE255549_family.soft.gz	GSM8074565	!Sample_characteristics_ch1 = cell type: T cells	True

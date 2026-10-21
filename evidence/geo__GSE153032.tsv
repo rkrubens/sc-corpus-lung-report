@@ -1,0 +1,48 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4633332	geo:GSE153032:GSM4633332	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM4633332	geo:GSE153032:GSM4633332	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM4633333	geo:GSE153032:GSM4633333	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM4633333	geo:GSE153032:GSM4633333	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM4633334	geo:GSE153032:GSM4633334	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM4633334	geo:GSE153032:GSM4633334	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM4633335	geo:GSE153032:GSM4633335	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM4633335	geo:GSE153032:GSM4633335	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM4633336	geo:GSE153032:GSM4633336	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM4633336	geo:GSE153032:GSM4633336	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz		!Series_sample_taxid = 9606	True
+		organism	Homo sapiens	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	!Sample_organism_ch1 = Homo sapiens	True
+GSM4633332	geo:GSE153032:GSM4633332	tissue_free_text	Lung	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM4633332	geo:GSE153032:GSM4633332	tissue_type	cell culture	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	Primary fiboblasts were cultured in DMEM	True
+GSM4633332	geo:GSE153032:GSM4633332	suspension_type	cell	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	cell suspension buffer	True
+GSM4633332	geo:GSE153032:GSM4633332	assay	Drop-seq	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM4633332	geo:GSE153032:GSM4633332	treatment	Untreated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	!Sample_characteristics_ch1 = treatment: Untreated	True
+GSM4633332	geo:GSE153032:GSM4633332	treatment	Untreated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	!Sample_characteristics_ch1 = cultured on: low elastic modulus plates	True
+GSM4633332	geo:GSE153032:GSM4633332	treatment	Untreated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633332	!Sample_description = 2kPa.CTR	True
+GSM4633333	geo:GSE153032:GSM4633333	tissue_free_text	Lung	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM4633333	geo:GSE153032:GSM4633333	tissue_type	cell culture	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	Primary fiboblasts were cultured in DMEM	True
+GSM4633333	geo:GSE153032:GSM4633333	suspension_type	cell	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	cell suspension buffer	True
+GSM4633333	geo:GSE153032:GSM4633333	assay	Drop-seq	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM4633333	geo:GSE153032:GSM4633333	treatment	IL-1 beta-treated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	!Sample_characteristics_ch1 = treatment: IL-1 beta-treated	True
+GSM4633333	geo:GSE153032:GSM4633333	treatment	IL-1 beta-treated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	!Sample_characteristics_ch1 = cultured on: low elastic modulus plates	True
+GSM4633333	geo:GSE153032:GSM4633333	treatment	IL-1 beta-treated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633333	!Sample_description = 2KPa.IL1B	True
+GSM4633334	geo:GSE153032:GSM4633334	tissue_free_text	Lung	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM4633334	geo:GSE153032:GSM4633334	tissue_type	cell culture	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	Primary fiboblasts were cultured in DMEM	True
+GSM4633334	geo:GSE153032:GSM4633334	suspension_type	cell	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	cell suspension buffer	True
+GSM4633334	geo:GSE153032:GSM4633334	assay	Drop-seq	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM4633334	geo:GSE153032:GSM4633334	treatment	TGF-beta-treated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	!Sample_characteristics_ch1 = treatment: TGF-beta-treated	True
+GSM4633334	geo:GSE153032:GSM4633334	treatment	TGF-beta-treated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	!Sample_characteristics_ch1 = cultured on: low elastic modulus plates	True
+GSM4633334	geo:GSE153032:GSM4633334	treatment	TGF-beta-treated (cultured on low elastic modulus plates)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633334	!Sample_description = 2kPa.TGF	True
+GSM4633335	geo:GSE153032:GSM4633335	tissue_free_text	Lung	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM4633335	geo:GSE153032:GSM4633335	tissue_type	cell culture	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	Primary fiboblasts were cultured in DMEM	True
+GSM4633335	geo:GSE153032:GSM4633335	suspension_type	cell	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	cell suspension buffer	True
+GSM4633335	geo:GSE153032:GSM4633335	assay	Drop-seq	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM4633335	geo:GSE153032:GSM4633335	treatment	Untreated (cultured on tissue culture plastic)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	!Sample_characteristics_ch1 = treatment: Untreated	True
+GSM4633335	geo:GSE153032:GSM4633335	treatment	Untreated (cultured on tissue culture plastic)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	!Sample_characteristics_ch1 = cultured on: tissue culture plastic	True
+GSM4633335	geo:GSE153032:GSM4633335	treatment	Untreated (cultured on tissue culture plastic)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633335	!Sample_description = TCP.CTR	True
+GSM4633336	geo:GSE153032:GSM4633336	tissue_free_text	Lung	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM4633336	geo:GSE153032:GSM4633336	tissue_type	cell culture	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	Primary fiboblasts were cultured in DMEM	True
+GSM4633336	geo:GSE153032:GSM4633336	suspension_type	cell	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	cell suspension buffer	True
+GSM4633336	geo:GSE153032:GSM4633336	assay	Drop-seq	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM4633336	geo:GSE153032:GSM4633336	treatment	TGF-beta-treated (cultured on tissue culture plastic)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	!Sample_characteristics_ch1 = treatment: TGF-beta-treated	True
+GSM4633336	geo:GSE153032:GSM4633336	treatment	TGF-beta-treated (cultured on tissue culture plastic)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	!Sample_characteristics_ch1 = cultured on: tissue culture plastic	True
+GSM4633336	geo:GSE153032:GSM4633336	treatment	TGF-beta-treated (cultured on tissue culture plastic)	file	raw/fp-a110ecf738cf/GSE153032_family.soft.gz	GSM4633336	!Sample_description = TCP.TGF	True

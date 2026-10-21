@@ -1,0 +1,62 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6896061	geo:GSE221776:GSM6896061	donor_id	<column donor_label>	column	work/reconciled_cells.tsv.gz/donor_label			True
+GSM6896062	geo:GSE221776:GSM6896062	donor_id	<column donor_label>	column	work/reconciled_cells.tsv.gz/donor_label			True
+GSM6896063	geo:GSE221776:GSM6896063	donor_id	<column donor_label>	column	work/reconciled_cells.tsv.gz/donor_label			True
+GSM6896064	geo:GSE221776:GSM6896064	donor_id	<column donor_label>	column	work/reconciled_cells.tsv.gz/donor_label			True
+GSM6896065	geo:GSE221776:GSM6896065	donor_id	<column donor_label>	column	work/reconciled_cells.tsv.gz/donor_label			True
+GSM6896066	geo:GSE221776:GSM6896066	donor_id	<column donor_label>	column	work/reconciled_cells.tsv.gz/donor_label			True
+GSM6896061	geo:GSE221776:GSM6896061	cell_enrichment	<column sorted_population>	column	work/reconciled_cells.tsv.gz/sorted_population			True
+GSM6896062	geo:GSE221776:GSM6896062	cell_enrichment	<column sorted_population>	column	work/reconciled_cells.tsv.gz/sorted_population			True
+GSM6896063	geo:GSE221776:GSM6896063	cell_enrichment	<column sorted_population>	column	work/reconciled_cells.tsv.gz/sorted_population			True
+GSM6896064	geo:GSE221776:GSM6896064	cell_enrichment	<column sorted_population>	column	work/reconciled_cells.tsv.gz/sorted_population			True
+GSM6896065	geo:GSE221776:GSM6896065	cell_enrichment	<column sorted_population>	column	work/reconciled_cells.tsv.gz/sorted_population			True
+GSM6896066	geo:GSE221776:GSM6896066	cell_enrichment	<column sorted_population>	column	work/reconciled_cells.tsv.gz/sorted_population			True
+GSM6896061	geo:GSE221776:GSM6896061	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM6896062	geo:GSE221776:GSM6896062	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM6896063	geo:GSE221776:GSM6896063	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM6896064	geo:GSE221776:GSM6896064	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM6896065	geo:GSE221776:GSM6896065	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM6896066	geo:GSE221776:GSM6896066	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+		organism	Homo sapiens	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	!Sample_organism_ch1 = Homo sapiens	True
+GSM6896061	geo:GSE221776:GSM6896061	tissue_free_text	Non-small cell lung cancer tumour	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896062	geo:GSE221776:GSM6896062	tissue_free_text	Non-small cell lung cancer tumour	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896063	geo:GSE221776:GSM6896063	tissue_free_text	Non-small cell lung cancer tumour	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896064	geo:GSE221776:GSM6896064	tissue_free_text	Non-small cell lung cancer tumour	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896065	geo:GSE221776:GSM6896065	tissue_free_text	Non-small cell lung cancer tumour	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896066	geo:GSE221776:GSM6896066	tissue_free_text	Non-small cell lung cancer tumour	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896061	geo:GSE221776:GSM6896061	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-3167ec430984/GSE221776_sc_NSCLC_PBT_annotation.txt.gz		NV051 R24G Hu Hashtag02 tumor lung	True
+GSM6896062	geo:GSE221776:GSM6896062	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-3167ec430984/GSE221776_sc_NSCLC_PBT_annotation.txt.gz		NV051 R24G Hu Hashtag02 tumor lung	True
+GSM6896063	geo:GSE221776:GSM6896063	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-3167ec430984/GSE221776_sc_NSCLC_PBT_annotation.txt.gz		NV051 R24G Hu Hashtag02 tumor lung	True
+GSM6896064	geo:GSE221776:GSM6896064	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-3167ec430984/GSE221776_sc_NSCLC_PBT_annotation.txt.gz		NV051 R24G Hu Hashtag02 tumor lung	True
+GSM6896065	geo:GSE221776:GSM6896065	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-3167ec430984/GSE221776_sc_NSCLC_PBT_annotation.txt.gz		NV051 R24G Hu Hashtag02 tumor lung	True
+GSM6896066	geo:GSE221776:GSM6896066	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-3167ec430984/GSE221776_sc_NSCLC_PBT_annotation.txt.gz		NV051 R24G Hu Hashtag02 tumor lung	True
+GSM6896061	geo:GSE221776:GSM6896061	tissue_type	tissue	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were obtained from 10 patients with non-small cell lung cancer	True
+GSM6896062	geo:GSE221776:GSM6896062	tissue_type	tissue	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were obtained from 10 patients with non-small cell lung cancer	True
+GSM6896063	geo:GSE221776:GSM6896063	tissue_type	tissue	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were obtained from 10 patients with non-small cell lung cancer	True
+GSM6896064	geo:GSE221776:GSM6896064	tissue_type	tissue	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were obtained from 10 patients with non-small cell lung cancer	True
+GSM6896065	geo:GSE221776:GSM6896065	tissue_type	tissue	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were obtained from 10 patients with non-small cell lung cancer	True
+GSM6896066	geo:GSE221776:GSM6896066	tissue_type	tissue	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were obtained from 10 patients with non-small cell lung cancer	True
+GSM6896061	geo:GSE221776:GSM6896061	disease_free_text	Non-small cell lung cancer	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896062	geo:GSE221776:GSM6896062	disease_free_text	Non-small cell lung cancer	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896063	geo:GSE221776:GSM6896063	disease_free_text	Non-small cell lung cancer	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896064	geo:GSE221776:GSM6896064	disease_free_text	Non-small cell lung cancer	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896065	geo:GSE221776:GSM6896065	disease_free_text	Non-small cell lung cancer	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896066	geo:GSE221776:GSM6896066	disease_free_text	Non-small cell lung cancer	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896061	geo:GSE221776:GSM6896061	disease_ontology_term_id	MONDO:0005233	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896062	geo:GSE221776:GSM6896062	disease_ontology_term_id	MONDO:0005233	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896063	geo:GSE221776:GSM6896063	disease_ontology_term_id	MONDO:0005233	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896064	geo:GSE221776:GSM6896064	disease_ontology_term_id	MONDO:0005233	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896065	geo:GSE221776:GSM6896065	disease_ontology_term_id	MONDO:0005233	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896066	geo:GSE221776:GSM6896066	disease_ontology_term_id	MONDO:0005233	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	tissue: Non-small cell lung cancer	True
+GSM6896061	geo:GSE221776:GSM6896061	suspension_type	cell	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were disintegrated and cells from each donor were labelled	True
+GSM6896062	geo:GSE221776:GSM6896062	suspension_type	cell	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were disintegrated and cells from each donor were labelled	True
+GSM6896063	geo:GSE221776:GSM6896063	suspension_type	cell	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were disintegrated and cells from each donor were labelled	True
+GSM6896064	geo:GSE221776:GSM6896064	suspension_type	cell	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were disintegrated and cells from each donor were labelled	True
+GSM6896065	geo:GSE221776:GSM6896065	suspension_type	cell	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were disintegrated and cells from each donor were labelled	True
+GSM6896066	geo:GSE221776:GSM6896066	suspension_type	cell	file	raw/fp-3167ec430984/GSE221776_family.soft.gz		Tumor samples were disintegrated and cells from each donor were labelled	True
+GSM6896061	geo:GSE221776:GSM6896061	assay	10x 5' v2	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	Single Cell Immune Profiling 5'v2	True
+GSM6896062	geo:GSE221776:GSM6896062	assay	10x 5' v2	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	Single Cell Immune Profiling 5'v2	True
+GSM6896063	geo:GSE221776:GSM6896063	assay	10x 5' v2	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	Single Cell Immune Profiling 5'v2	True
+GSM6896064	geo:GSE221776:GSM6896064	assay	10x 5' v2	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	Single Cell Immune Profiling 5'v2	True
+GSM6896065	geo:GSE221776:GSM6896065	assay	10x 5' v2	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	Single Cell Immune Profiling 5'v2	True
+GSM6896066	geo:GSE221776:GSM6896066	assay	10x 5' v2	file	raw/fp-3167ec430984/GSE221776_family.soft.gz	GSM6896061	Single Cell Immune Profiling 5'v2	True

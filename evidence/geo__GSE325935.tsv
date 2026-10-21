@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9617482	geo:GSE325935:GSM9617482	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		Brain	True
+GSM9617483	geo:GSE325935:GSM9617483	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		Brain	True
+GSM9617484	geo:GSE325935:GSM9617484	tissue_ontology_term_id	UBERON:0002709	derived	ols:uberon		Parieto-occipital	True
+GSM9617485	geo:GSE325935:GSM9617485	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		Brain	True
+		organism	Homo sapiens	file	raw/fp-d6f949367418/GSE325935_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9617482	geo:GSE325935:GSM9617482	tissue_free_text	Brain	file	raw/fp-d6f949367418/GSE325935_family.soft.gz	GSM9617482	!Sample_characteristics_ch1 = tissue: Brain	True
+GSM9617483	geo:GSE325935:GSM9617483	tissue_free_text	Brain	file	raw/fp-d6f949367418/GSE325935_family.soft.gz	GSM9617483	!Sample_characteristics_ch1 = tissue: Brain	True
+GSM9617484	geo:GSE325935:GSM9617484	tissue_free_text	Parieto-occipital	file	raw/fp-d6f949367418/GSE325935_family.soft.gz	GSM9617484	!Sample_characteristics_ch1 = tissue: Parieto-occipital	True
+GSM9617485	geo:GSE325935:GSM9617485	tissue_free_text	Brain	file	raw/fp-d6f949367418/GSE325935_family.soft.gz	GSM9617485	!Sample_characteristics_ch1 = tissue: Brain	True

@@ -1,0 +1,80 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4783878	geo:GSE157996:GSM4783878	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783878	geo:GSE157996:GSM4783878	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4783879	geo:GSE157996:GSM4783879	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783879	geo:GSE157996:GSM4783879	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4783880	geo:GSE157996:GSM4783880	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783880	geo:GSE157996:GSM4783880	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4783881	geo:GSE157996:GSM4783881	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783881	geo:GSE157996:GSM4783881	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4783882	geo:GSE157996:GSM4783882	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783882	geo:GSE157996:GSM4783882	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4783883	geo:GSE157996:GSM4783883	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783883	geo:GSE157996:GSM4783883	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4783884	geo:GSE157996:GSM4783884	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783884	geo:GSE157996:GSM4783884	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM4783885	geo:GSE157996:GSM4783885	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783885	geo:GSE157996:GSM4783885	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM4783886	geo:GSE157996:GSM4783886	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783886	geo:GSE157996:GSM4783886	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM4783887	geo:GSE157996:GSM4783887	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783887	geo:GSE157996:GSM4783887	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM4783888	geo:GSE157996:GSM4783888	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783888	geo:GSE157996:GSM4783888	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM4783889	geo:GSE157996:GSM4783889	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4783889	geo:GSE157996:GSM4783889	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+		organism	Homo sapiens	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4783878	geo:GSE157996:GSM4783878	disease_free_text	normal	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783878	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM4783878	geo:GSE157996:GSM4783878	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783878	geo:GSE157996:GSM4783878	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783878	geo:GSE157996:GSM4783878	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783879	geo:GSE157996:GSM4783879	disease_free_text	normal	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783879	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM4783879	geo:GSE157996:GSM4783879	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783879	geo:GSE157996:GSM4783879	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783879	geo:GSE157996:GSM4783879	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783880	geo:GSE157996:GSM4783880	disease_free_text	normal	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783880	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM4783880	geo:GSE157996:GSM4783880	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783880	geo:GSE157996:GSM4783880	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783880	geo:GSE157996:GSM4783880	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783881	geo:GSE157996:GSM4783881	disease_free_text	normal	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783881	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM4783881	geo:GSE157996:GSM4783881	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783881	geo:GSE157996:GSM4783881	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783881	geo:GSE157996:GSM4783881	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783882	geo:GSE157996:GSM4783882	disease_free_text	normal	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783882	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM4783882	geo:GSE157996:GSM4783882	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783882	geo:GSE157996:GSM4783882	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783882	geo:GSE157996:GSM4783882	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783883	geo:GSE157996:GSM4783883	disease_free_text	normal	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783883	!Sample_characteristics_ch1 = diagnosis: Healthy	True
+GSM4783883	geo:GSE157996:GSM4783883	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783883	geo:GSE157996:GSM4783883	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783883	geo:GSE157996:GSM4783883	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783884	geo:GSE157996:GSM4783884	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783884	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM4783884	geo:GSE157996:GSM4783884	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM4783884	geo:GSE157996:GSM4783884	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783884	geo:GSE157996:GSM4783884	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783884	geo:GSE157996:GSM4783884	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783885	geo:GSE157996:GSM4783885	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783885	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM4783885	geo:GSE157996:GSM4783885	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM4783885	geo:GSE157996:GSM4783885	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783885	geo:GSE157996:GSM4783885	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783885	geo:GSE157996:GSM4783885	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783886	geo:GSE157996:GSM4783886	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783886	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM4783886	geo:GSE157996:GSM4783886	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM4783886	geo:GSE157996:GSM4783886	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783886	geo:GSE157996:GSM4783886	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783886	geo:GSE157996:GSM4783886	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783887	geo:GSE157996:GSM4783887	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783887	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM4783887	geo:GSE157996:GSM4783887	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM4783887	geo:GSE157996:GSM4783887	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783887	geo:GSE157996:GSM4783887	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783887	geo:GSE157996:GSM4783887	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783888	geo:GSE157996:GSM4783888	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783888	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM4783888	geo:GSE157996:GSM4783888	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM4783888	geo:GSE157996:GSM4783888	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783888	geo:GSE157996:GSM4783888	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783888	geo:GSE157996:GSM4783888	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True
+GSM4783889	geo:GSE157996:GSM4783889	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz	GSM4783889	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM4783889	geo:GSE157996:GSM4783889	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		idiopathic pulmonary fibrosis (IPF)	True
+GSM4783889	geo:GSE157996:GSM4783889	tissue_free_text	lung	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783889	geo:GSE157996:GSM4783889	tissue_type	tissue	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		patient lung tissues were digested	True
+GSM4783889	geo:GSE157996:GSM4783889	cell_enrichment	Lin-EpCAM+ (FACS)	file	raw/fp-8ce686431c55/GSE157996_family.soft.gz		Lin–EpCAM+ cells were isolated with FACS	True

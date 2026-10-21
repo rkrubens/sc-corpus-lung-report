@@ -1,0 +1,9 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-0836982ad7c0/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		Human lung tissue specimens were used for spatial molecular imaging	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	tissue_free_text	lung	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		Human lung tissue specimens were used for spatial molecular imaging	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	tissue_type	tissue	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		Human lung tissue specimens were used for spatial molecular imaging	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	disease_free_text	lung adenocarcinoma (3 specimens) and normal lung (3 specimens), pooled	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		three lung adenocarcinoma specimens and three normal lung specimens	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	suspension_type	na	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		No bulk RNA extraction was performed; RNA targets were detected directly in situ in tissue sections	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	sample_preservation	FFPE	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		Six FFPE human lung tissue specimens	True
+GSE346380_LA_HLT_pooled	geo:GSE346380:GSE346380_LA_HLT_pooled	treatment_status	no experimental treatment on the tissue sections	file	raw/fp-0836982ad7c0/GSE346380_family.soft.gz		No experimental treatment protocol was applied to the tissue sections.	True

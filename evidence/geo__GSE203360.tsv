@@ -1,0 +1,38 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6167515	geo:GSE203360:GSM6167515	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6167515	geo:GSE203360:GSM6167515	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM6167516	geo:GSE203360:GSM6167516	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6167516	geo:GSE203360:GSM6167516	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM6167517	geo:GSE203360:GSM6167517	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6167517	geo:GSE203360:GSM6167517	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6167518	geo:GSE203360:GSM6167518	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6167518	geo:GSE203360:GSM6167518	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6167519	geo:GSE203360:GSM6167519	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6167519	geo:GSE203360:GSM6167519	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM6167520	geo:GSE203360:GSM6167520	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6167520	geo:GSE203360:GSM6167520	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+		organism	Homo sapiens	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6167515	geo:GSE203360:GSM6167515	sex	female	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167515	!Sample_characteristics_ch1 = Sex: female	True
+GSM6167515	geo:GSE203360:GSM6167515	age	53	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167515	!Sample_characteristics_ch1 = age: 53	True
+GSM6167515	geo:GSE203360:GSM6167515	tissue_free_text	lung adenocarcinoma	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167515	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM6167515	geo:GSE203360:GSM6167515	treatment	treatment naive before surgery	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167515	!Sample_characteristics_ch1 = treatment: treatment naive before surgery	True
+GSM6167516	geo:GSE203360:GSM6167516	sex	female	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167516	!Sample_characteristics_ch1 = Sex: female	True
+GSM6167516	geo:GSE203360:GSM6167516	age	53	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167516	!Sample_characteristics_ch1 = age: 53	True
+GSM6167516	geo:GSE203360:GSM6167516	tissue_free_text	lung adenocarcinoma	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167516	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM6167516	geo:GSE203360:GSM6167516	treatment	treatment naive before surgery	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167516	!Sample_characteristics_ch1 = treatment: treatment naive before surgery	True
+GSM6167517	geo:GSE203360:GSM6167517	sex	female	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167517	!Sample_characteristics_ch1 = Sex: female	True
+GSM6167517	geo:GSE203360:GSM6167517	age	66	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167517	!Sample_characteristics_ch1 = age: 66	True
+GSM6167517	geo:GSE203360:GSM6167517	tissue_free_text	lung adenocarcinoma	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167517	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM6167517	geo:GSE203360:GSM6167517	treatment	treatment naive before surgery	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167517	!Sample_characteristics_ch1 = treatment: treatment naive before surgery	True
+GSM6167518	geo:GSE203360:GSM6167518	sex	female	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167518	!Sample_characteristics_ch1 = Sex: female	True
+GSM6167518	geo:GSE203360:GSM6167518	age	66	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167518	!Sample_characteristics_ch1 = age: 66	True
+GSM6167518	geo:GSE203360:GSM6167518	tissue_free_text	lung adenocarcinoma	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167518	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM6167518	geo:GSE203360:GSM6167518	treatment	treatment naive before surgery	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167518	!Sample_characteristics_ch1 = treatment: treatment naive before surgery	True
+GSM6167519	geo:GSE203360:GSM6167519	sex	female	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167519	!Sample_characteristics_ch1 = Sex: female	True
+GSM6167519	geo:GSE203360:GSM6167519	age	74	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167519	!Sample_characteristics_ch1 = age: 74	True
+GSM6167519	geo:GSE203360:GSM6167519	tissue_free_text	lung adenocarcinoma	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167519	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM6167519	geo:GSE203360:GSM6167519	treatment	treatment naive before surgery	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167519	!Sample_characteristics_ch1 = treatment: treatment naive before surgery	True
+GSM6167520	geo:GSE203360:GSM6167520	sex	female	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167520	!Sample_characteristics_ch1 = Sex: female	True
+GSM6167520	geo:GSE203360:GSM6167520	age	74	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167520	!Sample_characteristics_ch1 = age: 74	True
+GSM6167520	geo:GSE203360:GSM6167520	tissue_free_text	lung adenocarcinoma	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167520	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM6167520	geo:GSE203360:GSM6167520	treatment	treatment naive before surgery	file	raw/fp-31d21f56f583/GSE203360_family.soft.gz	GSM6167520	!Sample_characteristics_ch1 = treatment: treatment naive before surgery	True

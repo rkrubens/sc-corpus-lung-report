@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9093278	geo:GSE301973:GSM9093278	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9093278	geo:GSE301973:GSM9093278	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9093278	geo:GSE301973:GSM9093278	author_cell_type	<column cell_type>	column	work/fp-5b6f99e99f20/GSE301973_RAW/GSM9093278_A/A/A_stardist_integrated.h5ad::obs/cell_type			True
+GSM9093279	geo:GSE301973:GSM9093279	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9093279	geo:GSE301973:GSM9093279	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9093279	geo:GSE301973:GSM9093279	author_cell_type	<column cell_type>	column	work/fp-5b6f99e99f20/GSE301973_RAW/GSM9093279_C/C/C_stardist_integrated.h5ad::obs/cell_type			True
+		organism	Homo sapiens	file	raw/fp-5b6f99e99f20/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM9093278	geo:GSE301973:GSM9093278	tissue_free_text	Lung	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093278	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9093278	geo:GSE301973:GSM9093278	tissue_type	tissue	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093278	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9093278	geo:GSE301973:GSM9093278	disease_free_text	EGFR-mutated NSCLC	file	raw/fp-5b6f99e99f20/GSE301973_biological_sample_metadata.xlsx		EGFR-mutated NSCLC	True
+GSM9093278	geo:GSE301973:GSM9093278	disease_ontology_term_id	MONDO:0005233	file	raw/fp-5b6f99e99f20/GSE301973_biological_sample_metadata.xlsx		EGFR-mutated NSCLC	True
+GSM9093278	geo:GSE301973:GSM9093278	treatment_status	pre-treatment	file	raw/fp-5b6f99e99f20/GSE301973_biological_sample_metadata.xlsx		Pretreatment	True
+GSM9093278	geo:GSE301973:GSM9093278	treatment	osimertinib (samples collected before osimertinib treatment)	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz		!Series_title = The spatial transcriptomics of EGFR-mutant non-small cell lung cancer before osimertinib treatment	True
+GSM9093278	geo:GSE301973:GSM9093278	sample_preservation	FFPE	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093278	The FFPE tissue sections were then subjected to deparaffinization	True
+GSM9093278	geo:GSE301973:GSM9093278	suspension_type	na	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093278	The FFPE tissue sections were then subjected to deparaffinization	True
+GSM9093278	geo:GSE301973:GSM9093278	assay	Visium Spatial Gene Expression	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093278	Visium HD Spatial Gene Expression Reagent Kits User Guide	True
+GSM9093279	geo:GSE301973:GSM9093279	tissue_free_text	Lung	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093279	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9093279	geo:GSE301973:GSM9093279	tissue_type	tissue	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093279	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9093279	geo:GSE301973:GSM9093279	disease_free_text	EGFR-mutated NSCLC	file	raw/fp-5b6f99e99f20/GSE301973_biological_sample_metadata.xlsx		EGFR-mutated NSCLC	True
+GSM9093279	geo:GSE301973:GSM9093279	disease_ontology_term_id	MONDO:0005233	file	raw/fp-5b6f99e99f20/GSE301973_biological_sample_metadata.xlsx		EGFR-mutated NSCLC	True
+GSM9093279	geo:GSE301973:GSM9093279	treatment_status	pre-treatment	file	raw/fp-5b6f99e99f20/GSE301973_biological_sample_metadata.xlsx		Pretreatment	True
+GSM9093279	geo:GSE301973:GSM9093279	treatment	osimertinib (samples collected before osimertinib treatment)	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz		!Series_title = The spatial transcriptomics of EGFR-mutant non-small cell lung cancer before osimertinib treatment	True
+GSM9093279	geo:GSE301973:GSM9093279	sample_preservation	FFPE	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093279	The FFPE tissue sections were then subjected to deparaffinization	True
+GSM9093279	geo:GSE301973:GSM9093279	suspension_type	na	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093279	The FFPE tissue sections were then subjected to deparaffinization	True
+GSM9093279	geo:GSE301973:GSM9093279	assay	Visium Spatial Gene Expression	file	raw/fp-5b6f99e99f20/GSE301973_family.soft.gz	GSM9093279	Visium HD Spatial Gene Expression Reagent Kits User Guide	True

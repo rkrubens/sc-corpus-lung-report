@@ -1,0 +1,4 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4618899	geo:GSE150148:GSM4618899	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-70fca79666c4/GSE150148_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4618899	geo:GSE150148:GSM4618899	tissue_free_text	Lung	file	raw/fp-70fca79666c4/GSE150148_family.soft.gz	GSM4618899	!Sample_characteristics_ch1 = tissue: Lung	True

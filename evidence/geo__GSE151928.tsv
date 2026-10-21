@@ -1,0 +1,77 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4593888	geo:GSE151928:GSM4593888	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4593888	geo:GSE151928:GSM4593888	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM4593889	geo:GSE151928:GSM4593889	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4593889	geo:GSE151928:GSM4593889	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM4593890	geo:GSE151928:GSM4593890	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4593890	geo:GSE151928:GSM4593890	development_stage_ontology_term_id	HsapDv:0000121	derived	age_in_years:'27-year-old stage':ols:hsapdv		27	True
+GSM4593891	geo:GSE151928:GSM4593891	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4593891	geo:GSE151928:GSM4593891	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM4593892	geo:GSE151928:GSM4593892	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4593892	geo:GSE151928:GSM4593892	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM4593893	geo:GSE151928:GSM4593893	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4593893	geo:GSE151928:GSM4593893	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM4593894	geo:GSE151928:GSM4593894	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4593894	geo:GSE151928:GSM4593894	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM4593895	geo:GSE151928:GSM4593895	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4593895	geo:GSE151928:GSM4593895	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+GSM4593896	geo:GSE151928:GSM4593896	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4593896	geo:GSE151928:GSM4593896	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31	True
+GSM4593897	geo:GSE151928:GSM4593897	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4593897	geo:GSE151928:GSM4593897	development_stage_ontology_term_id	HsapDv:0000129	derived	age_in_years:'35-year-old stage':ols:hsapdv		35	True
+GSM8772534	geo:GSE151928:GSM8772534	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8772534	geo:GSE151928:GSM8772534	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM8772535	geo:GSE151928:GSM8772535	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8772535	geo:GSE151928:GSM8772535	development_stage_ontology_term_id	HsapDv:0000119	derived	age_in_years:'25-year-old stage':ols:hsapdv		25	True
+GSM8772536	geo:GSE151928:GSM8772536	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8772536	geo:GSE151928:GSM8772536	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM8772537	geo:GSE151928:GSM8772537	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM8772537	geo:GSE151928:GSM8772537	development_stage_ontology_term_id	HsapDv:0000119	derived	age_in_years:'25-year-old stage':ols:hsapdv		25	True
+GSM8772538	geo:GSE151928:GSM8772538	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8772538	geo:GSE151928:GSM8772538	development_stage_ontology_term_id	HsapDv:0000122	derived	age_in_years:'28-year-old stage':ols:hsapdv		28	True
+		organism	Homo sapiens	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4593888	geo:GSE151928:GSM4593888	sex	F	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593888	!Sample_characteristics_ch1 = Sex: F	True
+GSM4593888	geo:GSE151928:GSM4593888	age	27	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593888	!Sample_characteristics_ch1 = age: 27	True
+GSM4593888	geo:GSE151928:GSM4593888	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593888	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593889	geo:GSE151928:GSM4593889	sex	M	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593889	!Sample_characteristics_ch1 = Sex: M	True
+GSM4593889	geo:GSE151928:GSM4593889	age	50	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593889	!Sample_characteristics_ch1 = age: 50	True
+GSM4593889	geo:GSE151928:GSM4593889	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593889	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593890	geo:GSE151928:GSM4593890	sex	M	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593890	!Sample_characteristics_ch1 = Sex: M	True
+GSM4593890	geo:GSE151928:GSM4593890	age	27	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593890	!Sample_characteristics_ch1 = age: 27	True
+GSM4593890	geo:GSE151928:GSM4593890	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593890	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593891	geo:GSE151928:GSM4593891	sex	M	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593891	!Sample_characteristics_ch1 = Sex: M	True
+GSM4593891	geo:GSE151928:GSM4593891	age	26	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593891	!Sample_characteristics_ch1 = age: 26	True
+GSM4593891	geo:GSE151928:GSM4593891	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593891	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593892	geo:GSE151928:GSM4593892	sex	F	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593892	!Sample_characteristics_ch1 = Sex: F	True
+GSM4593892	geo:GSE151928:GSM4593892	age	29	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593892	!Sample_characteristics_ch1 = age: 29	True
+GSM4593892	geo:GSE151928:GSM4593892	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593892	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593893	geo:GSE151928:GSM4593893	sex	M	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593893	!Sample_characteristics_ch1 = Sex: M	True
+GSM4593893	geo:GSE151928:GSM4593893	age	30	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593893	!Sample_characteristics_ch1 = age: 30	True
+GSM4593893	geo:GSE151928:GSM4593893	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593893	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593894	geo:GSE151928:GSM4593894	sex	F	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593894	!Sample_characteristics_ch1 = Sex: F	True
+GSM4593894	geo:GSE151928:GSM4593894	age	46	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593894	!Sample_characteristics_ch1 = age: 46	True
+GSM4593894	geo:GSE151928:GSM4593894	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593894	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593895	geo:GSE151928:GSM4593895	sex	F	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593895	!Sample_characteristics_ch1 = Sex: F	True
+GSM4593895	geo:GSE151928:GSM4593895	age	39	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593895	!Sample_characteristics_ch1 = age: 39	True
+GSM4593895	geo:GSE151928:GSM4593895	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593895	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593896	geo:GSE151928:GSM4593896	sex	M	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593896	!Sample_characteristics_ch1 = Sex: M	True
+GSM4593896	geo:GSE151928:GSM4593896	age	31	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593896	!Sample_characteristics_ch1 = age: 31	True
+GSM4593896	geo:GSE151928:GSM4593896	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593896	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM4593897	geo:GSE151928:GSM4593897	sex	M	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593897	!Sample_characteristics_ch1 = Sex: M	True
+GSM4593897	geo:GSE151928:GSM4593897	age	35	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593897	!Sample_characteristics_ch1 = age: 35	True
+GSM4593897	geo:GSE151928:GSM4593897	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM4593897	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM8772534	geo:GSE151928:GSM8772534	sex	male	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772534	!Sample_characteristics_ch1 = Sex: male	True
+GSM8772534	geo:GSE151928:GSM8772534	age	29	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772534	!Sample_characteristics_ch1 = age: 29	True
+GSM8772534	geo:GSE151928:GSM8772534	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772534	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM8772535	geo:GSE151928:GSM8772535	sex	male	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772535	!Sample_characteristics_ch1 = Sex: male	True
+GSM8772535	geo:GSE151928:GSM8772535	age	25	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772535	!Sample_characteristics_ch1 = age: 25	True
+GSM8772535	geo:GSE151928:GSM8772535	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772535	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM8772536	geo:GSE151928:GSM8772536	sex	female	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772536	!Sample_characteristics_ch1 = Sex: female	True
+GSM8772536	geo:GSE151928:GSM8772536	age	26	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772536	!Sample_characteristics_ch1 = age: 26	True
+GSM8772536	geo:GSE151928:GSM8772536	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772536	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM8772537	geo:GSE151928:GSM8772537	sex	female	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772537	!Sample_characteristics_ch1 = Sex: female	True
+GSM8772537	geo:GSE151928:GSM8772537	age	25	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772537	!Sample_characteristics_ch1 = age: 25	True
+GSM8772537	geo:GSE151928:GSM8772537	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772537	!Sample_characteristics_ch1 = diagnosis: healthy	True
+GSM8772538	geo:GSE151928:GSM8772538	sex	male	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772538	!Sample_characteristics_ch1 = Sex: male	True
+GSM8772538	geo:GSE151928:GSM8772538	age	28	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772538	!Sample_characteristics_ch1 = age: 28	True
+GSM8772538	geo:GSE151928:GSM8772538	disease_free_text	healthy	file	raw/fp-9be2d6c11726/GSE151928_family.soft.gz	GSM8772538	!Sample_characteristics_ch1 = diagnosis: healthy	True

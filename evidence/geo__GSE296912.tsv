@@ -1,0 +1,31 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8979805	geo:GSE296912:GSM8979805	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8979805	geo:GSE296912:GSM8979805	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8979806	geo:GSE296912:GSM8979806	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8979806	geo:GSE296912:GSM8979806	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM8979807	geo:GSE296912:GSM8979807	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8979807	geo:GSE296912:GSM8979807	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM8979808	geo:GSE296912:GSM8979808	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8979808	geo:GSE296912:GSM8979808	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM8979809	geo:GSE296912:GSM8979809	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8979809	geo:GSE296912:GSM8979809	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+		organism	Homo sapiens	file	raw/fp-090fe357d791/GSE296912_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8979805	geo:GSE296912:GSM8979805	tissue_free_text	lung	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979805	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8979805	geo:GSE296912:GSM8979805	disease_free_text	normal	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979805	!Sample_characteristics_ch1 = diseases state: Normal	True
+GSM8979805	geo:GSE296912:GSM8979805	suspension_type	cell	file	raw/fp-090fe357d791/GSE296912_family.soft.gz		!Series_overall_design = Comparitive gene expression profiling analysis of scRNA-seq data for cells isolated from the human COPD or normal donor control lungs.	True
+GSM8979806	geo:GSE296912:GSM8979806	tissue_free_text	lung	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979806	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8979806	geo:GSE296912:GSM8979806	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979806	!Sample_characteristics_ch1 = diseases state: COPD GS1	True
+GSM8979806	geo:GSE296912:GSM8979806	disease_stage	GS1	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979806	!Sample_characteristics_ch1 = diseases state: COPD GS1	True
+GSM8979806	geo:GSE296912:GSM8979806	suspension_type	cell	file	raw/fp-090fe357d791/GSE296912_family.soft.gz		!Series_overall_design = Comparitive gene expression profiling analysis of scRNA-seq data for cells isolated from the human COPD or normal donor control lungs.	True
+GSM8979807	geo:GSE296912:GSM8979807	tissue_free_text	lung	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979807	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8979807	geo:GSE296912:GSM8979807	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979807	!Sample_characteristics_ch1 = diseases state: COPD GS1	True
+GSM8979807	geo:GSE296912:GSM8979807	disease_stage	GS1	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979807	!Sample_characteristics_ch1 = diseases state: COPD GS1	True
+GSM8979807	geo:GSE296912:GSM8979807	suspension_type	cell	file	raw/fp-090fe357d791/GSE296912_family.soft.gz		!Series_overall_design = Comparitive gene expression profiling analysis of scRNA-seq data for cells isolated from the human COPD or normal donor control lungs.	True
+GSM8979808	geo:GSE296912:GSM8979808	tissue_free_text	lung	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979808	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8979808	geo:GSE296912:GSM8979808	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979808	!Sample_characteristics_ch1 = diseases state: COPD GS2	True
+GSM8979808	geo:GSE296912:GSM8979808	disease_stage	GS2	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979808	!Sample_characteristics_ch1 = diseases state: COPD GS2	True
+GSM8979808	geo:GSE296912:GSM8979808	suspension_type	cell	file	raw/fp-090fe357d791/GSE296912_family.soft.gz		!Series_overall_design = Comparitive gene expression profiling analysis of scRNA-seq data for cells isolated from the human COPD or normal donor control lungs.	True
+GSM8979809	geo:GSE296912:GSM8979809	tissue_free_text	lung	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979809	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8979809	geo:GSE296912:GSM8979809	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979809	!Sample_characteristics_ch1 = diseases state: COPD GS2	True
+GSM8979809	geo:GSE296912:GSM8979809	disease_stage	GS2	file	raw/fp-090fe357d791/GSE296912_family.soft.gz	GSM8979809	!Sample_characteristics_ch1 = diseases state: COPD GS2	True
+GSM8979809	geo:GSE296912:GSM8979809	suspension_type	cell	file	raw/fp-090fe357d791/GSE296912_family.soft.gz		!Series_overall_design = Comparitive gene expression profiling analysis of scRNA-seq data for cells isolated from the human COPD or normal donor control lungs.	True

@@ -1,0 +1,114 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		!Series_sample_taxid = 9606	True
+GSM8778048	geo:GSE288887:GSM8778048	donor_id	VU_ILD_89	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	!Sample_title = VU_ILD_89	True
+GSM8778048	geo:GSE288887:GSM8778048	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778048	geo:GSE288887:GSM8778048	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778048	geo:GSE288887:GSM8778048	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778048	geo:GSE288887:GSM8778048	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778048	geo:GSE288887:GSM8778048	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778048	geo:GSE288887:GSM8778048	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778048	geo:GSE288887:GSM8778048	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778048	geo:GSE288887:GSM8778048	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778048	geo:GSE288887:GSM8778048	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778048	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778049	geo:GSE288887:GSM8778049	donor_id	VU_ILD_109	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	!Sample_title = VU_ILD_109_more_fibrotic	True
+GSM8778049	geo:GSE288887:GSM8778049	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778049	geo:GSE288887:GSM8778049	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778049	geo:GSE288887:GSM8778049	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778049	geo:GSE288887:GSM8778049	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778049	geo:GSE288887:GSM8778049	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778049	geo:GSE288887:GSM8778049	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778049	geo:GSE288887:GSM8778049	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778049	geo:GSE288887:GSM8778049	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778049	geo:GSE288887:GSM8778049	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778049	geo:GSE288887:GSM8778049	sampled_site_condition	more fibrotic area	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778049	!Sample_title = VU_ILD_109_more_fibrotic	True
+GSM8778049	geo:GSE288887:GSM8778049	sampled_site_condition	more fibrotic area	file	evidence/PMC11235167.txt		lung sections from more and less fibrotic areas were collected	True
+GSM8778050	geo:GSE288887:GSM8778050	donor_id	VU_ILD_109	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	!Sample_title = VU_ILD_109_less_fibrotic	True
+GSM8778050	geo:GSE288887:GSM8778050	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778050	geo:GSE288887:GSM8778050	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778050	geo:GSE288887:GSM8778050	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778050	geo:GSE288887:GSM8778050	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778050	geo:GSE288887:GSM8778050	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778050	geo:GSE288887:GSM8778050	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778050	geo:GSE288887:GSM8778050	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778050	geo:GSE288887:GSM8778050	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778050	geo:GSE288887:GSM8778050	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778050	geo:GSE288887:GSM8778050	sampled_site_condition	less fibrotic area	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778050	!Sample_title = VU_ILD_109_less_fibrotic	True
+GSM8778050	geo:GSE288887:GSM8778050	sampled_site_condition	less fibrotic area	file	evidence/PMC11235167.txt		lung sections from more and less fibrotic areas were collected	True
+GSM8778051	geo:GSE288887:GSM8778051	donor_id	VU_ILD_127	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	!Sample_title = VU_ILD_127	True
+GSM8778051	geo:GSE288887:GSM8778051	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778051	geo:GSE288887:GSM8778051	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778051	geo:GSE288887:GSM8778051	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778051	geo:GSE288887:GSM8778051	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778051	geo:GSE288887:GSM8778051	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778051	geo:GSE288887:GSM8778051	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778051	geo:GSE288887:GSM8778051	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778051	geo:GSE288887:GSM8778051	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778051	geo:GSE288887:GSM8778051	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778051	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778052	geo:GSE288887:GSM8778052	donor_id	VU_ILD_144	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	!Sample_title = VU_ILD_144_more_fibrotic	True
+GSM8778052	geo:GSE288887:GSM8778052	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778052	geo:GSE288887:GSM8778052	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778052	geo:GSE288887:GSM8778052	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778052	geo:GSE288887:GSM8778052	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778052	geo:GSE288887:GSM8778052	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778052	geo:GSE288887:GSM8778052	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778052	geo:GSE288887:GSM8778052	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778052	geo:GSE288887:GSM8778052	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778052	geo:GSE288887:GSM8778052	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778052	geo:GSE288887:GSM8778052	sampled_site_condition	more fibrotic area	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778052	!Sample_title = VU_ILD_144_more_fibrotic	True
+GSM8778052	geo:GSE288887:GSM8778052	sampled_site_condition	more fibrotic area	file	evidence/PMC11235167.txt		lung sections from more and less fibrotic areas were collected	True
+GSM8778053	geo:GSE288887:GSM8778053	donor_id	VU_ILD_144	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	!Sample_title = VU_ILD_144_less_fibrotic	True
+GSM8778053	geo:GSE288887:GSM8778053	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778053	geo:GSE288887:GSM8778053	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778053	geo:GSE288887:GSM8778053	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778053	geo:GSE288887:GSM8778053	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778053	geo:GSE288887:GSM8778053	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778053	geo:GSE288887:GSM8778053	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778053	geo:GSE288887:GSM8778053	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778053	geo:GSE288887:GSM8778053	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778053	geo:GSE288887:GSM8778053	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778053	geo:GSE288887:GSM8778053	sampled_site_condition	less fibrotic area	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778053	!Sample_title = VU_ILD_144_less_fibrotic	True
+GSM8778053	geo:GSE288887:GSM8778053	sampled_site_condition	less fibrotic area	file	evidence/PMC11235167.txt		lung sections from more and less fibrotic areas were collected	True
+GSM8778054	geo:GSE288887:GSM8778054	donor_id	VU_ILD_149	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	!Sample_title = VU_ILD_149	True
+GSM8778054	geo:GSE288887:GSM8778054	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778054	geo:GSE288887:GSM8778054	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778054	geo:GSE288887:GSM8778054	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778054	geo:GSE288887:GSM8778054	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778054	geo:GSE288887:GSM8778054	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778054	geo:GSE288887:GSM8778054	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778054	geo:GSE288887:GSM8778054	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778054	geo:GSE288887:GSM8778054	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778054	geo:GSE288887:GSM8778054	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778054	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8778055	geo:GSE288887:GSM8778055	donor_id	VU_ILD_152	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	!Sample_title = VU_ILD_152	True
+GSM8778055	geo:GSE288887:GSM8778055	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778055	geo:GSE288887:GSM8778055	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778055	geo:GSE288887:GSM8778055	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8778055	geo:GSE288887:GSM8778055	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778055	geo:GSE288887:GSM8778055	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8778055	geo:GSE288887:GSM8778055	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8778055	geo:GSE288887:GSM8778055	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8778055	geo:GSE288887:GSM8778055	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8778055	geo:GSE288887:GSM8778055	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8778055	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8808454	geo:GSE288887:GSM8808454	donor_id	VU_ILD_94	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	!Sample_title = VU_ILD_94_more_fibrotic	True
+GSM8808454	geo:GSE288887:GSM8808454	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8808454	geo:GSE288887:GSM8808454	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8808454	geo:GSE288887:GSM8808454	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8808454	geo:GSE288887:GSM8808454	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8808454	geo:GSE288887:GSM8808454	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8808454	geo:GSE288887:GSM8808454	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8808454	geo:GSE288887:GSM8808454	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8808454	geo:GSE288887:GSM8808454	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8808454	geo:GSE288887:GSM8808454	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8808454	geo:GSE288887:GSM8808454	sampled_site_condition	more fibrotic area	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808454	!Sample_title = VU_ILD_94_more_fibrotic	True
+GSM8808454	geo:GSE288887:GSM8808454	sampled_site_condition	more fibrotic area	file	evidence/PMC11235167.txt		lung sections from more and less fibrotic areas were collected	True
+GSM8808455	geo:GSE288887:GSM8808455	donor_id	VU_ILD_94	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	!Sample_title = VU_ILD_94_less_fibrotic	True
+GSM8808455	geo:GSE288887:GSM8808455	tissue_free_text	lung	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8808455	geo:GSE288887:GSM8808455	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8808455	geo:GSE288887:GSM8808455	tissue_type	tissue	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8808455	geo:GSE288887:GSM8808455	disease_free_text	coal workers pneumoconiosis (CWP)	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8808455	geo:GSE288887:GSM8808455	disease_ontology_term_id	MONDO:0015926	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz		lung explants from subjects with coal-workers pneumoconiosis	True
+GSM8808455	geo:GSE288887:GSM8808455	sample_collection_method	lung explant at transplantation	file	evidence/PMC11235167.txt		Fibrotic lung tissue samples were obtained from individuals with CWP at the time of lung transplantation	True
+GSM8808455	geo:GSE288887:GSM8808455	suspension_type	cell	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	Single cell suspensions were generated using collagenase/dispase digest	True
+GSM8808455	geo:GSE288887:GSM8808455	cell_enrichment	CD45+ and CD45- fractions mixed 1:2 after CD45+ column sorting	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	column-based sorting of CD45+ cells (Miltenyi Microbeads) was performed, and CD45+ and CD45- fractions were mixed 1:2 for scRNA-seq library preparation	True
+GSM8808455	geo:GSE288887:GSM8808455	assay_ontology_term_id	EFO:0011025	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	!Sample_extract_protocol_ch1 = 10X Genomics 5' v1	True
+GSM8808455	geo:GSE288887:GSM8808455	sampled_site_condition	less fibrotic area	file	raw/fp-96476fd0e02c/GSE288887_family.soft.gz	GSM8808455	!Sample_title = VU_ILD_94_less_fibrotic	True
+GSM8808455	geo:GSE288887:GSM8808455	sampled_site_condition	less fibrotic area	file	evidence/PMC11235167.txt		lung sections from more and less fibrotic areas were collected	True

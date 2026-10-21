@@ -1,0 +1,44 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3891620	geo:GSE132771:GSM3891620	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM3891621	geo:GSE132771:GSM3891621	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM3891622	geo:GSE132771:GSM3891622	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM3891623	geo:GSE132771:GSM3891623	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM3891624	geo:GSE132771:GSM3891624	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM3891625	geo:GSE132771:GSM3891625	disease_ontology_term_id	PATO:0000461	derived	pato_normal		Normal	True
+GSM3891632	geo:GSE132771:GSM3891632	disease_ontology_term_id	MONDO:0019340	derived	ols:mondo		Scleroderma	True
+GSM3891633	geo:GSE132771:GSM3891633	disease_ontology_term_id	MONDO:0019340	derived	ols:mondo		Scleroderma	True
+GSM3891634	geo:GSE132771:GSM3891634	disease_ontology_term_id	MONDO:0019340	derived	ols:mondo		Scleroderma	True
+GSM3891635	geo:GSE132771:GSM3891635	disease_ontology_term_id	MONDO:0019340	derived	ols:mondo		Scleroderma	True
+		organism	Homo sapiens	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3891620	geo:GSE132771:GSM3891620	disease_free_text	Normal	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891620	!Sample_characteristics_ch1 = disease diagnosis: Normal	True
+GSM3891620	geo:GSE132771:GSM3891620	donor_id	Normal1	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891620	!Sample_characteristics_ch1 = individual identifier: Normal1	True
+GSM3891621	geo:GSE132771:GSM3891621	disease_free_text	Normal	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891621	!Sample_characteristics_ch1 = disease diagnosis: Normal	True
+GSM3891621	geo:GSE132771:GSM3891621	donor_id	Normal1	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891621	!Sample_characteristics_ch1 = individual identifier: Normal1	True
+GSM3891622	geo:GSE132771:GSM3891622	disease_free_text	Normal	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891622	!Sample_characteristics_ch1 = disease diagnosis: Normal	True
+GSM3891622	geo:GSE132771:GSM3891622	donor_id	Normal2	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891622	!Sample_characteristics_ch1 = individual identifier: Normal2	True
+GSM3891623	geo:GSE132771:GSM3891623	disease_free_text	Normal	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891623	!Sample_characteristics_ch1 = disease diagnosis: Normal	True
+GSM3891623	geo:GSE132771:GSM3891623	donor_id	Normal2	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891623	!Sample_characteristics_ch1 = individual identifier: Normal2	True
+GSM3891624	geo:GSE132771:GSM3891624	disease_free_text	Normal	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891624	!Sample_characteristics_ch1 = disease diagnosis: Normal	True
+GSM3891624	geo:GSE132771:GSM3891624	donor_id	Normal3	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891624	!Sample_characteristics_ch1 = individual identifier: Normal3	True
+GSM3891625	geo:GSE132771:GSM3891625	disease_free_text	Normal	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891625	!Sample_characteristics_ch1 = disease diagnosis: Normal	True
+GSM3891625	geo:GSE132771:GSM3891625	donor_id	Normal3	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891625	!Sample_characteristics_ch1 = individual identifier: Normal3	True
+GSM3891626	geo:GSE132771:GSM3891626	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891626	!Sample_characteristics_ch1 = disease diagnosis: Idiopathic pulmonary fibrosis (IPF)	True
+GSM3891626	geo:GSE132771:GSM3891626	donor_id	IPF1	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891626	!Sample_characteristics_ch1 = individual identifier: IPF1	True
+GSM3891627	geo:GSE132771:GSM3891627	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891627	!Sample_characteristics_ch1 = disease diagnosis: Idiopathic pulmonary fibrosis (IPF)	True
+GSM3891627	geo:GSE132771:GSM3891627	donor_id	IPF1	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891627	!Sample_characteristics_ch1 = individual identifier: IPF1	True
+GSM3891628	geo:GSE132771:GSM3891628	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891628	!Sample_characteristics_ch1 = disease diagnosis: Idiopathic pulmonary fibrosis (IPF)	True
+GSM3891628	geo:GSE132771:GSM3891628	donor_id	IPF2	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891628	!Sample_characteristics_ch1 = individual identifier: IPF2	True
+GSM3891629	geo:GSE132771:GSM3891629	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891629	!Sample_characteristics_ch1 = disease diagnosis: Idiopathic pulmonary fibrosis (IPF)	True
+GSM3891629	geo:GSE132771:GSM3891629	donor_id	IPF2	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891629	!Sample_characteristics_ch1 = individual identifier: IPF2	True
+GSM3891630	geo:GSE132771:GSM3891630	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891630	!Sample_characteristics_ch1 = disease diagnosis: Idiopathic pulmonary fibrosis (IPF)	True
+GSM3891630	geo:GSE132771:GSM3891630	donor_id	IPF3	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891630	!Sample_characteristics_ch1 = individual identifier: IPF3	True
+GSM3891631	geo:GSE132771:GSM3891631	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891631	!Sample_characteristics_ch1 = disease diagnosis: Idiopathic pulmonary fibrosis (IPF)	True
+GSM3891631	geo:GSE132771:GSM3891631	donor_id	IPF3	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891631	!Sample_characteristics_ch1 = individual identifier: IPF3	True
+GSM3891632	geo:GSE132771:GSM3891632	disease_free_text	Scleroderma	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891632	!Sample_characteristics_ch1 = disease diagnosis: Scleroderma	True
+GSM3891632	geo:GSE132771:GSM3891632	donor_id	Scleroderma1	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891632	!Sample_characteristics_ch1 = individual identifier: Scleroderma1	True
+GSM3891633	geo:GSE132771:GSM3891633	disease_free_text	Scleroderma	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891633	!Sample_characteristics_ch1 = disease diagnosis: Scleroderma	True
+GSM3891633	geo:GSE132771:GSM3891633	donor_id	Scleroderma1	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891633	!Sample_characteristics_ch1 = individual identifier: Scleroderma1	True
+GSM3891634	geo:GSE132771:GSM3891634	disease_free_text	Scleroderma	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891634	!Sample_characteristics_ch1 = disease diagnosis: Scleroderma	True
+GSM3891634	geo:GSE132771:GSM3891634	donor_id	Scleroderma2	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891634	!Sample_characteristics_ch1 = individual identifier: Scleroderma2	True
+GSM3891635	geo:GSE132771:GSM3891635	disease_free_text	Scleroderma	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891635	!Sample_characteristics_ch1 = disease diagnosis: Scleroderma	True
+GSM3891635	geo:GSE132771:GSM3891635	donor_id	Scleroderma2	file	raw/fp-e175b321e8dd/GSE132771_family.soft.gz	GSM3891635	!Sample_characteristics_ch1 = individual identifier: Scleroderma2	True

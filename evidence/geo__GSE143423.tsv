@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+lbm1	geo:GSE143423:lbm1	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+lbm2	geo:GSE143423:lbm2	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+lbm3	geo:GSE143423:lbm3	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+lbm1	geo:GSE143423:lbm1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+lbm2	geo:GSE143423:lbm2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+lbm3	geo:GSE143423:lbm3	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+lbm1	geo:GSE143423:lbm1	disease_free_text	Lung adenocarcinoma	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = disease state: Lung adenocarcinoma	True
+lbm2	geo:GSE143423:lbm2	disease_free_text	Lung adenocarcinoma	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = disease state: Lung adenocarcinoma	True
+lbm3	geo:GSE143423:lbm3	disease_free_text	Lung adenocarcinoma	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = disease state: Lung adenocarcinoma	True
+lbm1	geo:GSE143423:lbm1	tissue_free_text	brain	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = tissue: brain	True
+lbm2	geo:GSE143423:lbm2	tissue_free_text	brain	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = tissue: brain	True
+lbm3	geo:GSE143423:lbm3	tissue_free_text	brain	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = tissue: brain	True
+lbm1	geo:GSE143423:lbm1	tissue_type	tissue	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = tissue: brain	True
+lbm2	geo:GSE143423:lbm2	tissue_type	tissue	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = tissue: brain	True
+lbm3	geo:GSE143423:lbm3	tissue_type	tissue	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		!Sample_characteristics_ch1 = tissue: brain	True
+lbm1	geo:GSE143423:lbm1	suspension_type	cell	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		Dissociated single cells were pelleted	True
+lbm2	geo:GSE143423:lbm2	suspension_type	cell	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		Dissociated single cells were pelleted	True
+lbm3	geo:GSE143423:lbm3	suspension_type	cell	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		Dissociated single cells were pelleted	True
+lbm1	geo:GSE143423:lbm1	treatment_status	treatment-naive	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		brain lesions of treatment-na	True
+lbm2	geo:GSE143423:lbm2	treatment_status	treatment-naive	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		brain lesions of treatment-na	True
+lbm3	geo:GSE143423:lbm3	treatment_status	treatment-naive	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		brain lesions of treatment-na	True
+lbm1	geo:GSE143423:lbm1	sample_preservation	fresh	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		The freshly dissected brain tissue	True
+lbm2	geo:GSE143423:lbm2	sample_preservation	fresh	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		The freshly dissected brain tissue	True
+lbm3	geo:GSE143423:lbm3	sample_preservation	fresh	file	raw/fp-1b0d3f6af6b0/GSE143423_family.soft.gz		The freshly dissected brain tissue	True

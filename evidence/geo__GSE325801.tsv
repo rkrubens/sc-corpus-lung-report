@@ -1,0 +1,142 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9613620	geo:GSE325801:GSM9613620	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613621	geo:GSE325801:GSM9613621	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613622	geo:GSE325801:GSM9613622	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613623	geo:GSE325801:GSM9613623	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613624	geo:GSE325801:GSM9613624	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613625	geo:GSE325801:GSM9613625	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613625	geo:GSE325801:GSM9613625	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613626	geo:GSE325801:GSM9613626	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613626	geo:GSE325801:GSM9613626	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613627	geo:GSE325801:GSM9613627	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613627	geo:GSE325801:GSM9613627	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613628	geo:GSE325801:GSM9613628	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613628	geo:GSE325801:GSM9613628	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613629	geo:GSE325801:GSM9613629	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613629	geo:GSE325801:GSM9613629	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613630	geo:GSE325801:GSM9613630	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613630	geo:GSE325801:GSM9613630	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613631	geo:GSE325801:GSM9613631	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613631	geo:GSE325801:GSM9613631	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613632	geo:GSE325801:GSM9613632	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613632	geo:GSE325801:GSM9613632	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613633	geo:GSE325801:GSM9613633	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613634	geo:GSE325801:GSM9613634	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613635	geo:GSE325801:GSM9613635	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613636	geo:GSE325801:GSM9613636	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613637	geo:GSE325801:GSM9613637	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613638	geo:GSE325801:GSM9613638	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613638	geo:GSE325801:GSM9613638	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613639	geo:GSE325801:GSM9613639	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613639	geo:GSE325801:GSM9613639	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613640	geo:GSE325801:GSM9613640	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613640	geo:GSE325801:GSM9613640	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613641	geo:GSE325801:GSM9613641	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613641	geo:GSE325801:GSM9613641	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613642	geo:GSE325801:GSM9613642	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613642	geo:GSE325801:GSM9613642	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613643	geo:GSE325801:GSM9613643	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613643	geo:GSE325801:GSM9613643	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613644	geo:GSE325801:GSM9613644	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613645	geo:GSE325801:GSM9613645	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613646	geo:GSE325801:GSM9613646	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613647	geo:GSE325801:GSM9613647	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613648	geo:GSE325801:GSM9613648	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613649	geo:GSE325801:GSM9613649	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613649	geo:GSE325801:GSM9613649	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+GSM9613650	geo:GSE325801:GSM9613650	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9613650	geo:GSE325801:GSM9613650	disease_ontology_term_id	MONDO:0008157	derived	ols:mondo		BOS	True
+		organism	Homo sapiens	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9613620	geo:GSE325801:GSM9613620	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613620	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613620	geo:GSE325801:GSM9613620	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613620	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613620	geo:GSE325801:GSM9613620	donor_id	RAS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613620	!Sample_characteristics_ch1 = caseid: RAS1	True
+GSM9613621	geo:GSE325801:GSM9613621	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613621	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613621	geo:GSE325801:GSM9613621	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613621	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613621	geo:GSE325801:GSM9613621	donor_id	RAS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613621	!Sample_characteristics_ch1 = caseid: RAS1	True
+GSM9613622	geo:GSE325801:GSM9613622	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613622	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613622	geo:GSE325801:GSM9613622	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613622	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613622	geo:GSE325801:GSM9613622	donor_id	RAS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613622	!Sample_characteristics_ch1 = caseid: RAS1	True
+GSM9613623	geo:GSE325801:GSM9613623	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613623	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613623	geo:GSE325801:GSM9613623	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613623	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613623	geo:GSE325801:GSM9613623	donor_id	RAS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613623	!Sample_characteristics_ch1 = caseid: RAS1	True
+GSM9613624	geo:GSE325801:GSM9613624	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613624	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613624	geo:GSE325801:GSM9613624	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613624	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613624	geo:GSE325801:GSM9613624	donor_id	RAS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613624	!Sample_characteristics_ch1 = caseid: RAS1	True
+GSM9613625	geo:GSE325801:GSM9613625	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613625	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613625	geo:GSE325801:GSM9613625	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613625	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613625	geo:GSE325801:GSM9613625	donor_id	BOS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613625	!Sample_characteristics_ch1 = caseid: BOS1	True
+GSM9613626	geo:GSE325801:GSM9613626	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613626	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613626	geo:GSE325801:GSM9613626	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613626	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613626	geo:GSE325801:GSM9613626	donor_id	BOS1	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613626	!Sample_characteristics_ch1 = caseid: BOS1	True
+GSM9613627	geo:GSE325801:GSM9613627	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613627	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613627	geo:GSE325801:GSM9613627	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613627	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613627	geo:GSE325801:GSM9613627	donor_id	BOS4	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613627	!Sample_characteristics_ch1 = caseid: BOS4	True
+GSM9613628	geo:GSE325801:GSM9613628	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613628	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613628	geo:GSE325801:GSM9613628	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613628	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613628	geo:GSE325801:GSM9613628	donor_id	BOS4	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613628	!Sample_characteristics_ch1 = caseid: BOS4	True
+GSM9613629	geo:GSE325801:GSM9613629	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613629	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613629	geo:GSE325801:GSM9613629	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613629	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613629	geo:GSE325801:GSM9613629	donor_id	BOS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613629	!Sample_characteristics_ch1 = caseid: BOS2	True
+GSM9613630	geo:GSE325801:GSM9613630	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613630	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613630	geo:GSE325801:GSM9613630	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613630	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613630	geo:GSE325801:GSM9613630	donor_id	BOS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613630	!Sample_characteristics_ch1 = caseid: BOS2	True
+GSM9613631	geo:GSE325801:GSM9613631	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613631	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613631	geo:GSE325801:GSM9613631	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613631	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613631	geo:GSE325801:GSM9613631	donor_id	BOS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613631	!Sample_characteristics_ch1 = caseid: BOS3	True
+GSM9613632	geo:GSE325801:GSM9613632	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613632	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613632	geo:GSE325801:GSM9613632	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613632	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613632	geo:GSE325801:GSM9613632	donor_id	BOS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613632	!Sample_characteristics_ch1 = caseid: BOS3	True
+GSM9613633	geo:GSE325801:GSM9613633	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613633	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613633	geo:GSE325801:GSM9613633	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613633	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613633	geo:GSE325801:GSM9613633	donor_id	RAS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613633	!Sample_characteristics_ch1 = caseid: RAS2	True
+GSM9613634	geo:GSE325801:GSM9613634	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613634	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613634	geo:GSE325801:GSM9613634	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613634	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613634	geo:GSE325801:GSM9613634	donor_id	RAS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613634	!Sample_characteristics_ch1 = caseid: RAS2	True
+GSM9613635	geo:GSE325801:GSM9613635	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613635	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613635	geo:GSE325801:GSM9613635	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613635	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613635	geo:GSE325801:GSM9613635	donor_id	RAS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613635	!Sample_characteristics_ch1 = caseid: RAS2	True
+GSM9613636	geo:GSE325801:GSM9613636	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613636	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613636	geo:GSE325801:GSM9613636	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613636	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613636	geo:GSE325801:GSM9613636	donor_id	RAS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613636	!Sample_characteristics_ch1 = caseid: RAS2	True
+GSM9613637	geo:GSE325801:GSM9613637	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613637	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613637	geo:GSE325801:GSM9613637	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613637	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613637	geo:GSE325801:GSM9613637	donor_id	RAS2	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613637	!Sample_characteristics_ch1 = caseid: RAS2	True
+GSM9613638	geo:GSE325801:GSM9613638	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613638	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613638	geo:GSE325801:GSM9613638	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613638	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613638	geo:GSE325801:GSM9613638	donor_id	BOS6	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613638	!Sample_characteristics_ch1 = caseid: BOS6	True
+GSM9613639	geo:GSE325801:GSM9613639	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613639	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613639	geo:GSE325801:GSM9613639	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613639	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613639	geo:GSE325801:GSM9613639	donor_id	BOS6	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613639	!Sample_characteristics_ch1 = caseid: BOS6	True
+GSM9613640	geo:GSE325801:GSM9613640	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613640	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613640	geo:GSE325801:GSM9613640	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613640	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613640	geo:GSE325801:GSM9613640	donor_id	BOS5	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613640	!Sample_characteristics_ch1 = caseid: BOS5	True
+GSM9613641	geo:GSE325801:GSM9613641	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613641	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613641	geo:GSE325801:GSM9613641	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613641	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613641	geo:GSE325801:GSM9613641	donor_id	BOS5	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613641	!Sample_characteristics_ch1 = caseid: BOS5	True
+GSM9613642	geo:GSE325801:GSM9613642	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613642	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613642	geo:GSE325801:GSM9613642	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613642	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613642	geo:GSE325801:GSM9613642	donor_id	BOS7	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613642	!Sample_characteristics_ch1 = caseid: BOS7	True
+GSM9613643	geo:GSE325801:GSM9613643	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613643	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613643	geo:GSE325801:GSM9613643	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613643	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613643	geo:GSE325801:GSM9613643	donor_id	BOS7	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613643	!Sample_characteristics_ch1 = caseid: BOS7	True
+GSM9613644	geo:GSE325801:GSM9613644	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613644	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613644	geo:GSE325801:GSM9613644	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613644	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613644	geo:GSE325801:GSM9613644	donor_id	RAS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613644	!Sample_characteristics_ch1 = caseid: RAS3	True
+GSM9613645	geo:GSE325801:GSM9613645	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613645	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613645	geo:GSE325801:GSM9613645	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613645	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613645	geo:GSE325801:GSM9613645	donor_id	RAS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613645	!Sample_characteristics_ch1 = caseid: RAS3	True
+GSM9613646	geo:GSE325801:GSM9613646	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613646	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613646	geo:GSE325801:GSM9613646	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613646	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613646	geo:GSE325801:GSM9613646	donor_id	RAS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613646	!Sample_characteristics_ch1 = caseid: RAS3	True
+GSM9613647	geo:GSE325801:GSM9613647	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613647	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613647	geo:GSE325801:GSM9613647	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613647	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613647	geo:GSE325801:GSM9613647	donor_id	RAS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613647	!Sample_characteristics_ch1 = caseid: RAS3	True
+GSM9613648	geo:GSE325801:GSM9613648	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613648	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613648	geo:GSE325801:GSM9613648	disease_free_text	RAS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613648	!Sample_characteristics_ch1 = clad phenotype: RAS	True
+GSM9613648	geo:GSE325801:GSM9613648	donor_id	RAS3	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613648	!Sample_characteristics_ch1 = caseid: RAS3	True
+GSM9613649	geo:GSE325801:GSM9613649	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613649	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613649	geo:GSE325801:GSM9613649	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613649	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613649	geo:GSE325801:GSM9613649	donor_id	BOS8	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613649	!Sample_characteristics_ch1 = caseid: BOS8	True
+GSM9613650	geo:GSE325801:GSM9613650	tissue_free_text	lung	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613650	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9613650	geo:GSE325801:GSM9613650	disease_free_text	BOS	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613650	!Sample_characteristics_ch1 = clad phenotype: BOS	True
+GSM9613650	geo:GSE325801:GSM9613650	donor_id	BOS8	file	raw/fp-105e708bf8d3/GSE325801_family.soft.gz	GSM9613650	!Sample_characteristics_ch1 = caseid: BOS8	True

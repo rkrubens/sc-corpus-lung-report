@@ -1,0 +1,321 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9152846	geo:GSE304561:GSM9152846	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152846	geo:GSE304561:GSM9152846	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152846	geo:GSE304561:GSM9152846	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+GSM9152846	geo:GSE304561:GSM9152846	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152846	geo:GSE304561:GSM9152846	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152847	geo:GSE304561:GSM9152847	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152847	geo:GSE304561:GSM9152847	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152847	geo:GSE304561:GSM9152847	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9152847	geo:GSE304561:GSM9152847	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152847	geo:GSE304561:GSM9152847	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152848	geo:GSE304561:GSM9152848	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152848	geo:GSE304561:GSM9152848	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152848	geo:GSE304561:GSM9152848	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9152848	geo:GSE304561:GSM9152848	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152848	geo:GSE304561:GSM9152848	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152849	geo:GSE304561:GSM9152849	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152849	geo:GSE304561:GSM9152849	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152849	geo:GSE304561:GSM9152849	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9152849	geo:GSE304561:GSM9152849	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152849	geo:GSE304561:GSM9152849	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152850	geo:GSE304561:GSM9152850	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152850	geo:GSE304561:GSM9152850	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152850	geo:GSE304561:GSM9152850	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9152850	geo:GSE304561:GSM9152850	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152850	geo:GSE304561:GSM9152850	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152851	geo:GSE304561:GSM9152851	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152851	geo:GSE304561:GSM9152851	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152851	geo:GSE304561:GSM9152851	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9152851	geo:GSE304561:GSM9152851	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152851	geo:GSE304561:GSM9152851	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152852	geo:GSE304561:GSM9152852	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152852	geo:GSE304561:GSM9152852	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152852	geo:GSE304561:GSM9152852	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9152852	geo:GSE304561:GSM9152852	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152852	geo:GSE304561:GSM9152852	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152853	geo:GSE304561:GSM9152853	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152853	geo:GSE304561:GSM9152853	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152853	geo:GSE304561:GSM9152853	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9152853	geo:GSE304561:GSM9152853	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152853	geo:GSE304561:GSM9152853	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152854	geo:GSE304561:GSM9152854	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152854	geo:GSE304561:GSM9152854	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152854	geo:GSE304561:GSM9152854	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9152854	geo:GSE304561:GSM9152854	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152854	geo:GSE304561:GSM9152854	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152855	geo:GSE304561:GSM9152855	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152855	geo:GSE304561:GSM9152855	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152855	geo:GSE304561:GSM9152855	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9152855	geo:GSE304561:GSM9152855	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152855	geo:GSE304561:GSM9152855	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152856	geo:GSE304561:GSM9152856	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152856	geo:GSE304561:GSM9152856	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152856	geo:GSE304561:GSM9152856	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9152856	geo:GSE304561:GSM9152856	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152856	geo:GSE304561:GSM9152856	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152857	geo:GSE304561:GSM9152857	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152857	geo:GSE304561:GSM9152857	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152857	geo:GSE304561:GSM9152857	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9152857	geo:GSE304561:GSM9152857	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152857	geo:GSE304561:GSM9152857	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152858	geo:GSE304561:GSM9152858	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152858	geo:GSE304561:GSM9152858	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152858	geo:GSE304561:GSM9152858	development_stage_ontology_term_id	HsapDv:0000136	derived	age_in_years:'42-year-old stage':ols:hsapdv		42	True
+GSM9152858	geo:GSE304561:GSM9152858	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152858	geo:GSE304561:GSM9152858	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152859	geo:GSE304561:GSM9152859	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152859	geo:GSE304561:GSM9152859	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152859	geo:GSE304561:GSM9152859	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9152859	geo:GSE304561:GSM9152859	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152859	geo:GSE304561:GSM9152859	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152860	geo:GSE304561:GSM9152860	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152860	geo:GSE304561:GSM9152860	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152860	geo:GSE304561:GSM9152860	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM9152860	geo:GSE304561:GSM9152860	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152860	geo:GSE304561:GSM9152860	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152861	geo:GSE304561:GSM9152861	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152861	geo:GSE304561:GSM9152861	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152861	geo:GSE304561:GSM9152861	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+GSM9152861	geo:GSE304561:GSM9152861	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152861	geo:GSE304561:GSM9152861	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152862	geo:GSE304561:GSM9152862	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152862	geo:GSE304561:GSM9152862	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9152862	geo:GSE304561:GSM9152862	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM9152862	geo:GSE304561:GSM9152862	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152862	geo:GSE304561:GSM9152862	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152863	geo:GSE304561:GSM9152863	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152863	geo:GSE304561:GSM9152863	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152863	geo:GSE304561:GSM9152863	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM9152863	geo:GSE304561:GSM9152863	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152863	geo:GSE304561:GSM9152863	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152864	geo:GSE304561:GSM9152864	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152864	geo:GSE304561:GSM9152864	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152864	geo:GSE304561:GSM9152864	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+GSM9152864	geo:GSE304561:GSM9152864	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152864	geo:GSE304561:GSM9152864	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152865	geo:GSE304561:GSM9152865	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9152865	geo:GSE304561:GSM9152865	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152865	geo:GSE304561:GSM9152865	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM9152865	geo:GSE304561:GSM9152865	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152865	geo:GSE304561:GSM9152865	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152866	geo:GSE304561:GSM9152866	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152866	geo:GSE304561:GSM9152866	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152866	geo:GSE304561:GSM9152866	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM9152866	geo:GSE304561:GSM9152866	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152866	geo:GSE304561:GSM9152866	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9152867	geo:GSE304561:GSM9152867	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152867	geo:GSE304561:GSM9152867	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152867	geo:GSE304561:GSM9152867	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9152867	geo:GSE304561:GSM9152867	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152867	geo:GSE304561:GSM9152867	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152868	geo:GSE304561:GSM9152868	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152868	geo:GSE304561:GSM9152868	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152868	geo:GSE304561:GSM9152868	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9152868	geo:GSE304561:GSM9152868	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152868	geo:GSE304561:GSM9152868	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM9152869	geo:GSE304561:GSM9152869	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9152869	geo:GSE304561:GSM9152869	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9152869	geo:GSE304561:GSM9152869	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM9152869	geo:GSE304561:GSM9152869	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9152869	geo:GSE304561:GSM9152869	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+		organism	Homo sapiens	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9152846	geo:GSE304561:GSM9152846	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152846	geo:GSE304561:GSM9152846	age	51	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	!Sample_characteristics_ch1 = age: 51	True
+GSM9152846	geo:GSE304561:GSM9152846	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152846	geo:GSE304561:GSM9152846	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152846	geo:GSE304561:GSM9152846	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152846	geo:GSE304561:GSM9152846	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152846	geo:GSE304561:GSM9152846	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152846	geo:GSE304561:GSM9152846	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152846	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152847	geo:GSE304561:GSM9152847	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152847	geo:GSE304561:GSM9152847	age	61	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	!Sample_characteristics_ch1 = age: 61	True
+GSM9152847	geo:GSE304561:GSM9152847	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152847	geo:GSE304561:GSM9152847	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152847	geo:GSE304561:GSM9152847	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152847	geo:GSE304561:GSM9152847	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152847	geo:GSE304561:GSM9152847	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152847	geo:GSE304561:GSM9152847	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152847	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152848	geo:GSE304561:GSM9152848	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152848	geo:GSE304561:GSM9152848	age	61	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	!Sample_characteristics_ch1 = age: 61	True
+GSM9152848	geo:GSE304561:GSM9152848	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152848	geo:GSE304561:GSM9152848	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152848	geo:GSE304561:GSM9152848	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152848	geo:GSE304561:GSM9152848	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152848	geo:GSE304561:GSM9152848	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152848	geo:GSE304561:GSM9152848	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152848	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152849	geo:GSE304561:GSM9152849	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152849	geo:GSE304561:GSM9152849	age	50	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	!Sample_characteristics_ch1 = age: 50	True
+GSM9152849	geo:GSE304561:GSM9152849	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152849	geo:GSE304561:GSM9152849	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152849	geo:GSE304561:GSM9152849	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152849	geo:GSE304561:GSM9152849	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152849	geo:GSE304561:GSM9152849	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152849	geo:GSE304561:GSM9152849	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152849	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152850	geo:GSE304561:GSM9152850	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152850	geo:GSE304561:GSM9152850	age	50	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	!Sample_characteristics_ch1 = age: 50	True
+GSM9152850	geo:GSE304561:GSM9152850	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152850	geo:GSE304561:GSM9152850	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152850	geo:GSE304561:GSM9152850	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152850	geo:GSE304561:GSM9152850	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152850	geo:GSE304561:GSM9152850	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152850	geo:GSE304561:GSM9152850	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152850	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152851	geo:GSE304561:GSM9152851	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152851	geo:GSE304561:GSM9152851	age	57	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	!Sample_characteristics_ch1 = age: 57	True
+GSM9152851	geo:GSE304561:GSM9152851	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152851	geo:GSE304561:GSM9152851	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152851	geo:GSE304561:GSM9152851	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152851	geo:GSE304561:GSM9152851	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152851	geo:GSE304561:GSM9152851	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152851	geo:GSE304561:GSM9152851	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152851	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152852	geo:GSE304561:GSM9152852	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152852	geo:GSE304561:GSM9152852	age	61	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	!Sample_characteristics_ch1 = age: 61	True
+GSM9152852	geo:GSE304561:GSM9152852	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152852	geo:GSE304561:GSM9152852	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152852	geo:GSE304561:GSM9152852	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152852	geo:GSE304561:GSM9152852	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152852	geo:GSE304561:GSM9152852	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152852	geo:GSE304561:GSM9152852	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152852	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152853	geo:GSE304561:GSM9152853	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152853	geo:GSE304561:GSM9152853	age	61	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	!Sample_characteristics_ch1 = age: 61	True
+GSM9152853	geo:GSE304561:GSM9152853	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152853	geo:GSE304561:GSM9152853	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152853	geo:GSE304561:GSM9152853	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152853	geo:GSE304561:GSM9152853	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152853	geo:GSE304561:GSM9152853	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152853	geo:GSE304561:GSM9152853	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152853	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152854	geo:GSE304561:GSM9152854	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152854	geo:GSE304561:GSM9152854	age	62	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	!Sample_characteristics_ch1 = age: 62	True
+GSM9152854	geo:GSE304561:GSM9152854	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152854	geo:GSE304561:GSM9152854	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152854	geo:GSE304561:GSM9152854	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152854	geo:GSE304561:GSM9152854	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152854	geo:GSE304561:GSM9152854	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152854	geo:GSE304561:GSM9152854	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152854	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152855	geo:GSE304561:GSM9152855	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152855	geo:GSE304561:GSM9152855	age	62	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	!Sample_characteristics_ch1 = age: 62	True
+GSM9152855	geo:GSE304561:GSM9152855	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152855	geo:GSE304561:GSM9152855	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152855	geo:GSE304561:GSM9152855	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152855	geo:GSE304561:GSM9152855	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152855	geo:GSE304561:GSM9152855	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152855	geo:GSE304561:GSM9152855	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152855	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152856	geo:GSE304561:GSM9152856	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152856	geo:GSE304561:GSM9152856	age	60	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	!Sample_characteristics_ch1 = age: 60	True
+GSM9152856	geo:GSE304561:GSM9152856	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152856	geo:GSE304561:GSM9152856	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152856	geo:GSE304561:GSM9152856	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152856	geo:GSE304561:GSM9152856	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152856	geo:GSE304561:GSM9152856	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152856	geo:GSE304561:GSM9152856	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152856	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152857	geo:GSE304561:GSM9152857	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152857	geo:GSE304561:GSM9152857	age	57	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	!Sample_characteristics_ch1 = age: 57	True
+GSM9152857	geo:GSE304561:GSM9152857	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152857	geo:GSE304561:GSM9152857	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152857	geo:GSE304561:GSM9152857	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152857	geo:GSE304561:GSM9152857	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152857	geo:GSE304561:GSM9152857	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152857	geo:GSE304561:GSM9152857	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152857	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152858	geo:GSE304561:GSM9152858	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152858	geo:GSE304561:GSM9152858	age	42	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	!Sample_characteristics_ch1 = age: 42	True
+GSM9152858	geo:GSE304561:GSM9152858	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152858	geo:GSE304561:GSM9152858	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152858	geo:GSE304561:GSM9152858	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152858	geo:GSE304561:GSM9152858	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152858	geo:GSE304561:GSM9152858	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152858	geo:GSE304561:GSM9152858	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152858	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152859	geo:GSE304561:GSM9152859	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152859	geo:GSE304561:GSM9152859	age	72	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	!Sample_characteristics_ch1 = age: 72	True
+GSM9152859	geo:GSE304561:GSM9152859	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152859	geo:GSE304561:GSM9152859	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152859	geo:GSE304561:GSM9152859	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152859	geo:GSE304561:GSM9152859	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152859	geo:GSE304561:GSM9152859	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152859	geo:GSE304561:GSM9152859	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152859	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152860	geo:GSE304561:GSM9152860	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152860	geo:GSE304561:GSM9152860	age	45	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	!Sample_characteristics_ch1 = age: 45	True
+GSM9152860	geo:GSE304561:GSM9152860	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152860	geo:GSE304561:GSM9152860	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152860	geo:GSE304561:GSM9152860	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152860	geo:GSE304561:GSM9152860	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152860	geo:GSE304561:GSM9152860	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152860	geo:GSE304561:GSM9152860	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152860	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152861	geo:GSE304561:GSM9152861	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152861	geo:GSE304561:GSM9152861	age	47	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	!Sample_characteristics_ch1 = age: 47	True
+GSM9152861	geo:GSE304561:GSM9152861	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152861	geo:GSE304561:GSM9152861	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152861	geo:GSE304561:GSM9152861	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152861	geo:GSE304561:GSM9152861	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152861	geo:GSE304561:GSM9152861	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152861	geo:GSE304561:GSM9152861	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152861	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152862	geo:GSE304561:GSM9152862	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152862	geo:GSE304561:GSM9152862	age	61	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	!Sample_characteristics_ch1 = age: 61	True
+GSM9152862	geo:GSE304561:GSM9152862	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152862	geo:GSE304561:GSM9152862	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152862	geo:GSE304561:GSM9152862	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152862	geo:GSE304561:GSM9152862	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152862	geo:GSE304561:GSM9152862	assay	10x 3' v3	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	Chromium Next GEM Single Cell 3′ GEM, Library and Gel Bead Kit v3.1	True
+GSM9152862	geo:GSE304561:GSM9152862	suspension_type	cell	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152862	Cell suspensions were processed to generate single-cell RNA-Seq libraries	True
+GSM9152863	geo:GSE304561:GSM9152863	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152863	geo:GSE304561:GSM9152863	age	58	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_characteristics_ch1 = age: 58	True
+GSM9152863	geo:GSE304561:GSM9152863	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152863	geo:GSE304561:GSM9152863	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152863	geo:GSE304561:GSM9152863	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152863	geo:GSE304561:GSM9152863	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152863	geo:GSE304561:GSM9152863	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152863	geo:GSE304561:GSM9152863	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152863	geo:GSE304561:GSM9152863	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152863	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152864	geo:GSE304561:GSM9152864	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152864	geo:GSE304561:GSM9152864	age	73	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_characteristics_ch1 = age: 73	True
+GSM9152864	geo:GSE304561:GSM9152864	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152864	geo:GSE304561:GSM9152864	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152864	geo:GSE304561:GSM9152864	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152864	geo:GSE304561:GSM9152864	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152864	geo:GSE304561:GSM9152864	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152864	geo:GSE304561:GSM9152864	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152864	geo:GSE304561:GSM9152864	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152864	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152865	geo:GSE304561:GSM9152865	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152865	geo:GSE304561:GSM9152865	age	45	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_characteristics_ch1 = age: 45	True
+GSM9152865	geo:GSE304561:GSM9152865	sex	female	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_characteristics_ch1 = Sex: female	True
+GSM9152865	geo:GSE304561:GSM9152865	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152865	geo:GSE304561:GSM9152865	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152865	geo:GSE304561:GSM9152865	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152865	geo:GSE304561:GSM9152865	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152865	geo:GSE304561:GSM9152865	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152865	geo:GSE304561:GSM9152865	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152865	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152866	geo:GSE304561:GSM9152866	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152866	geo:GSE304561:GSM9152866	age	72	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_characteristics_ch1 = age: 72	True
+GSM9152866	geo:GSE304561:GSM9152866	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152866	geo:GSE304561:GSM9152866	disease_free_text	normal	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM9152866	geo:GSE304561:GSM9152866	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152866	geo:GSE304561:GSM9152866	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152866	geo:GSE304561:GSM9152866	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152866	geo:GSE304561:GSM9152866	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152866	geo:GSE304561:GSM9152866	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152866	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152867	geo:GSE304561:GSM9152867	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152867	geo:GSE304561:GSM9152867	age	57	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_characteristics_ch1 = age: 57	True
+GSM9152867	geo:GSE304561:GSM9152867	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152867	geo:GSE304561:GSM9152867	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152867	geo:GSE304561:GSM9152867	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152867	geo:GSE304561:GSM9152867	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152867	geo:GSE304561:GSM9152867	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152867	geo:GSE304561:GSM9152867	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152867	geo:GSE304561:GSM9152867	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152867	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152868	geo:GSE304561:GSM9152868	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152868	geo:GSE304561:GSM9152868	age	57	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_characteristics_ch1 = age: 57	True
+GSM9152868	geo:GSE304561:GSM9152868	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152868	geo:GSE304561:GSM9152868	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152868	geo:GSE304561:GSM9152868	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152868	geo:GSE304561:GSM9152868	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152868	geo:GSE304561:GSM9152868	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152868	geo:GSE304561:GSM9152868	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152868	geo:GSE304561:GSM9152868	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152868	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152869	geo:GSE304561:GSM9152869	tissue_free_text	lung	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152869	geo:GSE304561:GSM9152869	age	62	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_characteristics_ch1 = age: 62	True
+GSM9152869	geo:GSE304561:GSM9152869	sex	male	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_characteristics_ch1 = Sex: male	True
+GSM9152869	geo:GSE304561:GSM9152869	disease_free_text	chronic obstructive pulmonary disease	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM9152869	geo:GSE304561:GSM9152869	tissue_type	tissue	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9152869	geo:GSE304561:GSM9152869	gene_annotation_version	GRCh38-2020-A	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_data_processing = Assembly: 10X provided GRCh38-2020-A transcriptome	True
+GSM9152869	geo:GSE304561:GSM9152869	assay	Visium Spatial Gene Expression	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_data_processing = Visium - 10X provided spaceranger mkfastq and count version 1.3.1 using standard parameters	True
+GSM9152869	geo:GSE304561:GSM9152869	suspension_type	na	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_description = Fresh frozen Spatial transcriptomics	True
+GSM9152869	geo:GSE304561:GSM9152869	sample_preservation	fresh frozen	file	raw/fp-cb3d26feea6e/GSE304561_family.soft.gz	GSM9152869	!Sample_description = Fresh frozen Spatial transcriptomics	True

@@ -1,0 +1,178 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7905760	geo:GSE248082:GSM7905760	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM7905760	geo:GSE248082:GSM7905760	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905760	geo:GSE248082:GSM7905760	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905761	geo:GSE248082:GSM7905761	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905761	geo:GSE248082:GSM7905761	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905762	geo:GSE248082:GSM7905762	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905762	geo:GSE248082:GSM7905762	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905763	geo:GSE248082:GSM7905763	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905763	geo:GSE248082:GSM7905763	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905764	geo:GSE248082:GSM7905764	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905764	geo:GSE248082:GSM7905764	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905765	geo:GSE248082:GSM7905765	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905765	geo:GSE248082:GSM7905765	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905766	geo:GSE248082:GSM7905766	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905766	geo:GSE248082:GSM7905766	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905767	geo:GSE248082:GSM7905767	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905767	geo:GSE248082:GSM7905767	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM7905768	geo:GSE248082:GSM7905768	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7905768	geo:GSE248082:GSM7905768	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8087031	geo:GSE248082:GSM8087031	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087031	geo:GSE248082:GSM8087031	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8087032	geo:GSE248082:GSM8087032	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087032	geo:GSE248082:GSM8087032	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8087033	geo:GSE248082:GSM8087033	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087033	geo:GSE248082:GSM8087033	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8087034	geo:GSE248082:GSM8087034	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8087034	geo:GSE248082:GSM8087034	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087034	geo:GSE248082:GSM8087034	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8087035	geo:GSE248082:GSM8087035	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8087035	geo:GSE248082:GSM8087035	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087035	geo:GSE248082:GSM8087035	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8087036	geo:GSE248082:GSM8087036	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087036	geo:GSE248082:GSM8087036	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8087038	geo:GSE248082:GSM8087038	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8087038	geo:GSE248082:GSM8087038	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8087038	geo:GSE248082:GSM8087038	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+		organism	Homo sapiens	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7905760	geo:GSE248082:GSM7905760	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905760	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905760	geo:GSE248082:GSM7905760	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905760	geo:GSE248082:GSM7905760	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905760	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905760	geo:GSE248082:GSM7905760	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905760	geo:GSE248082:GSM7905760	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905760	geo:GSE248082:GSM7905760	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905760	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905760	geo:GSE248082:GSM7905760	assay	Visium Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905760	!Sample_description = 10x Visium	True
+GSM7905760	geo:GSE248082:GSM7905760	sample_preservation	fresh frozen	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905760	!Sample_source_name_ch1 = Fresh frozen tissue	True
+GSM7905761	geo:GSE248082:GSM7905761	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905761	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905761	geo:GSE248082:GSM7905761	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905761	geo:GSE248082:GSM7905761	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905761	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905761	geo:GSE248082:GSM7905761	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905761	geo:GSE248082:GSM7905761	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905761	geo:GSE248082:GSM7905761	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905761	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905761	geo:GSE248082:GSM7905761	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905761	!Sample_description = 10x Visium Cytassist	True
+GSM7905761	geo:GSE248082:GSM7905761	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905761	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905761	geo:GSE248082:GSM7905761	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905761	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905762	geo:GSE248082:GSM7905762	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905762	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905762	geo:GSE248082:GSM7905762	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905762	geo:GSE248082:GSM7905762	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905762	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905762	geo:GSE248082:GSM7905762	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905762	geo:GSE248082:GSM7905762	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905762	geo:GSE248082:GSM7905762	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905762	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905762	geo:GSE248082:GSM7905762	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905762	!Sample_description = 10x Visium Cytassist	True
+GSM7905762	geo:GSE248082:GSM7905762	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905762	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905762	geo:GSE248082:GSM7905762	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905762	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905763	geo:GSE248082:GSM7905763	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905763	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905763	geo:GSE248082:GSM7905763	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905763	geo:GSE248082:GSM7905763	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905763	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905763	geo:GSE248082:GSM7905763	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905763	geo:GSE248082:GSM7905763	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905763	geo:GSE248082:GSM7905763	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905763	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905763	geo:GSE248082:GSM7905763	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905763	!Sample_description = 10x Visium Cytassist	True
+GSM7905763	geo:GSE248082:GSM7905763	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905763	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905763	geo:GSE248082:GSM7905763	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905763	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905764	geo:GSE248082:GSM7905764	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905764	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905764	geo:GSE248082:GSM7905764	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905764	geo:GSE248082:GSM7905764	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905764	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905764	geo:GSE248082:GSM7905764	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905764	geo:GSE248082:GSM7905764	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905764	geo:GSE248082:GSM7905764	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905764	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905764	geo:GSE248082:GSM7905764	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905764	!Sample_description = 10x Visium Cytassist	True
+GSM7905764	geo:GSE248082:GSM7905764	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905764	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905764	geo:GSE248082:GSM7905764	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905764	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905765	geo:GSE248082:GSM7905765	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905765	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905765	geo:GSE248082:GSM7905765	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905765	geo:GSE248082:GSM7905765	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905765	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905765	geo:GSE248082:GSM7905765	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905765	geo:GSE248082:GSM7905765	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905765	geo:GSE248082:GSM7905765	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905765	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905765	geo:GSE248082:GSM7905765	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905765	!Sample_description = 10x Visium Cytassist	True
+GSM7905765	geo:GSE248082:GSM7905765	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905765	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905765	geo:GSE248082:GSM7905765	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905765	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905766	geo:GSE248082:GSM7905766	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905766	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905766	geo:GSE248082:GSM7905766	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905766	geo:GSE248082:GSM7905766	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905766	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905766	geo:GSE248082:GSM7905766	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905766	geo:GSE248082:GSM7905766	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905766	geo:GSE248082:GSM7905766	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905766	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905766	geo:GSE248082:GSM7905766	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905766	!Sample_description = 10x Visium Cytassist	True
+GSM7905766	geo:GSE248082:GSM7905766	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905766	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905766	geo:GSE248082:GSM7905766	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905766	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905767	geo:GSE248082:GSM7905767	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905767	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905767	geo:GSE248082:GSM7905767	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905767	geo:GSE248082:GSM7905767	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905767	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905767	geo:GSE248082:GSM7905767	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905767	geo:GSE248082:GSM7905767	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905767	geo:GSE248082:GSM7905767	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905767	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905767	geo:GSE248082:GSM7905767	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905767	!Sample_description = 10x Visium Cytassist	True
+GSM7905767	geo:GSE248082:GSM7905767	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905767	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905767	geo:GSE248082:GSM7905767	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905767	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM7905768	geo:GSE248082:GSM7905768	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905768	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905768	geo:GSE248082:GSM7905768	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905768	geo:GSE248082:GSM7905768	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905768	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM7905768	geo:GSE248082:GSM7905768	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905768	geo:GSE248082:GSM7905768	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM7905768	geo:GSE248082:GSM7905768	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905768	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM7905768	geo:GSE248082:GSM7905768	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905768	!Sample_description = 10x Visium Cytassist	True
+GSM7905768	geo:GSE248082:GSM7905768	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905768	!Sample_source_name_ch1 = PPFE tissue	True
+GSM7905768	geo:GSE248082:GSM7905768	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM7905768	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM8087031	geo:GSE248082:GSM8087031	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087031	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087031	geo:GSE248082:GSM8087031	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087031	geo:GSE248082:GSM8087031	disease_free_text	normal	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087031	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087031	geo:GSE248082:GSM8087031	disease_free_text	normal	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087031	geo:GSE248082:GSM8087031	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087031	geo:GSE248082:GSM8087031	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087031	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087031	geo:GSE248082:GSM8087031	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087031	!Sample_characteristics_ch1 = platform: 10x Visium Cytassist	True
+GSM8087031	geo:GSE248082:GSM8087031	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087031	!Sample_description = PPFE tissue	True
+GSM8087031	geo:GSE248082:GSM8087031	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087031	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM8087032	geo:GSE248082:GSM8087032	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087032	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087032	geo:GSE248082:GSM8087032	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087032	geo:GSE248082:GSM8087032	disease_free_text	normal	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087032	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087032	geo:GSE248082:GSM8087032	disease_free_text	normal	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087032	geo:GSE248082:GSM8087032	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087032	geo:GSE248082:GSM8087032	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087032	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087032	geo:GSE248082:GSM8087032	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087032	!Sample_characteristics_ch1 = platform: 10x Visium Cytassist	True
+GSM8087032	geo:GSE248082:GSM8087032	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087032	!Sample_description = PPFE tissue	True
+GSM8087032	geo:GSE248082:GSM8087032	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087032	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM8087033	geo:GSE248082:GSM8087033	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087033	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087033	geo:GSE248082:GSM8087033	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087033	geo:GSE248082:GSM8087033	disease_free_text	normal	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087033	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087033	geo:GSE248082:GSM8087033	disease_free_text	normal	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087033	geo:GSE248082:GSM8087033	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087033	geo:GSE248082:GSM8087033	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087033	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087033	geo:GSE248082:GSM8087033	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087033	!Sample_characteristics_ch1 = platform: 10x Visium Cytassist	True
+GSM8087033	geo:GSE248082:GSM8087033	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087033	!Sample_description = PPFE tissue	True
+GSM8087033	geo:GSE248082:GSM8087033	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087033	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM8087034	geo:GSE248082:GSM8087034	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087034	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087034	geo:GSE248082:GSM8087034	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087034	geo:GSE248082:GSM8087034	disease_free_text	normal	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087034	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087034	geo:GSE248082:GSM8087034	disease_free_text	normal	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087034	geo:GSE248082:GSM8087034	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087034	geo:GSE248082:GSM8087034	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087034	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087034	geo:GSE248082:GSM8087034	assay	Visium Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087034	!Sample_characteristics_ch1 = platform: 10x Visium	True
+GSM8087034	geo:GSE248082:GSM8087034	sample_preservation	fresh frozen	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087034	!Sample_description = Fresh frozen tissue	True
+GSM8087035	geo:GSE248082:GSM8087035	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087035	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087035	geo:GSE248082:GSM8087035	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087035	geo:GSE248082:GSM8087035	disease_free_text	normal	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087035	!Sample_characteristics_ch1 = tissue: Normal human lung	True
+GSM8087035	geo:GSE248082:GSM8087035	disease_free_text	normal	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087035	geo:GSE248082:GSM8087035	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087035	geo:GSE248082:GSM8087035	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087035	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087035	geo:GSE248082:GSM8087035	assay	Visium Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087035	!Sample_characteristics_ch1 = platform: 10x Visium	True
+GSM8087035	geo:GSE248082:GSM8087035	sample_preservation	fresh frozen	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087035	!Sample_description = Fresh frozen tissue	True
+GSM8087036	geo:GSE248082:GSM8087036	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087036	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM8087036	geo:GSE248082:GSM8087036	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087036	geo:GSE248082:GSM8087036	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087036	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM8087036	geo:GSE248082:GSM8087036	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087036	geo:GSE248082:GSM8087036	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087036	geo:GSE248082:GSM8087036	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087036	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087036	geo:GSE248082:GSM8087036	assay	Visium CytAssist Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087036	!Sample_characteristics_ch1 = platform: 10x Visium Cytassist	True
+GSM8087036	geo:GSE248082:GSM8087036	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087036	!Sample_description = PPFE tissue	True
+GSM8087036	geo:GSE248082:GSM8087036	sample_preservation	FFPE	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087036	For PPFE tissues 5μm tissue sections were cut with microtome	True
+GSM8087038	geo:GSE248082:GSM8087038	tissue_free_text	lung	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087038	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM8087038	geo:GSE248082:GSM8087038	tissue_free_text	lung	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087038	geo:GSE248082:GSM8087038	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087038	!Sample_characteristics_ch1 = tissue: Idiopathic pulmonary fibrosis	True
+GSM8087038	geo:GSE248082:GSM8087038	disease_stage	end-stage	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087038	geo:GSE248082:GSM8087038	tissue_type	tissue	file	evidence/PMC12140907.txt		Lung explants from end-stage IPF patients and control normal lungs	True
+GSM8087038	geo:GSE248082:GSM8087038	suspension_type	na	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087038	!Sample_extract_protocol_ch1 = Spatial transcriptomic libraries were constructed with Visium Spatial Gene Expression Slide & Reagent Kit and Visium CytAssist Spatial Gene Expression kit following manufacturers' instruction	True
+GSM8087038	geo:GSE248082:GSM8087038	assay	Visium Spatial Gene Expression	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087038	!Sample_characteristics_ch1 = platform: 10x Visium	True
+GSM8087038	geo:GSE248082:GSM8087038	sample_preservation	fresh frozen	file	raw/fp-8172c41379c7/GSE248082_family.soft.gz	GSM8087038	!Sample_description = Fresh frozen tissue	True

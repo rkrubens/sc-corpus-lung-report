@@ -1,0 +1,2 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-399a8095a02b/GSE287930_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True

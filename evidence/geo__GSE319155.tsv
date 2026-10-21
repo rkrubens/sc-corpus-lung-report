@@ -1,0 +1,16 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9512687	geo:GSE319155:GSM9512687	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+GSM9512688	geo:GSE319155:GSM9512688	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+GSM9512689	geo:GSE319155:GSM9512689	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+GSM9512690	geo:GSE319155:GSM9512690	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+GSM9512691	geo:GSE319155:GSM9512691	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+GSM9512692	geo:GSE319155:GSM9512692	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+GSM9512693	geo:GSE319155:GSM9512693	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph node	True
+		organism	Homo sapiens	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9512687	geo:GSE319155:GSM9512687	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512687	!Sample_characteristics_ch1 = tissue: Lymph node	True
+GSM9512688	geo:GSE319155:GSM9512688	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512688	!Sample_characteristics_ch1 = tissue: Lymph node	True
+GSM9512689	geo:GSE319155:GSM9512689	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512689	!Sample_characteristics_ch1 = tissue: Lymph node	True
+GSM9512690	geo:GSE319155:GSM9512690	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512690	!Sample_characteristics_ch1 = tissue: Lymph node	True
+GSM9512691	geo:GSE319155:GSM9512691	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512691	!Sample_characteristics_ch1 = tissue: Lymph node	True
+GSM9512692	geo:GSE319155:GSM9512692	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512692	!Sample_characteristics_ch1 = tissue: Lymph node	True
+GSM9512693	geo:GSE319155:GSM9512693	tissue_free_text	Lymph node	file	raw/fp-ecd90d3f6dcb/GSE319155_family.soft.gz	GSM9512693	!Sample_characteristics_ch1 = tissue: Lymph node	True

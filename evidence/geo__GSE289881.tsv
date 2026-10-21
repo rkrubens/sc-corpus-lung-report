@@ -1,0 +1,88 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8800813	geo:GSE289881:GSM8800813	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800813	geo:GSE289881:GSM8800813	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800814	geo:GSE289881:GSM8800814	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800814	geo:GSE289881:GSM8800814	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800815	geo:GSE289881:GSM8800815	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800815	geo:GSE289881:GSM8800815	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800817	geo:GSE289881:GSM8800817	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800817	geo:GSE289881:GSM8800817	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800818	geo:GSE289881:GSM8800818	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800818	geo:GSE289881:GSM8800818	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800818	geo:GSE289881:GSM8800818	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8800819	geo:GSE289881:GSM8800819	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800819	geo:GSE289881:GSM8800819	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800819	geo:GSE289881:GSM8800819	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8800820	geo:GSE289881:GSM8800820	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800820	geo:GSE289881:GSM8800820	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800820	geo:GSE289881:GSM8800820	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8800821	geo:GSE289881:GSM8800821	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800821	geo:GSE289881:GSM8800821	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800821	geo:GSE289881:GSM8800821	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8800822	geo:GSE289881:GSM8800822	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8800822	geo:GSE289881:GSM8800822	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8800822	geo:GSE289881:GSM8800822	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+		organism	Homo sapiens	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8800813	geo:GSE289881:GSM8800813	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800813	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800813	geo:GSE289881:GSM8800813	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800813	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800813	geo:GSE289881:GSM8800813	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800813	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800813	geo:GSE289881:GSM8800813	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800813	!Sample_title = CLAD1	True
+GSM8800813	geo:GSE289881:GSM8800813	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz		from human lung transplant recipients diagnosed with chronic lung allograft dysfunction (CLAD)	True
+GSM8800813	geo:GSE289881:GSM8800813	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800813	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800813	geo:GSE289881:GSM8800813	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800813	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800814	geo:GSE289881:GSM8800814	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800814	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800814	geo:GSE289881:GSM8800814	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800814	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800814	geo:GSE289881:GSM8800814	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800814	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800814	geo:GSE289881:GSM8800814	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800814	!Sample_title = CLAD2	True
+GSM8800814	geo:GSE289881:GSM8800814	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz		from human lung transplant recipients diagnosed with chronic lung allograft dysfunction (CLAD)	True
+GSM8800814	geo:GSE289881:GSM8800814	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800814	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800814	geo:GSE289881:GSM8800814	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800814	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800815	geo:GSE289881:GSM8800815	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800815	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800815	geo:GSE289881:GSM8800815	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800815	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800815	geo:GSE289881:GSM8800815	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800815	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800815	geo:GSE289881:GSM8800815	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800815	!Sample_title = CLAD3	True
+GSM8800815	geo:GSE289881:GSM8800815	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz		from human lung transplant recipients diagnosed with chronic lung allograft dysfunction (CLAD)	True
+GSM8800815	geo:GSE289881:GSM8800815	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800815	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800815	geo:GSE289881:GSM8800815	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800815	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800817	geo:GSE289881:GSM8800817	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800817	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800817	geo:GSE289881:GSM8800817	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800817	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800817	geo:GSE289881:GSM8800817	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800817	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800817	geo:GSE289881:GSM8800817	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800817	!Sample_title = CLAD5	True
+GSM8800817	geo:GSE289881:GSM8800817	disease_free_text	chronic lung allograft dysfunction	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz		from human lung transplant recipients diagnosed with chronic lung allograft dysfunction (CLAD)	True
+GSM8800817	geo:GSE289881:GSM8800817	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800817	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800817	geo:GSE289881:GSM8800817	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800817	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800818	geo:GSE289881:GSM8800818	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800818	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800818	geo:GSE289881:GSM8800818	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800818	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800818	geo:GSE289881:GSM8800818	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800818	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800818	geo:GSE289881:GSM8800818	disease_free_text	normal	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800818	!Sample_title = Donor1	True
+GSM8800818	geo:GSE289881:GSM8800818	disease_free_text	normal	file	evidence/PMC13521434.txt		compared with normal donor lungs	True
+GSM8800818	geo:GSE289881:GSM8800818	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800818	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800818	geo:GSE289881:GSM8800818	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800818	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800819	geo:GSE289881:GSM8800819	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800819	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800819	geo:GSE289881:GSM8800819	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800819	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800819	geo:GSE289881:GSM8800819	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800819	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800819	geo:GSE289881:GSM8800819	disease_free_text	normal	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800819	!Sample_title = Donor2	True
+GSM8800819	geo:GSE289881:GSM8800819	disease_free_text	normal	file	evidence/PMC13521434.txt		compared with normal donor lungs	True
+GSM8800819	geo:GSE289881:GSM8800819	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800819	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800819	geo:GSE289881:GSM8800819	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800819	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800820	geo:GSE289881:GSM8800820	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800820	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800820	geo:GSE289881:GSM8800820	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800820	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800820	geo:GSE289881:GSM8800820	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800820	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800820	geo:GSE289881:GSM8800820	disease_free_text	normal	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800820	!Sample_title = Donor3	True
+GSM8800820	geo:GSE289881:GSM8800820	disease_free_text	normal	file	evidence/PMC13521434.txt		compared with normal donor lungs	True
+GSM8800820	geo:GSE289881:GSM8800820	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800820	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800820	geo:GSE289881:GSM8800820	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800820	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800821	geo:GSE289881:GSM8800821	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800821	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800821	geo:GSE289881:GSM8800821	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800821	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800821	geo:GSE289881:GSM8800821	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800821	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800821	geo:GSE289881:GSM8800821	disease_free_text	normal	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800821	!Sample_title = Donor4	True
+GSM8800821	geo:GSE289881:GSM8800821	disease_free_text	normal	file	evidence/PMC13521434.txt		compared with normal donor lungs	True
+GSM8800821	geo:GSE289881:GSM8800821	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800821	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800821	geo:GSE289881:GSM8800821	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800821	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True
+GSM8800822	geo:GSE289881:GSM8800822	tissue_free_text	lung	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800822	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800822	geo:GSE289881:GSM8800822	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800822	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8800822	geo:GSE289881:GSM8800822	tissue_type	tissue	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800822	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800822	geo:GSE289881:GSM8800822	disease_free_text	normal	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800822	!Sample_title = Donor5	True
+GSM8800822	geo:GSE289881:GSM8800822	disease_free_text	normal	file	evidence/PMC13521434.txt		compared with normal donor lungs	True
+GSM8800822	geo:GSE289881:GSM8800822	suspension_type	cell	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800822	Single-cell suspensions were prepared from human lung tissues	True
+GSM8800822	geo:GSE289881:GSM8800822	assay	10x 3' v3	file	raw/fp-eb8cf73b83d4/GSE289881_family.soft.gz	GSM8800822	Single-cell RNA libraries were prepared using the 10x Genomics Chromium Single Cell 3' Library & Gel Bead Kit v3.1	True

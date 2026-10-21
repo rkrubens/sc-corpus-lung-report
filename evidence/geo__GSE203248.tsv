@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6165266	geo:GSE203248:GSM6165266	tissue_free_text	Upper bronchial airways	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165266	!Sample_characteristics_ch1 = tissue: Upper bronchial airways	True
+GSM6165266	geo:GSE203248:GSM6165266	disease_free_text	grass pollen-allergic	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165266	!Sample_characteristics_ch1 = condition: grass pollen-allergic	True
+GSM6165267	geo:GSE203248:GSM6165267	tissue_free_text	Upper bronchial airways	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165267	!Sample_characteristics_ch1 = tissue: Upper bronchial airways	True
+GSM6165267	geo:GSE203248:GSM6165267	disease_free_text	grass pollen-allergic	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165267	!Sample_characteristics_ch1 = condition: grass pollen-allergic	True
+GSM6165268	geo:GSE203248:GSM6165268	tissue_free_text	Upper bronchial airways	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165268	!Sample_characteristics_ch1 = tissue: Upper bronchial airways	True
+GSM6165268	geo:GSE203248:GSM6165268	disease_free_text	grass pollen-allergic	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165268	!Sample_characteristics_ch1 = condition: grass pollen-allergic	True
+GSM6165269	geo:GSE203248:GSM6165269	tissue_free_text	Upper bronchial airways	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165269	!Sample_characteristics_ch1 = tissue: Upper bronchial airways	True
+GSM6165269	geo:GSE203248:GSM6165269	disease_free_text	grass pollen-allergic	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165269	!Sample_characteristics_ch1 = condition: grass pollen-allergic	True
+GSM6165270	geo:GSE203248:GSM6165270	tissue_free_text	Upper bronchial airways	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165270	!Sample_characteristics_ch1 = tissue: Upper bronchial airways	True
+GSM6165270	geo:GSE203248:GSM6165270	disease_free_text	grass pollen-allergic	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165270	!Sample_characteristics_ch1 = condition: grass pollen-allergic	True
+GSM6165271	geo:GSE203248:GSM6165271	tissue_free_text	Upper bronchial airways	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165271	!Sample_characteristics_ch1 = tissue: Upper bronchial airways	True
+GSM6165271	geo:GSE203248:GSM6165271	disease_free_text	grass pollen-allergic	file	raw/fp-4a12ad1a9e76/GSE203248_family.soft.gz	GSM6165271	!Sample_characteristics_ch1 = condition: grass pollen-allergic	True

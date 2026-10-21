@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6820277	geo:GSE220797:GSM6820277	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820277	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820277	geo:GSE220797:GSM6820277	treatment	cit	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820277	!Sample_characteristics_ch1 = treatment: cit	True
+GSM6820278	geo:GSE220797:GSM6820278	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820278	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820278	geo:GSE220797:GSM6820278	treatment	2hr	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820278	!Sample_characteristics_ch1 = treatment: 2hr	True
+GSM6820279	geo:GSE220797:GSM6820279	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820279	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820279	geo:GSE220797:GSM6820279	treatment	cit	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820279	!Sample_characteristics_ch1 = treatment: cit	True
+GSM6820280	geo:GSE220797:GSM6820280	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820280	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820280	geo:GSE220797:GSM6820280	treatment	2hr	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820280	!Sample_characteristics_ch1 = treatment: 2hr	True
+GSM6820281	geo:GSE220797:GSM6820281	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820281	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820281	geo:GSE220797:GSM6820281	treatment	cit	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820281	!Sample_characteristics_ch1 = treatment: cit	True
+GSM6820282	geo:GSE220797:GSM6820282	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820282	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820282	geo:GSE220797:GSM6820282	treatment	2hr	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820282	!Sample_characteristics_ch1 = treatment: 2hr	True
+GSM6820283	geo:GSE220797:GSM6820283	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820283	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820283	geo:GSE220797:GSM6820283	treatment	cit	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820283	!Sample_characteristics_ch1 = treatment: cit	True
+GSM6820284	geo:GSE220797:GSM6820284	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820284	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820284	geo:GSE220797:GSM6820284	treatment	2hr	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820284	!Sample_characteristics_ch1 = treatment: 2hr	True
+GSM6820285	geo:GSE220797:GSM6820285	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820285	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820285	geo:GSE220797:GSM6820285	treatment	cit	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820285	!Sample_characteristics_ch1 = treatment: cit	True
+GSM6820286	geo:GSE220797:GSM6820286	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820286	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820286	geo:GSE220797:GSM6820286	treatment	2hr	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820286	!Sample_characteristics_ch1 = treatment: 2hr	True
+GSM6820287	geo:GSE220797:GSM6820287	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820287	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820287	geo:GSE220797:GSM6820287	treatment	cit	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820287	!Sample_characteristics_ch1 = treatment: cit	True
+GSM6820288	geo:GSE220797:GSM6820288	tissue_free_text	peripheral lung biopsy	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820288	!Sample_characteristics_ch1 = tissue: peripheral lung biopsy	True
+GSM6820288	geo:GSE220797:GSM6820288	treatment	2hr	file	raw/fp-21e9b453719f/GSE220797_family.soft.gz	GSM6820288	!Sample_characteristics_ch1 = treatment: 2hr	True

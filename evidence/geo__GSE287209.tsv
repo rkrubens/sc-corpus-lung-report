@@ -1,0 +1,11 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8741358	geo:GSE287209:GSM8741358	disease_free_text	Healthy	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741358	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8741358	geo:GSE287209:GSM8741358	tissue_free_text	Lung, EPCAM+NGFR- cells	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741358	!Sample_characteristics_ch1 = tissue: Lung, EPCAM+NGFR- cells	True
+GSM8741358	geo:GSE287209:GSM8741358	treatment	ALVO-EM	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741358	!Sample_characteristics_ch1 = condition: ALVO-EM	True
+GSM8741359	geo:GSE287209:GSM8741359	disease_free_text	Healthy	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741359	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8741359	geo:GSE287209:GSM8741359	tissue_free_text	Lung, EPCAM+NGFR- cells	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741359	!Sample_characteristics_ch1 = tissue: Lung, EPCAM+NGFR- cells	True
+GSM8741359	geo:GSE287209:GSM8741359	treatment	AT2-MM	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741359	!Sample_characteristics_ch1 = condition: AT2-MM	True
+GSM8741360	geo:GSE287209:GSM8741360	disease_free_text	Healthy	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741360	!Sample_characteristics_ch1 = disease state: Healthy	True
+GSM8741360	geo:GSE287209:GSM8741360	tissue_free_text	Lung, EPCAM+NGFR- cells	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741360	!Sample_characteristics_ch1 = tissue: Lung, EPCAM+NGFR- cells	True
+GSM8741360	geo:GSE287209:GSM8741360	treatment	AT1/2-M	file	raw/fp-f4f79f06e992/GSE287209_family.soft.gz	GSM8741360	!Sample_characteristics_ch1 = condition: AT1/2-M	True

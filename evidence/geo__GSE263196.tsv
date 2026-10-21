@@ -1,0 +1,27 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8187469	geo:GSE263196:GSM8187469	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8187469	geo:GSE263196:GSM8187469	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung cancer	True
+GSM8187470	geo:GSE263196:GSM8187470	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8187470	geo:GSE263196:GSM8187470	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung cancer	True
+GSM8187471	geo:GSE263196:GSM8187471	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8187471	geo:GSE263196:GSM8187471	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung cancer	True
+GSM8187472	geo:GSE263196:GSM8187472	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8187472	geo:GSE263196:GSM8187472	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung cancer	True
+GSM8187473	geo:GSE263196:GSM8187473	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8187473	geo:GSE263196:GSM8187473	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung cancer	True
+		organism	Homo sapiens	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8187469	geo:GSE263196:GSM8187469	disease_free_text	small cell lung cancer	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187469	!Sample_characteristics_ch1 = disease: small cell lung cancer	True
+GSM8187469	geo:GSE263196:GSM8187469	tissue_free_text	Lung	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187469	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8187469	geo:GSE263196:GSM8187469	treatment	No treatment	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187469	!Sample_characteristics_ch1 = treatment: No treatment	True
+GSM8187470	geo:GSE263196:GSM8187470	disease_free_text	small cell lung cancer	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187470	!Sample_characteristics_ch1 = disease: small cell lung cancer	True
+GSM8187470	geo:GSE263196:GSM8187470	tissue_free_text	Lung	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187470	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8187470	geo:GSE263196:GSM8187470	treatment	No treatment	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187470	!Sample_characteristics_ch1 = treatment: No treatment	True
+GSM8187471	geo:GSE263196:GSM8187471	disease_free_text	small cell lung cancer	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187471	!Sample_characteristics_ch1 = disease: small cell lung cancer	True
+GSM8187471	geo:GSE263196:GSM8187471	tissue_free_text	Lung	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187471	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8187471	geo:GSE263196:GSM8187471	treatment	No treatment	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187471	!Sample_characteristics_ch1 = treatment: No treatment	True
+GSM8187472	geo:GSE263196:GSM8187472	disease_free_text	small cell lung cancer	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187472	!Sample_characteristics_ch1 = disease: small cell lung cancer	True
+GSM8187472	geo:GSE263196:GSM8187472	tissue_free_text	Lung	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187472	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8187472	geo:GSE263196:GSM8187472	treatment	No treatment	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187472	!Sample_characteristics_ch1 = treatment: No treatment	True
+GSM8187473	geo:GSE263196:GSM8187473	disease_free_text	small cell lung cancer	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187473	!Sample_characteristics_ch1 = disease: small cell lung cancer	True
+GSM8187473	geo:GSE263196:GSM8187473	tissue_free_text	Lung	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187473	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8187473	geo:GSE263196:GSM8187473	treatment	No treatment	file	raw/fp-d48c78e83534/GSE263196_family.soft.gz	GSM8187473	!Sample_characteristics_ch1 = treatment: No treatment	True

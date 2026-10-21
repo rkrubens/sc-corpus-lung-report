@@ -1,0 +1,359 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	donor_id	<column id>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/id			True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	disease_free_text	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	disease_ontology_term_id	<column phenotype>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/phenotype			True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	treatment	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	timepoint	<column sample>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/sample			True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	author_cell_type	<column cell_set_clean>	column	work/fp-72e527e49796/GSE193816_all_data_raw_counts.h5ad_gunzip/GSE193816_all_data_raw_counts.h5ad::obs/cell_set_clean			True
+		organism	Homo sapiens	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	tissue_free_text	Lung	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	sample_collection_method	endobronchial brushing	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		isolation method: endobronchial brushing	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	suspension_type	cell	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		Single cell suspensions were depleted of dead cells	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	assay	10x 3' v3	file	evidence/PMC10440046.txt		10X Genomics PN-120262; endobronchial brush samples	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	disease_free_text	<map of column phenotype>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		phenotype (aa = allergic asthmatic; ana = allergic non-asthmatic control)	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	disease_ontology_term_id	<map of column phenotype>	file	evidence/PMC10440046.txt		AAs additionally had a clinical history of mild asthma	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	treatment	<map of column sample>	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		sample (ag = allergen; dil = diluent; pre = baseline)	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	timepoint	<map of column sample>	file	evidence/PMC10440046.txt		were collected at baseline and 24 hours after administration of allergen and diluent	True
+500008_ANA_Ag	geo:GSE193816:500008_ANA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500008_ANA_Dil	geo:GSE193816:500008_ANA_Dil	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500008_ANA_Pre	geo:GSE193816:500008_ANA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500012_ANA_Ag	geo:GSE193816:500012_ANA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500012_ANA_Dil	geo:GSE193816:500012_ANA_Dil	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500012_ANA_Pre	geo:GSE193816:500012_ANA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500015_ANA_Ag	geo:GSE193816:500015_ANA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500015_ANA_Pre	geo:GSE193816:500015_ANA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500021_AA_Ag	geo:GSE193816:500021_AA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500021_AA_Dil	geo:GSE193816:500021_AA_Dil	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500021_AA_Pre	geo:GSE193816:500021_AA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500023_AA_Ag	geo:GSE193816:500023_AA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500023_AA_Pre	geo:GSE193816:500023_AA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500024_ANA_Ag	geo:GSE193816:500024_ANA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500024_ANA_Dil	geo:GSE193816:500024_ANA_Dil	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500024_ANA_Pre	geo:GSE193816:500024_ANA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500030_AA_Ag	geo:GSE193816:500030_AA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500030_AA_Dil	geo:GSE193816:500030_AA_Dil	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500030_AA_Pre	geo:GSE193816:500030_AA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500035_AA_Ag	geo:GSE193816:500035_AA_Ag	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True
+500035_AA_Pre	geo:GSE193816:500035_AA_Pre	sample_preservation	fresh, processed within 60 minutes of collection	file	raw/fp-72e527e49796/GSE193816_family.soft.gz		processed within 60 minutes of collection	True

@@ -1,0 +1,667 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+Ru1080C	geo:GSE281740:Ru1080C	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1108a	geo:GSE281740:Ru1108a	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1124A	geo:GSE281740:Ru1124A	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1144b	geo:GSE281740:Ru1144b	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1152	geo:GSE281740:Ru1152	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1181b	geo:GSE281740:Ru1181b	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1195A	geo:GSE281740:Ru1195A	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1303B	geo:GSE281740:Ru1303B	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1305A	geo:GSE281740:Ru1305A	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1308g	geo:GSE281740:Ru1308g	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1334	geo:GSE281740:Ru1334	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1338E	geo:GSE281740:Ru1338E	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1408a	geo:GSE281740:Ru1408a	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1408e	geo:GSE281740:Ru1408e	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1441a	geo:GSE281740:Ru1441a	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1449A	geo:GSE281740:Ru1449A	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1473a	geo:GSE281740:Ru1473a	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru426B	geo:GSE281740:Ru426B	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru737D	geo:GSE281740:Ru737D	donor_id	<column sample_label>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/sample_label			True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1152	geo:GSE281740:Ru1152	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1334	geo:GSE281740:Ru1334	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru426B	geo:GSE281740:Ru426B	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru737D	geo:GSE281740:Ru737D	tissue_free_text	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<column tissue>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/tissue			True
+Ru1080C	geo:GSE281740:Ru1080C	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1108a	geo:GSE281740:Ru1108a	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1124A	geo:GSE281740:Ru1124A	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1144b	geo:GSE281740:Ru1144b	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1152	geo:GSE281740:Ru1152	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1181b	geo:GSE281740:Ru1181b	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1195A	geo:GSE281740:Ru1195A	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1303B	geo:GSE281740:Ru1303B	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1305A	geo:GSE281740:Ru1305A	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1308g	geo:GSE281740:Ru1308g	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1334	geo:GSE281740:Ru1334	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1338E	geo:GSE281740:Ru1338E	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1408a	geo:GSE281740:Ru1408a	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1408e	geo:GSE281740:Ru1408e	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1441a	geo:GSE281740:Ru1441a	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1449A	geo:GSE281740:Ru1449A	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1473a	geo:GSE281740:Ru1473a	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru426B	geo:GSE281740:Ru426B	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru737D	geo:GSE281740:Ru737D	sex_ontology_term_id	<column gender>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/gender			True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	<column age>	column	work/fp-99fbef17bc42/cell_table.tsv.gz/age			True
+Ru1080C	geo:GSE281740:Ru1080C	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1108a	geo:GSE281740:Ru1108a	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1124A	geo:GSE281740:Ru1124A	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1144b	geo:GSE281740:Ru1144b	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1152	geo:GSE281740:Ru1152	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1181b	geo:GSE281740:Ru1181b	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1195A	geo:GSE281740:Ru1195A	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1303B	geo:GSE281740:Ru1303B	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1305A	geo:GSE281740:Ru1305A	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1308g	geo:GSE281740:Ru1308g	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1334	geo:GSE281740:Ru1334	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1338E	geo:GSE281740:Ru1338E	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1408a	geo:GSE281740:Ru1408a	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1408e	geo:GSE281740:Ru1408e	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1441a	geo:GSE281740:Ru1441a	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1449A	geo:GSE281740:Ru1449A	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1473a	geo:GSE281740:Ru1473a	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru426B	geo:GSE281740:Ru426B	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru737D	geo:GSE281740:Ru737D	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+Ru1080C	geo:GSE281740:Ru1080C	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1108a	geo:GSE281740:Ru1108a	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1124A	geo:GSE281740:Ru1124A	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1144b	geo:GSE281740:Ru1144b	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1152	geo:GSE281740:Ru1152	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1181b	geo:GSE281740:Ru1181b	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1195A	geo:GSE281740:Ru1195A	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1303B	geo:GSE281740:Ru1303B	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1305A	geo:GSE281740:Ru1305A	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1308g	geo:GSE281740:Ru1308g	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1334	geo:GSE281740:Ru1334	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1338E	geo:GSE281740:Ru1338E	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1408a	geo:GSE281740:Ru1408a	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1408e	geo:GSE281740:Ru1408e	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1441a	geo:GSE281740:Ru1441a	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1449A	geo:GSE281740:Ru1449A	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1473a	geo:GSE281740:Ru1473a	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru426B	geo:GSE281740:Ru426B	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru737D	geo:GSE281740:Ru737D	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000167	derived	age_in_years:'73-year-old stage':ols:hsapdv		73	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+Ru1080C	geo:GSE281740:Ru1080C	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1108a	geo:GSE281740:Ru1108a	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1124A	geo:GSE281740:Ru1124A	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1144b	geo:GSE281740:Ru1144b	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1152	geo:GSE281740:Ru1152	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1181b	geo:GSE281740:Ru1181b	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1195A	geo:GSE281740:Ru1195A	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1303B	geo:GSE281740:Ru1303B	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1305A	geo:GSE281740:Ru1305A	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1308g	geo:GSE281740:Ru1308g	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1334	geo:GSE281740:Ru1334	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1338E	geo:GSE281740:Ru1338E	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1408a	geo:GSE281740:Ru1408a	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1408e	geo:GSE281740:Ru1408e	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1441a	geo:GSE281740:Ru1441a	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1449A	geo:GSE281740:Ru1449A	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru1473a	geo:GSE281740:Ru1473a	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru426B	geo:GSE281740:Ru426B	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+Ru737D	geo:GSE281740:Ru737D	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+		organism	Homo sapiens	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Liver	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: primary lung	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Kidney	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lymph Node	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Bone	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1152	geo:GSE281740:Ru1152	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1334	geo:GSE281740:Ru1334	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru426B	geo:GSE281740:Ru426B	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru737D	geo:GSE281740:Ru737D	tissue_ontology_term_id	<map of column tissue>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = tissue: Adrenal glands	True
+Ru1080C	geo:GSE281740:Ru1080C	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1108a	geo:GSE281740:Ru1108a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1124A	geo:GSE281740:Ru1124A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1144b	geo:GSE281740:Ru1144b	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1152	geo:GSE281740:Ru1152	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1181b	geo:GSE281740:Ru1181b	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1195A	geo:GSE281740:Ru1195A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1303B	geo:GSE281740:Ru1303B	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1305A	geo:GSE281740:Ru1305A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1308g	geo:GSE281740:Ru1308g	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1334	geo:GSE281740:Ru1334	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1338E	geo:GSE281740:Ru1338E	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1408a	geo:GSE281740:Ru1408a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1408e	geo:GSE281740:Ru1408e	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1441a	geo:GSE281740:Ru1441a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1449A	geo:GSE281740:Ru1449A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1473a	geo:GSE281740:Ru1473a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru426B	geo:GSE281740:Ru426B	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru737D	geo:GSE281740:Ru737D	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Female	True
+Ru1080C	geo:GSE281740:Ru1080C	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1108a	geo:GSE281740:Ru1108a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1124A	geo:GSE281740:Ru1124A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1144b	geo:GSE281740:Ru1144b	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1152	geo:GSE281740:Ru1152	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1181b	geo:GSE281740:Ru1181b	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1195A	geo:GSE281740:Ru1195A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1303B	geo:GSE281740:Ru1303B	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1305A	geo:GSE281740:Ru1305A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1308g	geo:GSE281740:Ru1308g	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1334	geo:GSE281740:Ru1334	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1338E	geo:GSE281740:Ru1338E	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1408a	geo:GSE281740:Ru1408a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1408e	geo:GSE281740:Ru1408e	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1441a	geo:GSE281740:Ru1441a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1449A	geo:GSE281740:Ru1449A	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1473a	geo:GSE281740:Ru1473a	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru426B	geo:GSE281740:Ru426B	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru737D	geo:GSE281740:Ru737D	sex	<map of column gender>	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = gender: Male	True
+Ru1080C	geo:GSE281740:Ru1080C	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1108a	geo:GSE281740:Ru1108a	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1124A	geo:GSE281740:Ru1124A	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1144b	geo:GSE281740:Ru1144b	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1152	geo:GSE281740:Ru1152	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1181b	geo:GSE281740:Ru1181b	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1195A	geo:GSE281740:Ru1195A	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1303B	geo:GSE281740:Ru1303B	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1305A	geo:GSE281740:Ru1305A	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1308g	geo:GSE281740:Ru1308g	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1334	geo:GSE281740:Ru1334	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1338E	geo:GSE281740:Ru1338E	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1408a	geo:GSE281740:Ru1408a	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1408e	geo:GSE281740:Ru1408e	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1441a	geo:GSE281740:Ru1441a	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1449A	geo:GSE281740:Ru1449A	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1473a	geo:GSE281740:Ru1473a	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru426B	geo:GSE281740:Ru426B	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru737D	geo:GSE281740:Ru737D	disease_ontology_term_id	MONDO:0008433	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		scRNA-seq from small cell lung cancer patient	True
+Ru1080C	geo:GSE281740:Ru1080C	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1108a	geo:GSE281740:Ru1108a	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1124A	geo:GSE281740:Ru1124A	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1144b	geo:GSE281740:Ru1144b	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1152	geo:GSE281740:Ru1152	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1181b	geo:GSE281740:Ru1181b	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1195A	geo:GSE281740:Ru1195A	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1303B	geo:GSE281740:Ru1303B	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1305A	geo:GSE281740:Ru1305A	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1308g	geo:GSE281740:Ru1308g	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1334	geo:GSE281740:Ru1334	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1338E	geo:GSE281740:Ru1338E	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1408a	geo:GSE281740:Ru1408a	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1408e	geo:GSE281740:Ru1408e	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1441a	geo:GSE281740:Ru1441a	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1449A	geo:GSE281740:Ru1449A	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1473a	geo:GSE281740:Ru1473a	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru426B	geo:GSE281740:Ru426B	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru737D	geo:GSE281740:Ru737D	disease_free_text	small cell lung cancer	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		!Sample_characteristics_ch1 = cell line: Small cell lung cancer	True
+Ru1080C	geo:GSE281740:Ru1080C	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1108a	geo:GSE281740:Ru1108a	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1124A	geo:GSE281740:Ru1124A	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1144b	geo:GSE281740:Ru1144b	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1152	geo:GSE281740:Ru1152	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1181b	geo:GSE281740:Ru1181b	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1195A	geo:GSE281740:Ru1195A	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1303B	geo:GSE281740:Ru1303B	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1305A	geo:GSE281740:Ru1305A	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1308g	geo:GSE281740:Ru1308g	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1334	geo:GSE281740:Ru1334	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1338E	geo:GSE281740:Ru1338E	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1408a	geo:GSE281740:Ru1408a	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1408e	geo:GSE281740:Ru1408e	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1441a	geo:GSE281740:Ru1441a	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1449A	geo:GSE281740:Ru1449A	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1473a	geo:GSE281740:Ru1473a	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru426B	geo:GSE281740:Ru426B	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru737D	geo:GSE281740:Ru737D	tissue_type	tissue	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Clinical samples were mechanically/enzymatically dissociated	True
+Ru1080C	geo:GSE281740:Ru1080C	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1108a	geo:GSE281740:Ru1108a	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1124A	geo:GSE281740:Ru1124A	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1144b	geo:GSE281740:Ru1144b	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1152	geo:GSE281740:Ru1152	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1181b	geo:GSE281740:Ru1181b	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1195A	geo:GSE281740:Ru1195A	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1303B	geo:GSE281740:Ru1303B	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1305A	geo:GSE281740:Ru1305A	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1308g	geo:GSE281740:Ru1308g	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1334	geo:GSE281740:Ru1334	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1338E	geo:GSE281740:Ru1338E	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1408a	geo:GSE281740:Ru1408a	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1408e	geo:GSE281740:Ru1408e	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1441a	geo:GSE281740:Ru1441a	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1449A	geo:GSE281740:Ru1449A	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru1473a	geo:GSE281740:Ru1473a	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru426B	geo:GSE281740:Ru426B	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True
+Ru737D	geo:GSE281740:Ru737D	gene_annotation_version	GRCh38	file	raw/fp-99fbef17bc42/GSE281740_family.soft.gz		Assembly: Human GRCh38	True

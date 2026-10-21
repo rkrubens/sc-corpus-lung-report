@@ -1,0 +1,920 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+342_patient_706-7002v2A	geo:GSE154826:342_patient_706-7002v2A	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+343_patient_706-7002v2B	geo:GSE154826:343_patient_706-7002v2B	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+344_patient_706-7002v2C	geo:GSE154826:344_patient_706-7002v2C	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+345_patient_706-7002v2D	geo:GSE154826:345_patient_706-7002v2D	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+346_patient_706-7002v2E	geo:GSE154826:346_patient_706-7002v2E	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+347_patient_706-7002v2F	geo:GSE154826:347_patient_706-7002v2F	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+348_patient_706-7002v2G	geo:GSE154826:348_patient_706-7002v2G	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+90_patient_695-7001v2A	geo:GSE154826:90_patient_695-7001v2A	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+91_patient_695-7001v2B	geo:GSE154826:91_patient_695-7001v2B	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+92_patient_695-7001v2C	geo:GSE154826:92_patient_695-7001v2C	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+93_patient_695-7001v2D	geo:GSE154826:93_patient_695-7001v2D	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	donor_id	370	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680740	patient id: 370	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680740	Sex: female	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680740	tissue: lung	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680740	tissue: lung	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680740	tissue type: Normal	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680740	tissue type: Normal	True
+1_patient_370-normal_370	geo:GSE154826:1_patient_370-normal_370	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		310,370,1,normal_370,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	donor_id	403	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680749	patient id: 403	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680749	Sex: male	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680749	tissue: lung	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680749	tissue: lung	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680749	tissue type: Normal	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680749	tissue type: Normal	True
+10_patient_403-403N	geo:GSE154826:10_patient_403-403N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		319,403,10,403N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	donor_id	403	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680750	patient id: 403	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680750	Sex: male	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680750	tissue: lung	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680750	tissue: lung	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680750	tissue type: Tumor	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		320,403,11,403T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+11_patient_403-403T	geo:GSE154826:11_patient_403-403T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		320,403,11,403T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	donor_id	406	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680751	patient id: 406	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680751	Sex: female	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680751	tissue: lung	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680751	tissue: lung	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680751	tissue type: Normal	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680751	tissue type: Normal	True
+14_patient_406-406N	geo:GSE154826:14_patient_406-406N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		323,406,14,406N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	donor_id	406	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680752	patient id: 406	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680752	Sex: female	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680752	tissue: lung	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680752	tissue: lung	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680752	tissue type: Tumor	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		324,406,15,406T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+15_patient_406-406T	geo:GSE154826:15_patient_406-406T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		324,406,15,406T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	donor_id	408	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680753	patient id: 408	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680753	Sex: male	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680753	tissue: lung	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680753	tissue: lung	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680753	tissue type: Normal	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680753	tissue type: Normal	True
+16_patient_408-normal_408	geo:GSE154826:16_patient_408-normal_408	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		325,408,16,normal_408,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	donor_id	408	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680754	patient id: 408	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680754	Sex: male	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680754	tissue: lung	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680754	tissue: lung	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680754	tissue type: Tumor	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		326,408,17,tumor_408,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+17_patient_408-tumor_408	geo:GSE154826:17_patient_408-tumor_408	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		326,408,17,tumor_408,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	donor_id	410	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680755	patient id: 410	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680755	Sex: female	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680755	tissue: lung	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680755	tissue: lung	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680755	tissue type: Normal	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680755	tissue type: Normal	True
+18_patient_410-normal_410	geo:GSE154826:18_patient_410-normal_410	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		327,410,18,normal_410,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	donor_id	410	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680756	patient id: 410	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680756	Sex: female	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680756	tissue: lung	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680756	tissue: lung	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680756	tissue type: Tumor	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		328,410,19,tumor_410,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+19_patient_410-tumor_410	geo:GSE154826:19_patient_410-tumor_410	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		328,410,19,tumor_410,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	donor_id	370	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680741	patient id: 370	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680741	Sex: female	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680741	tissue: lung	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680741	tissue: lung	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680741	tissue type: Tumor	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		311,370,2,tumor_370,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+2_patient_370-tumor_370	geo:GSE154826:2_patient_370-tumor_370	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		311,370,2,tumor_370,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	donor_id	458	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680757	patient id: 458	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680757	Sex: female	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680757	tissue: lung	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680757	tissue: lung	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680757	tissue type: Normal	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680757	tissue type: Normal	True
+22_patient_458-458N	geo:GSE154826:22_patient_458-458N	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		331,458,22,458N,NA,Normal,LUAD,human,V2,3,,CD45+ FACS	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	donor_id	458	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680758	patient id: 458	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680758	Sex: female	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680758	tissue: lung	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680758	tissue: lung	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680758	tissue type: Tumor	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		332,458,23,458T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+23_patient_458-458T	geo:GSE154826:23_patient_458-458T	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		332,458,23,458T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	donor_id	338	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680843	patient id: 338	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680843	Sex: female	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680843	tissue: lung	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680843	tissue: lung	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680843	tissue type: Tumor	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		297,338,230,lib39,NA,Tumor,LUAD,human,V1,3,,CD45+ FACS	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+230_patient_338-lib39	geo:GSE154826:230_patient_338-lib39	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		297,338,230,lib39,NA,Tumor,LUAD,human,V1,3,,CD45+ FACS	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	donor_id	338	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680844	patient id: 338	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680844	Sex: female	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680844	tissue: lung	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680844	tissue: lung	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680844	tissue type: Tumor	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		298,338,231,lib40,NA,Tumor,LUAD,human,V1,3,,CD45+ FACS	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+231_patient_338-lib40	geo:GSE154826:231_patient_338-lib40	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		298,338,231,lib40,NA,Tumor,LUAD,human,V1,3,,CD45+ FACS	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	donor_id	460	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680759	patient id: 460	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680759	Sex: male	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680759	tissue: lung	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680759	tissue: lung	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680759	tissue type: Normal	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680759	tissue type: Normal	True
+24_patient_460-460N	geo:GSE154826:24_patient_460-460N	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		333,460,24,460N,NA,Normal,LUAD,human,V2,3,,CD45+ FACS	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	donor_id	522	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680845	patient id: 522	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680845	Sex: female	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680845	tissue: lung	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680845	tissue: lung	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680845	tissue type: Normal	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680845	tissue type: Normal	True
+244_patient_522-5TEST1N	geo:GSE154826:244_patient_522-5TEST1N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"343,522,244,5TEST1N,NA,Normal,LUSC,human,V1,5,""TCR,BCR"",CD45+ bead enrichment"	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	donor_id	522	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680847	patient id: 522	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680847	Sex: female	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680847	tissue: lung	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680847	tissue: lung	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680847	tissue type: Tumor	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"344,522,245,5TEST1T,NA,Tumor,LUSC,human,V1,5,""TCR,BCR"",CD45+ bead enrichment"	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	disease_free_text	lung squamous cell carcinoma	file	evidence/PMC8728963.txt		lung squamous cell carcinoma (LUSC)	True
+245_patient_522-5TEST1T	geo:GSE154826:245_patient_522-5TEST1T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"344,522,245,5TEST1T,NA,Tumor,LUSC,human,V1,5,""TCR,BCR"",CD45+ bead enrichment"	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	donor_id	460	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680761	patient id: 460	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680761	Sex: male	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680761	tissue: lung	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680761	tissue: lung	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680761	tissue type: Tumor	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		334,460,25,460T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+25_patient_460-460T	geo:GSE154826:25_patient_460-460T	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		334,460,25,460T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	donor_id	464	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680763	patient id: 464	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680763	Sex: female	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680763	tissue: lung	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680763	tissue: lung	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680763	tissue type: Normal	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680763	tissue type: Normal	True
+26_patient_464-464N	geo:GSE154826:26_patient_464-464N	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		335,464,26,464N,NA,Normal,LUAD,human,V2,3,,CD45+ FACS	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	donor_id	464	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680764	patient id: 464	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680764	Sex: female	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680764	tissue: lung	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680764	tissue: lung	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680764	tissue type: Tumor	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		336,464,27,464T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+27_patient_464-464T	geo:GSE154826:27_patient_464-464T	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		336,464,27,464T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	donor_id	514	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680765	patient id: 514	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680765	Sex: female	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680765	tissue: lung	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680765	tissue: lung	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680765	tissue type: Normal	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680765	tissue type: Normal	True
+28_patient_514-514N	geo:GSE154826:28_patient_514-514N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		337,514,28,514N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	donor_id	514	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680766	patient id: 514	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680766	Sex: female	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680766	tissue: lung	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680766	tissue: lung	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680766	tissue type: Tumor	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		338,514,29,514T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+29_patient_514-514T	geo:GSE154826:29_patient_514-514T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		338,514,29,514T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	donor_id	714	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680849	patient id: 714	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680849	Sex: female	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680849	tissue: lung	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680849	tissue: lung	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680849	tissue type: Tumor	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		398,714,292,714T,NA,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	disease_free_text	lung squamous cell carcinoma	file	evidence/PMC8728963.txt		lung squamous cell carcinoma (LUSC)	True
+292_patient_714-714T	geo:GSE154826:292_patient_714-714T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		398,714,292,714T,NA,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	donor_id	714	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680850	patient id: 714	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680850	Sex: female	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680850	tissue: lung	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680850	tissue: lung	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680850	tissue type: Normal	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680850	tissue type: Normal	True
+293_patient_714-714N	geo:GSE154826:293_patient_714-714N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		399,714,293,714N,NA,Normal,LUSC,human,V2,3,,CD45+ bead enrichment	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	donor_id	371	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680742	patient id: 371	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680742	Sex: male	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680742	tissue: lung	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680742	tissue: lung	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680742	tissue type: Normal	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680742	tissue type: Normal	True
+3_patient_371-normal_371	geo:GSE154826:3_patient_371-normal_371	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		312,371,3,normal_371,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	donor_id	522	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680767	patient id: 522	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680767	Sex: female	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680767	tissue: lung	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680767	tissue: lung	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680767	tissue type: Normal	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680767	tissue type: Normal	True
+30_patient_522-BM174N	geo:GSE154826:30_patient_522-BM174N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		339,522,30,BM174N,NA,Normal,LUSC,human,V2,3,,CD45+ bead enrichment	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	donor_id	729	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680851	patient id: 729	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680851	Sex: female	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680851	tissue: lung	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680851	tissue: lung	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680851	tissue type: Normal	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680851	tissue type: Normal	True
+307_patient_729-IN190329	geo:GSE154826:307_patient_729-IN190329	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		413,729,307,IN190329,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	donor_id	729	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680852	patient id: 729	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680852	Sex: female	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680852	tissue: lung	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680852	tissue: lung	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680852	tissue type: Tumor	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		414,729,308,IT190329,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+308_patient_729-IT190329	geo:GSE154826:308_patient_729-IT190329	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		414,729,308,IT190329,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	donor_id	725	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680853	patient id: 725	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680853	Sex: female	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680853	tissue: lung	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680853	tissue: lung	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680853	tissue type: Tumor	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		415,725,309,HS190415I,NA,Tumor,LUAD,human,V3,3,,CD45+ bead enrichment	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+309_patient_725-HS190415I	geo:GSE154826:309_patient_725-HS190415I	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		415,725,309,HS190415I,NA,Tumor,LUAD,human,V3,3,,CD45+ bead enrichment	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	donor_id	522	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680768	patient id: 522	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680768	Sex: female	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680768	tissue: lung	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680768	tissue: lung	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680768	tissue type: Tumor	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		340,522,31,BM174T,NA,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	disease_free_text	lung squamous cell carcinoma	file	evidence/PMC8728963.txt		lung squamous cell carcinoma (LUSC)	True
+31_patient_522-BM174T	geo:GSE154826:31_patient_522-BM174T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		340,522,31,BM174T,NA,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	donor_id	532	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680769	patient id: 532	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680769	Sex: male	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680769	tissue: lung	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680769	tissue: lung	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680769	tissue type: Normal	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680769	tissue type: Normal	True
+32_patient_532-532N	geo:GSE154826:32_patient_532-532N	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		341,532,32,532N,NA,Normal,LUAD,human,V2,3,,CD45+ FACS	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	donor_id	532	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680770	patient id: 532	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680770	Sex: male	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680770	tissue: lung	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680770	tissue: lung	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680770	tissue type: Tumor	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		342,532,33,532T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+33_patient_532-532T	geo:GSE154826:33_patient_532-532T	cell_enrichment	CD45+ FACS	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		342,532,33,532T,NA,Tumor,LUAD,human,V2,3,,CD45+ FACS	True
+342_patient_706-7002v2A	geo:GSE154826:342_patient_706-7002v2A	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680854	patient id: 706	True
+342_patient_706-7002v2A	geo:GSE154826:342_patient_706-7002v2A	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680854	Sex: male	True
+342_patient_706-7002v2A	geo:GSE154826:342_patient_706-7002v2A	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+342_patient_706-7002v2A	geo:GSE154826:342_patient_706-7002v2A	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+343_patient_706-7002v2B	geo:GSE154826:343_patient_706-7002v2B	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680863	patient id: 706	True
+343_patient_706-7002v2B	geo:GSE154826:343_patient_706-7002v2B	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680863	Sex: male	True
+343_patient_706-7002v2B	geo:GSE154826:343_patient_706-7002v2B	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+343_patient_706-7002v2B	geo:GSE154826:343_patient_706-7002v2B	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+344_patient_706-7002v2C	geo:GSE154826:344_patient_706-7002v2C	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680869	patient id: 706	True
+344_patient_706-7002v2C	geo:GSE154826:344_patient_706-7002v2C	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680869	Sex: male	True
+344_patient_706-7002v2C	geo:GSE154826:344_patient_706-7002v2C	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+344_patient_706-7002v2C	geo:GSE154826:344_patient_706-7002v2C	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+345_patient_706-7002v2D	geo:GSE154826:345_patient_706-7002v2D	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680875	patient id: 706	True
+345_patient_706-7002v2D	geo:GSE154826:345_patient_706-7002v2D	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680875	Sex: male	True
+345_patient_706-7002v2D	geo:GSE154826:345_patient_706-7002v2D	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+345_patient_706-7002v2D	geo:GSE154826:345_patient_706-7002v2D	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+346_patient_706-7002v2E	geo:GSE154826:346_patient_706-7002v2E	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680881	patient id: 706	True
+346_patient_706-7002v2E	geo:GSE154826:346_patient_706-7002v2E	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680881	Sex: male	True
+346_patient_706-7002v2E	geo:GSE154826:346_patient_706-7002v2E	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+346_patient_706-7002v2E	geo:GSE154826:346_patient_706-7002v2E	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+347_patient_706-7002v2F	geo:GSE154826:347_patient_706-7002v2F	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680887	patient id: 706	True
+347_patient_706-7002v2F	geo:GSE154826:347_patient_706-7002v2F	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680887	Sex: male	True
+347_patient_706-7002v2F	geo:GSE154826:347_patient_706-7002v2F	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+347_patient_706-7002v2F	geo:GSE154826:347_patient_706-7002v2F	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+348_patient_706-7002v2G	geo:GSE154826:348_patient_706-7002v2G	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680893	patient id: 706	True
+348_patient_706-7002v2G	geo:GSE154826:348_patient_706-7002v2G	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680893	Sex: male	True
+348_patient_706-7002v2G	geo:GSE154826:348_patient_706-7002v2G	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+348_patient_706-7002v2G	geo:GSE154826:348_patient_706-7002v2G	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680899	patient id: 706	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680899	Sex: male	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680899	tissue: lung	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680899	tissue: lung	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680899	tissue type: Normal	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680899	tissue type: Normal	True
+350_patient_706-7002N5	geo:GSE154826:350_patient_706-7002N5	cell_enrichment	CD2+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		480,706,350,7002N5,NA,Normal,LUSC,human,V1,5,TCR,CD2+ bead enrichment	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	donor_id	706	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680902	patient id: 706	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680902	Sex: male	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680902	tissue: lung	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680902	tissue: lung	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680902	tissue type: Tumor	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	disease_free_text	lung squamous cell carcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		481,706,351,7002T5,NA,Tumor,LUSC,human,V1,5,TCR,CD2+ bead enrichment	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	disease_free_text	lung squamous cell carcinoma	file	evidence/PMC8728963.txt		lung squamous cell carcinoma (LUSC)	True
+351_patient_706-7002T5	geo:GSE154826:351_patient_706-7002T5	cell_enrichment	CD2+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		481,706,351,7002T5,NA,Tumor,LUSC,human,V1,5,TCR,CD2+ bead enrichment	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	donor_id	558	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680771	patient id: 558	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680771	Sex: female	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680771	tissue: lung	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680771	tissue: lung	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680771	tissue type: Tumor	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		36,558,36,558T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+36_patient_558-558T	geo:GSE154826:36_patient_558-558T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		36,558,36,558T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	donor_id	564	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680772	patient id: 564	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680772	Sex: female	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680772	tissue: lung	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680772	tissue: lung	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680772	tissue type: Normal	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680772	tissue type: Normal	True
+37_patient_564-564N	geo:GSE154826:37_patient_564-564N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		37,564,37,564N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	donor_id	564	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680773	patient id: 564	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680773	Sex: female	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680773	tissue: lung	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680773	tissue: lung	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680773	tissue type: Tumor	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		38,564,38,564T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+38_patient_564-564T	geo:GSE154826:38_patient_564-564T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		38,564,38,564T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	donor_id	569	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680774	patient id: 569	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680774	Sex: female	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680774	tissue: lung	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680774	tissue: lung	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680774	tissue type: Normal	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680774	tissue type: Normal	True
+39_patient_569-569N	geo:GSE154826:39_patient_569-569N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		39,569,39,569N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	donor_id	371	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680743	patient id: 371	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680743	Sex: male	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680743	tissue: lung	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680743	tissue: lung	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680743	tissue type: Tumor	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		313,371,4,tumor_371,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+4_patient_371-tumor_371	geo:GSE154826:4_patient_371-tumor_371	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		313,371,4,tumor_371,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	donor_id	569	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680775	patient id: 569	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680775	Sex: female	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680775	tissue: lung	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680775	tissue: lung	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680775	tissue type: Tumor	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		40,569,40,569T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+40_patient_569-569T	geo:GSE154826:40_patient_569-569T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		40,569,40,569T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	donor_id	570	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680776	patient id: 570	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680776	Sex: male	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680776	tissue: lung	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680776	tissue: lung	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680776	tissue type: Normal	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680776	tissue type: Normal	True
+41_patient_570-570N	geo:GSE154826:41_patient_570-570N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		41,570,41,570N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	donor_id	570	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680778	patient id: 570	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680778	Sex: male	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680778	tissue: lung	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680778	tissue: lung	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680778	tissue type: Tumor	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		42,570,42,570T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+42_patient_570-570T	geo:GSE154826:42_patient_570-570T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		42,570,42,570T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	donor_id	571	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680780	patient id: 571	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680780	Sex: male	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680780	tissue: lung	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680780	tissue: lung	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680780	tissue type: Tumor	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		43,571,43,571T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+43_patient_571-571T	geo:GSE154826:43_patient_571-571T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		43,571,43,571T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	donor_id	572	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680782	patient id: 572	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680782	Sex: male	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680782	tissue: lung	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680782	tissue: lung	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680782	tissue type: Normal	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680782	tissue type: Normal	True
+44_patient_572-572N	geo:GSE154826:44_patient_572-572N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		44,572,44,572N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	donor_id	572	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680784	patient id: 572	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680784	Sex: male	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680784	tissue: lung	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680784	tissue: lung	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680784	tissue type: Tumor	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		45,572,45,572T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+45_patient_572-572T	geo:GSE154826:45_patient_572-572T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		45,572,45,572T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	donor_id	578	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680786	patient id: 578	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680786	Sex: female	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680786	tissue: lung	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680786	tissue: lung	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680786	tissue type: Normal	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680786	tissue type: Normal	True
+46_patient_578-578N	geo:GSE154826:46_patient_578-578N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		46,578,46,578N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	donor_id	578	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680787	patient id: 578	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680787	Sex: female	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680787	tissue: lung	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680787	tissue: lung	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680787	tissue type: Tumor	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		47,578,47,578T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+47_patient_578-578T	geo:GSE154826:47_patient_578-578T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		47,578,47,578T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	donor_id	581	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680788	patient id: 581	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680788	Sex: male	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680788	tissue: lung	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680788	tissue: lung	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+48_patient_581-581TN	geo:GSE154826:48_patient_581-581TN	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		48,581,48,581TN,1,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	donor_id	581	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680791	patient id: 581	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680791	Sex: male	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680791	tissue: lung	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680791	tissue: lung	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680791	tissue type: Normal	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680791	tissue type: Normal	True
+49_patient_581-581N	geo:GSE154826:49_patient_581-581N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		50,581,49,581N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	donor_id	377	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680744	patient id: 377	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680744	Sex: male	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680744	tissue: lung	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680744	tissue: lung	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680744	tissue type: Normal	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680744	tissue type: Normal	True
+5_patient_377-normal_377	geo:GSE154826:5_patient_377-normal_377	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		314,377,5,normal_377,NA,Normal,LUSC,human,V2,3,,CD45+ bead enrichment	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	donor_id	581	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680793	patient id: 581	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680793	Sex: male	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680793	tissue: lung	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680793	tissue: lung	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680793	tissue type: Tumor	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		51,581,50,581T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+50_patient_581-581T	geo:GSE154826:50_patient_581-581T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		51,581,50,581T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	donor_id	584	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680795	patient id: 584	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680795	Sex: male	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680795	tissue: lung	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680795	tissue: lung	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+51_patient_584-584TN1	geo:GSE154826:51_patient_584-584TN1	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		52,584,51,584TN1,1,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	donor_id	584	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680799	patient id: 584	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680799	Sex: male	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680799	tissue: lung	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680799	tissue: lung	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+52_patient_584-584TN2	geo:GSE154826:52_patient_584-584TN2	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		53,584,52,584TN2,1,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	donor_id	593	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680803	patient id: 593	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680803	Sex: female	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680803	tissue: lung	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680803	tissue: lung	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+53_patient_593-593TN	geo:GSE154826:53_patient_593-593TN	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"56,593,53,593TN,""1,2,3,4,5,6,7,8"",Normal,LUAD,human,V2,3,,CD45+ bead enrichment"	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	donor_id	596	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680806	patient id: 596	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680806	Sex: male	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680806	tissue: lung	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680806	tissue: lung	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+54_patient_596-596TN1	geo:GSE154826:54_patient_596-596TN1	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		58,596,54,596TN1,3,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	donor_id	596	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680809	patient id: 596	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680809	Sex: male	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680809	tissue: lung	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680809	tissue: lung	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+55_patient_596-596TN2	geo:GSE154826:55_patient_596-596TN2	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		59,596,55,596TN2,3,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	donor_id	630	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680812	patient id: 630	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680812	Sex: male	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680812	tissue: lung	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680812	tissue: lung	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+56_patient_630-630TN	geo:GSE154826:56_patient_630-630TN	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"62,630,56,630TN,""1,2,3,4,5"",Tumor,LUAD,human,V2,3,,CD45+ bead enrichment"	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	donor_id	377	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680745	patient id: 377	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680745	Sex: male	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680745	tissue: lung	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680745	tissue: lung	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680745	tissue type: Tumor	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	disease_free_text	lung squamous cell carcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		315,377,6,tumor_377,NA,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	disease_free_text	lung squamous cell carcinoma	file	evidence/PMC8728963.txt		lung squamous cell carcinoma (LUSC)	True
+6_patient_377-tumor_377	geo:GSE154826:6_patient_377-tumor_377	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		315,377,6,tumor_377,NA,Tumor,LUSC,human,V2,3,,CD45+ bead enrichment	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	donor_id	800	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680905	patient id: 800	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	sex	male	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680905	Sex: male	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680905	tissue: lung	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680905	tissue: lung	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680905	tissue type: Tumor	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		851,800,668,800TI_0_G,NA,Tumor,LUAD,human,V3,3,NA,CD45+ bead enrichment	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+668_patient_800-800TI_0_G	geo:GSE154826:668_patient_800-800TI_0_G	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		851,800,668,800TI_0_G,NA,Tumor,LUAD,human,V3,3,NA,CD45+ bead enrichment	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	donor_id	378	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680746	patient id: 378	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680746	Sex: female	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680746	tissue: lung	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680746	tissue: lung	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680746	tissue type: Normal	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680746	tissue type: Normal	True
+7_patient_378-378N	geo:GSE154826:7_patient_378-378N	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		316,378,7,378N,NA,Normal,LUAD,human,V2,3,,CD45+ bead enrichment	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	donor_id	378	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680747	patient id: 378	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680747	Sex: female	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680747	tissue: lung	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680747	tissue: lung	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680747	tissue type: Tumor	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		317,378,8,378T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+8_patient_378-378T	geo:GSE154826:8_patient_378-378T	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		317,378,8,378T,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	donor_id	626	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680815	patient id: 626	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680815	Sex: female	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680815	tissue: lung	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680815	tissue: lung	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+88_patient_626-626TN1	geo:GSE154826:88_patient_626-626TN1	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"95,626,88,626TN1,""1,2,3,4,5"",Tumor,LUAD,human,V2,3,,CD45+ bead enrichment"	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	donor_id	626	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680818	patient id: 626	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680818	Sex: female	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680818	tissue: lung	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680818	tissue: lung	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+89_patient_626-626TN2	geo:GSE154826:89_patient_626-626TN2	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		"97,626,89,626TN2,""1,2,3,4,5"",Tumor,LUAD,human,V2,3,,CD45+ bead enrichment"	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	donor_id	393	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680748	patient id: 393	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680748	Sex: female	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680748	tissue: lung	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680748	tissue: lung	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680748	tissue type: Tumor	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		318,393,9,178,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+9_patient_393-178	geo:GSE154826:9_patient_393-178	cell_enrichment	CD45+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		318,393,9,178,NA,Tumor,LUAD,human,V2,3,,CD45+ bead enrichment	True
+90_patient_695-7001v2A	geo:GSE154826:90_patient_695-7001v2A	donor_id	695	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680821	patient id: 695	True
+90_patient_695-7001v2A	geo:GSE154826:90_patient_695-7001v2A	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680821	Sex: female	True
+90_patient_695-7001v2A	geo:GSE154826:90_patient_695-7001v2A	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+90_patient_695-7001v2A	geo:GSE154826:90_patient_695-7001v2A	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+91_patient_695-7001v2B	geo:GSE154826:91_patient_695-7001v2B	donor_id	695	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680825	patient id: 695	True
+91_patient_695-7001v2B	geo:GSE154826:91_patient_695-7001v2B	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680825	Sex: female	True
+91_patient_695-7001v2B	geo:GSE154826:91_patient_695-7001v2B	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+91_patient_695-7001v2B	geo:GSE154826:91_patient_695-7001v2B	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+92_patient_695-7001v2C	geo:GSE154826:92_patient_695-7001v2C	donor_id	695	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680829	patient id: 695	True
+92_patient_695-7001v2C	geo:GSE154826:92_patient_695-7001v2C	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680829	Sex: female	True
+92_patient_695-7001v2C	geo:GSE154826:92_patient_695-7001v2C	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+92_patient_695-7001v2C	geo:GSE154826:92_patient_695-7001v2C	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+93_patient_695-7001v2D	geo:GSE154826:93_patient_695-7001v2D	donor_id	695	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680833	patient id: 695	True
+93_patient_695-7001v2D	geo:GSE154826:93_patient_695-7001v2D	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680833	Sex: female	True
+93_patient_695-7001v2D	geo:GSE154826:93_patient_695-7001v2D	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+93_patient_695-7001v2D	geo:GSE154826:93_patient_695-7001v2D	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	donor_id	695	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680837	patient id: 695	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680837	Sex: female	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680837	tissue: lung	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680837	tissue: lung	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	sampled_site_condition	Normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680837	tissue type: Normal	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	disease_free_text	normal	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680837	tissue type: Normal	True
+94_patient_695-7001N5	geo:GSE154826:94_patient_695-7001N5	cell_enrichment	CD2+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		115,695,94,7001N5,NA,Normal,LUAD,human,V1,5,TCR,CD2+ bead enrichment	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	donor_id	695	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680841	patient id: 695	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	sex	female	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680841	Sex: female	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	sample_preservation	fresh	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	suspension_type	cell	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz		Cell suspensions were then aspirated through a 18G needle	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	tissue_free_text	lung	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680841	tissue: lung	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	tissue_type	tissue	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680841	tissue: lung	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	tissue_type	tissue	file	evidence/PMC8728963.txt		Fresh resections from patients with informed consent for an IRB-approved study	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	sampled_site_condition	Tumor	file	raw/fp-440989a76ea4/GSE154826_family.soft.gz	GSM4680841	tissue type: Tumor	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	disease_free_text	lung adenocarcinoma	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		116,695,95,7001T5,NA,Tumor,LUAD,human,V1,5,TCR,CD2+ bead enrichment	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	disease_free_text	lung adenocarcinoma	file	evidence/PMC8728963.txt		lung adenocarcinoma (LUAD)	True
+95_patient_695-7001T5	geo:GSE154826:95_patient_695-7001T5	cell_enrichment	CD2+ bead enrichment	file	raw/fp-440989a76ea4/GSE154826_sample_annots.csv.gz		116,695,95,7001T5,NA,Tumor,LUAD,human,V1,5,TCR,CD2+ bead enrichment	True

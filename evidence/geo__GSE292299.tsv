@@ -1,0 +1,210 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8855703	geo:GSE292299:GSM8855703	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855703	geo:GSE292299:GSM8855703	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855703	geo:GSE292299:GSM8855703	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855704	geo:GSE292299:GSM8855704	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855704	geo:GSE292299:GSM8855704	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855704	geo:GSE292299:GSM8855704	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM8855705	geo:GSE292299:GSM8855705	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855705	geo:GSE292299:GSM8855705	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+GSM8855705	geo:GSE292299:GSM8855705	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855706	geo:GSE292299:GSM8855706	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855706	geo:GSE292299:GSM8855706	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855706	geo:GSE292299:GSM8855706	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855707	geo:GSE292299:GSM8855707	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855707	geo:GSE292299:GSM8855707	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8855707	geo:GSE292299:GSM8855707	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855708	geo:GSE292299:GSM8855708	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855708	geo:GSE292299:GSM8855708	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855708	geo:GSE292299:GSM8855708	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855709	geo:GSE292299:GSM8855709	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855709	geo:GSE292299:GSM8855709	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855709	geo:GSE292299:GSM8855709	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855710	geo:GSE292299:GSM8855710	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855710	geo:GSE292299:GSM8855710	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8855710	geo:GSE292299:GSM8855710	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855711	geo:GSE292299:GSM8855711	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855711	geo:GSE292299:GSM8855711	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855711	geo:GSE292299:GSM8855711	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855712	geo:GSE292299:GSM8855712	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855712	geo:GSE292299:GSM8855712	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855712	geo:GSE292299:GSM8855712	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM8855713	geo:GSE292299:GSM8855713	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855713	geo:GSE292299:GSM8855713	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM8855713	geo:GSE292299:GSM8855713	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855714	geo:GSE292299:GSM8855714	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855714	geo:GSE292299:GSM8855714	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8855714	geo:GSE292299:GSM8855714	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855715	geo:GSE292299:GSM8855715	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855715	geo:GSE292299:GSM8855715	tissue_ontology_term_id	UBERON:0001567	derived	ols:uberon		cheek	True
+GSM8855715	geo:GSE292299:GSM8855715	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855716	geo:GSE292299:GSM8855716	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855716	geo:GSE292299:GSM8855716	tissue_ontology_term_id	UBERON:0000977	derived	ols:uberon		pleura	True
+GSM8855716	geo:GSE292299:GSM8855716	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM8855717	geo:GSE292299:GSM8855717	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855717	geo:GSE292299:GSM8855717	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8855717	geo:GSE292299:GSM8855717	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+GSM8855718	geo:GSE292299:GSM8855718	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8855718	geo:GSE292299:GSM8855718	tissue_ontology_term_id	UBERON:0000977	derived	ols:uberon		pleura	True
+GSM8855718	geo:GSE292299:GSM8855718	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8855703	geo:GSE292299:GSM8855703	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855703	geo:GSE292299:GSM8855703	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P1"",""NSCLC_P1"",""brain"",""adenocarcinoma"",0,""0"",""v4.0 "",""N"",""N"",""N"",""Y"",""N"",""None"",""ipi/nivo"",""Toxicity (hepatitis)"",28.4666666666667,""R"",64.1333333333333,NA,NA,NA"	True
+GSM8855703	geo:GSE292299:GSM8855703	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855703	geo:GSE292299:GSM8855703	treatment	ipi/nivo	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	!Sample_characteristics_ch1 = treatment regimen: ipi/nivo	True
+GSM8855703	geo:GSE292299:GSM8855703	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855703	geo:GSE292299:GSM8855703	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855703	geo:GSE292299:GSM8855703	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855703	geo:GSE292299:GSM8855703	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855703	geo:GSE292299:GSM8855703	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855703	geo:GSE292299:GSM8855703	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855703	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855704	geo:GSE292299:GSM8855704	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855704	geo:GSE292299:GSM8855704	disease_free_text	lung squamous cell carcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P2"",""NSCLC_P2"",""brain"",""squamous"",100,""> 50"",NA,NA,NA,NA,NA,NA,""None"",""pembro"",""Toxicity (severe arthralgias and anemia)"",19.4666666666667,""R"",26.4666666666667,NA,NA,NA"	True
+GSM8855704	geo:GSE292299:GSM8855704	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855704	geo:GSE292299:GSM8855704	treatment	pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	!Sample_characteristics_ch1 = treatment regimen: pembro	True
+GSM8855704	geo:GSE292299:GSM8855704	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855704	geo:GSE292299:GSM8855704	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855704	geo:GSE292299:GSM8855704	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855704	geo:GSE292299:GSM8855704	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855704	geo:GSE292299:GSM8855704	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855704	geo:GSE292299:GSM8855704	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855704	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855705	geo:GSE292299:GSM8855705	tissue_free_text	lymph node	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	!Sample_characteristics_ch1 = biopsy site: lymph node	True
+GSM8855705	geo:GSE292299:GSM8855705	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P3"",""NSCLC_P3"",""lymph node"",""adenocarcinoma"",10,""1 - 50"",""v5.0 "",""N"",""Y"",""N"",""Y"",""N"",""None"",""carbo/pem/pembro"",""End of therapy after 2 years"",23.7333333333333,""R"",50.3,NA,NA,NA"	True
+GSM8855705	geo:GSE292299:GSM8855705	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855705	geo:GSE292299:GSM8855705	treatment	carbo/pem/pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	!Sample_characteristics_ch1 = treatment regimen: carbo/pem/pembro	True
+GSM8855705	geo:GSE292299:GSM8855705	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855705	geo:GSE292299:GSM8855705	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855705	geo:GSE292299:GSM8855705	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855705	geo:GSE292299:GSM8855705	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855705	geo:GSE292299:GSM8855705	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855705	geo:GSE292299:GSM8855705	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855705	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855706	geo:GSE292299:GSM8855706	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855706	geo:GSE292299:GSM8855706	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P4"",""NSCLC_P4"",""brain"",""adenocarcinoma"",20,""1 - 50"",""v4.0 "",""Y"",""N"",""N"",""Y"",""N"",""None"",""carbo/taxol/bev/atezo"",""PD on imaging"",32.1333333333333,""R"",32.6333333333333,NA,NA,NA"	True
+GSM8855706	geo:GSE292299:GSM8855706	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855706	geo:GSE292299:GSM8855706	treatment	carbo/taxol/bev/atezo	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	!Sample_characteristics_ch1 = treatment regimen: carbo/taxol/bev/atezo	True
+GSM8855706	geo:GSE292299:GSM8855706	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855706	geo:GSE292299:GSM8855706	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855706	geo:GSE292299:GSM8855706	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855706	geo:GSE292299:GSM8855706	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855706	geo:GSE292299:GSM8855706	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855706	geo:GSE292299:GSM8855706	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855706	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855707	geo:GSE292299:GSM8855707	tissue_free_text	lung	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	!Sample_characteristics_ch1 = biopsy site: lung	True
+GSM8855707	geo:GSE292299:GSM8855707	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P5"",""NSCLC_P5"",""lung"",""adenocarcinoma"",60,""> 50"",""OncoScreen ST2.0"",""N"",""Y"",""N"",""Y"",""N"",""None"",""pembro"",""PD on imaging"",13.5,""R"",13.3333333333333,NA,NA,NA"	True
+GSM8855707	geo:GSE292299:GSM8855707	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855707	geo:GSE292299:GSM8855707	treatment	pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	!Sample_characteristics_ch1 = treatment regimen: pembro	True
+GSM8855707	geo:GSE292299:GSM8855707	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855707	geo:GSE292299:GSM8855707	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855707	geo:GSE292299:GSM8855707	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855707	geo:GSE292299:GSM8855707	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855707	geo:GSE292299:GSM8855707	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855707	geo:GSE292299:GSM8855707	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855707	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855708	geo:GSE292299:GSM8855708	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855708	geo:GSE292299:GSM8855708	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P6"",""NSCLC_P6"",""brain"",""adenocarcinoma"",60,""> 50"",""v5.2.0 "",""N"",""Y"",""N"",""N"",""Y"",""None"",""carbo/pem/pembro"",""End of therapy after 2 years"",24.5,""R"",37.0666666666667,NA,NA,NA"	True
+GSM8855708	geo:GSE292299:GSM8855708	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855708	geo:GSE292299:GSM8855708	treatment	carbo/pem/pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	!Sample_characteristics_ch1 = treatment regimen: carbo/pem/pembro	True
+GSM8855708	geo:GSE292299:GSM8855708	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855708	geo:GSE292299:GSM8855708	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855708	geo:GSE292299:GSM8855708	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855708	geo:GSE292299:GSM8855708	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855708	geo:GSE292299:GSM8855708	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855708	geo:GSE292299:GSM8855708	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855708	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855709	geo:GSE292299:GSM8855709	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855709	geo:GSE292299:GSM8855709	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P7"",""NSCLC_P7"",""brain"",""adenocarcinoma"",60,""> 50"",""v6.0 "",""N"",""N"",""N"",""Y"",""N"",""None"",""ipi/nivo"",""Toxicity (pancreatitis)"",21.9,""R"",31.2333333333333,NA,NA,NA"	True
+GSM8855709	geo:GSE292299:GSM8855709	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855709	geo:GSE292299:GSM8855709	treatment	ipi/nivo	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	!Sample_characteristics_ch1 = treatment regimen: ipi/nivo	True
+GSM8855709	geo:GSE292299:GSM8855709	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855709	geo:GSE292299:GSM8855709	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855709	geo:GSE292299:GSM8855709	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855709	geo:GSE292299:GSM8855709	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855709	geo:GSE292299:GSM8855709	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855709	geo:GSE292299:GSM8855709	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855709	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855710	geo:GSE292299:GSM8855710	tissue_free_text	lung	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	!Sample_characteristics_ch1 = biopsy site: lung	True
+GSM8855710	geo:GSE292299:GSM8855710	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P8"",""NSCLC_P8"",""lung"",""adenocarcinoma"",80,""> 50"",""v6.0 "",""N"",""N"",""Y"",""Y"",""N"",""None"",""pembro"",""Toxicity (pulmonary)"",1.63333333333333,""R"",10.6666666666667,NA,NA,NA"	True
+GSM8855710	geo:GSE292299:GSM8855710	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855710	geo:GSE292299:GSM8855710	treatment	pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	!Sample_characteristics_ch1 = treatment regimen: pembro	True
+GSM8855710	geo:GSE292299:GSM8855710	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855710	geo:GSE292299:GSM8855710	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855710	geo:GSE292299:GSM8855710	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855710	geo:GSE292299:GSM8855710	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855710	geo:GSE292299:GSM8855710	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855710	geo:GSE292299:GSM8855710	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855710	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855711	geo:GSE292299:GSM8855711	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855711	geo:GSE292299:GSM8855711	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P9"",""NSCLC_P9"",""brain"",""adenocarcinoma"",10,""1 - 50"",""v6.0 "",""N"",""N"",""N"",""Y"",""Y"",""None"",""carbo/pem/pembro"",""Worsening of symptoms unrelated to IO (lower limbs wounds)"",24.1,""R"",29.5,NA,NA,NA"	True
+GSM8855711	geo:GSE292299:GSM8855711	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855711	geo:GSE292299:GSM8855711	treatment	carbo/pem/pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	!Sample_characteristics_ch1 = treatment regimen: carbo/pem/pembro	True
+GSM8855711	geo:GSE292299:GSM8855711	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855711	geo:GSE292299:GSM8855711	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855711	geo:GSE292299:GSM8855711	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855711	geo:GSE292299:GSM8855711	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855711	geo:GSE292299:GSM8855711	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855711	geo:GSE292299:GSM8855711	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855711	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855712	geo:GSE292299:GSM8855712	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855712	geo:GSE292299:GSM8855712	disease_free_text	lung squamous cell carcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P10"",""NSCLC_P10"",""brain"",""squamous"",5,""1 - 50"",""v6.0 "",""N"",""N"",""N"",""Y"",""N"",""None"",""carbo/taxol/pembro"",""PD on imaging"",12.1,""R"",13.4333333333333,NA,NA,NA"	True
+GSM8855712	geo:GSE292299:GSM8855712	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855712	geo:GSE292299:GSM8855712	treatment	carbo/taxol/pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	!Sample_characteristics_ch1 = treatment regimen: carbo/taxol/pembro	True
+GSM8855712	geo:GSE292299:GSM8855712	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855712	geo:GSE292299:GSM8855712	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855712	geo:GSE292299:GSM8855712	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855712	geo:GSE292299:GSM8855712	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855712	geo:GSE292299:GSM8855712	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855712	geo:GSE292299:GSM8855712	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855712	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855713	geo:GSE292299:GSM8855713	tissue_free_text	brain	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	!Sample_characteristics_ch1 = biopsy site: brain	True
+GSM8855713	geo:GSE292299:GSM8855713	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P11"",""NSCLC_P11"",""brain"",""adenocarcinoma"",5,""1 - 50"",""v6.0 "",""N"",""N"",""N"",""Y"",""N"",""None"",""ipi/nivo"",""Worsening of symptoms"",11.7,""R"",17.1666666666667,NA,NA,NA"	True
+GSM8855713	geo:GSE292299:GSM8855713	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855713	geo:GSE292299:GSM8855713	treatment	ipi/nivo	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	!Sample_characteristics_ch1 = treatment regimen: ipi/nivo	True
+GSM8855713	geo:GSE292299:GSM8855713	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855713	geo:GSE292299:GSM8855713	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855713	geo:GSE292299:GSM8855713	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855713	geo:GSE292299:GSM8855713	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855713	geo:GSE292299:GSM8855713	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855713	geo:GSE292299:GSM8855713	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855713	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855714	geo:GSE292299:GSM8855714	tissue_free_text	lung	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	!Sample_characteristics_ch1 = biopsy site: lung	True
+GSM8855714	geo:GSE292299:GSM8855714	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P12"",""NSCLC_P12"",""lung"",""adenocarcinoma"",90,""> 50"",""v2.0 "",""N"",""Y"",""N"",""N"",""N"",""None"",""ipi/nivo"",""Death from non-oncologic disease"",14.4666666666667,""R"",14.8,NA,NA,NA"	True
+GSM8855714	geo:GSE292299:GSM8855714	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855714	geo:GSE292299:GSM8855714	treatment	ipi/nivo	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	!Sample_characteristics_ch1 = treatment regimen: ipi/nivo	True
+GSM8855714	geo:GSE292299:GSM8855714	response	R	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	!Sample_characteristics_ch1 = treatment response: R	True
+GSM8855714	geo:GSE292299:GSM8855714	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855714	geo:GSE292299:GSM8855714	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855714	geo:GSE292299:GSM8855714	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855714	geo:GSE292299:GSM8855714	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855714	geo:GSE292299:GSM8855714	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855714	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855715	geo:GSE292299:GSM8855715	tissue_free_text	cheek	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	!Sample_characteristics_ch1 = biopsy site: cheek	True
+GSM8855715	geo:GSE292299:GSM8855715	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P13"",""NSCLC_P13"",""cheek"",""adenocarcinoma"",0,""0"",""v7.0 "",""N"",""N"",""N"",""N"",""N"",""None"",""carbo/pem/pembro"",""PD on imaging"",4.93333333333333,""NR"",5.63333333333333,NA,NA,NA"	True
+GSM8855715	geo:GSE292299:GSM8855715	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855715	geo:GSE292299:GSM8855715	treatment	carbo/pem/pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	!Sample_characteristics_ch1 = treatment regimen: carbo/pem/pembro	True
+GSM8855715	geo:GSE292299:GSM8855715	response	NR	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	!Sample_characteristics_ch1 = treatment response: NR	True
+GSM8855715	geo:GSE292299:GSM8855715	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855715	geo:GSE292299:GSM8855715	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855715	geo:GSE292299:GSM8855715	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855715	geo:GSE292299:GSM8855715	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855715	geo:GSE292299:GSM8855715	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855715	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855716	geo:GSE292299:GSM8855716	tissue_free_text	pleura	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	!Sample_characteristics_ch1 = biopsy site: pleura	True
+GSM8855716	geo:GSE292299:GSM8855716	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P14"",""NSCLC_P14"",""pleura"",""adenocarcinoma"",0,""0"",""v6.0 "",""N"",""Y"",""N"",""Y"",""N"",""None"",""carbo/gem/pembro"",""PD on imaging and worsening of symptoms"",1.43333333333333,""NR"",2.3,NA,NA,NA"	True
+GSM8855716	geo:GSE292299:GSM8855716	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855716	geo:GSE292299:GSM8855716	treatment	carbo/gem/pembro	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	!Sample_characteristics_ch1 = treatment regimen: carbo/gem/pembro	True
+GSM8855716	geo:GSE292299:GSM8855716	response	NR	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	!Sample_characteristics_ch1 = treatment response: NR	True
+GSM8855716	geo:GSE292299:GSM8855716	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855716	geo:GSE292299:GSM8855716	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855716	geo:GSE292299:GSM8855716	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855716	geo:GSE292299:GSM8855716	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855716	geo:GSE292299:GSM8855716	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855716	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855717	geo:GSE292299:GSM8855717	tissue_free_text	lung	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	!Sample_characteristics_ch1 = biopsy site: lung	True
+GSM8855717	geo:GSE292299:GSM8855717	disease_free_text	lung squamous cell carcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P15"",""NSCLC_P15"",""lung"",""squamous"",NA,NA,NA,NA,NA,NA,NA,NA,""None"",""Nivolumab"",""Hospitalization for worsening of symptoms, than home hospice"",3.66666666666667,""NR"",4.7,NA,NA,NA"	True
+GSM8855717	geo:GSE292299:GSM8855717	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855717	geo:GSE292299:GSM8855717	treatment	Nivolumab	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	!Sample_characteristics_ch1 = treatment regimen: Nivolumab	True
+GSM8855717	geo:GSE292299:GSM8855717	response	NR	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	!Sample_characteristics_ch1 = treatment response: NR	True
+GSM8855717	geo:GSE292299:GSM8855717	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855717	geo:GSE292299:GSM8855717	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855717	geo:GSE292299:GSM8855717	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855717	geo:GSE292299:GSM8855717	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855717	geo:GSE292299:GSM8855717	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855717	!Sample_data_processing = Assembly: GRCh38	True
+GSM8855718	geo:GSE292299:GSM8855718	tissue_free_text	pleura	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	!Sample_characteristics_ch1 = biopsy site: pleura	True
+GSM8855718	geo:GSE292299:GSM8855718	disease_free_text	lung adenocarcinoma	file	raw/fp-c903dc548f53/GSE292299_sample_metadata.csv.gz		"""NSCLC"",""4"",""NSCLC_P16"",""NSCLC_P16"",""pleura"",""adenocarcinoma"",0,""0"",""v7.2.0 "",""N"",""N"",""N"",""Y"",""N"",""None"",""ipi/nivo"",""Worsening of symptoms"",1.36666666666667,""NR"",3.33333333333333,NA,NA,NA"	True
+GSM8855718	geo:GSE292299:GSM8855718	disease_stage	stage 4	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	!Sample_characteristics_ch1 = Stage: 4	True
+GSM8855718	geo:GSE292299:GSM8855718	treatment	ipi/nivo	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	!Sample_characteristics_ch1 = treatment regimen: ipi/nivo	True
+GSM8855718	geo:GSE292299:GSM8855718	response	NR	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	!Sample_characteristics_ch1 = treatment response: NR	True
+GSM8855718	geo:GSE292299:GSM8855718	treatment_status	pre-treatment	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz		!Series_overall_design = 18 tissue sections representing 16 pre-treatment NSCLC tumors and 2 pre-treatment DLBCL tumors	True
+GSM8855718	geo:GSE292299:GSM8855718	sample_preservation	FFPE	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	Selected formalin-fixed paraffin-embedded (FFPE) tumor samples were identified	True
+GSM8855718	geo:GSE292299:GSM8855718	suspension_type	na	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	Spatial transcriptome sequencing libraries were prepared with 10X Genomics Visium protocol CG000495.	True
+GSM8855718	geo:GSE292299:GSM8855718	assay	Visium Spatial Gene Expression	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	Extraction, whole transcriptome probe hybridization, release, and capture were performed according to 10X Genomics Visium protocols CG000520 and CG000495.	True
+GSM8855718	geo:GSE292299:GSM8855718	gene_annotation_version	GRCh38	file	raw/fp-c903dc548f53/GSE292299_family.soft.gz	GSM8855718	!Sample_data_processing = Assembly: GRCh38	True

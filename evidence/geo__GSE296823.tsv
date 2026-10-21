@@ -1,0 +1,32 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8977849	geo:GSE296823:GSM8977849	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8977849	geo:GSE296823:GSM8977849	disease_ontology_term_id	MONDO:0005149	derived	ols:mondo		pulmonary hypertension	True
+GSM8977850	geo:GSE296823:GSM8977850	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8977850	geo:GSE296823:GSM8977850	disease_ontology_term_id	MONDO:0005149	derived	ols:mondo		pulmonary hypertension	True
+GSM8977851	geo:GSE296823:GSM8977851	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8977851	geo:GSE296823:GSM8977851	disease_ontology_term_id	MONDO:0005149	derived	ols:mondo		pulmonary hypertension	True
+GSM8977852	geo:GSE296823:GSM8977852	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8977852	geo:GSE296823:GSM8977852	disease_ontology_term_id	MONDO:0005149	derived	ols:mondo		pulmonary hypertension	True
+GSM8977853	geo:GSE296823:GSM8977853	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8977853	geo:GSE296823:GSM8977853	disease_ontology_term_id	MONDO:0005149	derived	ols:mondo		pulmonary hypertension	True
+		organism	Homo sapiens	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8977849	geo:GSE296823:GSM8977849	tissue_free_text	lung	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz	GSM8977849	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8977849	geo:GSE296823:GSM8977849	disease_free_text	pulmonary hypertension	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		5 pulmonary hypertension lungs removed at the time of lung transplant surgery	True
+GSM8977849	geo:GSE296823:GSM8977849	suspension_type	cell	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977849	geo:GSE296823:GSM8977849	sample_preservation	fresh	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977850	geo:GSE296823:GSM8977850	tissue_free_text	lung	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz	GSM8977850	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8977850	geo:GSE296823:GSM8977850	disease_free_text	pulmonary hypertension	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		5 pulmonary hypertension lungs removed at the time of lung transplant surgery	True
+GSM8977850	geo:GSE296823:GSM8977850	suspension_type	cell	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977850	geo:GSE296823:GSM8977850	sample_preservation	fresh	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977851	geo:GSE296823:GSM8977851	tissue_free_text	lung	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz	GSM8977851	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8977851	geo:GSE296823:GSM8977851	disease_free_text	pulmonary hypertension	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		5 pulmonary hypertension lungs removed at the time of lung transplant surgery	True
+GSM8977851	geo:GSE296823:GSM8977851	suspension_type	cell	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977851	geo:GSE296823:GSM8977851	sample_preservation	fresh	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977852	geo:GSE296823:GSM8977852	tissue_free_text	lung	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz	GSM8977852	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8977852	geo:GSE296823:GSM8977852	disease_free_text	pulmonary hypertension	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		5 pulmonary hypertension lungs removed at the time of lung transplant surgery	True
+GSM8977852	geo:GSE296823:GSM8977852	suspension_type	cell	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977852	geo:GSE296823:GSM8977852	sample_preservation	fresh	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977853	geo:GSE296823:GSM8977853	tissue_free_text	lung	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz	GSM8977853	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8977853	geo:GSE296823:GSM8977853	disease_free_text	pulmonary hypertension	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		5 pulmonary hypertension lungs removed at the time of lung transplant surgery	True
+GSM8977853	geo:GSE296823:GSM8977853	suspension_type	cell	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True
+GSM8977853	geo:GSE296823:GSM8977853	sample_preservation	fresh	file	raw/fp-c480dba4b23b/GSE296823_family.soft.gz		fresh single-cell suspensions from PH lungs	True

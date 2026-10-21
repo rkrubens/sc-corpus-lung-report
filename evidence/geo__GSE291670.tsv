@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8839599	geo:GSE291670:GSM8839599	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8839600	geo:GSE291670:GSM8839600	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8839601	geo:GSE291670:GSM8839601	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8839602	geo:GSE291670:GSM8839602	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8839603	geo:GSE291670:GSM8839603	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8839604	geo:GSE291670:GSM8839604	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+		organism	Homo sapiens	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8839599	geo:GSE291670:GSM8839599	tissue_free_text	Lung tissue	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839599	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8839599	geo:GSE291670:GSM8839599	treatment	4 circles therapy of Camrelizumab combined with Anlotinib	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839599	!Sample_characteristics_ch1 = treatment: 4 circles therapy of Camrelizumab combined with Anlotinib	True
+GSM8839599	geo:GSE291670:GSM8839599	disease_free_text	NSCLC	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839599	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8839600	geo:GSE291670:GSM8839600	tissue_free_text	Lung tissue	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839600	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8839600	geo:GSE291670:GSM8839600	treatment	4 circles therapy of Camrelizumab combined with Anlotinib	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839600	!Sample_characteristics_ch1 = treatment: 4 circles therapy of Camrelizumab combined with Anlotinib	True
+GSM8839600	geo:GSE291670:GSM8839600	disease_free_text	NSCLC	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839600	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8839601	geo:GSE291670:GSM8839601	tissue_free_text	Lung tissue	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839601	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8839601	geo:GSE291670:GSM8839601	treatment	4 circles therapy of Camrelizumab combined with Anlotinib	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839601	!Sample_characteristics_ch1 = treatment: 4 circles therapy of Camrelizumab combined with Anlotinib	True
+GSM8839601	geo:GSE291670:GSM8839601	disease_free_text	NSCLC	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839601	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8839602	geo:GSE291670:GSM8839602	tissue_free_text	Lung tissue	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839602	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8839602	geo:GSE291670:GSM8839602	treatment	4 circles therapy of Camrelizumab combined with Anlotinib	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839602	!Sample_characteristics_ch1 = treatment: 4 circles therapy of Camrelizumab combined with Anlotinib	True
+GSM8839602	geo:GSE291670:GSM8839602	disease_free_text	NSCLC	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839602	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8839603	geo:GSE291670:GSM8839603	tissue_free_text	Lung tissue	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839603	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8839603	geo:GSE291670:GSM8839603	treatment	4 circles therapy of Camrelizumab combined with Anlotinib	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839603	!Sample_characteristics_ch1 = treatment: 4 circles therapy of Camrelizumab combined with Anlotinib	True
+GSM8839603	geo:GSE291670:GSM8839603	disease_free_text	NSCLC	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839603	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8839604	geo:GSE291670:GSM8839604	tissue_free_text	Lung tissue	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839604	!Sample_characteristics_ch1 = tissue: Lung tissue	True
+GSM8839604	geo:GSE291670:GSM8839604	treatment	4 circles therapy of Camrelizumab combined with Anlotinib	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839604	!Sample_characteristics_ch1 = treatment: 4 circles therapy of Camrelizumab combined with Anlotinib	True
+GSM8839604	geo:GSE291670:GSM8839604	disease_free_text	NSCLC	file	raw/fp-509ac2800ac1/GSE291670_family.soft.gz	GSM8839604	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True

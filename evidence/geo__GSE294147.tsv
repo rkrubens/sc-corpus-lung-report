@@ -1,0 +1,38 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8899426	geo:GSE294147:GSM8899426	disease_free_text	EGFR-mutant lung adenocarcinoma	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899426	geo:GSE294147:GSM8899426	disease_ontology_term_id	MONDO:0005061	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899426	geo:GSE294147:GSM8899426	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Lung cancer tissue surgically resected from	True
+GSM8899426	geo:GSE294147:GSM8899426	suspension_type	cell	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Cell suspensions were filtered using a 40 um nylon cell strainer	True
+GSM8899426	geo:GSE294147:GSM8899426	tissue_free_text	lung cancer tissue	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899426	!Sample_characteristics_ch1 = tissue: lung cancer tissue	True
+GSM8899426	geo:GSE294147:GSM8899426	treatment	No additional treatment	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899426	!Sample_characteristics_ch1 = treatment: No additional treatment	True
+GSM8899427	geo:GSE294147:GSM8899427	disease_free_text	EGFR-mutant lung adenocarcinoma	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899427	geo:GSE294147:GSM8899427	disease_ontology_term_id	MONDO:0005061	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899427	geo:GSE294147:GSM8899427	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Lung cancer tissue surgically resected from	True
+GSM8899427	geo:GSE294147:GSM8899427	suspension_type	cell	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Cell suspensions were filtered using a 40 um nylon cell strainer	True
+GSM8899427	geo:GSE294147:GSM8899427	tissue_free_text	lung cancer tissue	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899427	!Sample_characteristics_ch1 = tissue: lung cancer tissue	True
+GSM8899427	geo:GSE294147:GSM8899427	treatment	No additional treatment	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899427	!Sample_characteristics_ch1 = treatment: No additional treatment	True
+GSM8899428	geo:GSE294147:GSM8899428	disease_free_text	EGFR-mutant lung adenocarcinoma	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899428	geo:GSE294147:GSM8899428	disease_ontology_term_id	MONDO:0005061	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899428	geo:GSE294147:GSM8899428	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Lung cancer tissue surgically resected from	True
+GSM8899428	geo:GSE294147:GSM8899428	suspension_type	cell	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Cell suspensions were filtered using a 40 um nylon cell strainer	True
+GSM8899428	geo:GSE294147:GSM8899428	tissue_free_text	lung cancer tissue	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899428	!Sample_characteristics_ch1 = tissue: lung cancer tissue	True
+GSM8899428	geo:GSE294147:GSM8899428	treatment	No additional treatment	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899428	!Sample_characteristics_ch1 = treatment: No additional treatment	True
+GSM8899429	geo:GSE294147:GSM8899429	disease_free_text	EGFR-mutant lung adenocarcinoma	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899429	geo:GSE294147:GSM8899429	disease_ontology_term_id	MONDO:0005061	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899429	geo:GSE294147:GSM8899429	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Lung cancer tissue surgically resected from	True
+GSM8899429	geo:GSE294147:GSM8899429	suspension_type	cell	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Cell suspensions were filtered using a 40 um nylon cell strainer	True
+GSM8899429	geo:GSE294147:GSM8899429	tissue_free_text	lung cancer tissue	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899429	!Sample_characteristics_ch1 = tissue: lung cancer tissue	True
+GSM8899429	geo:GSE294147:GSM8899429	treatment	No additional treatment	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899429	!Sample_characteristics_ch1 = treatment: No additional treatment	True
+GSM8899430	geo:GSE294147:GSM8899430	disease_free_text	EGFR-mutant lung adenocarcinoma	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899430	geo:GSE294147:GSM8899430	disease_ontology_term_id	MONDO:0005061	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899430	geo:GSE294147:GSM8899430	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Lung cancer tissue surgically resected from	True
+GSM8899430	geo:GSE294147:GSM8899430	suspension_type	cell	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Cell suspensions were filtered using a 40 um nylon cell strainer	True
+GSM8899430	geo:GSE294147:GSM8899430	tissue_free_text	lung cancer tissue	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899430	!Sample_characteristics_ch1 = tissue: lung cancer tissue	True
+GSM8899430	geo:GSE294147:GSM8899430	treatment	No additional treatment	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899430	!Sample_characteristics_ch1 = treatment: No additional treatment	True
+GSM8899431	geo:GSE294147:GSM8899431	disease_free_text	EGFR-mutant lung adenocarcinoma	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899431	geo:GSE294147:GSM8899431	disease_ontology_term_id	MONDO:0005061	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		tumor tissues from patients with EGFR-mutant lung adenocarcinoma	True
+GSM8899431	geo:GSE294147:GSM8899431	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Lung cancer tissue surgically resected from	True
+GSM8899431	geo:GSE294147:GSM8899431	suspension_type	cell	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz		Cell suspensions were filtered using a 40 um nylon cell strainer	True
+GSM8899431	geo:GSE294147:GSM8899431	tissue_free_text	lung cancer tissue	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899431	!Sample_characteristics_ch1 = tissue: lung cancer tissue	True
+GSM8899431	geo:GSE294147:GSM8899431	treatment	No additional treatment	file	raw/fp-aa8ab22171a6/GSE294147_family.soft.gz	GSM8899431	!Sample_characteristics_ch1 = treatment: No additional treatment	True

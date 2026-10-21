@@ -1,0 +1,17 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4035465	geo:GSE135851:GSM4035465	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4035466	geo:GSE135851:GSM4035466	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4035467	geo:GSE135851:GSM4035467	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4035468	geo:GSE135851:GSM4035468	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4035472	geo:GSE135851:GSM4035472	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4035465	geo:GSE135851:GSM4035465	tissue_free_text	lung	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035465	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4035465	geo:GSE135851:GSM4035465	disease_free_text	Lymphangioleiomyomatosis (LAM) patient	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035465	!Sample_characteristics_ch1 = subject status: Lymphangioleiomyomatosis (LAM) patient	True
+GSM4035466	geo:GSE135851:GSM4035466	tissue_free_text	lung	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035466	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4035466	geo:GSE135851:GSM4035466	disease_free_text	Lymphangioleiomyomatosis (LAM) patient	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035466	!Sample_characteristics_ch1 = subject status: Lymphangioleiomyomatosis (LAM) patient	True
+GSM4035467	geo:GSE135851:GSM4035467	tissue_free_text	lung	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035467	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4035467	geo:GSE135851:GSM4035467	disease_free_text	Lymphangioleiomyomatosis (LAM) patient	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035467	!Sample_characteristics_ch1 = subject status: Lymphangioleiomyomatosis (LAM) patient	True
+GSM4035468	geo:GSE135851:GSM4035468	tissue_free_text	lung	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035468	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4035468	geo:GSE135851:GSM4035468	disease_free_text	Lymphangioleiomyomatosis (LAM) patient	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035468	!Sample_characteristics_ch1 = subject status: Lymphangioleiomyomatosis (LAM) patient	True
+GSM4035472	geo:GSE135851:GSM4035472	tissue_free_text	lung	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035472	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4035472	geo:GSE135851:GSM4035472	disease_free_text	Normal control	file	raw/fp-140e5adcd770/GSE135851_family.soft.gz	GSM4035472	!Sample_characteristics_ch1 = subject status: Normal control	True

@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8224099	geo:GSE264618:GSM8224099	donor_id	<column subject>	column	work/fp-18595fd8b6ca/GSM8224099_8745_1_cell_table.tsv.gz/subject			True
+GSM8224099	geo:GSE264618:GSM8224099	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8224099	geo:GSE264618:GSM8224099	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8224099	geo:GSE264618:GSM8224099	author_cell_type	<column celltype>	column	work/fp-18595fd8b6ca/GSM8224099_8745_1_cell_table.tsv.gz/celltype			True
+GSM8224100	geo:GSE264618:GSM8224100	donor_id	<column subject>	column	work/fp-18595fd8b6ca/GSM8224100_8745_2_cell_table.tsv.gz/subject			True
+GSM8224100	geo:GSE264618:GSM8224100	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8224100	geo:GSE264618:GSM8224100	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8224100	geo:GSE264618:GSM8224100	author_cell_type	<column celltype>	column	work/fp-18595fd8b6ca/GSM8224100_8745_2_cell_table.tsv.gz/celltype			True
+		organism	Homo sapiens	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8224099	geo:GSE264618:GSM8224099	tissue_free_text	lung	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz	GSM8224099	tissue: lung	True
+GSM8224099	geo:GSE264618:GSM8224099	disease_free_text	idiopathic pulmonary fibrosis (2 donors) and control lung (1 donor), pooled; per-donor disease not deposited	file	evidence/PMC11622637.txt		from two idiopathic PF (IPF) donors and one control lung donor	True
+GSM8224099	geo:GSE264618:GSM8224099	suspension_type	cell	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz		Single cell suspensions were generated from cryopreserved minced tissue	True
+GSM8224099	geo:GSE264618:GSM8224099	sample_preservation	cryopreserved minced tissue	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz		Single cell suspensions were generated from cryopreserved minced tissue	True
+GSM8224099	geo:GSE264618:GSM8224099	cell_enrichment	epithelial cells sorted by FACS: CD66-/Lysotracker+	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz	GSM8224099	treatment: CD66-/Lysotracker+	True
+GSM8224099	geo:GSE264618:GSM8224099	assay	10x 5' v2	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz	GSM8224099	10X 5'v2	True
+GSM8224100	geo:GSE264618:GSM8224100	tissue_free_text	lung	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz	GSM8224100	tissue: lung	True
+GSM8224100	geo:GSE264618:GSM8224100	disease_free_text	idiopathic pulmonary fibrosis (2 donors) and control lung (1 donor), pooled; per-donor disease not deposited	file	evidence/PMC11622637.txt		from two idiopathic PF (IPF) donors and one control lung donor	True
+GSM8224100	geo:GSE264618:GSM8224100	suspension_type	cell	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz		Single cell suspensions were generated from cryopreserved minced tissue	True
+GSM8224100	geo:GSE264618:GSM8224100	sample_preservation	cryopreserved minced tissue	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz		Single cell suspensions were generated from cryopreserved minced tissue	True
+GSM8224100	geo:GSE264618:GSM8224100	cell_enrichment	epithelial cells sorted by FACS: CD66+/Lysotracker-	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz	GSM8224100	treatment: CD66+/Lysotracker-	True
+GSM8224100	geo:GSE264618:GSM8224100	assay	10x 5' v2	file	raw/fp-18595fd8b6ca/GSE264618_family.soft.gz	GSM8224100	10X 5'v2	True

@@ -1,0 +1,17 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8376912	geo:GSE271435:GSM8376912	disease_ontology_term_id	MONDO:0013024	derived	ols:mondo		chronic thromboembolic pulmonary hypertension	True
+GSM8376913	geo:GSE271435:GSM8376913	disease_ontology_term_id	MONDO:0013024	derived	ols:mondo		chronic thromboembolic pulmonary hypertension	True
+GSM8376914	geo:GSE271435:GSM8376914	disease_ontology_term_id	MONDO:0013024	derived	ols:mondo		chronic thromboembolic pulmonary hypertension	True
+GSM8376915	geo:GSE271435:GSM8376915	disease_ontology_term_id	MONDO:0013024	derived	ols:mondo		chronic thromboembolic pulmonary hypertension	True
+GSM8376916	geo:GSE271435:GSM8376916	disease_ontology_term_id	MONDO:0013024	derived	ols:mondo		chronic thromboembolic pulmonary hypertension	True
+		organism	Homo sapiens	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8376912	geo:GSE271435:GSM8376912	tissue_free_text	Pulmonary endarterectomy specimen	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz	GSM8376912	!Sample_characteristics_ch1 = tissue: Pulmonary endarterectomy specimen	True
+GSM8376912	geo:GSE271435:GSM8376912	disease_free_text	chronic thromboembolic pulmonary hypertension	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz		chronic thromboembolic pulmonary hypertension (CTEPH)	True
+GSM8376913	geo:GSE271435:GSM8376913	tissue_free_text	Pulmonary endarterectomy specimen	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz	GSM8376913	!Sample_characteristics_ch1 = tissue: Pulmonary endarterectomy specimen	True
+GSM8376913	geo:GSE271435:GSM8376913	disease_free_text	chronic thromboembolic pulmonary hypertension	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz		chronic thromboembolic pulmonary hypertension (CTEPH)	True
+GSM8376914	geo:GSE271435:GSM8376914	tissue_free_text	Pulmonary endarterectomy specimen	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz	GSM8376914	!Sample_characteristics_ch1 = tissue: Pulmonary endarterectomy specimen	True
+GSM8376914	geo:GSE271435:GSM8376914	disease_free_text	chronic thromboembolic pulmonary hypertension	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz		chronic thromboembolic pulmonary hypertension (CTEPH)	True
+GSM8376915	geo:GSE271435:GSM8376915	tissue_free_text	Pulmonary endarterectomy specimen	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz	GSM8376915	!Sample_characteristics_ch1 = tissue: Pulmonary endarterectomy specimen	True
+GSM8376915	geo:GSE271435:GSM8376915	disease_free_text	chronic thromboembolic pulmonary hypertension	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz		chronic thromboembolic pulmonary hypertension (CTEPH)	True
+GSM8376916	geo:GSE271435:GSM8376916	tissue_free_text	Pulmonary endarterectomy specimen	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz	GSM8376916	!Sample_characteristics_ch1 = tissue: Pulmonary endarterectomy specimen	True
+GSM8376916	geo:GSE271435:GSM8376916	disease_free_text	chronic thromboembolic pulmonary hypertension	file	raw/fp-aa146f44b819/GSE271435_family.soft.gz		chronic thromboembolic pulmonary hypertension (CTEPH)	True

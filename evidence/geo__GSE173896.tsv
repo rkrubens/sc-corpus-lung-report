@@ -1,0 +1,314 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+JK01	geo:GSE173896:JK01	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK02	geo:GSE173896:JK02	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK03	geo:GSE173896:JK03	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK04	geo:GSE173896:JK04	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK05	geo:GSE173896:JK05	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK06	geo:GSE173896:JK06	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK07	geo:GSE173896:JK07	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK08	geo:GSE173896:JK08	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK09	geo:GSE173896:JK09	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK10	geo:GSE173896:JK10	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK11	geo:GSE173896:JK11	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK12	geo:GSE173896:JK12	disease_free_text	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK01	geo:GSE173896:JK01	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK02	geo:GSE173896:JK02	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK03	geo:GSE173896:JK03	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK04	geo:GSE173896:JK04	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK05	geo:GSE173896:JK05	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK06	geo:GSE173896:JK06	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK07	geo:GSE173896:JK07	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK08	geo:GSE173896:JK08	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK09	geo:GSE173896:JK09	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK10	geo:GSE173896:JK10	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK11	geo:GSE173896:JK11	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK12	geo:GSE173896:JK12	disease_ontology_term_id	<column Class>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Class			True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	<column Age>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Age			True
+JK01	geo:GSE173896:JK01	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK02	geo:GSE173896:JK02	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK03	geo:GSE173896:JK03	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK04	geo:GSE173896:JK04	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK05	geo:GSE173896:JK05	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK06	geo:GSE173896:JK06	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK07	geo:GSE173896:JK07	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK08	geo:GSE173896:JK08	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK09	geo:GSE173896:JK09	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK10	geo:GSE173896:JK10	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK11	geo:GSE173896:JK11	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK12	geo:GSE173896:JK12	sex_ontology_term_id	<column Gender>	column	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz/Gender			True
+JK01	geo:GSE173896:JK01	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK02	geo:GSE173896:JK02	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK03	geo:GSE173896:JK03	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK04	geo:GSE173896:JK04	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK05	geo:GSE173896:JK05	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK06	geo:GSE173896:JK06	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK07	geo:GSE173896:JK07	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK08	geo:GSE173896:JK08	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK09	geo:GSE173896:JK09	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK10	geo:GSE173896:JK10	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK11	geo:GSE173896:JK11	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK12	geo:GSE173896:JK12	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+JK01	geo:GSE173896:JK01	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK02	geo:GSE173896:JK02	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK03	geo:GSE173896:JK03	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK04	geo:GSE173896:JK04	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK05	geo:GSE173896:JK05	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK06	geo:GSE173896:JK06	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK07	geo:GSE173896:JK07	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK08	geo:GSE173896:JK08	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK09	geo:GSE173896:JK09	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK10	geo:GSE173896:JK10	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK11	geo:GSE173896:JK11	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK12	geo:GSE173896:JK12	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+JK01	geo:GSE173896:JK01	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK02	geo:GSE173896:JK02	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK03	geo:GSE173896:JK03	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK04	geo:GSE173896:JK04	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK05	geo:GSE173896:JK05	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK06	geo:GSE173896:JK06	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK07	geo:GSE173896:JK07	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK08	geo:GSE173896:JK08	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK09	geo:GSE173896:JK09	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK10	geo:GSE173896:JK10	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK11	geo:GSE173896:JK11	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK12	geo:GSE173896:JK12	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000207	derived	age_in_years:'81-year-old stage':ols:hsapdv		81	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+JK01	geo:GSE173896:JK01	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK02	geo:GSE173896:JK02	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK03	geo:GSE173896:JK03	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK04	geo:GSE173896:JK04	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK05	geo:GSE173896:JK05	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK06	geo:GSE173896:JK06	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK07	geo:GSE173896:JK07	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK08	geo:GSE173896:JK08	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK09	geo:GSE173896:JK09	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK10	geo:GSE173896:JK10	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK11	geo:GSE173896:JK11	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+JK12	geo:GSE173896:JK12	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+		organism	Homo sapiens	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+JK01	geo:GSE173896:JK01	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK02	geo:GSE173896:JK02	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK03	geo:GSE173896:JK03	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK04	geo:GSE173896:JK04	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK05	geo:GSE173896:JK05	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK06	geo:GSE173896:JK06	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK07	geo:GSE173896:JK07	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK08	geo:GSE173896:JK08	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK09	geo:GSE173896:JK09	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK10	geo:GSE173896:JK10	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK11	geo:GSE173896:JK11	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK12	geo:GSE173896:JK12	tissue_free_text	lung	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK01	geo:GSE173896:JK01	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK02	geo:GSE173896:JK02	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK03	geo:GSE173896:JK03	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK04	geo:GSE173896:JK04	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK05	geo:GSE173896:JK05	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK06	geo:GSE173896:JK06	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK07	geo:GSE173896:JK07	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK08	geo:GSE173896:JK08	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK09	geo:GSE173896:JK09	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK10	geo:GSE173896:JK10	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK11	geo:GSE173896:JK11	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK12	geo:GSE173896:JK12	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK01	geo:GSE173896:JK01	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK02	geo:GSE173896:JK02	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK03	geo:GSE173896:JK03	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK04	geo:GSE173896:JK04	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK05	geo:GSE173896:JK05	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK06	geo:GSE173896:JK06	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK07	geo:GSE173896:JK07	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK08	geo:GSE173896:JK08	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK09	geo:GSE173896:JK09	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK10	geo:GSE173896:JK10	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK11	geo:GSE173896:JK11	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK12	geo:GSE173896:JK12	tissue_type	tissue	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		single-cell transcriptome profiling from human lung tissues of 9 COPD, 4 non-COPD smoker, and 3 never-smoker samples	True
+JK01	geo:GSE173896:JK01	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK02	geo:GSE173896:JK02	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK03	geo:GSE173896:JK03	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK04	geo:GSE173896:JK04	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK05	geo:GSE173896:JK05	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK06	geo:GSE173896:JK06	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK07	geo:GSE173896:JK07	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK08	geo:GSE173896:JK08	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK09	geo:GSE173896:JK09	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK10	geo:GSE173896:JK10	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK11	geo:GSE173896:JK11	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK12	geo:GSE173896:JK12	suspension_type	cell	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Single cells were isolated from patient-derived lungs using Lung Dissociation Kit protocol	True
+JK01	geo:GSE173896:JK01	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK02	geo:GSE173896:JK02	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK03	geo:GSE173896:JK03	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK04	geo:GSE173896:JK04	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK05	geo:GSE173896:JK05	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK06	geo:GSE173896:JK06	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK07	geo:GSE173896:JK07	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK08	geo:GSE173896:JK08	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK09	geo:GSE173896:JK09	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK10	geo:GSE173896:JK10	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK11	geo:GSE173896:JK11	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK12	geo:GSE173896:JK12	assay	10x 3' v3	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz		Chromium Next GEM Single Cell 3′ GEM, Library & Gel Bead Kit v3.1	True
+JK01	geo:GSE173896:JK01	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK02	geo:GSE173896:JK02	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK03	geo:GSE173896:JK03	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK04	geo:GSE173896:JK04	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK05	geo:GSE173896:JK05	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK06	geo:GSE173896:JK06	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK07	geo:GSE173896:JK07	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK08	geo:GSE173896:JK08	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK09	geo:GSE173896:JK09	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK10	geo:GSE173896:JK10	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK11	geo:GSE173896:JK11	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK12	geo:GSE173896:JK12	disease_ontology_term_id	<map of column Class>	file	raw/fp-bbffe8bf460a/GSE173896_family.soft.gz	GSM5282538	!Sample_characteristics_ch1 = disease: COPD patients	True
+JK01	geo:GSE173896:JK01	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK02	geo:GSE173896:JK02	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK03	geo:GSE173896:JK03	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK04	geo:GSE173896:JK04	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK05	geo:GSE173896:JK05	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK06	geo:GSE173896:JK06	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK07	geo:GSE173896:JK07	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK08	geo:GSE173896:JK08	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK09	geo:GSE173896:JK09	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK10	geo:GSE173896:JK10	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK11	geo:GSE173896:JK11	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True
+JK12	geo:GSE173896:JK12	sex	<map of column Gender>	file	work/fp-bbffe8bf460a/GSE173896_COPD_converted/cell_metadata.tsv.gz		Male	True

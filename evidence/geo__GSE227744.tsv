@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7106737	geo:GSE227744:GSM7106737	tissue_free_text	bronchoalveolar lavage fluid (BALF)	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz	GSM7106737	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid (BALF)	True
+GSM7106737	geo:GSE227744:GSM7106737	treatment	before remission	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz	GSM7106737	!Sample_characteristics_ch1 = treatment: before remission	True
+GSM7106737	geo:GSE227744:GSM7106737	disease_free_text	neutrophilic asthma	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz	GSM7106737	!Sample_characteristics_ch1 = patient diagnosis: neutrophilic asthma	True
+GSM7106738	geo:GSE227744:GSM7106738	tissue_free_text	bronchoalveolar lavage fluid (BALF)	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz	GSM7106738	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid (BALF)	True
+GSM7106738	geo:GSE227744:GSM7106738	treatment	during remission	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz	GSM7106738	!Sample_characteristics_ch1 = treatment: during remission	True
+GSM7106738	geo:GSE227744:GSM7106738	disease_free_text	neutrophilic asthma	file	raw/fp-a67455c980b6/GSE227744_family.soft.gz	GSM7106738	!Sample_characteristics_ch1 = patient diagnosis: neutrophilic asthma	True

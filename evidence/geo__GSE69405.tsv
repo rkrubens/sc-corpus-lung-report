@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+LC-PT-45	geo:GSE69405:LC-PT-45	assay_ontology_term_id	EFO:0008930	derived	ols:efo		Smart-seq	True
+LC-PT-45	geo:GSE69405:LC-PT-45	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	assay_ontology_term_id	EFO:0008930	derived	ols:efo		Smart-seq	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+LC-MBT-15	geo:GSE69405:LC-MBT-15	assay_ontology_term_id	EFO:0008930	derived	ols:efo		Smart-seq	True
+		organism	Homo sapiens	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		RNA-Seq reads were aligned to the human genome reference (hg19)	True
+LC-PT-45	geo:GSE69405:LC-PT-45	disease_free_text	lung adenocarcinoma	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		lung adenocarcinoma patient-derived xenograft (PDX) tumors	True
+LC-PT-45	geo:GSE69405:LC-PT-45	tissue_free_text	patient-derived xenograft (PDX) tumor cells	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		!Sample_source_name_ch1 = PDX, LC-PT-45	True
+LC-PT-45	geo:GSE69405:LC-PT-45	tissue_type	organoid	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		!Sample_source_name_ch1 = PDX, LC-PT-45	True
+LC-PT-45	geo:GSE69405:LC-PT-45	suspension_type	cell	file	evidence/PMC4506401.txt		using the Fluidigm C1™ autoprep system with SMART-seq	True
+LC-PT-45	geo:GSE69405:LC-PT-45	assay	Smart-seq	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		applying Smart-Seq protocol	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	disease_free_text	lung adenocarcinoma	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		lung adenocarcinoma patient-derived xenograft (PDX) tumors	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	tissue_free_text	patient-derived xenograft (PDX) tumor cells	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		!Sample_source_name_ch1 = PDX, LC-PT-45-Re	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	tissue_type	organoid	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		!Sample_source_name_ch1 = PDX, LC-PT-45-Re	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	suspension_type	cell	file	evidence/PMC4506401.txt		using the Fluidigm C1™ autoprep system with SMART-seq	True
+LC-PT-45-Re	geo:GSE69405:LC-PT-45-Re	assay	Smart-seq	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		applying Smart-Seq protocol	True
+LC-MBT-15	geo:GSE69405:LC-MBT-15	disease_free_text	lung cancer-brain metastasis	file	evidence/PMC4506401.txt		derived from a lung cancer-brain metastasis (LC-MBT-15)	True
+LC-MBT-15	geo:GSE69405:LC-MBT-15	tissue_free_text	patient-derived xenograft (PDX) tumor cells	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		!Sample_source_name_ch1 = PDX, LC-MBT-15	True
+LC-MBT-15	geo:GSE69405:LC-MBT-15	tissue_type	organoid	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		!Sample_source_name_ch1 = PDX, LC-MBT-15	True
+LC-MBT-15	geo:GSE69405:LC-MBT-15	suspension_type	cell	file	evidence/PMC4506401.txt		using the Fluidigm C1™ autoprep system with SMART-seq	True
+LC-MBT-15	geo:GSE69405:LC-MBT-15	assay	Smart-seq	file	raw/fp-de1b1c939db5/GSE69405_family.soft.gz		applying Smart-Seq protocol	True

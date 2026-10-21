@@ -1,0 +1,90 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4994943	geo:GSE164015:GSM4994943	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994944	geo:GSE164015:GSM4994944	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994945	geo:GSE164015:GSM4994945	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994946	geo:GSE164015:GSM4994946	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994947	geo:GSE164015:GSM4994947	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994948	geo:GSE164015:GSM4994948	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994949	geo:GSE164015:GSM4994949	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4994950	geo:GSE164015:GSM4994950	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4994943	geo:GSE164015:GSM4994943	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994943	geo:GSE164015:GSM4994943	treatment	Post-Diluent Challenge	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	!Sample_characteristics_ch1 = treatment: Post-Diluent Challenge	True
+GSM4994943	geo:GSE164015:GSM4994943	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994943	geo:GSE164015:GSM4994943	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994943	geo:GSE164015:GSM4994943	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994943	geo:GSE164015:GSM4994943	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994943	geo:GSE164015:GSM4994943	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994943	geo:GSE164015:GSM4994943	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994943	geo:GSE164015:GSM4994943	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994943	geo:GSE164015:GSM4994943	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994943	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994944	geo:GSE164015:GSM4994944	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994944	geo:GSE164015:GSM4994944	treatment	Post-Allergen Challenge (house dust mite)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	!Sample_characteristics_ch1 = treatment: Post-Allergen Challenge (house dust mite)	True
+GSM4994944	geo:GSE164015:GSM4994944	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994944	geo:GSE164015:GSM4994944	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994944	geo:GSE164015:GSM4994944	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994944	geo:GSE164015:GSM4994944	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994944	geo:GSE164015:GSM4994944	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994944	geo:GSE164015:GSM4994944	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994944	geo:GSE164015:GSM4994944	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994944	geo:GSE164015:GSM4994944	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994944	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994945	geo:GSE164015:GSM4994945	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994945	geo:GSE164015:GSM4994945	treatment	Post-Diluent Challenge	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	!Sample_characteristics_ch1 = treatment: Post-Diluent Challenge	True
+GSM4994945	geo:GSE164015:GSM4994945	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994945	geo:GSE164015:GSM4994945	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994945	geo:GSE164015:GSM4994945	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994945	geo:GSE164015:GSM4994945	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994945	geo:GSE164015:GSM4994945	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994945	geo:GSE164015:GSM4994945	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994945	geo:GSE164015:GSM4994945	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994945	geo:GSE164015:GSM4994945	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994945	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994946	geo:GSE164015:GSM4994946	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994946	geo:GSE164015:GSM4994946	treatment	Post-Allergen Challenge (house dust mite)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	!Sample_characteristics_ch1 = treatment: Post-Allergen Challenge (house dust mite)	True
+GSM4994946	geo:GSE164015:GSM4994946	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994946	geo:GSE164015:GSM4994946	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994946	geo:GSE164015:GSM4994946	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994946	geo:GSE164015:GSM4994946	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994946	geo:GSE164015:GSM4994946	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994946	geo:GSE164015:GSM4994946	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994946	geo:GSE164015:GSM4994946	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994946	geo:GSE164015:GSM4994946	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994946	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994947	geo:GSE164015:GSM4994947	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994947	geo:GSE164015:GSM4994947	treatment	Post-Diluent Challenge	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	!Sample_characteristics_ch1 = treatment: Post-Diluent Challenge	True
+GSM4994947	geo:GSE164015:GSM4994947	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994947	geo:GSE164015:GSM4994947	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994947	geo:GSE164015:GSM4994947	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994947	geo:GSE164015:GSM4994947	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994947	geo:GSE164015:GSM4994947	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994947	geo:GSE164015:GSM4994947	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994947	geo:GSE164015:GSM4994947	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994947	geo:GSE164015:GSM4994947	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994947	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994948	geo:GSE164015:GSM4994948	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994948	geo:GSE164015:GSM4994948	treatment	Post-Allergen Challenge (house dust mite)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	!Sample_characteristics_ch1 = treatment: Post-Allergen Challenge (house dust mite)	True
+GSM4994948	geo:GSE164015:GSM4994948	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994948	geo:GSE164015:GSM4994948	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994948	geo:GSE164015:GSM4994948	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994948	geo:GSE164015:GSM4994948	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994948	geo:GSE164015:GSM4994948	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994948	geo:GSE164015:GSM4994948	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994948	geo:GSE164015:GSM4994948	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994948	geo:GSE164015:GSM4994948	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994948	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994949	geo:GSE164015:GSM4994949	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994949	geo:GSE164015:GSM4994949	treatment	Post-Diluent Challenge	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	!Sample_characteristics_ch1 = treatment: Post-Diluent Challenge	True
+GSM4994949	geo:GSE164015:GSM4994949	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994949	geo:GSE164015:GSM4994949	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994949	geo:GSE164015:GSM4994949	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994949	geo:GSE164015:GSM4994949	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994949	geo:GSE164015:GSM4994949	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994949	geo:GSE164015:GSM4994949	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994949	geo:GSE164015:GSM4994949	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994949	geo:GSE164015:GSM4994949	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994949	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True
+GSM4994950	geo:GSE164015:GSM4994950	disease_free_text	asthma	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994950	geo:GSE164015:GSM4994950	treatment	Post-Allergen Challenge (cat)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	!Sample_characteristics_ch1 = treatment: Post-Allergen Challenge (cat)	True
+GSM4994950	geo:GSE164015:GSM4994950	disease_ontology_term_id	MONDO:0004979	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	!Sample_characteristics_ch1 = diagnosis: asthma	True
+GSM4994950	geo:GSE164015:GSM4994950	tissue_free_text	Bronchial cells from human airway epithelial brushings	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	!Sample_source_name_ch1 = Bronchial cells from human airway epithelial brushings	True
+GSM4994950	geo:GSE164015:GSM4994950	tissue_ontology_term_id	UBERON:0002185	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz		airway epithelial (bronchial) brushings obtained at bronchoscopy	True
+GSM4994950	geo:GSE164015:GSM4994950	sample_collection_method	bronchoscopic epithelial brushing	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	!Sample_growth_protocol_ch1 = Epithelial brushings were obtained at bronchoscopy	True
+GSM4994950	geo:GSE164015:GSM4994950	suspension_type	cell	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	Epithelial brushings preparations were diaggregated using ACCUMAX	True
+GSM4994950	geo:GSE164015:GSM4994950	sample_preservation	cryopreserved (10X freezing solution, -80 C then liquid N2)	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	stored resuspend in 50K aliquots using Fluidigm 10X freezing solution	True
+GSM4994950	geo:GSE164015:GSM4994950	timepoint	24 hours after segmental challenge	file	evidence/PMC8021117.txt		collected 24 hours following segmental allergen challenge or diluent control	True
+GSM4994950	geo:GSE164015:GSM4994950	assay	10x 3' v3	file	raw/fp-8e83d3b950ad/GSE164015_family.soft.gz	GSM4994950	!Sample_extract_protocol_ch1 = 10X Chromium Next GEM Single Cell 3’GEM, Library & Gel Bead Kit (V3)	True

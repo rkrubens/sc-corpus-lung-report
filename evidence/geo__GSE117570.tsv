@@ -1,0 +1,42 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3304007	geo:GSE117570:GSM3304007	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM3304007	geo:GSE117570:GSM3304007	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM3304008	geo:GSE117570:GSM3304008	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM3304008	geo:GSE117570:GSM3304008	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM3304009	geo:GSE117570:GSM3304009	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM3304009	geo:GSE117570:GSM3304009	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		Lung squamous cell carcinoma	True
+GSM3304010	geo:GSE117570:GSM3304010	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM3304010	geo:GSE117570:GSM3304010	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		Lung squamous cell carcinoma	True
+GSM3304011	geo:GSE117570:GSM3304011	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM3304011	geo:GSE117570:GSM3304011	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM3304012	geo:GSE117570:GSM3304012	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM3304012	geo:GSE117570:GSM3304012	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM3304013	geo:GSE117570:GSM3304013	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM3304013	geo:GSE117570:GSM3304013	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM3304014	geo:GSE117570:GSM3304014	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM3304014	geo:GSE117570:GSM3304014	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3304007	geo:GSE117570:GSM3304007	sex	Male	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304007	!Sample_characteristics_ch1 = Sex: Male	True
+GSM3304007	geo:GSE117570:GSM3304007	disease_free_text	Lung adenocarcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304007	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM3304007	geo:GSE117570:GSM3304007	tissue_free_text	Tumor	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304007	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM3304008	geo:GSE117570:GSM3304008	sex	Male	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304008	!Sample_characteristics_ch1 = Sex: Male	True
+GSM3304008	geo:GSE117570:GSM3304008	disease_free_text	Lung adenocarcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304008	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM3304008	geo:GSE117570:GSM3304008	tissue_free_text	Adjacent normal	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304008	!Sample_characteristics_ch1 = tissue: Adjacent normal	True
+GSM3304009	geo:GSE117570:GSM3304009	sex	Female	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304009	!Sample_characteristics_ch1 = Sex: Female	True
+GSM3304009	geo:GSE117570:GSM3304009	disease_free_text	Lung squamous cell carcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304009	!Sample_characteristics_ch1 = diagnosis: Lung squamous cell carcinoma	True
+GSM3304009	geo:GSE117570:GSM3304009	tissue_free_text	Tumor	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304009	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM3304010	geo:GSE117570:GSM3304010	sex	Female	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304010	!Sample_characteristics_ch1 = Sex: Female	True
+GSM3304010	geo:GSE117570:GSM3304010	disease_free_text	Lung squamous cell carcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304010	!Sample_characteristics_ch1 = diagnosis: Lung squamous cell carcinoma	True
+GSM3304010	geo:GSE117570:GSM3304010	tissue_free_text	Adjacent normal	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304010	!Sample_characteristics_ch1 = tissue: Adjacent normal	True
+GSM3304011	geo:GSE117570:GSM3304011	sex	Female	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304011	!Sample_characteristics_ch1 = Sex: Female	True
+GSM3304011	geo:GSE117570:GSM3304011	disease_free_text	Lung adenocarcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304011	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM3304011	geo:GSE117570:GSM3304011	tissue_free_text	Tumor	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304011	!Sample_characteristics_ch1 = tissue: Tumor	True
+GSM3304012	geo:GSE117570:GSM3304012	sex	Female	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304012	!Sample_characteristics_ch1 = Sex: Female	True
+GSM3304012	geo:GSE117570:GSM3304012	disease_free_text	Lung adenocarcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304012	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM3304012	geo:GSE117570:GSM3304012	tissue_free_text	Adjacent normal	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304012	!Sample_characteristics_ch1 = tissue: Adjacent normal	True
+GSM3304013	geo:GSE117570:GSM3304013	sex	Female	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304013	!Sample_characteristics_ch1 = Sex: Female	True
+GSM3304013	geo:GSE117570:GSM3304013	disease_free_text	Lung adenocarcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304013	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM3304013	geo:GSE117570:GSM3304013	tissue_free_text	tumor	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304013	!Sample_characteristics_ch1 = tissue: tumor	True
+GSM3304014	geo:GSE117570:GSM3304014	sex	Female	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304014	!Sample_characteristics_ch1 = Sex: Female	True
+GSM3304014	geo:GSE117570:GSM3304014	disease_free_text	Lung adenocarcinoma	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304014	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM3304014	geo:GSE117570:GSM3304014	tissue_free_text	Adjacent normal	file	raw/fp-4b53d00ee2b5/GSE117570_family.soft.gz	GSM3304014	!Sample_characteristics_ch1 = tissue: Adjacent normal	True

@@ -1,0 +1,74 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8330735	geo:GSE269942:GSM8330735	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330736	geo:GSE269942:GSM8330736	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330737	geo:GSE269942:GSM8330737	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330738	geo:GSE269942:GSM8330738	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330739	geo:GSE269942:GSM8330739	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330740	geo:GSE269942:GSM8330740	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330741	geo:GSE269942:GSM8330741	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330742	geo:GSE269942:GSM8330742	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330743	geo:GSE269942:GSM8330743	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330744	geo:GSE269942:GSM8330744	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330745	geo:GSE269942:GSM8330745	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM8330746	geo:GSE269942:GSM8330746	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+		organism	Homo sapiens	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8330735	geo:GSE269942:GSM8330735	tissue_free_text	PDX tumor	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330735	!Sample_characteristics_ch1 = tissue: PDX tumor	True
+GSM8330735	geo:GSE269942:GSM8330735	treatment	untreated	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330735	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM8330735	geo:GSE269942:GSM8330735	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330735	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330735	geo:GSE269942:GSM8330735	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330735	geo:GSE269942:GSM8330735	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330736	geo:GSE269942:GSM8330736	tissue_free_text	PDX tumor	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330736	!Sample_characteristics_ch1 = tissue: PDX tumor	True
+GSM8330736	geo:GSE269942:GSM8330736	treatment	untreated	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330736	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM8330736	geo:GSE269942:GSM8330736	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330736	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330736	geo:GSE269942:GSM8330736	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330736	geo:GSE269942:GSM8330736	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330737	geo:GSE269942:GSM8330737	tissue_free_text	patient biopsy	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330737	!Sample_characteristics_ch1 = tissue: patient biopsy	True
+GSM8330737	geo:GSE269942:GSM8330737	treatment	relapsed	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330737	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM8330737	geo:GSE269942:GSM8330737	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330737	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330737	geo:GSE269942:GSM8330737	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330737	geo:GSE269942:GSM8330737	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330738	geo:GSE269942:GSM8330738	tissue_free_text	patient biopsy	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330738	!Sample_characteristics_ch1 = tissue: patient biopsy	True
+GSM8330738	geo:GSE269942:GSM8330738	treatment	relapsed	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330738	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM8330738	geo:GSE269942:GSM8330738	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330738	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330738	geo:GSE269942:GSM8330738	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330738	geo:GSE269942:GSM8330738	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330739	geo:GSE269942:GSM8330739	tissue_free_text	PDX tumor	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330739	!Sample_characteristics_ch1 = tissue: PDX tumor	True
+GSM8330739	geo:GSE269942:GSM8330739	treatment	untreated	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330739	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM8330739	geo:GSE269942:GSM8330739	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330739	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330739	geo:GSE269942:GSM8330739	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330739	geo:GSE269942:GSM8330739	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330740	geo:GSE269942:GSM8330740	tissue_free_text	patient biopsy	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330740	!Sample_characteristics_ch1 = tissue: patient biopsy	True
+GSM8330740	geo:GSE269942:GSM8330740	treatment	relapsed	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330740	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM8330740	geo:GSE269942:GSM8330740	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330740	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330740	geo:GSE269942:GSM8330740	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330740	geo:GSE269942:GSM8330740	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330741	geo:GSE269942:GSM8330741	tissue_free_text	PDX tumor	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330741	!Sample_characteristics_ch1 = tissue: PDX tumor	True
+GSM8330741	geo:GSE269942:GSM8330741	treatment	untreated	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330741	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM8330741	geo:GSE269942:GSM8330741	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330741	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330741	geo:GSE269942:GSM8330741	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330741	geo:GSE269942:GSM8330741	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330742	geo:GSE269942:GSM8330742	tissue_free_text	patient biopsy	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330742	!Sample_characteristics_ch1 = tissue: patient biopsy	True
+GSM8330742	geo:GSE269942:GSM8330742	treatment	relapsed	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330742	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM8330742	geo:GSE269942:GSM8330742	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330742	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330742	geo:GSE269942:GSM8330742	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330742	geo:GSE269942:GSM8330742	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330743	geo:GSE269942:GSM8330743	tissue_free_text	patient biopsy	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330743	!Sample_characteristics_ch1 = tissue: patient biopsy	True
+GSM8330743	geo:GSE269942:GSM8330743	treatment	relapsed	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330743	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM8330743	geo:GSE269942:GSM8330743	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330743	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330743	geo:GSE269942:GSM8330743	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330743	geo:GSE269942:GSM8330743	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330744	geo:GSE269942:GSM8330744	tissue_free_text	patient biopsy	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330744	!Sample_characteristics_ch1 = tissue: patient biopsy	True
+GSM8330744	geo:GSE269942:GSM8330744	treatment	relapsed	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330744	!Sample_characteristics_ch1 = treatment: relapsed	True
+GSM8330744	geo:GSE269942:GSM8330744	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330744	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330744	geo:GSE269942:GSM8330744	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330744	geo:GSE269942:GSM8330744	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330745	geo:GSE269942:GSM8330745	tissue_free_text	PDX tumor	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330745	!Sample_characteristics_ch1 = tissue: PDX tumor	True
+GSM8330745	geo:GSE269942:GSM8330745	treatment	untreated	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330745	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM8330745	geo:GSE269942:GSM8330745	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330745	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330745	geo:GSE269942:GSM8330745	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330745	geo:GSE269942:GSM8330745	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True
+GSM8330746	geo:GSE269942:GSM8330746	tissue_free_text	PDX tumor	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330746	!Sample_characteristics_ch1 = tissue: PDX tumor	True
+GSM8330746	geo:GSE269942:GSM8330746	treatment	untreated	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330746	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM8330746	geo:GSE269942:GSM8330746	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz	GSM8330746	!Sample_characteristics_ch1 = cell line: LCNEC	True
+GSM8330746	geo:GSE269942:GSM8330746	disease_free_text	LCNEC	file	raw/fp-86651ae174dc/GSE269942_family.soft.gz		!Series_overall_design = Six patient derived xenograft tumors and six patient biopsies with a diagnosis of LCNEC or mixed histology, including LCNEC, were collected and analyzed by single-cell RNAseq.	True
+GSM8330746	geo:GSE269942:GSM8330746	suspension_type	cell	file	evidence/PMC11479841.txt		were collected and dissociated fresh for single-cell RNAseq	True

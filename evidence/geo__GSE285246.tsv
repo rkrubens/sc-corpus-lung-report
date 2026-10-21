@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8699165	geo:GSE285246:GSM8699165	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699165	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699166	geo:GSE285246:GSM8699166	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699166	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699167	geo:GSE285246:GSM8699167	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699167	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699168	geo:GSE285246:GSM8699168	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699168	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699169	geo:GSE285246:GSM8699169	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699169	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699170	geo:GSE285246:GSM8699170	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699170	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699171	geo:GSE285246:GSM8699171	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699171	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699172	geo:GSE285246:GSM8699172	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699172	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699173	geo:GSE285246:GSM8699173	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699173	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699174	geo:GSE285246:GSM8699174	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699174	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699175	geo:GSE285246:GSM8699175	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699175	!Sample_characteristics_ch1 = tissue: IPF lung	True
+GSM8699176	geo:GSE285246:GSM8699176	tissue_free_text	IPF lung	file	raw/fp-3d14ea72ab0b/GSE285246_family.soft.gz	GSM8699176	!Sample_characteristics_ch1 = tissue: IPF lung	True

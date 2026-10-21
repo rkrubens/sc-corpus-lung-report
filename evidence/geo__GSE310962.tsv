@@ -1,0 +1,5 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-398a8b8f5556/GSE310962_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9313310	geo:GSE310962:GSM9313310	tissue_free_text	Patient Derived Model	file	raw/fp-398a8b8f5556/GSE310962_family.soft.gz	GSM9313310	!Sample_characteristics_ch1 = tissue: Patient Derived Model	True
+GSM9313311	geo:GSE310962:GSM9313311	tissue_free_text	Patient Derived Model	file	raw/fp-398a8b8f5556/GSE310962_family.soft.gz	GSM9313311	!Sample_characteristics_ch1 = tissue: Patient Derived Model	True
+GSM9313312	geo:GSE310962:GSM9313312	tissue_free_text	Patient Derived Model	file	raw/fp-398a8b8f5556/GSE310962_family.soft.gz	GSM9313312	!Sample_characteristics_ch1 = tissue: Patient Derived Model	True

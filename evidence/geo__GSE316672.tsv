@@ -1,0 +1,112 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+No.01	geo:GSE316672:No.01	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.02	geo:GSE316672:No.02	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.03	geo:GSE316672:No.03	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.04	geo:GSE316672:No.04	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.05	geo:GSE316672:No.05	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.06	geo:GSE316672:No.06	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.07	geo:GSE316672:No.07	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.08	geo:GSE316672:No.08	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.09	geo:GSE316672:No.09	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.10	geo:GSE316672:No.10	donor_id	<column Patient>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/Patient			True
+No.01	geo:GSE316672:No.01	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.02	geo:GSE316672:No.02	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.03	geo:GSE316672:No.03	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.04	geo:GSE316672:No.04	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.05	geo:GSE316672:No.05	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.06	geo:GSE316672:No.06	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.07	geo:GSE316672:No.07	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.08	geo:GSE316672:No.08	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.09	geo:GSE316672:No.09	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.10	geo:GSE316672:No.10	disease_free_text	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.01	geo:GSE316672:No.01	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.02	geo:GSE316672:No.02	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.03	geo:GSE316672:No.03	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.04	geo:GSE316672:No.04	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.05	geo:GSE316672:No.05	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.06	geo:GSE316672:No.06	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.07	geo:GSE316672:No.07	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.08	geo:GSE316672:No.08	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.09	geo:GSE316672:No.09	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.10	geo:GSE316672:No.10	disease_ontology_term_id	<column class>	column	work/fp-e937e108d28b/reconciled/aoi_metadata.csv/class			True
+No.01	geo:GSE316672:No.01	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.02	geo:GSE316672:No.02	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.03	geo:GSE316672:No.03	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.04	geo:GSE316672:No.04	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.05	geo:GSE316672:No.05	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.06	geo:GSE316672:No.06	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.07	geo:GSE316672:No.07	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.08	geo:GSE316672:No.08	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.09	geo:GSE316672:No.09	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+No.10	geo:GSE316672:No.10	assay_ontology_term_id	EFO:0920109	derived	ols:efo		GeoMx	True
+		organism	Homo sapiens	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+No.01	geo:GSE316672:No.01	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.02	geo:GSE316672:No.02	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.03	geo:GSE316672:No.03	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.04	geo:GSE316672:No.04	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.05	geo:GSE316672:No.05	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.06	geo:GSE316672:No.06	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.07	geo:GSE316672:No.07	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.08	geo:GSE316672:No.08	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.09	geo:GSE316672:No.09	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.10	geo:GSE316672:No.10	tissue_free_text	lung	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.01	geo:GSE316672:No.01	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.02	geo:GSE316672:No.02	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.03	geo:GSE316672:No.03	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.04	geo:GSE316672:No.04	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.05	geo:GSE316672:No.05	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.06	geo:GSE316672:No.06	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.07	geo:GSE316672:No.07	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.08	geo:GSE316672:No.08	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.09	geo:GSE316672:No.09	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.10	geo:GSE316672:No.10	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+No.01	geo:GSE316672:No.01	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.02	geo:GSE316672:No.02	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.03	geo:GSE316672:No.03	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.04	geo:GSE316672:No.04	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.05	geo:GSE316672:No.05	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.06	geo:GSE316672:No.06	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.07	geo:GSE316672:No.07	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.08	geo:GSE316672:No.08	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.09	geo:GSE316672:No.09	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.10	geo:GSE316672:No.10	suspension_type	na	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.01	geo:GSE316672:No.01	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.02	geo:GSE316672:No.02	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.03	geo:GSE316672:No.03	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.04	geo:GSE316672:No.04	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.05	geo:GSE316672:No.05	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.06	geo:GSE316672:No.06	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.07	geo:GSE316672:No.07	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.08	geo:GSE316672:No.08	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.09	geo:GSE316672:No.09	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.10	geo:GSE316672:No.10	sample_preservation	FFPE	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		RNA was extracted from formalin-fixed paraffin-embedded (FFPE) lung tissue sections using the NanoString GeoMx DSP RNA Whole Transcriptome Atlas	True
+No.01	geo:GSE316672:No.01	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.02	geo:GSE316672:No.02	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.03	geo:GSE316672:No.03	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.04	geo:GSE316672:No.04	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.05	geo:GSE316672:No.05	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.06	geo:GSE316672:No.06	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.07	geo:GSE316672:No.07	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.08	geo:GSE316672:No.08	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.09	geo:GSE316672:No.09	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.10	geo:GSE316672:No.10	assay	GeoMx	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		NanoString GeoMx DSP RNA Whole Transcriptome Atlas (Human)	True
+No.01	geo:GSE316672:No.01	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.02	geo:GSE316672:No.02	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.03	geo:GSE316672:No.03	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.04	geo:GSE316672:No.04	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.05	geo:GSE316672:No.05	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.06	geo:GSE316672:No.06	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.07	geo:GSE316672:No.07	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.08	geo:GSE316672:No.08	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.09	geo:GSE316672:No.09	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.10	geo:GSE316672:No.10	disease_free_text	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.01	geo:GSE316672:No.01	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.02	geo:GSE316672:No.02	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.03	geo:GSE316672:No.03	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.04	geo:GSE316672:No.04	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.05	geo:GSE316672:No.05	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.06	geo:GSE316672:No.06	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.07	geo:GSE316672:No.07	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.08	geo:GSE316672:No.08	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.09	geo:GSE316672:No.09	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True
+No.10	geo:GSE316672:No.10	disease_ontology_term_id	<map of column class>	file	raw/fp-e937e108d28b/GSE316672_family.soft.gz		We analyzed lung samples from three HSCT recipients with BO who underwent lung transplantation, with tissues from two patients with lung cancer as controls.	True

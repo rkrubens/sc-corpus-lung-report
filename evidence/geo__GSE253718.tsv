@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8026954	geo:GSE253718:GSM8026954	disease_free_text	LUAD	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026954	!Sample_characteristics_ch1 = pathology: LUAD	True
+GSM8026954	geo:GSE253718:GSM8026954	tissue_free_text	cancer tumor tissues	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026954	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM8026954	geo:GSE253718:GSM8026954	treatment	EGFR-TKI resistance	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026954	!Sample_characteristics_ch1 = group: EGFR-TKI resistance	True
+GSM8026955	geo:GSE253718:GSM8026955	disease_free_text	LUAD	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026955	!Sample_characteristics_ch1 = pathology: LUAD	True
+GSM8026955	geo:GSE253718:GSM8026955	tissue_free_text	cancer tumor tissues	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026955	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM8026955	geo:GSE253718:GSM8026955	treatment	EGFR-TKI resistance	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026955	!Sample_characteristics_ch1 = group: EGFR-TKI resistance	True
+GSM8026956	geo:GSE253718:GSM8026956	disease_free_text	LUAD	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026956	!Sample_characteristics_ch1 = pathology: LUAD	True
+GSM8026956	geo:GSE253718:GSM8026956	tissue_free_text	cancer tumor tissues	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026956	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM8026956	geo:GSE253718:GSM8026956	treatment	EGFR-TKI resistance	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026956	!Sample_characteristics_ch1 = group: EGFR-TKI resistance	True
+GSM8026957	geo:GSE253718:GSM8026957	disease_free_text	LUAD	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026957	!Sample_characteristics_ch1 = pathology: LUAD	True
+GSM8026957	geo:GSE253718:GSM8026957	tissue_free_text	cancer tumor tissues	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026957	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM8026957	geo:GSE253718:GSM8026957	treatment	treatment-naive	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026957	!Sample_characteristics_ch1 = group: treatment-naive	True
+GSM8026958	geo:GSE253718:GSM8026958	disease_free_text	LUAD	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026958	!Sample_characteristics_ch1 = pathology: LUAD	True
+GSM8026958	geo:GSE253718:GSM8026958	tissue_free_text	cancer tumor tissues	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026958	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM8026958	geo:GSE253718:GSM8026958	treatment	treatment-naive	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026958	!Sample_characteristics_ch1 = group: treatment-naive	True
+GSM8026959	geo:GSE253718:GSM8026959	disease_free_text	LUAD	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026959	!Sample_characteristics_ch1 = pathology: LUAD	True
+GSM8026959	geo:GSE253718:GSM8026959	tissue_free_text	cancer tumor tissues	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026959	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM8026959	geo:GSE253718:GSM8026959	treatment	treatment-naive	file	raw/fp-72c348a2513b/GSE253718_family.soft.gz	GSM8026959	!Sample_characteristics_ch1 = group: treatment-naive	True

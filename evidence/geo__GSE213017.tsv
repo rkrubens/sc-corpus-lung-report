@@ -1,0 +1,13 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6568651	geo:GSE213017:GSM6568651	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6568651	geo:GSE213017:GSM6568651	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM6568652	geo:GSE213017:GSM6568652	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6568652	geo:GSE213017:GSM6568652	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM6568653	geo:GSE213017:GSM6568653	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6568651	geo:GSE213017:GSM6568651	tissue_free_text	lung	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz	GSM6568651	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6568651	geo:GSE213017:GSM6568651	disease_free_text	IPF	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz	GSM6568651	!Sample_characteristics_ch1 = sample type: IPF	True
+GSM6568652	geo:GSE213017:GSM6568652	tissue_free_text	lung	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz	GSM6568652	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6568652	geo:GSE213017:GSM6568652	disease_free_text	IPF	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz	GSM6568652	!Sample_characteristics_ch1 = sample type: IPF	True
+GSM6568653	geo:GSE213017:GSM6568653	tissue_free_text	lung	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz	GSM6568653	!Sample_characteristics_ch1 = tissue: lung	True
+GSM6568653	geo:GSE213017:GSM6568653	disease_free_text	Control	file	raw/fp-acf8a1284d88/GSE213017_family.soft.gz	GSM6568653	!Sample_characteristics_ch1 = sample type: Control	True

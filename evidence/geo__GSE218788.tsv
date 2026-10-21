@@ -1,0 +1,38 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6756556	geo:GSE218788:GSM6756556	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6756556	geo:GSE218788:GSM6756556	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56 yr	True
+GSM6756557	geo:GSE218788:GSM6756557	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6756557	geo:GSE218788:GSM6756557	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56 yr	True
+GSM6756558	geo:GSE218788:GSM6756558	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6756558	geo:GSE218788:GSM6756558	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56 yr	True
+GSM6756559	geo:GSE218788:GSM6756559	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6756559	geo:GSE218788:GSM6756559	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84 yr	True
+GSM6756560	geo:GSE218788:GSM6756560	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6756560	geo:GSE218788:GSM6756560	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84 yr	True
+GSM6756561	geo:GSE218788:GSM6756561	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6756561	geo:GSE218788:GSM6756561	development_stage_ontology_term_id	HsapDv:0000210	derived	age_in_years:'84-year-old stage':ols:hsapdv		84 yr	True
+		organism	Homo sapiens	file	raw/fp-95506f39098a/GSE218788_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6756556	geo:GSE218788:GSM6756556	age	56 yr	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756556	!Sample_characteristics_ch1 = age: 56 yr	True
+GSM6756556	geo:GSE218788:GSM6756556	sex	Male	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756556	!Sample_characteristics_ch1 = gender: Male	True
+GSM6756556	geo:GSE218788:GSM6756556	tissue_free_text	lung biopsies	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756556	!Sample_characteristics_ch1 = tissue: lung biopsies	True
+GSM6756556	geo:GSE218788:GSM6756556	treatment	no treatment	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756556	!Sample_characteristics_ch1 = treatment: no treatment	True
+GSM6756557	geo:GSE218788:GSM6756557	age	56 yr	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756557	!Sample_characteristics_ch1 = age: 56 yr	True
+GSM6756557	geo:GSE218788:GSM6756557	sex	Male	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756557	!Sample_characteristics_ch1 = gender: Male	True
+GSM6756557	geo:GSE218788:GSM6756557	tissue_free_text	lung biopsies	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756557	!Sample_characteristics_ch1 = tissue: lung biopsies	True
+GSM6756557	geo:GSE218788:GSM6756557	treatment	4h EVLP	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756557	!Sample_characteristics_ch1 = treatment: 4h EVLP	True
+GSM6756558	geo:GSE218788:GSM6756558	age	56 yr	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756558	!Sample_characteristics_ch1 = age: 56 yr	True
+GSM6756558	geo:GSE218788:GSM6756558	sex	Male	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756558	!Sample_characteristics_ch1 = gender: Male	True
+GSM6756558	geo:GSE218788:GSM6756558	tissue_free_text	lung biopsies	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756558	!Sample_characteristics_ch1 = tissue: lung biopsies	True
+GSM6756558	geo:GSE218788:GSM6756558	treatment	10h EVLP	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756558	!Sample_characteristics_ch1 = treatment: 10h EVLP	True
+GSM6756559	geo:GSE218788:GSM6756559	age	84 yr	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756559	!Sample_characteristics_ch1 = age: 84 yr	True
+GSM6756559	geo:GSE218788:GSM6756559	sex	Female	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756559	!Sample_characteristics_ch1 = gender: Female	True
+GSM6756559	geo:GSE218788:GSM6756559	tissue_free_text	lung biopsies	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756559	!Sample_characteristics_ch1 = tissue: lung biopsies	True
+GSM6756559	geo:GSE218788:GSM6756559	treatment	no treatment	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756559	!Sample_characteristics_ch1 = treatment: no treatment	True
+GSM6756560	geo:GSE218788:GSM6756560	age	84 yr	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756560	!Sample_characteristics_ch1 = age: 84 yr	True
+GSM6756560	geo:GSE218788:GSM6756560	sex	Female	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756560	!Sample_characteristics_ch1 = gender: Female	True
+GSM6756560	geo:GSE218788:GSM6756560	tissue_free_text	lung biopsies	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756560	!Sample_characteristics_ch1 = tissue: lung biopsies	True
+GSM6756560	geo:GSE218788:GSM6756560	treatment	4h EVLP	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756560	!Sample_characteristics_ch1 = treatment: 4h EVLP	True
+GSM6756561	geo:GSE218788:GSM6756561	age	84 yr	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756561	!Sample_characteristics_ch1 = age: 84 yr	True
+GSM6756561	geo:GSE218788:GSM6756561	sex	Female	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756561	!Sample_characteristics_ch1 = gender: Female	True
+GSM6756561	geo:GSE218788:GSM6756561	tissue_free_text	lung biopsies	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756561	!Sample_characteristics_ch1 = tissue: lung biopsies	True
+GSM6756561	geo:GSE218788:GSM6756561	treatment	10h EVLP	file	raw/fp-95506f39098a/GSE218788_family.soft.gz	GSM6756561	!Sample_characteristics_ch1 = treatment: 10h EVLP	True

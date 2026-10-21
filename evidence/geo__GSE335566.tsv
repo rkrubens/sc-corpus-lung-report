@@ -1,0 +1,66 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	donor_id	<column bio_sample>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/bio_sample			True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	donor_id	<column bio_sample>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/bio_sample			True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	donor_id	<column bio_sample>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/bio_sample			True
+BE73_NT	geo:GSE335566:BE73_NT	donor_id	<column bio_sample>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/bio_sample			True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	disease_free_text	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	disease_free_text	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	disease_free_text	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE73_NT	geo:GSE335566:BE73_NT	disease_free_text	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	disease_ontology_term_id	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	disease_ontology_term_id	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	disease_ontology_term_id	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE73_NT	geo:GSE335566:BE73_NT	disease_ontology_term_id	<column cf_status>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/cf_status			True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	treatment	<column treatment>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/treatment			True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	treatment	<column treatment>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/treatment			True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	treatment	<column treatment>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/treatment			True
+BE73_NT	geo:GSE335566:BE73_NT	treatment	<column treatment>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/treatment			True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+BE73_NT	geo:GSE335566:BE73_NT	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	tissue_ontology_term_id	UBERON:0002031	derived	ols:uberon		bronchial epithelium	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	tissue_ontology_term_id	UBERON:0002031	derived	ols:uberon		bronchial epithelium	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	tissue_ontology_term_id	UBERON:0002031	derived	ols:uberon		bronchial epithelium	True
+BE73_NT	geo:GSE335566:BE73_NT	tissue_ontology_term_id	UBERON:0002031	derived	ols:uberon		bronchial epithelium	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	author_cell_type	<column curated_cell_type>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/curated_cell_type			True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	author_cell_type	<column curated_cell_type>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/curated_cell_type			True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	author_cell_type	<column curated_cell_type>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/curated_cell_type			True
+BE73_NT	geo:GSE335566:BE73_NT	author_cell_type	<column curated_cell_type>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/curated_cell_type			True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	cell_type_ontology_term_id	<column author_cl_term_id>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/author_cl_term_id			True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	cell_type_ontology_term_id	<column author_cl_term_id>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/author_cl_term_id			True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	cell_type_ontology_term_id	<column author_cl_term_id>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/author_cl_term_id			True
+BE73_NT	geo:GSE335566:BE73_NT	cell_type_ontology_term_id	<column author_cl_term_id>	column	raw/fp-112cdc6f7ff0/GSE335566_adata_GEO.h5ad::obs/author_cl_term_id			True
+		organism	Homo sapiens	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	tissue_free_text	bronchial epithelium	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = tissue: bronchial epithelium	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	tissue_free_text	bronchial epithelium	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = tissue: bronchial epithelium	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	tissue_free_text	bronchial epithelium	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = tissue: bronchial epithelium	True
+BE73_NT	geo:GSE335566:BE73_NT	tissue_free_text	bronchial epithelium	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = tissue: bronchial epithelium	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	tissue_type	cell culture	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Basal airway stem cells (p63+/KRT5+) were isolated and expanded in serum-free medium	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	tissue_type	cell culture	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Basal airway stem cells (p63+/KRT5+) were isolated and expanded in serum-free medium	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	tissue_type	cell culture	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Basal airway stem cells (p63+/KRT5+) were isolated and expanded in serum-free medium	True
+BE73_NT	geo:GSE335566:BE73_NT	tissue_type	cell culture	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Basal airway stem cells (p63+/KRT5+) were isolated and expanded in serum-free medium	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	suspension_type	cell	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Bronchial epithelial cells were detached from Snapwell inserts as single cells	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	suspension_type	cell	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Bronchial epithelial cells were detached from Snapwell inserts as single cells	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	suspension_type	cell	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Bronchial epithelial cells were detached from Snapwell inserts as single cells	True
+BE73_NT	geo:GSE335566:BE73_NT	suspension_type	cell	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Bronchial epithelial cells were detached from Snapwell inserts as single cells	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE73_NT	geo:GSE335566:BE73_NT	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: non-CF	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: non-CF	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: non-CF	True
+BE73_NT	geo:GSE335566:BE73_NT	disease_free_text	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: non-CF	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	disease_ontology_term_id	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	disease_ontology_term_id	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	disease_ontology_term_id	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE73_NT	geo:GSE335566:BE73_NT	disease_ontology_term_id	<map of column cf_status>	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		!Sample_characteristics_ch1 = genotype: cystic fibrosis	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	assay	10x 3' v3	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Single-cell 3' libraries were generated using the Chromium Single Cell 3' Library and Gel Bead Kit v3.1	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	assay	10x 3' v3	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Single-cell 3' libraries were generated using the Chromium Single Cell 3' Library and Gel Bead Kit v3.1	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	assay	10x 3' v3	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Single-cell 3' libraries were generated using the Chromium Single Cell 3' Library and Gel Bead Kit v3.1	True
+BE73_NT	geo:GSE335566:BE73_NT	assay	10x 3' v3	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		Single-cell 3' libraries were generated using the Chromium Single Cell 3' Library and Gel Bead Kit v3.1	True
+BE63_NON_CF_IFNa	geo:GSE335566:BE63_NON_CF_IFNa	gene_annotation_version	refdata-gex-GRCh38-2020-A	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		All samples were processed using the 10x Genomics human reference transcriptome refdata-gex-GRCh38-2020-A	True
+BE63_NON_CF_NT	geo:GSE335566:BE63_NON_CF_NT	gene_annotation_version	refdata-gex-GRCh38-2020-A	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		All samples were processed using the 10x Genomics human reference transcriptome refdata-gex-GRCh38-2020-A	True
+BE63_NON_CF_TNFa_IL17	geo:GSE335566:BE63_NON_CF_TNFa_IL17	gene_annotation_version	refdata-gex-GRCh38-2020-A	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		All samples were processed using the 10x Genomics human reference transcriptome refdata-gex-GRCh38-2020-A	True
+BE73_NT	geo:GSE335566:BE73_NT	gene_annotation_version	refdata-gex-GRCh38-2020-A	file	raw/fp-112cdc6f7ff0/GSE335566_family.soft.gz		All samples were processed using the 10x Genomics human reference transcriptome refdata-gex-GRCh38-2020-A	True

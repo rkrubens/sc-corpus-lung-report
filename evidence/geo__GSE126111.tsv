@@ -1,0 +1,58 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3591778	geo:GSE126111:GSM3591778	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM3591779	geo:GSE126111:GSM3591779	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM3591780	geo:GSE126111:GSM3591780	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM3591781	geo:GSE126111:GSM3591781	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+GSM3591782	geo:GSE126111:GSM3591782	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+Patient3aSW	geo:GSE126111:Patient3aSW	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+		organism	Homo sapiens	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3591778	geo:GSE126111:GSM3591778	tissue_free_text	lung	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591778	geo:GSE126111:GSM3591778	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591778	geo:GSE126111:GSM3591778	tissue_type	tissue	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591778	geo:GSE126111:GSM3591778	suspension_type	cell	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591778	geo:GSE126111:GSM3591778	assay	Drop-seq	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM3591778	geo:GSE126111:GSM3591778	sample_preservation	fresh	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591778	geo:GSE126111:GSM3591778	donor_id	Patient 1	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591778	!Sample_title = Patient 1 non-involved lung	True
+GSM3591778	geo:GSE126111:GSM3591778	disease_free_text	normal (non-involved lung)	file	evidence/PMC6610623.txt		fibroblasts from normal (NOF) or tumour (CAF) samples	True
+GSM3591778	geo:GSE126111:GSM3591778	disease_ontology_term_id	PATO:0000461	file	evidence/PMC6610623.txt		fibroblasts from normal (NOF) or tumour (CAF) samples	True
+GSM3591779	geo:GSE126111:GSM3591779	tissue_free_text	lung	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591779	geo:GSE126111:GSM3591779	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591779	geo:GSE126111:GSM3591779	tissue_type	tissue	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591779	geo:GSE126111:GSM3591779	suspension_type	cell	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591779	geo:GSE126111:GSM3591779	assay	Drop-seq	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM3591779	geo:GSE126111:GSM3591779	sample_preservation	fresh	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591779	geo:GSE126111:GSM3591779	donor_id	Patient 1	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591779	!Sample_title = Patient 1 tumour	True
+GSM3591779	geo:GSE126111:GSM3591779	disease_free_text	lung tumour	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591779	!Sample_title = Patient 1 tumour	True
+GSM3591779	geo:GSE126111:GSM3591779	disease_ontology_term_id	MONDO:0008903	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591779	!Sample_title = Patient 1 tumour	True
+GSM3591780	geo:GSE126111:GSM3591780	tissue_free_text	lung	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591780	geo:GSE126111:GSM3591780	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591780	geo:GSE126111:GSM3591780	tissue_type	tissue	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591780	geo:GSE126111:GSM3591780	suspension_type	cell	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591780	geo:GSE126111:GSM3591780	assay	Drop-seq	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM3591780	geo:GSE126111:GSM3591780	sample_preservation	fresh	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591780	geo:GSE126111:GSM3591780	donor_id	Patient 2	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591780	!Sample_title = Patient 2 non-involved lung	True
+GSM3591780	geo:GSE126111:GSM3591780	disease_free_text	normal (non-involved lung)	file	evidence/PMC6610623.txt		fibroblasts from normal (NOF) or tumour (CAF) samples	True
+GSM3591780	geo:GSE126111:GSM3591780	disease_ontology_term_id	PATO:0000461	file	evidence/PMC6610623.txt		fibroblasts from normal (NOF) or tumour (CAF) samples	True
+GSM3591781	geo:GSE126111:GSM3591781	tissue_free_text	lung	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591781	geo:GSE126111:GSM3591781	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591781	geo:GSE126111:GSM3591781	tissue_type	tissue	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591781	geo:GSE126111:GSM3591781	suspension_type	cell	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591781	geo:GSE126111:GSM3591781	assay	Drop-seq	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM3591781	geo:GSE126111:GSM3591781	sample_preservation	fresh	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591781	geo:GSE126111:GSM3591781	donor_id	Patient 2	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591781	!Sample_title = Patient 2 tumour	True
+GSM3591781	geo:GSE126111:GSM3591781	disease_free_text	lung tumour	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591781	!Sample_title = Patient 2 tumour	True
+GSM3591781	geo:GSE126111:GSM3591781	disease_ontology_term_id	MONDO:0008903	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591781	!Sample_title = Patient 2 tumour	True
+GSM3591782	geo:GSE126111:GSM3591782	tissue_free_text	lung	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591782	geo:GSE126111:GSM3591782	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+GSM3591782	geo:GSE126111:GSM3591782	tissue_type	tissue	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591782	geo:GSE126111:GSM3591782	suspension_type	cell	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591782	geo:GSE126111:GSM3591782	assay	Drop-seq	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+GSM3591782	geo:GSE126111:GSM3591782	sample_preservation	fresh	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+GSM3591782	geo:GSE126111:GSM3591782	donor_id	Patient 3	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591782	!Sample_title = Patient 3 granulomatous inflammation 1	True
+GSM3591782	geo:GSE126111:GSM3591782	disease_free_text	granulomatous inflammation	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz	GSM3591782	!Sample_title = Patient 3 granulomatous inflammation 1	True
+Patient3aSW	geo:GSE126111:Patient3aSW	tissue_free_text	lung	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+Patient3aSW	geo:GSE126111:Patient3aSW	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+Patient3aSW	geo:GSE126111:Patient3aSW	tissue_type	tissue	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+Patient3aSW	geo:GSE126111:Patient3aSW	suspension_type	cell	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True
+Patient3aSW	geo:GSE126111:Patient3aSW	assay	Drop-seq	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Libraries were prepared for sequencing as per the Drop-seq and standard Illumina protocols	True
+Patient3aSW	geo:GSE126111:Patient3aSW	sample_preservation	fresh	file	raw/fp-99e27da8c6e1/GSE126111_family.soft.gz		Fresh tissue was disaggregated with Collagenase P and DNAse for 1 hour	True

@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4301252	geo:GSE144945:GSM4301252	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301253	geo:GSE144945:GSM4301253	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301254	geo:GSE144945:GSM4301254	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301255	geo:GSE144945:GSM4301255	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301256	geo:GSE144945:GSM4301256	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301257	geo:GSE144945:GSM4301257	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301258	geo:GSE144945:GSM4301258	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301259	geo:GSE144945:GSM4301259	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301260	geo:GSE144945:GSM4301260	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4301261	geo:GSE144945:GSM4301261	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+		organism	Homo sapiens	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4301252	geo:GSE144945:GSM4301252	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301252	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301253	geo:GSE144945:GSM4301253	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301253	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301254	geo:GSE144945:GSM4301254	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301254	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301255	geo:GSE144945:GSM4301255	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301255	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301256	geo:GSE144945:GSM4301256	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301256	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301257	geo:GSE144945:GSM4301257	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301257	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301258	geo:GSE144945:GSM4301258	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301258	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301259	geo:GSE144945:GSM4301259	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301259	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301260	geo:GSE144945:GSM4301260	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301260	!Sample_characteristics_ch1 = diagnosis: NSCLC	True
+GSM4301261	geo:GSE144945:GSM4301261	disease_free_text	NSCLC	file	raw/fp-fcdfebdb4a0b/GSE144945_family.soft.gz	GSM4301261	!Sample_characteristics_ch1 = diagnosis: NSCLC	True

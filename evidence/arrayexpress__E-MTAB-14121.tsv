@@ -1,0 +1,438 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50 years	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50 years	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50 years	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56 years	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62 years	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68 years	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68 years	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68 years	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44 years	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66 years	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56 years	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57 years	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44 years	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50 years	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50 years	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50 years	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+		organism	Homo sapiens	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	donor_id	IPF_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	age	50 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_279_B1	arrayexpress:E-MTAB-14121:V10T03_279_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	donor_id	IPF_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	age	50 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_279_C1	arrayexpress:E-MTAB-14121:V10T03_279_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	donor_id	IPF_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	age	50 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-279-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_279_D1	arrayexpress:E-MTAB-14121:V10T03_279_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		or severe (“B3”) fibrosis	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	donor_id	HC_3	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	disease_free_text	normal	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	age	56 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	sample_collection_method	post-mortem (deceased donor)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Healthy lung tissue was obtained from deceased donors without known lung disease.	True
+V10T03_280_A1	arrayexpress:E-MTAB-14121:V10T03_280_A1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	donor_id	IPF_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 2	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 2	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 2	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 2	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 2	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 2	True
+V10T03_280_B1	arrayexpress:E-MTAB-14121:V10T03_280_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	donor_id	IPF_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 2	True
+V10T03_280_C1	arrayexpress:E-MTAB-14121:V10T03_280_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	donor_id	IPF_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-280-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 2	True
+V10T03_280_D1	arrayexpress:E-MTAB-14121:V10T03_280_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		or severe (“B3”) fibrosis	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	donor_id	HC_4	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-A1 Homo sapiens lung HC_4 normal adult 62 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-A1 Homo sapiens lung HC_4 normal adult 62 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	disease_free_text	normal	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-A1 Homo sapiens lung HC_4 normal adult 62 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-A1 Homo sapiens lung HC_4 normal adult 62 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	age	62 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-A1 Homo sapiens lung HC_4 normal adult 62 year EFO UO_0000036 male cell B0, replicate 2	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	sample_collection_method	post-mortem (deceased donor)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Healthy lung tissue was obtained from deceased donors without known lung disease.	True
+V10T03_281_A1	arrayexpress:E-MTAB-14121:V10T03_281_A1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	donor_id	IPF_3	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-B1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-B1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-B1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-B1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	age	68 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-B1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-B1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_281_B1	arrayexpress:E-MTAB-14121:V10T03_281_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	donor_id	IPF_3	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-C1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-C1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-C1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-C1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	age	68 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-C1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-C1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B2, replicate 2	True
+V10T03_281_C1	arrayexpress:E-MTAB-14121:V10T03_281_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	donor_id	IPF_3	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-D1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-D1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-D1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-D1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	age	68 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-D1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-281-D1 Homo sapiens lung IPF_3 idiopathic pulmonary fibrosis adult 68 year EFO UO_0000036 male cell B3, replicate 2	True
+V10T03_281_D1	arrayexpress:E-MTAB-14121:V10T03_281_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		or severe (“B3”) fibrosis	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	donor_id	HC_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 2	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 2	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	disease_free_text	normal	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 2	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 2	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	age	44 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 2	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	sample_collection_method	post-mortem (deceased donor)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Healthy lung tissue was obtained from deceased donors without known lung disease.	True
+V10T03_282_A1	arrayexpress:E-MTAB-14121:V10T03_282_A1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	donor_id	IPF_4	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis   year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis   year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis   year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis   year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T03-282-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis   year EFO UO_0000036 male cell B1, replicate 2	True
+V10T03_282_B1	arrayexpress:E-MTAB-14121:V10T03_282_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	donor_id	HC_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-A1 Homo sapiens lung HC_2 normal adult 66 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-A1 Homo sapiens lung HC_2 normal adult 66 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	disease_free_text	normal	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-A1 Homo sapiens lung HC_2 normal adult 66 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-A1 Homo sapiens lung HC_2 normal adult 66 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	age	66 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-A1 Homo sapiens lung HC_2 normal adult 66 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	sample_collection_method	post-mortem (deceased donor)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Healthy lung tissue was obtained from deceased donors without known lung disease.	True
+V10T31_015_A1	arrayexpress:E-MTAB-14121:V10T31_015_A1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	donor_id	IPF_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 1	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 1	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 1	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 1	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 1	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-B1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B1, replicate 1	True
+V10T31_015_B1	arrayexpress:E-MTAB-14121:V10T31_015_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	donor_id	IPF_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 1	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 1	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 1	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 1	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 1	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-C1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B2, replicate 1	True
+V10T31_015_C1	arrayexpress:E-MTAB-14121:V10T31_015_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	donor_id	IPF_2	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 1	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 1	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 1	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 1	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 1	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-015-D1 Homo sapiens lung IPF_2 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 female cell B3, replicate 1	True
+V10T31_015_D1	arrayexpress:E-MTAB-14121:V10T31_015_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		or severe (“B3”) fibrosis	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	donor_id	HC_3	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-019-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-019-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	disease_free_text	normal	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-019-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-019-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	age	56 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-019-A1 Homo sapiens lung HC_3 normal adult 56 year EFO UO_0000036 male cell B0, replicate 1	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	sample_collection_method	post-mortem (deceased donor)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Healthy lung tissue was obtained from deceased donors without known lung disease.	True
+V10T31_019_A1	arrayexpress:E-MTAB-14121:V10T31_019_A1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	donor_id	IPF_4	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B1, replicate 1	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B1, replicate 1	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B1, replicate 1	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B1, replicate 1	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B1, replicate 1	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-B1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B1, replicate 1	True
+V10T31_051_B1	arrayexpress:E-MTAB-14121:V10T31_051_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	donor_id	IPF_4	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-C1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B2, replicate 1	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-C1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B2, replicate 1	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-C1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B2, replicate 1	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-C1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B2, replicate 1	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-C1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B2, replicate 1	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-C1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B2, replicate 1	True
+V10T31_051_C1	arrayexpress:E-MTAB-14121:V10T31_051_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	donor_id	IPF_4	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-D1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B3, replicate 1	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-D1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B3, replicate 1	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-D1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B3, replicate 1	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-D1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B3, replicate 1	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	age	57 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-D1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B3, replicate 1	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V10T31-051-D1 Homo sapiens lung IPF_4 idiopathic pulmonary fibrosis adult 57 year EFO UO_0000036 male cell B3, replicate 1	True
+V10T31_051_D1	arrayexpress:E-MTAB-14121:V10T31_051_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		or severe (“B3”) fibrosis	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	donor_id	HC_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 1	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 1	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	disease_free_text	normal	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 1	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	sex	female	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 1	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	age	44 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-A1 Homo sapiens lung HC_1 normal adult 44 year EFO UO_0000036 female cell B0, replicate 1	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	sample_collection_method	post-mortem (deceased donor)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Healthy lung tissue was obtained from deceased donors without known lung disease.	True
+V19S23_092_A1	arrayexpress:E-MTAB-14121:V19S23_092_A1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	donor_id	IPF_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 1	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 1	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 1	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 1	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	age	50 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 1	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-B1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B1, replicate 1	True
+V19S23_092_B1	arrayexpress:E-MTAB-14121:V19S23_092_B1	disease_stage	mild fibrosis (B1)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	donor_id	IPF_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 1	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 1	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 1	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 1	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	age	50 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 1	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-C1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B2, replicate 1	True
+V19S23_092_C1	arrayexpress:E-MTAB-14121:V19S23_092_C1	disease_stage	moderate fibrosis (B2)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		areas of mild (“B1”), moderate (“B2	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	donor_id	IPF_1	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 1	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	tissue_free_text	lung	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 1	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 1	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	sex	male	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 1	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	age	50 years	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 1	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	assay	Visium Spatial Gene Expression	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Visium Spatial Gene Expression Slide & Reagent Kit	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	tissue_type	tissue	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		normal and Idiopathic Pulmonary Fibrosis (IPF) lung parenchyma tissues collected from human donors	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	suspension_type	na	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		identification of tissue-covered spots was performed using Loupe Browser	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	sample_preservation	fresh-frozen	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		The fresh-frozen tissues that were analyzed were from four healthy control (HC) subjects	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	sample_collection_method	lung transplant	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		IPF lung tissue was obtained from lung transplant patients.	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	gene_annotation_version	GRCh38	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		Sequence reads were mapped to reference genome GRCh38	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.sdrf.txt		V19S23-092-D1 Homo sapiens lung IPF_1 idiopathic pulmonary fibrosis adult 50 year EFO UO_0000036 male cell B3, replicate 1	True
+V19S23_092_D1	arrayexpress:E-MTAB-14121:V19S23_092_D1	disease_stage	severe fibrosis (B3)	file	raw/fp-d4ce1e614baf/E-MTAB-14121.idf.txt		or severe (“B3”) fibrosis	True

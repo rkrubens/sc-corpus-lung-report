@@ -1,0 +1,27 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM10045631	geo:GSE347080:GSM10045631	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM10045631	geo:GSE347080:GSM10045631	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM10045632	geo:GSE347080:GSM10045632	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM10045632	geo:GSE347080:GSM10045632	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM10045633	geo:GSE347080:GSM10045633	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM10045633	geo:GSE347080:GSM10045633	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM10045634	geo:GSE347080:GSM10045634	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM10045634	geo:GSE347080:GSM10045634	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+GSM10045635	geo:GSE347080:GSM10045635	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM10045635	geo:GSE347080:GSM10045635	disease_ontology_term_id	MONDO:0005057	derived	ols:mondo		LCNEC	True
+		organism	Homo sapiens	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM10045631	geo:GSE347080:GSM10045631	disease_free_text	LCNEC	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045631	!Sample_characteristics_ch1 = disease state: LCNEC	True
+GSM10045631	geo:GSE347080:GSM10045631	tissue_free_text	Lung	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045631	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM10045631	geo:GSE347080:GSM10045631	treatment	None	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045631	!Sample_characteristics_ch1 = treatment: None	True
+GSM10045632	geo:GSE347080:GSM10045632	disease_free_text	LCNEC	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045632	!Sample_characteristics_ch1 = disease state: LCNEC	True
+GSM10045632	geo:GSE347080:GSM10045632	tissue_free_text	Lung	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045632	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM10045632	geo:GSE347080:GSM10045632	treatment	None	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045632	!Sample_characteristics_ch1 = treatment: None	True
+GSM10045633	geo:GSE347080:GSM10045633	disease_free_text	LCNEC	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045633	!Sample_characteristics_ch1 = disease state: LCNEC	True
+GSM10045633	geo:GSE347080:GSM10045633	tissue_free_text	Lung	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045633	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM10045633	geo:GSE347080:GSM10045633	treatment	None	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045633	!Sample_characteristics_ch1 = treatment: None	True
+GSM10045634	geo:GSE347080:GSM10045634	disease_free_text	LCNEC	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045634	!Sample_characteristics_ch1 = disease state: LCNEC	True
+GSM10045634	geo:GSE347080:GSM10045634	tissue_free_text	Lung	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045634	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM10045634	geo:GSE347080:GSM10045634	treatment	None	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045634	!Sample_characteristics_ch1 = treatment: None	True
+GSM10045635	geo:GSE347080:GSM10045635	disease_free_text	LCNEC	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045635	!Sample_characteristics_ch1 = disease state: LCNEC	True
+GSM10045635	geo:GSE347080:GSM10045635	tissue_free_text	Lung	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045635	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM10045635	geo:GSE347080:GSM10045635	treatment	None	file	raw/fp-1c2b9fb06322/GSE347080_family.soft.gz	GSM10045635	!Sample_characteristics_ch1 = treatment: None	True

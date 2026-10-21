@@ -1,0 +1,408 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+muc13946	geo:GSE233145:muc13946	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc13947	geo:GSE233145:muc13947	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc13948	geo:GSE233145:muc13948	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc13949	geo:GSE233145:muc13949	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc13950	geo:GSE233145:muc13950	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc13951	geo:GSE233145:muc13951	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14432	geo:GSE233145:muc14432	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14433	geo:GSE233145:muc14433	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14434	geo:GSE233145:muc14434	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14435	geo:GSE233145:muc14435	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14436	geo:GSE233145:muc14436	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14437	geo:GSE233145:muc14437	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14438	geo:GSE233145:muc14438	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc14439	geo:GSE233145:muc14439	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/patient			True
+muc13946	geo:GSE233145:muc13946	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc13947	geo:GSE233145:muc13947	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc13948	geo:GSE233145:muc13948	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc13949	geo:GSE233145:muc13949	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc13950	geo:GSE233145:muc13950	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc13951	geo:GSE233145:muc13951	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14432	geo:GSE233145:muc14432	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14433	geo:GSE233145:muc14433	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14434	geo:GSE233145:muc14434	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14435	geo:GSE233145:muc14435	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14436	geo:GSE233145:muc14436	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14437	geo:GSE233145:muc14437	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14438	geo:GSE233145:muc14438	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc14439	geo:GSE233145:muc14439	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/time_point			True
+muc13946	geo:GSE233145:muc13946	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13947	geo:GSE233145:muc13947	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13948	geo:GSE233145:muc13948	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13949	geo:GSE233145:muc13949	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13950	geo:GSE233145:muc13950	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13951	geo:GSE233145:muc13951	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14432	geo:GSE233145:muc14432	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14433	geo:GSE233145:muc14433	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14434	geo:GSE233145:muc14434	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14435	geo:GSE233145:muc14435	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14436	geo:GSE233145:muc14436	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14437	geo:GSE233145:muc14437	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14438	geo:GSE233145:muc14438	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14439	geo:GSE233145:muc14439	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13946	geo:GSE233145:muc13946	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13947	geo:GSE233145:muc13947	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13948	geo:GSE233145:muc13948	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13949	geo:GSE233145:muc13949	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13950	geo:GSE233145:muc13950	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13951	geo:GSE233145:muc13951	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14432	geo:GSE233145:muc14432	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14433	geo:GSE233145:muc14433	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14434	geo:GSE233145:muc14434	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14435	geo:GSE233145:muc14435	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14436	geo:GSE233145:muc14436	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14437	geo:GSE233145:muc14437	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14438	geo:GSE233145:muc14438	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc14439	geo:GSE233145:muc14439	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/health_state			True
+muc13946	geo:GSE233145:muc13946	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc13947	geo:GSE233145:muc13947	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc13948	geo:GSE233145:muc13948	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc13949	geo:GSE233145:muc13949	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc13950	geo:GSE233145:muc13950	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc13951	geo:GSE233145:muc13951	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14432	geo:GSE233145:muc14432	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14433	geo:GSE233145:muc14433	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14434	geo:GSE233145:muc14434	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14435	geo:GSE233145:muc14435	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14436	geo:GSE233145:muc14436	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14437	geo:GSE233145:muc14437	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14438	geo:GSE233145:muc14438	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc14439	geo:GSE233145:muc14439	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+muc13946	geo:GSE233145:muc13946	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc13947	geo:GSE233145:muc13947	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc13948	geo:GSE233145:muc13948	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc13949	geo:GSE233145:muc13949	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc13950	geo:GSE233145:muc13950	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc13951	geo:GSE233145:muc13951	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14432	geo:GSE233145:muc14432	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14433	geo:GSE233145:muc14433	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14434	geo:GSE233145:muc14434	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14435	geo:GSE233145:muc14435	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14436	geo:GSE233145:muc14436	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14437	geo:GSE233145:muc14437	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14438	geo:GSE233145:muc14438	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc14439	geo:GSE233145:muc14439	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_COPD_trajectory.h5ad_gunzip/GSE233145_basal_cells_COPD_trajectory.h5ad::obs/cell_type			True
+muc7488	geo:GSE233145:muc7488	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7489	geo:GSE233145:muc7489	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7490	geo:GSE233145:muc7490	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7495	geo:GSE233145:muc7495	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7497	geo:GSE233145:muc7497	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7499	geo:GSE233145:muc7499	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7501	geo:GSE233145:muc7501	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7503	geo:GSE233145:muc7503	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7507	geo:GSE233145:muc7507	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7508	geo:GSE233145:muc7508	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7509	geo:GSE233145:muc7509	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7510	geo:GSE233145:muc7510	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7511	geo:GSE233145:muc7511	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7512	geo:GSE233145:muc7512	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7513	geo:GSE233145:muc7513	donor_id	<column patient>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/patient			True
+muc7488	geo:GSE233145:muc7488	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7489	geo:GSE233145:muc7489	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7490	geo:GSE233145:muc7490	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7495	geo:GSE233145:muc7495	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7497	geo:GSE233145:muc7497	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7499	geo:GSE233145:muc7499	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7501	geo:GSE233145:muc7501	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7503	geo:GSE233145:muc7503	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7507	geo:GSE233145:muc7507	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7508	geo:GSE233145:muc7508	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7509	geo:GSE233145:muc7509	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7510	geo:GSE233145:muc7510	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7511	geo:GSE233145:muc7511	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7512	geo:GSE233145:muc7512	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7513	geo:GSE233145:muc7513	timepoint	<column time_point>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/time_point			True
+muc7488	geo:GSE233145:muc7488	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7489	geo:GSE233145:muc7489	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7490	geo:GSE233145:muc7490	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7495	geo:GSE233145:muc7495	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7497	geo:GSE233145:muc7497	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7499	geo:GSE233145:muc7499	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7501	geo:GSE233145:muc7501	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7503	geo:GSE233145:muc7503	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7507	geo:GSE233145:muc7507	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7508	geo:GSE233145:muc7508	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7509	geo:GSE233145:muc7509	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7510	geo:GSE233145:muc7510	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7511	geo:GSE233145:muc7511	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7512	geo:GSE233145:muc7512	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7513	geo:GSE233145:muc7513	disease_free_text	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7488	geo:GSE233145:muc7488	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7489	geo:GSE233145:muc7489	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7490	geo:GSE233145:muc7490	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7495	geo:GSE233145:muc7495	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7497	geo:GSE233145:muc7497	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7499	geo:GSE233145:muc7499	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7501	geo:GSE233145:muc7501	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7503	geo:GSE233145:muc7503	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7507	geo:GSE233145:muc7507	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7508	geo:GSE233145:muc7508	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7509	geo:GSE233145:muc7509	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7510	geo:GSE233145:muc7510	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7511	geo:GSE233145:muc7511	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7512	geo:GSE233145:muc7512	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7513	geo:GSE233145:muc7513	disease_stage	<column health_state>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/health_state			True
+muc7488	geo:GSE233145:muc7488	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7489	geo:GSE233145:muc7489	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7490	geo:GSE233145:muc7490	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7495	geo:GSE233145:muc7495	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7497	geo:GSE233145:muc7497	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7499	geo:GSE233145:muc7499	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7501	geo:GSE233145:muc7501	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7503	geo:GSE233145:muc7503	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7507	geo:GSE233145:muc7507	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7508	geo:GSE233145:muc7508	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7509	geo:GSE233145:muc7509	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7510	geo:GSE233145:muc7510	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7511	geo:GSE233145:muc7511	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7512	geo:GSE233145:muc7512	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7513	geo:GSE233145:muc7513	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc7488	geo:GSE233145:muc7488	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7489	geo:GSE233145:muc7489	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7490	geo:GSE233145:muc7490	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7495	geo:GSE233145:muc7495	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7497	geo:GSE233145:muc7497	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7499	geo:GSE233145:muc7499	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7501	geo:GSE233145:muc7501	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7503	geo:GSE233145:muc7503	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7507	geo:GSE233145:muc7507	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7508	geo:GSE233145:muc7508	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7509	geo:GSE233145:muc7509	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7510	geo:GSE233145:muc7510	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7511	geo:GSE233145:muc7511	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7512	geo:GSE233145:muc7512	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+muc7513	geo:GSE233145:muc7513	author_cell_type	<column cell_type>	column	work/fp-180fc6210aeb/GSE233145_basal_cells_nonCLD_trajectory.h5ad_gunzip/GSE233145_basal_cells_nonCLD_trajectory.h5ad::obs/cell_type			True
+		organism	Homo sapiens	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+muc13946	geo:GSE233145:muc13946	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13947	geo:GSE233145:muc13947	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13948	geo:GSE233145:muc13948	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13949	geo:GSE233145:muc13949	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13950	geo:GSE233145:muc13950	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13951	geo:GSE233145:muc13951	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14432	geo:GSE233145:muc14432	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14433	geo:GSE233145:muc14433	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14434	geo:GSE233145:muc14434	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14435	geo:GSE233145:muc14435	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14436	geo:GSE233145:muc14436	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14437	geo:GSE233145:muc14437	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14438	geo:GSE233145:muc14438	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14439	geo:GSE233145:muc14439	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13946	geo:GSE233145:muc13946	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13947	geo:GSE233145:muc13947	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13948	geo:GSE233145:muc13948	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13949	geo:GSE233145:muc13949	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13950	geo:GSE233145:muc13950	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13951	geo:GSE233145:muc13951	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14432	geo:GSE233145:muc14432	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14433	geo:GSE233145:muc14433	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14434	geo:GSE233145:muc14434	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14435	geo:GSE233145:muc14435	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14436	geo:GSE233145:muc14436	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14437	geo:GSE233145:muc14437	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14438	geo:GSE233145:muc14438	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc14439	geo:GSE233145:muc14439	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc13946	geo:GSE233145:muc13946	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13947	geo:GSE233145:muc13947	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13948	geo:GSE233145:muc13948	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13949	geo:GSE233145:muc13949	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13950	geo:GSE233145:muc13950	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13951	geo:GSE233145:muc13951	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14432	geo:GSE233145:muc14432	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14433	geo:GSE233145:muc14433	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14434	geo:GSE233145:muc14434	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14435	geo:GSE233145:muc14435	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14436	geo:GSE233145:muc14436	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14437	geo:GSE233145:muc14437	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14438	geo:GSE233145:muc14438	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14439	geo:GSE233145:muc14439	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13946	geo:GSE233145:muc13946	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13947	geo:GSE233145:muc13947	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13948	geo:GSE233145:muc13948	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13949	geo:GSE233145:muc13949	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13950	geo:GSE233145:muc13950	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13951	geo:GSE233145:muc13951	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14432	geo:GSE233145:muc14432	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14433	geo:GSE233145:muc14433	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14434	geo:GSE233145:muc14434	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14435	geo:GSE233145:muc14435	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14436	geo:GSE233145:muc14436	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14437	geo:GSE233145:muc14437	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14438	geo:GSE233145:muc14438	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc14439	geo:GSE233145:muc14439	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc13946	geo:GSE233145:muc13946	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc13947	geo:GSE233145:muc13947	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc13948	geo:GSE233145:muc13948	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc13949	geo:GSE233145:muc13949	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc13950	geo:GSE233145:muc13950	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc13951	geo:GSE233145:muc13951	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14432	geo:GSE233145:muc14432	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14433	geo:GSE233145:muc14433	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14434	geo:GSE233145:muc14434	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14435	geo:GSE233145:muc14435	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14436	geo:GSE233145:muc14436	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14437	geo:GSE233145:muc14437	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14438	geo:GSE233145:muc14438	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc14439	geo:GSE233145:muc14439	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc13946	geo:GSE233145:muc13946	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc13947	geo:GSE233145:muc13947	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc13948	geo:GSE233145:muc13948	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc13949	geo:GSE233145:muc13949	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc13950	geo:GSE233145:muc13950	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc13951	geo:GSE233145:muc13951	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14432	geo:GSE233145:muc14432	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14433	geo:GSE233145:muc14433	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14434	geo:GSE233145:muc14434	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14435	geo:GSE233145:muc14435	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14436	geo:GSE233145:muc14436	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14437	geo:GSE233145:muc14437	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14438	geo:GSE233145:muc14438	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc14439	geo:GSE233145:muc14439	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc13946	geo:GSE233145:muc13946	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc13947	geo:GSE233145:muc13947	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc13948	geo:GSE233145:muc13948	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc13949	geo:GSE233145:muc13949	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc13950	geo:GSE233145:muc13950	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc13951	geo:GSE233145:muc13951	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14432	geo:GSE233145:muc14432	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14433	geo:GSE233145:muc14433	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14434	geo:GSE233145:muc14434	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14435	geo:GSE233145:muc14435	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14436	geo:GSE233145:muc14436	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14437	geo:GSE233145:muc14437	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14438	geo:GSE233145:muc14438	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc14439	geo:GSE233145:muc14439	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc13946	geo:GSE233145:muc13946	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc13947	geo:GSE233145:muc13947	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc13948	geo:GSE233145:muc13948	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc13949	geo:GSE233145:muc13949	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc13950	geo:GSE233145:muc13950	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc13951	geo:GSE233145:muc13951	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14432	geo:GSE233145:muc14432	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14433	geo:GSE233145:muc14433	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14434	geo:GSE233145:muc14434	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14435	geo:GSE233145:muc14435	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14436	geo:GSE233145:muc14436	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14437	geo:GSE233145:muc14437	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14438	geo:GSE233145:muc14438	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc14439	geo:GSE233145:muc14439	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7488	geo:GSE233145:muc7488	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7489	geo:GSE233145:muc7489	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7490	geo:GSE233145:muc7490	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7495	geo:GSE233145:muc7495	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7497	geo:GSE233145:muc7497	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7499	geo:GSE233145:muc7499	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7501	geo:GSE233145:muc7501	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7503	geo:GSE233145:muc7503	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7507	geo:GSE233145:muc7507	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7508	geo:GSE233145:muc7508	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7509	geo:GSE233145:muc7509	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7510	geo:GSE233145:muc7510	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7511	geo:GSE233145:muc7511	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7512	geo:GSE233145:muc7512	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7513	geo:GSE233145:muc7513	disease_free_text	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7488	geo:GSE233145:muc7488	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7489	geo:GSE233145:muc7489	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7490	geo:GSE233145:muc7490	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7495	geo:GSE233145:muc7495	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7497	geo:GSE233145:muc7497	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7499	geo:GSE233145:muc7499	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7501	geo:GSE233145:muc7501	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7503	geo:GSE233145:muc7503	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7507	geo:GSE233145:muc7507	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7508	geo:GSE233145:muc7508	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7509	geo:GSE233145:muc7509	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7510	geo:GSE233145:muc7510	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7511	geo:GSE233145:muc7511	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7512	geo:GSE233145:muc7512	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7513	geo:GSE233145:muc7513	disease_stage	<map of column health_state>	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		primary human bronchial epithelial cells (pHBECs) from end-stage COPD and pulmonary healthy individuals	True
+muc7488	geo:GSE233145:muc7488	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7489	geo:GSE233145:muc7489	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7490	geo:GSE233145:muc7490	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7495	geo:GSE233145:muc7495	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7497	geo:GSE233145:muc7497	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7499	geo:GSE233145:muc7499	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7501	geo:GSE233145:muc7501	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7503	geo:GSE233145:muc7503	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7507	geo:GSE233145:muc7507	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7508	geo:GSE233145:muc7508	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7509	geo:GSE233145:muc7509	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7510	geo:GSE233145:muc7510	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7511	geo:GSE233145:muc7511	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7512	geo:GSE233145:muc7512	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7513	geo:GSE233145:muc7513	tissue_free_text	primary human bronchial epithelial cells (pHBECs) in air-liquid interface culture	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7488	geo:GSE233145:muc7488	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7489	geo:GSE233145:muc7489	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7490	geo:GSE233145:muc7490	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7495	geo:GSE233145:muc7495	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7497	geo:GSE233145:muc7497	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7499	geo:GSE233145:muc7499	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7501	geo:GSE233145:muc7501	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7503	geo:GSE233145:muc7503	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7507	geo:GSE233145:muc7507	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7508	geo:GSE233145:muc7508	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7509	geo:GSE233145:muc7509	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7510	geo:GSE233145:muc7510	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7511	geo:GSE233145:muc7511	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7512	geo:GSE233145:muc7512	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7513	geo:GSE233145:muc7513	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		We characterized primary human bronchial epithelial cells (pHBECs)	True
+muc7488	geo:GSE233145:muc7488	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7489	geo:GSE233145:muc7489	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7490	geo:GSE233145:muc7490	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7495	geo:GSE233145:muc7495	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7497	geo:GSE233145:muc7497	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7499	geo:GSE233145:muc7499	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7501	geo:GSE233145:muc7501	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7503	geo:GSE233145:muc7503	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7507	geo:GSE233145:muc7507	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7508	geo:GSE233145:muc7508	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7509	geo:GSE233145:muc7509	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7510	geo:GSE233145:muc7510	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7511	geo:GSE233145:muc7511	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7512	geo:GSE233145:muc7512	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7513	geo:GSE233145:muc7513	tissue_type	cell culture	file	evidence/PMC11137452.txt		physiological long-term three-dimensional (3D)	True
+muc7488	geo:GSE233145:muc7488	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7489	geo:GSE233145:muc7489	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7490	geo:GSE233145:muc7490	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7495	geo:GSE233145:muc7495	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7497	geo:GSE233145:muc7497	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7499	geo:GSE233145:muc7499	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7501	geo:GSE233145:muc7501	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7503	geo:GSE233145:muc7503	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7507	geo:GSE233145:muc7507	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7508	geo:GSE233145:muc7508	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7509	geo:GSE233145:muc7509	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7510	geo:GSE233145:muc7510	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7511	geo:GSE233145:muc7511	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7512	geo:GSE233145:muc7512	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7513	geo:GSE233145:muc7513	sample_collection_method	thoracic surgery	file	evidence/PMC11137452.txt		Primary cultures were derived from thoracic surgery	True
+muc7488	geo:GSE233145:muc7488	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7489	geo:GSE233145:muc7489	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7490	geo:GSE233145:muc7490	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7495	geo:GSE233145:muc7495	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7497	geo:GSE233145:muc7497	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7499	geo:GSE233145:muc7499	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7501	geo:GSE233145:muc7501	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7503	geo:GSE233145:muc7503	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7507	geo:GSE233145:muc7507	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7508	geo:GSE233145:muc7508	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7509	geo:GSE233145:muc7509	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7510	geo:GSE233145:muc7510	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7511	geo:GSE233145:muc7511	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7512	geo:GSE233145:muc7512	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7513	geo:GSE233145:muc7513	suspension_type	cell	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		Single cell suspensions were processed through Drop-Seq	True
+muc7488	geo:GSE233145:muc7488	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7489	geo:GSE233145:muc7489	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7490	geo:GSE233145:muc7490	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7495	geo:GSE233145:muc7495	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7497	geo:GSE233145:muc7497	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7499	geo:GSE233145:muc7499	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7501	geo:GSE233145:muc7501	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7503	geo:GSE233145:muc7503	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7507	geo:GSE233145:muc7507	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7508	geo:GSE233145:muc7508	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7509	geo:GSE233145:muc7509	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7510	geo:GSE233145:muc7510	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7511	geo:GSE233145:muc7511	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7512	geo:GSE233145:muc7512	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True
+muc7513	geo:GSE233145:muc7513	assay_ontology_term_id	EFO:0008722	file	raw/fp-180fc6210aeb/GSE233145_family.soft.gz		!Sample_description = Drop-seq	True

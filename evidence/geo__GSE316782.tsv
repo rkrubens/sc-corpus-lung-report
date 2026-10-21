@@ -1,0 +1,1226 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9460196	geo:GSE316782:GSM9460196	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460197	geo:GSE316782:GSM9460197	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460198	geo:GSE316782:GSM9460198	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460199	geo:GSE316782:GSM9460199	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460200	geo:GSE316782:GSM9460200	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460201	geo:GSE316782:GSM9460201	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460202	geo:GSE316782:GSM9460202	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460203	geo:GSE316782:GSM9460203	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460204	geo:GSE316782:GSM9460204	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460205	geo:GSE316782:GSM9460205	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460206	geo:GSE316782:GSM9460206	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460207	geo:GSE316782:GSM9460207	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460208	geo:GSE316782:GSM9460208	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460209	geo:GSE316782:GSM9460209	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460210	geo:GSE316782:GSM9460210	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460211	geo:GSE316782:GSM9460211	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460212	geo:GSE316782:GSM9460212	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460213	geo:GSE316782:GSM9460213	donor_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460196	geo:GSE316782:GSM9460196	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460197	geo:GSE316782:GSM9460197	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460198	geo:GSE316782:GSM9460198	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460199	geo:GSE316782:GSM9460199	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460200	geo:GSE316782:GSM9460200	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460201	geo:GSE316782:GSM9460201	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460202	geo:GSE316782:GSM9460202	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460203	geo:GSE316782:GSM9460203	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460204	geo:GSE316782:GSM9460204	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460205	geo:GSE316782:GSM9460205	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460206	geo:GSE316782:GSM9460206	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460207	geo:GSE316782:GSM9460207	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460208	geo:GSE316782:GSM9460208	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460209	geo:GSE316782:GSM9460209	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460210	geo:GSE316782:GSM9460210	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460211	geo:GSE316782:GSM9460211	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460212	geo:GSE316782:GSM9460212	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460213	geo:GSE316782:GSM9460213	sex_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity_ontology_term_id	<column Patient>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/Patient			True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_ontology_term_id	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_free_text	<column TissueType>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/TissueType			True
+GSM9460196	geo:GSE316782:GSM9460196	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460197	geo:GSE316782:GSM9460197	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460198	geo:GSE316782:GSM9460198	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460199	geo:GSE316782:GSM9460199	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460200	geo:GSE316782:GSM9460200	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460201	geo:GSE316782:GSM9460201	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460202	geo:GSE316782:GSM9460202	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460203	geo:GSE316782:GSM9460203	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460204	geo:GSE316782:GSM9460204	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460205	geo:GSE316782:GSM9460205	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460206	geo:GSE316782:GSM9460206	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460207	geo:GSE316782:GSM9460207	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460208	geo:GSE316782:GSM9460208	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460209	geo:GSE316782:GSM9460209	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460210	geo:GSE316782:GSM9460210	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460211	geo:GSE316782:GSM9460211	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460212	geo:GSE316782:GSM9460212	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460213	geo:GSE316782:GSM9460213	disease_ontology_term_id	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460196	geo:GSE316782:GSM9460196	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460197	geo:GSE316782:GSM9460197	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460198	geo:GSE316782:GSM9460198	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460199	geo:GSE316782:GSM9460199	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460200	geo:GSE316782:GSM9460200	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460201	geo:GSE316782:GSM9460201	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460202	geo:GSE316782:GSM9460202	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460203	geo:GSE316782:GSM9460203	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460204	geo:GSE316782:GSM9460204	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460205	geo:GSE316782:GSM9460205	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460206	geo:GSE316782:GSM9460206	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460207	geo:GSE316782:GSM9460207	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460208	geo:GSE316782:GSM9460208	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460209	geo:GSE316782:GSM9460209	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460210	geo:GSE316782:GSM9460210	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460211	geo:GSE316782:GSM9460211	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460212	geo:GSE316782:GSM9460212	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460213	geo:GSE316782:GSM9460213	disease_free_text	<column disease_key>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/disease_key			True
+GSM9460196	geo:GSE316782:GSM9460196	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460197	geo:GSE316782:GSM9460197	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460198	geo:GSE316782:GSM9460198	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460199	geo:GSE316782:GSM9460199	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460200	geo:GSE316782:GSM9460200	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460201	geo:GSE316782:GSM9460201	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460202	geo:GSE316782:GSM9460202	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460203	geo:GSE316782:GSM9460203	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460204	geo:GSE316782:GSM9460204	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460205	geo:GSE316782:GSM9460205	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460206	geo:GSE316782:GSM9460206	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460207	geo:GSE316782:GSM9460207	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460208	geo:GSE316782:GSM9460208	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460209	geo:GSE316782:GSM9460209	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460210	geo:GSE316782:GSM9460210	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460211	geo:GSE316782:GSM9460211	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460212	geo:GSE316782:GSM9460212	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460213	geo:GSE316782:GSM9460213	disease_stage	<column ClinicalStage>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClinicalStage			True
+GSM9460196	geo:GSE316782:GSM9460196	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460197	geo:GSE316782:GSM9460197	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460198	geo:GSE316782:GSM9460198	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460199	geo:GSE316782:GSM9460199	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460200	geo:GSE316782:GSM9460200	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460201	geo:GSE316782:GSM9460201	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460202	geo:GSE316782:GSM9460202	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460203	geo:GSE316782:GSM9460203	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460204	geo:GSE316782:GSM9460204	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460205	geo:GSE316782:GSM9460205	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460206	geo:GSE316782:GSM9460206	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460207	geo:GSE316782:GSM9460207	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460208	geo:GSE316782:GSM9460208	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460209	geo:GSE316782:GSM9460209	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460210	geo:GSE316782:GSM9460210	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460211	geo:GSE316782:GSM9460211	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460212	geo:GSE316782:GSM9460212	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460213	geo:GSE316782:GSM9460213	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9460196	geo:GSE316782:GSM9460196	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460197	geo:GSE316782:GSM9460197	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460198	geo:GSE316782:GSM9460198	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460199	geo:GSE316782:GSM9460199	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460200	geo:GSE316782:GSM9460200	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460201	geo:GSE316782:GSM9460201	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460202	geo:GSE316782:GSM9460202	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460203	geo:GSE316782:GSM9460203	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460204	geo:GSE316782:GSM9460204	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460205	geo:GSE316782:GSM9460205	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460206	geo:GSE316782:GSM9460206	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460207	geo:GSE316782:GSM9460207	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460208	geo:GSE316782:GSM9460208	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460209	geo:GSE316782:GSM9460209	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460210	geo:GSE316782:GSM9460210	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460211	geo:GSE316782:GSM9460211	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460212	geo:GSE316782:GSM9460212	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460213	geo:GSE316782:GSM9460213	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM9460196	geo:GSE316782:GSM9460196	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460197	geo:GSE316782:GSM9460197	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460198	geo:GSE316782:GSM9460198	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460199	geo:GSE316782:GSM9460199	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460200	geo:GSE316782:GSM9460200	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460201	geo:GSE316782:GSM9460201	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460202	geo:GSE316782:GSM9460202	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460203	geo:GSE316782:GSM9460203	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460204	geo:GSE316782:GSM9460204	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460205	geo:GSE316782:GSM9460205	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460206	geo:GSE316782:GSM9460206	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460207	geo:GSE316782:GSM9460207	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460208	geo:GSE316782:GSM9460208	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460209	geo:GSE316782:GSM9460209	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460210	geo:GSE316782:GSM9460210	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460211	geo:GSE316782:GSM9460211	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460212	geo:GSE316782:GSM9460212	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460213	geo:GSE316782:GSM9460213	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity_ontology_term_id	HANCESTRO:0846	derived	ols:hancestro		Native American	True
+GSM9460196	geo:GSE316782:GSM9460196	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460197	geo:GSE316782:GSM9460197	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460198	geo:GSE316782:GSM9460198	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460199	geo:GSE316782:GSM9460199	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460200	geo:GSE316782:GSM9460200	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460201	geo:GSE316782:GSM9460201	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460202	geo:GSE316782:GSM9460202	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460203	geo:GSE316782:GSM9460203	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460204	geo:GSE316782:GSM9460204	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460205	geo:GSE316782:GSM9460205	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460206	geo:GSE316782:GSM9460206	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460207	geo:GSE316782:GSM9460207	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460208	geo:GSE316782:GSM9460208	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460209	geo:GSE316782:GSM9460209	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460210	geo:GSE316782:GSM9460210	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460211	geo:GSE316782:GSM9460211	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460212	geo:GSE316782:GSM9460212	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+GSM9460213	geo:GSE316782:GSM9460213	author_cell_type	<column ClusterLabel>	column	work/fp-6c6a91f4809e/cell_metadata_reconciled.csv.gz/ClusterLabel			True
+		organism	Homo sapiens	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	Sex: Female	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	Sex: Female	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	Sex: Female	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460197	geo:GSE316782:GSM9460197	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460198	geo:GSE316782:GSM9460198	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460199	geo:GSE316782:GSM9460199	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460200	geo:GSE316782:GSM9460200	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460201	geo:GSE316782:GSM9460201	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460202	geo:GSE316782:GSM9460202	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460203	geo:GSE316782:GSM9460203	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460204	geo:GSE316782:GSM9460204	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460205	geo:GSE316782:GSM9460205	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460206	geo:GSE316782:GSM9460206	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460207	geo:GSE316782:GSM9460207	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460208	geo:GSE316782:GSM9460208	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460209	geo:GSE316782:GSM9460209	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460210	geo:GSE316782:GSM9460210	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460211	geo:GSE316782:GSM9460211	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460212	geo:GSE316782:GSM9460212	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460213	geo:GSE316782:GSM9460213	sex	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	Sex: Male	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	age: 64	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	age: 50	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	age: 60	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	age: 63	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	age: 59	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	age: 68	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	age: 70	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	age: 65	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	age: 55	True
+GSM9460196	geo:GSE316782:GSM9460196	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460197	geo:GSE316782:GSM9460197	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460198	geo:GSE316782:GSM9460198	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460199	geo:GSE316782:GSM9460199	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460200	geo:GSE316782:GSM9460200	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460201	geo:GSE316782:GSM9460201	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460202	geo:GSE316782:GSM9460202	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460203	geo:GSE316782:GSM9460203	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460204	geo:GSE316782:GSM9460204	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460205	geo:GSE316782:GSM9460205	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460206	geo:GSE316782:GSM9460206	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460207	geo:GSE316782:GSM9460207	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460208	geo:GSE316782:GSM9460208	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460209	geo:GSE316782:GSM9460209	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460210	geo:GSE316782:GSM9460210	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460211	geo:GSE316782:GSM9460211	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460212	geo:GSE316782:GSM9460212	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460213	geo:GSE316782:GSM9460213	age	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	age: 78	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460196	race: Caucasian	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460197	race: Caucasian	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460199	race: Native American	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460200	race: Black or African American	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460202	race: Caucasian	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460204	race: Black or African American	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460206	race: Caucasian	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460208	race: Caucasian	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460210	race: Hispanic or Latino	True
+GSM9460196	geo:GSE316782:GSM9460196	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460197	geo:GSE316782:GSM9460197	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460198	geo:GSE316782:GSM9460198	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460199	geo:GSE316782:GSM9460199	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460200	geo:GSE316782:GSM9460200	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460201	geo:GSE316782:GSM9460201	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460202	geo:GSE316782:GSM9460202	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460203	geo:GSE316782:GSM9460203	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460204	geo:GSE316782:GSM9460204	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460205	geo:GSE316782:GSM9460205	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460206	geo:GSE316782:GSM9460206	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460207	geo:GSE316782:GSM9460207	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460208	geo:GSE316782:GSM9460208	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460209	geo:GSE316782:GSM9460209	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460210	geo:GSE316782:GSM9460210	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460211	geo:GSE316782:GSM9460211	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460212	geo:GSE316782:GSM9460212	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460213	geo:GSE316782:GSM9460213	self_reported_ethnicity	<map of column Patient>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz	GSM9460212	race: Caucasian	True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_ontology_term_id	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_ontology_term_id	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_free_text	<map of column TissueType>	file	evidence/PMC12870645.txt		Primary tumor, normal lung, and LN tissues were obtained from 11 individuals	True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_free_text	<map of column TissueType>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460196	geo:GSE316782:GSM9460196	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460197	geo:GSE316782:GSM9460197	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460198	geo:GSE316782:GSM9460198	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460199	geo:GSE316782:GSM9460199	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460200	geo:GSE316782:GSM9460200	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460201	geo:GSE316782:GSM9460201	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460202	geo:GSE316782:GSM9460202	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460203	geo:GSE316782:GSM9460203	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460204	geo:GSE316782:GSM9460204	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460205	geo:GSE316782:GSM9460205	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460206	geo:GSE316782:GSM9460206	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460207	geo:GSE316782:GSM9460207	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460208	geo:GSE316782:GSM9460208	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460209	geo:GSE316782:GSM9460209	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460210	geo:GSE316782:GSM9460210	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460211	geo:GSE316782:GSM9460211	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460212	geo:GSE316782:GSM9460212	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460213	geo:GSE316782:GSM9460213	disease_ontology_term_id	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460196	geo:GSE316782:GSM9460196	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460197	geo:GSE316782:GSM9460197	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460198	geo:GSE316782:GSM9460198	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460199	geo:GSE316782:GSM9460199	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460200	geo:GSE316782:GSM9460200	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460201	geo:GSE316782:GSM9460201	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460202	geo:GSE316782:GSM9460202	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460203	geo:GSE316782:GSM9460203	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460204	geo:GSE316782:GSM9460204	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460205	geo:GSE316782:GSM9460205	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460206	geo:GSE316782:GSM9460206	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460207	geo:GSE316782:GSM9460207	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460208	geo:GSE316782:GSM9460208	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460209	geo:GSE316782:GSM9460209	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460210	geo:GSE316782:GSM9460210	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460211	geo:GSE316782:GSM9460211	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460212	geo:GSE316782:GSM9460212	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460213	geo:GSE316782:GSM9460213	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460196	geo:GSE316782:GSM9460196	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460197	geo:GSE316782:GSM9460197	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460198	geo:GSE316782:GSM9460198	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460199	geo:GSE316782:GSM9460199	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460200	geo:GSE316782:GSM9460200	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460201	geo:GSE316782:GSM9460201	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460202	geo:GSE316782:GSM9460202	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460203	geo:GSE316782:GSM9460203	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460204	geo:GSE316782:GSM9460204	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460205	geo:GSE316782:GSM9460205	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460206	geo:GSE316782:GSM9460206	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460207	geo:GSE316782:GSM9460207	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460208	geo:GSE316782:GSM9460208	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460209	geo:GSE316782:GSM9460209	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460210	geo:GSE316782:GSM9460210	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460211	geo:GSE316782:GSM9460211	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460212	geo:GSE316782:GSM9460212	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460213	geo:GSE316782:GSM9460213	disease_ontology_term_id	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460196	geo:GSE316782:GSM9460196	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460197	geo:GSE316782:GSM9460197	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460198	geo:GSE316782:GSM9460198	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460199	geo:GSE316782:GSM9460199	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460200	geo:GSE316782:GSM9460200	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460201	geo:GSE316782:GSM9460201	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460202	geo:GSE316782:GSM9460202	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460203	geo:GSE316782:GSM9460203	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460204	geo:GSE316782:GSM9460204	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460205	geo:GSE316782:GSM9460205	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460206	geo:GSE316782:GSM9460206	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460207	geo:GSE316782:GSM9460207	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460208	geo:GSE316782:GSM9460208	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460209	geo:GSE316782:GSM9460209	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460210	geo:GSE316782:GSM9460210	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460211	geo:GSE316782:GSM9460211	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460212	geo:GSE316782:GSM9460212	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460213	geo:GSE316782:GSM9460213	disease_free_text	<map of column disease_key>	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		patients with aggressive non-small cell lung cancer	True
+GSM9460196	geo:GSE316782:GSM9460196	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460197	geo:GSE316782:GSM9460197	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460198	geo:GSE316782:GSM9460198	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460199	geo:GSE316782:GSM9460199	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460200	geo:GSE316782:GSM9460200	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460201	geo:GSE316782:GSM9460201	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460202	geo:GSE316782:GSM9460202	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460203	geo:GSE316782:GSM9460203	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460204	geo:GSE316782:GSM9460204	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460205	geo:GSE316782:GSM9460205	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460206	geo:GSE316782:GSM9460206	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460207	geo:GSE316782:GSM9460207	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460208	geo:GSE316782:GSM9460208	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460209	geo:GSE316782:GSM9460209	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460210	geo:GSE316782:GSM9460210	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460211	geo:GSE316782:GSM9460211	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460212	geo:GSE316782:GSM9460212	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460213	geo:GSE316782:GSM9460213	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		Normal lung tissue (green) was collected from 4 patients	True
+GSM9460196	geo:GSE316782:GSM9460196	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460197	geo:GSE316782:GSM9460197	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460198	geo:GSE316782:GSM9460198	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460199	geo:GSE316782:GSM9460199	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460200	geo:GSE316782:GSM9460200	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460201	geo:GSE316782:GSM9460201	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460202	geo:GSE316782:GSM9460202	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460203	geo:GSE316782:GSM9460203	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460204	geo:GSE316782:GSM9460204	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460205	geo:GSE316782:GSM9460205	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460206	geo:GSE316782:GSM9460206	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460207	geo:GSE316782:GSM9460207	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460208	geo:GSE316782:GSM9460208	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460209	geo:GSE316782:GSM9460209	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460210	geo:GSE316782:GSM9460210	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460211	geo:GSE316782:GSM9460211	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460212	geo:GSE316782:GSM9460212	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460213	geo:GSE316782:GSM9460213	disease_free_text	<map of column disease_key>	file	evidence/PMC12870645.txt		one patient was diagnosed with benign hamartoma (Patient 1)	True
+GSM9460196	geo:GSE316782:GSM9460196	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460197	geo:GSE316782:GSM9460197	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460198	geo:GSE316782:GSM9460198	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460199	geo:GSE316782:GSM9460199	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460200	geo:GSE316782:GSM9460200	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460201	geo:GSE316782:GSM9460201	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460202	geo:GSE316782:GSM9460202	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460203	geo:GSE316782:GSM9460203	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460204	geo:GSE316782:GSM9460204	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460205	geo:GSE316782:GSM9460205	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460206	geo:GSE316782:GSM9460206	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460207	geo:GSE316782:GSM9460207	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460208	geo:GSE316782:GSM9460208	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460209	geo:GSE316782:GSM9460209	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460210	geo:GSE316782:GSM9460210	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460211	geo:GSE316782:GSM9460211	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460212	geo:GSE316782:GSM9460212	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460213	geo:GSE316782:GSM9460213	tissue_type	tissue	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460196	geo:GSE316782:GSM9460196	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460197	geo:GSE316782:GSM9460197	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460198	geo:GSE316782:GSM9460198	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460199	geo:GSE316782:GSM9460199	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460200	geo:GSE316782:GSM9460200	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460201	geo:GSE316782:GSM9460201	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460202	geo:GSE316782:GSM9460202	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460203	geo:GSE316782:GSM9460203	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460204	geo:GSE316782:GSM9460204	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460205	geo:GSE316782:GSM9460205	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460206	geo:GSE316782:GSM9460206	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460207	geo:GSE316782:GSM9460207	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460208	geo:GSE316782:GSM9460208	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460209	geo:GSE316782:GSM9460209	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460210	geo:GSE316782:GSM9460210	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460211	geo:GSE316782:GSM9460211	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460212	geo:GSE316782:GSM9460212	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460213	geo:GSE316782:GSM9460213	sample_collection_method	fine needle aspirate of surgical specimen	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Fine needle aspirate samples of lymph nodes, primary tumors, and normal lung tissue were collected from surgical specimens	True
+GSM9460196	geo:GSE316782:GSM9460196	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460197	geo:GSE316782:GSM9460197	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460198	geo:GSE316782:GSM9460198	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460199	geo:GSE316782:GSM9460199	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460200	geo:GSE316782:GSM9460200	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460201	geo:GSE316782:GSM9460201	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460202	geo:GSE316782:GSM9460202	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460203	geo:GSE316782:GSM9460203	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460204	geo:GSE316782:GSM9460204	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460205	geo:GSE316782:GSM9460205	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460206	geo:GSE316782:GSM9460206	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460207	geo:GSE316782:GSM9460207	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460208	geo:GSE316782:GSM9460208	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460209	geo:GSE316782:GSM9460209	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460210	geo:GSE316782:GSM9460210	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460211	geo:GSE316782:GSM9460211	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460212	geo:GSE316782:GSM9460212	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460213	geo:GSE316782:GSM9460213	suspension_type	cell	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Cell suspensions were then washed, counted, pooled, concentrated	True
+GSM9460196	geo:GSE316782:GSM9460196	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460197	geo:GSE316782:GSM9460197	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460198	geo:GSE316782:GSM9460198	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460199	geo:GSE316782:GSM9460199	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460200	geo:GSE316782:GSM9460200	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460201	geo:GSE316782:GSM9460201	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460202	geo:GSE316782:GSM9460202	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460203	geo:GSE316782:GSM9460203	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460204	geo:GSE316782:GSM9460204	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460205	geo:GSE316782:GSM9460205	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460206	geo:GSE316782:GSM9460206	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460207	geo:GSE316782:GSM9460207	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460208	geo:GSE316782:GSM9460208	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460209	geo:GSE316782:GSM9460209	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460210	geo:GSE316782:GSM9460210	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460211	geo:GSE316782:GSM9460211	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460212	geo:GSE316782:GSM9460212	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True
+GSM9460213	geo:GSE316782:GSM9460213	assay	10x 5' v2	file	raw/fp-6c6a91f4809e/GSE316782_family.soft.gz		Chromium Next GEM Single Cell 5′ Kit v2	True

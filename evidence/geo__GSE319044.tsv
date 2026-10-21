@@ -1,0 +1,133 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9508610	geo:GSE319044:GSM9508610	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9508610	geo:GSE319044:GSM9508610	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508610	geo:GSE319044:GSM9508610	development_stage_ontology_term_id	HsapDv:0000135	derived	age_in_years:'41-year-old stage':ols:hsapdv		41	True
+GSM9508610	geo:GSE319044:GSM9508610	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508610	geo:GSE319044:GSM9508610	author_cell_type	<column atac_Cluster>	column	work/fp-68c1f3710753/reconciled/GSM9508610_cellmeta.csv.gz/atac_Cluster			True
+GSM9508611	geo:GSE319044:GSM9508611	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9508611	geo:GSE319044:GSM9508611	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508611	geo:GSE319044:GSM9508611	development_stage_ontology_term_id	HsapDv:0000130	derived	age_in_years:'36-year-old stage':ols:hsapdv		36	True
+GSM9508611	geo:GSE319044:GSM9508611	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508611	geo:GSE319044:GSM9508611	author_cell_type	<column atac_Cluster>	column	work/fp-68c1f3710753/reconciled/GSM9508611_cellmeta.csv.gz/atac_Cluster			True
+GSM9508612	geo:GSE319044:GSM9508612	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9508612	geo:GSE319044:GSM9508612	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508612	geo:GSE319044:GSM9508612	development_stage_ontology_term_id	HsapDv:0000141	derived	age_in_years:'47-year-old stage':ols:hsapdv		47	True
+GSM9508612	geo:GSE319044:GSM9508612	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508612	geo:GSE319044:GSM9508612	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9508612	geo:GSE319044:GSM9508612	author_cell_type	<column atac_Cluster>	column	work/fp-68c1f3710753/reconciled/GSM9508612_cellmeta.csv.gz/atac_Cluster			True
+GSM9508613	geo:GSE319044:GSM9508613	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9508613	geo:GSE319044:GSM9508613	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508613	geo:GSE319044:GSM9508613	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9508613	geo:GSE319044:GSM9508613	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508613	geo:GSE319044:GSM9508613	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9508613	geo:GSE319044:GSM9508613	author_cell_type	<column rna_CellType>	column	work/fp-68c1f3710753/reconciled/GSM9508613_cellmeta.csv.gz/rna_CellType			True
+GSM9508614	geo:GSE319044:GSM9508614	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9508614	geo:GSE319044:GSM9508614	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508614	geo:GSE319044:GSM9508614	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+GSM9508614	geo:GSE319044:GSM9508614	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508614	geo:GSE319044:GSM9508614	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9508614	geo:GSE319044:GSM9508614	author_cell_type	<column rna_CellType>	column	work/fp-68c1f3710753/reconciled/GSM9508614_cellmeta.csv.gz/rna_CellType			True
+GSM9508615	geo:GSE319044:GSM9508615	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9508615	geo:GSE319044:GSM9508615	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508615	geo:GSE319044:GSM9508615	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+GSM9508615	geo:GSE319044:GSM9508615	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508615	geo:GSE319044:GSM9508615	disease_ontology_term_id	MONDO:0004979	derived	ols:mondo		asthma	True
+GSM9508615	geo:GSE319044:GSM9508615	author_cell_type	<column rna_CellType>	column	work/fp-68c1f3710753/reconciled/GSM9508615_cellmeta.csv.gz/rna_CellType			True
+GSM9508616	geo:GSE319044:GSM9508616	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9508616	geo:GSE319044:GSM9508616	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508616	geo:GSE319044:GSM9508616	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+GSM9508616	geo:GSE319044:GSM9508616	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508616	geo:GSE319044:GSM9508616	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9508616	geo:GSE319044:GSM9508616	author_cell_type	<column rna_CellType>	column	work/fp-68c1f3710753/reconciled/GSM9508616_cellmeta.csv.gz/rna_CellType			True
+GSM9508617	geo:GSE319044:GSM9508617	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9508617	geo:GSE319044:GSM9508617	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508617	geo:GSE319044:GSM9508617	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM9508617	geo:GSE319044:GSM9508617	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508617	geo:GSE319044:GSM9508617	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9508617	geo:GSE319044:GSM9508617	author_cell_type	<column rna_CellType>	column	work/fp-68c1f3710753/reconciled/GSM9508617_cellmeta.csv.gz/rna_CellType			True
+GSM9508618	geo:GSE319044:GSM9508618	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9508618	geo:GSE319044:GSM9508618	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM9508618	geo:GSE319044:GSM9508618	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM9508618	geo:GSE319044:GSM9508618	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9508618	geo:GSE319044:GSM9508618	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9508618	geo:GSE319044:GSM9508618	author_cell_type	<column rna_CellType>	column	work/fp-68c1f3710753/reconciled/GSM9508618_cellmeta.csv.gz/rna_CellType			True
+		organism	Homo sapiens	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9508610	geo:GSE319044:GSM9508610	donor_id	709	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		709 Lung COB-11	True
+GSM9508610	geo:GSE319044:GSM9508610	sex	female	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-11#AGTAATCGTGCTTTAC-1,-10.8789030091396,-3.3997678230523,Lung,Naive_B,case,12142022,F,41,White: non specified	True
+GSM9508610	geo:GSE319044:GSM9508610	age	41	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-11#AGTAATCGTGCTTTAC-1,-10.8789030091396,-3.3997678230523,Lung,Naive_B,case,12142022,F,41,White: non specified	True
+GSM9508610	geo:GSE319044:GSM9508610	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508610	geo:GSE319044:GSM9508610	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508610	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508610	geo:GSE319044:GSM9508610	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508610	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508610	geo:GSE319044:GSM9508610	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508610	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508611	geo:GSE319044:GSM9508611	donor_id	705	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		705 Lung COB-5	True
+GSM9508611	geo:GSE319044:GSM9508611	sex	female	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-5#AAGTGCAAGCTTGCTC-1,-4.03617344065817,1.41472523705969,Lung,Memory_B,case,12122022,F,36,White: non specified	True
+GSM9508611	geo:GSE319044:GSM9508611	age	36	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-5#AAGTGCAAGCTTGCTC-1,-4.03617344065817,1.41472523705969,Lung,Memory_B,case,12122022,F,36,White: non specified	True
+GSM9508611	geo:GSE319044:GSM9508611	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508611	geo:GSE319044:GSM9508611	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508611	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508611	geo:GSE319044:GSM9508611	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508611	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508611	geo:GSE319044:GSM9508611	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508611	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508612	geo:GSE319044:GSM9508612	donor_id	707	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		707 Lung COB-6	True
+GSM9508612	geo:GSE319044:GSM9508612	sex	male	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-6#GCCAGGTTCATTGCGG-1,-3.35969886943014,1.38316994206916,Lung,Memory_B,control,12122022,M,47,Hispanic/Latino-Not Specified	True
+GSM9508612	geo:GSE319044:GSM9508612	age	47	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-6#GCCAGGTTCATTGCGG-1,-3.35969886943014,1.38316994206916,Lung,Memory_B,control,12122022,M,47,Hispanic/Latino-Not Specified	True
+GSM9508612	geo:GSE319044:GSM9508612	disease_free_text	normal	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		COB-6#GCCAGGTTCATTGCGG-1,-3.35969886943014,1.38316994206916,Lung,Memory_B,control,12122022,M,47,Hispanic/Latino-Not Specified	True
+GSM9508612	geo:GSE319044:GSM9508612	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508612	geo:GSE319044:GSM9508612	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508612	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508612	geo:GSE319044:GSM9508612	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508612	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508612	geo:GSE319044:GSM9508612	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508612	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508613	geo:GSE319044:GSM9508613	donor_id	635	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		635 Lung SMO-5	True
+GSM9508613	geo:GSE319044:GSM9508613	sex	female	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-5#AGTGCACGTGCTGTAA-1,3.95339002446024,-5.24357909662713,Lung,Th17/CD4_T,control,10102022,F,57,White: non specified	True
+GSM9508613	geo:GSE319044:GSM9508613	age	57	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-5#AGTGCACGTGCTGTAA-1,3.95339002446024,-5.24357909662713,Lung,Th17/CD4_T,control,10102022,F,57,White: non specified	True
+GSM9508613	geo:GSE319044:GSM9508613	disease_free_text	normal	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-5#AGTGCACGTGCTGTAA-1,3.95339002446024,-5.24357909662713,Lung,Th17/CD4_T,control,10102022,F,57,White: non specified	True
+GSM9508613	geo:GSE319044:GSM9508613	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508613	geo:GSE319044:GSM9508613	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508613	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508613	geo:GSE319044:GSM9508613	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508613	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508613	geo:GSE319044:GSM9508613	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508613	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508614	geo:GSE319044:GSM9508614	donor_id	597	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		597 Lung SMO-7	True
+GSM9508614	geo:GSE319044:GSM9508614	sex	male	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-7#TGTCAATCATGAATAG-1,0.698121484226867,4.05796318547736,Lung,Other,control,10102022,M,30,Black or African American	True
+GSM9508614	geo:GSE319044:GSM9508614	age	30	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-7#TGTCAATCATGAATAG-1,0.698121484226867,4.05796318547736,Lung,Other,control,10102022,M,30,Black or African American	True
+GSM9508614	geo:GSE319044:GSM9508614	disease_free_text	normal	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-7#TGTCAATCATGAATAG-1,0.698121484226867,4.05796318547736,Lung,Other,control,10102022,M,30,Black or African American	True
+GSM9508614	geo:GSE319044:GSM9508614	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508614	geo:GSE319044:GSM9508614	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508614	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508614	geo:GSE319044:GSM9508614	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508614	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508614	geo:GSE319044:GSM9508614	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508614	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508615	geo:GSE319044:GSM9508615	donor_id	694	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		694 Lung SMO-8	True
+GSM9508615	geo:GSE319044:GSM9508615	sex	female	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-8#CGAACCGGTTGCTGGG-1,0.554240785396978,4.26754169957648,Lung,Other,case,10192022,F,39,Black or African American	True
+GSM9508615	geo:GSE319044:GSM9508615	age	39	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-8#CGAACCGGTTGCTGGG-1,0.554240785396978,4.26754169957648,Lung,Other,case,10192022,F,39,Black or African American	True
+GSM9508615	geo:GSE319044:GSM9508615	disease_free_text	asthma	file	raw/fp-68c1f3710753/GSE319044_snRNA_cluster_labels.csv.gz		Black or African American,asthmatic	True
+GSM9508615	geo:GSE319044:GSM9508615	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508615	geo:GSE319044:GSM9508615	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508615	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508615	geo:GSE319044:GSM9508615	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508615	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508615	geo:GSE319044:GSM9508615	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508615	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508616	geo:GSE319044:GSM9508616	donor_id	697	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		697 Lung SMO-9	True
+GSM9508616	geo:GSE319044:GSM9508616	sex	female	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-9#CGTGCTGCAGGAATCG-1,-1.68259082003744,7.97016029851447,Lung,Other,control,10192022,F,39,White: non specified	True
+GSM9508616	geo:GSE319044:GSM9508616	age	39	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-9#CGTGCTGCAGGAATCG-1,-1.68259082003744,7.97016029851447,Lung,Other,control,10192022,F,39,White: non specified	True
+GSM9508616	geo:GSE319044:GSM9508616	disease_free_text	normal	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-9#CGTGCTGCAGGAATCG-1,-1.68259082003744,7.97016029851447,Lung,Other,control,10192022,F,39,White: non specified	True
+GSM9508616	geo:GSE319044:GSM9508616	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508616	geo:GSE319044:GSM9508616	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508616	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508616	geo:GSE319044:GSM9508616	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508616	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508616	geo:GSE319044:GSM9508616	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508616	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508617	geo:GSE319044:GSM9508617	donor_id	554	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		554 Lung SMO-2	True
+GSM9508617	geo:GSE319044:GSM9508617	sex	male	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-2#AAAGGCTCATAATCCG-1,-2.65942821665914,10.1282299091102,Lung,Other,control,8092022,M,46,White: non specified	True
+GSM9508617	geo:GSE319044:GSM9508617	age	46	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-2#AAAGGCTCATAATCCG-1,-2.65942821665914,10.1282299091102,Lung,Other,control,8092022,M,46,White: non specified	True
+GSM9508617	geo:GSE319044:GSM9508617	disease_free_text	normal	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-2#AAAGGCTCATAATCCG-1,-2.65942821665914,10.1282299091102,Lung,Other,control,8092022,M,46,White: non specified	True
+GSM9508617	geo:GSE319044:GSM9508617	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508617	geo:GSE319044:GSM9508617	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508617	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508617	geo:GSE319044:GSM9508617	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508617	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508617	geo:GSE319044:GSM9508617	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508617	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508618	geo:GSE319044:GSM9508618	donor_id	706	file	raw/fp-68c1f3710753/GSE319044_SampleTitles_and_Donors_metadata.txt.gz		706 Lung SMO-3	True
+GSM9508618	geo:GSE319044:GSM9508618	sex	female	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-3#ACCAAGCGTTTGCTGT-1,-2.57773647471578,10.3736694385291,Lung,Other,control,8092022,F,57,Black or African American	True
+GSM9508618	geo:GSE319044:GSM9508618	age	57	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-3#ACCAAGCGTTTGCTGT-1,-2.57773647471578,10.3736694385291,Lung,Other,control,8092022,F,57,Black or African American	True
+GSM9508618	geo:GSE319044:GSM9508618	disease_free_text	normal	file	raw/fp-68c1f3710753/GSE319044_snATAC_cluster_labels.csv.gz		SMO-3#ACCAAGCGTTTGCTGT-1,-2.57773647471578,10.3736694385291,Lung,Other,control,8092022,F,57,Black or African American	True
+GSM9508618	geo:GSE319044:GSM9508618	suspension_type	nucleus	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Series_overall_design = Single-nuclei were extracted from lung and spleen tissues of 9 deceased donors.	True
+GSM9508618	geo:GSE319044:GSM9508618	sample_preservation	cryopreserved	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508618	Mononuclear cells were isolated and cryopreserved.	True
+GSM9508618	geo:GSE319044:GSM9508618	assay	10x multiome	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508618	Chromium Next GEM Single Cell Multiome ATAC and Gene Expression Reagent	True
+GSM9508618	geo:GSE319044:GSM9508618	tissue_free_text	Lung	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz	GSM9508618	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9508610	geo:GSE319044:GSM9508610	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508611	geo:GSE319044:GSM9508611	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508612	geo:GSE319044:GSM9508612	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508613	geo:GSE319044:GSM9508613	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508614	geo:GSE319044:GSM9508614	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508615	geo:GSE319044:GSM9508615	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508616	geo:GSE319044:GSM9508616	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508617	geo:GSE319044:GSM9508617	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True
+GSM9508618	geo:GSE319044:GSM9508618	atac.genome_assembly	GRCh38	file	raw/fp-68c1f3710753/GSE319044_family.soft.gz		!Sample_data_processing = Assembly: hg38/GRCh38	True

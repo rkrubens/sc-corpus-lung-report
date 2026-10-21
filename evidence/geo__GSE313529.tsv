@@ -1,0 +1,13 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9369726	geo:GSE313529:GSM9369726	tissue_free_text	bronchoalveolar lavage	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369726	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM9369726	geo:GSE313529:GSM9369726	sample_collection_method	bronchoalveolar lavage	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369726	!Sample_source_name_ch1 = bronchoalveolar lavage	True
+GSM9369726	geo:GSE313529:GSM9369726	suspension_type	cell	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369726	resuspended in PBS with 0.04% BSA at the concentration required for 10x Chromium loading	True
+GSM9369726	geo:GSE313529:GSM9369726	disease_free_text	non-lesion control airway BALF of allo-HSCT recipients with BOS	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369726	!Sample_title = BALF cells from non-lesion control airway	True
+GSM9369726	geo:GSE313529:GSM9369726	sampled_site_condition	non-lesion control airway	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369726	!Sample_title = BALF cells from non-lesion control airway	True
+GSM9369727	geo:GSE313529:GSM9369727	tissue_free_text	bronchoalveolar lavage	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369727	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM9369727	geo:GSE313529:GSM9369727	sample_collection_method	bronchoalveolar lavage	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369727	!Sample_source_name_ch1 = bronchoalveolar lavage	True
+GSM9369727	geo:GSE313529:GSM9369727	suspension_type	cell	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369727	resuspended in PBS with 0.04% BSA at the concentration required for 10x Chromium loading	True
+GSM9369727	geo:GSE313529:GSM9369727	disease_free_text	bronchiolitis obliterans syndrome	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369727	!Sample_title = BALF cells from BOS lesion	True
+GSM9369727	geo:GSE313529:GSM9369727	disease_ontology_term_id	MONDO:0015265	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369727	!Sample_title = BALF cells from BOS lesion	True
+GSM9369727	geo:GSE313529:GSM9369727	sampled_site_condition	BOS lesion	file	raw/fp-dc7a2e4f110b/GSE313529_family.soft.gz	GSM9369727	!Sample_title = BALF cells from BOS lesion	True

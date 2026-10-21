@@ -1,0 +1,254 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8823747	geo:GSE290834:GSM8823747	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823747	geo:GSE290834:GSM8823747	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823747.tsv.gz/predicted.celltype_level3			True
+GSM8823748	geo:GSE290834:GSM8823748	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823748	geo:GSE290834:GSM8823748	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823748.tsv.gz/predicted.ann_finest_level			True
+GSM8823749	geo:GSE290834:GSM8823749	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823749	geo:GSE290834:GSM8823749	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823749.tsv.gz/predicted.celltype_level3			True
+GSM8823750	geo:GSE290834:GSM8823750	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823750	geo:GSE290834:GSM8823750	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823750.tsv.gz/predicted.ann_finest_level			True
+GSM8823751	geo:GSE290834:GSM8823751	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823751	geo:GSE290834:GSM8823751	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823751.tsv.gz/predicted.celltype_level3			True
+GSM8823752	geo:GSE290834:GSM8823752	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823752	geo:GSE290834:GSM8823752	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823752.tsv.gz/predicted.ann_finest_level			True
+GSM8823753	geo:GSE290834:GSM8823753	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823753	geo:GSE290834:GSM8823753	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823753.tsv.gz/predicted.celltype_level3			True
+GSM8823754	geo:GSE290834:GSM8823754	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823754	geo:GSE290834:GSM8823754	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823754.tsv.gz/predicted.ann_finest_level			True
+GSM8823755	geo:GSE290834:GSM8823755	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823755	geo:GSE290834:GSM8823755	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823755.tsv.gz/predicted.celltype_level3			True
+GSM8823756	geo:GSE290834:GSM8823756	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823756	geo:GSE290834:GSM8823756	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823756.tsv.gz/predicted.celltype_level3			True
+GSM8823757	geo:GSE290834:GSM8823757	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823757	geo:GSE290834:GSM8823757	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823757.tsv.gz/predicted.ann_finest_level			True
+GSM8823758	geo:GSE290834:GSM8823758	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823758	geo:GSE290834:GSM8823758	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823758.tsv.gz/predicted.celltype_level3			True
+GSM8823759	geo:GSE290834:GSM8823759	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823759	geo:GSE290834:GSM8823759	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823759.tsv.gz/predicted.ann_finest_level			True
+GSM8823760	geo:GSE290834:GSM8823760	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823760	geo:GSE290834:GSM8823760	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823760.tsv.gz/predicted.celltype_level3			True
+GSM8823761	geo:GSE290834:GSM8823761	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823761	geo:GSE290834:GSM8823761	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823761.tsv.gz/predicted.ann_finest_level			True
+GSM8823762	geo:GSE290834:GSM8823762	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823762	geo:GSE290834:GSM8823762	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823762.tsv.gz/predicted.celltype_level3			True
+GSM8823763	geo:GSE290834:GSM8823763	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823763	geo:GSE290834:GSM8823763	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823763.tsv.gz/predicted.ann_finest_level			True
+GSM8823764	geo:GSE290834:GSM8823764	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823764	geo:GSE290834:GSM8823764	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823764.tsv.gz/predicted.celltype_level3			True
+GSM8823765	geo:GSE290834:GSM8823765	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823765	geo:GSE290834:GSM8823765	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823765.tsv.gz/predicted.ann_finest_level			True
+GSM8823766	geo:GSE290834:GSM8823766	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823766	geo:GSE290834:GSM8823766	author_cell_type	<column predicted.celltype_level3>	column	work/fp-8d7b7f74e805/annot/GSM8823766.tsv.gz/predicted.celltype_level3			True
+GSM8823767	geo:GSE290834:GSM8823767	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8823767	geo:GSE290834:GSM8823767	author_cell_type	<column predicted.ann_finest_level>	column	work/fp-8d7b7f74e805/annot/GSM8823767.tsv.gz/predicted.ann_finest_level			True
+		organism	Homo sapiens	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8823747	geo:GSE290834:GSM8823747	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823747	geo:GSE290834:GSM8823747	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823747	geo:GSE290834:GSM8823747	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823747	geo:GSE290834:GSM8823747	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823747	geo:GSE290834:GSM8823747	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_source_name_ch1 = distal lung	True
+GSM8823747	geo:GSE290834:GSM8823747	disease_free_text	cGVHD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823747	geo:GSE290834:GSM8823747	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823747	geo:GSE290834:GSM8823747	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823747	geo:GSE290834:GSM8823747	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823747	geo:GSE290834:GSM8823747	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823747	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823748	geo:GSE290834:GSM8823748	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823748	geo:GSE290834:GSM8823748	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823748	geo:GSE290834:GSM8823748	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823748	geo:GSE290834:GSM8823748	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823748	geo:GSE290834:GSM8823748	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_source_name_ch1 = distal lung	True
+GSM8823748	geo:GSE290834:GSM8823748	disease_free_text	cGVHD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823748	geo:GSE290834:GSM8823748	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823748	geo:GSE290834:GSM8823748	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823748	geo:GSE290834:GSM8823748	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823748	geo:GSE290834:GSM8823748	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823748	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823749	geo:GSE290834:GSM8823749	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823749	geo:GSE290834:GSM8823749	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823749	geo:GSE290834:GSM8823749	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823749	geo:GSE290834:GSM8823749	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823749	geo:GSE290834:GSM8823749	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_source_name_ch1 = distal lung	True
+GSM8823749	geo:GSE290834:GSM8823749	disease_free_text	cGVHD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823749	geo:GSE290834:GSM8823749	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823749	geo:GSE290834:GSM8823749	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823749	geo:GSE290834:GSM8823749	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823749	geo:GSE290834:GSM8823749	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823749	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823750	geo:GSE290834:GSM8823750	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823750	geo:GSE290834:GSM8823750	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823750	geo:GSE290834:GSM8823750	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823750	geo:GSE290834:GSM8823750	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823750	geo:GSE290834:GSM8823750	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_source_name_ch1 = distal lung	True
+GSM8823750	geo:GSE290834:GSM8823750	disease_free_text	cGVHD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823750	geo:GSE290834:GSM8823750	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823750	geo:GSE290834:GSM8823750	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823750	geo:GSE290834:GSM8823750	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823750	geo:GSE290834:GSM8823750	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823750	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823751	geo:GSE290834:GSM8823751	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823751	geo:GSE290834:GSM8823751	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823751	geo:GSE290834:GSM8823751	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823751	geo:GSE290834:GSM8823751	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823751	geo:GSE290834:GSM8823751	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_source_name_ch1 = distal lung	True
+GSM8823751	geo:GSE290834:GSM8823751	disease_free_text	cGVHD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823751	geo:GSE290834:GSM8823751	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823751	geo:GSE290834:GSM8823751	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823751	geo:GSE290834:GSM8823751	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823751	geo:GSE290834:GSM8823751	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823751	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823752	geo:GSE290834:GSM8823752	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823752	geo:GSE290834:GSM8823752	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823752	geo:GSE290834:GSM8823752	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823752	geo:GSE290834:GSM8823752	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823752	geo:GSE290834:GSM8823752	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_source_name_ch1 = distal lung	True
+GSM8823752	geo:GSE290834:GSM8823752	disease_free_text	cGVHD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = disease state: cGVHD BOS	True
+GSM8823752	geo:GSE290834:GSM8823752	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823752	geo:GSE290834:GSM8823752	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823752	geo:GSE290834:GSM8823752	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823752	geo:GSE290834:GSM8823752	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823752	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823753	geo:GSE290834:GSM8823753	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823753	geo:GSE290834:GSM8823753	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823753	geo:GSE290834:GSM8823753	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823753	geo:GSE290834:GSM8823753	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823753	geo:GSE290834:GSM8823753	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_source_name_ch1 = distal lung	True
+GSM8823753	geo:GSE290834:GSM8823753	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823753	geo:GSE290834:GSM8823753	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823753	geo:GSE290834:GSM8823753	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823753	geo:GSE290834:GSM8823753	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823753	geo:GSE290834:GSM8823753	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823753	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823754	geo:GSE290834:GSM8823754	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823754	geo:GSE290834:GSM8823754	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823754	geo:GSE290834:GSM8823754	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823754	geo:GSE290834:GSM8823754	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823754	geo:GSE290834:GSM8823754	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_source_name_ch1 = distal lung	True
+GSM8823754	geo:GSE290834:GSM8823754	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823754	geo:GSE290834:GSM8823754	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823754	geo:GSE290834:GSM8823754	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823754	geo:GSE290834:GSM8823754	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823754	geo:GSE290834:GSM8823754	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823754	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823755	geo:GSE290834:GSM8823755	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823755	geo:GSE290834:GSM8823755	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823755	geo:GSE290834:GSM8823755	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823755	geo:GSE290834:GSM8823755	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823755	geo:GSE290834:GSM8823755	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_source_name_ch1 = distal lung	True
+GSM8823755	geo:GSE290834:GSM8823755	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823755	geo:GSE290834:GSM8823755	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823755	geo:GSE290834:GSM8823755	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823755	geo:GSE290834:GSM8823755	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823755	geo:GSE290834:GSM8823755	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823755	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823756	geo:GSE290834:GSM8823756	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823756	geo:GSE290834:GSM8823756	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823756	geo:GSE290834:GSM8823756	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823756	geo:GSE290834:GSM8823756	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823756	geo:GSE290834:GSM8823756	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_source_name_ch1 = distal lung	True
+GSM8823756	geo:GSE290834:GSM8823756	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823756	geo:GSE290834:GSM8823756	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823756	geo:GSE290834:GSM8823756	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823756	geo:GSE290834:GSM8823756	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823756	geo:GSE290834:GSM8823756	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823756	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823757	geo:GSE290834:GSM8823757	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823757	geo:GSE290834:GSM8823757	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823757	geo:GSE290834:GSM8823757	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823757	geo:GSE290834:GSM8823757	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823757	geo:GSE290834:GSM8823757	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_source_name_ch1 = distal lung	True
+GSM8823757	geo:GSE290834:GSM8823757	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823757	geo:GSE290834:GSM8823757	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823757	geo:GSE290834:GSM8823757	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823757	geo:GSE290834:GSM8823757	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823757	geo:GSE290834:GSM8823757	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823757	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823758	geo:GSE290834:GSM8823758	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823758	geo:GSE290834:GSM8823758	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823758	geo:GSE290834:GSM8823758	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823758	geo:GSE290834:GSM8823758	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823758	geo:GSE290834:GSM8823758	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_source_name_ch1 = distal lung	True
+GSM8823758	geo:GSE290834:GSM8823758	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823758	geo:GSE290834:GSM8823758	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823758	geo:GSE290834:GSM8823758	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823758	geo:GSE290834:GSM8823758	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823758	geo:GSE290834:GSM8823758	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823758	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823759	geo:GSE290834:GSM8823759	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823759	geo:GSE290834:GSM8823759	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823759	geo:GSE290834:GSM8823759	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823759	geo:GSE290834:GSM8823759	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823759	geo:GSE290834:GSM8823759	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_source_name_ch1 = distal lung	True
+GSM8823759	geo:GSE290834:GSM8823759	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823759	geo:GSE290834:GSM8823759	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823759	geo:GSE290834:GSM8823759	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823759	geo:GSE290834:GSM8823759	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823759	geo:GSE290834:GSM8823759	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823759	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823760	geo:GSE290834:GSM8823760	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823760	geo:GSE290834:GSM8823760	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823760	geo:GSE290834:GSM8823760	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823760	geo:GSE290834:GSM8823760	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823760	geo:GSE290834:GSM8823760	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_source_name_ch1 = distal lung	True
+GSM8823760	geo:GSE290834:GSM8823760	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823760	geo:GSE290834:GSM8823760	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823760	geo:GSE290834:GSM8823760	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823760	geo:GSE290834:GSM8823760	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823760	geo:GSE290834:GSM8823760	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823760	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823761	geo:GSE290834:GSM8823761	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823761	geo:GSE290834:GSM8823761	disease_ontology_term_id	MONDO:0015265	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		Shared roles of immune and stromal cells in the pathogenesis of human bronchiolitis obliterans syndrome	True
+GSM8823761	geo:GSE290834:GSM8823761	sample_collection_method	lung explant surgically removed at bilateral orthotopic lung transplant	file	evidence/PMC12128974.txt		Lungs were surgically removed at the time of bilateral orthotopic lung transplant	True
+GSM8823761	geo:GSE290834:GSM8823761	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823761	geo:GSE290834:GSM8823761	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_source_name_ch1 = distal lung	True
+GSM8823761	geo:GSE290834:GSM8823761	disease_free_text	CLAD BOS	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = disease state: CLAD BOS	True
+GSM8823761	geo:GSE290834:GSM8823761	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823761	geo:GSE290834:GSM8823761	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823761	geo:GSE290834:GSM8823761	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823761	geo:GSE290834:GSM8823761	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823761	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823762	geo:GSE290834:GSM8823762	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823762	geo:GSE290834:GSM8823762	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		3 deceased controls	True
+GSM8823762	geo:GSE290834:GSM8823762	sample_collection_method	unused human lung donor, procured at the time of organ donation	file	evidence/PMC12128974.txt		NC lung was derived from unused human lung donors and was procured at the time of organ donation	True
+GSM8823762	geo:GSE290834:GSM8823762	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823762	geo:GSE290834:GSM8823762	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_source_name_ch1 = distal lung	True
+GSM8823762	geo:GSE290834:GSM8823762	disease_free_text	Normal	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823762	geo:GSE290834:GSM8823762	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823762	geo:GSE290834:GSM8823762	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823762	geo:GSE290834:GSM8823762	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823762	geo:GSE290834:GSM8823762	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823762	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823763	geo:GSE290834:GSM8823763	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823763	geo:GSE290834:GSM8823763	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		3 deceased controls	True
+GSM8823763	geo:GSE290834:GSM8823763	sample_collection_method	unused human lung donor, procured at the time of organ donation	file	evidence/PMC12128974.txt		NC lung was derived from unused human lung donors and was procured at the time of organ donation	True
+GSM8823763	geo:GSE290834:GSM8823763	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823763	geo:GSE290834:GSM8823763	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_source_name_ch1 = distal lung	True
+GSM8823763	geo:GSE290834:GSM8823763	disease_free_text	Normal	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823763	geo:GSE290834:GSM8823763	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823763	geo:GSE290834:GSM8823763	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823763	geo:GSE290834:GSM8823763	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823763	geo:GSE290834:GSM8823763	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823763	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823764	geo:GSE290834:GSM8823764	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823764	geo:GSE290834:GSM8823764	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		3 deceased controls	True
+GSM8823764	geo:GSE290834:GSM8823764	sample_collection_method	unused human lung donor, procured at the time of organ donation	file	evidence/PMC12128974.txt		NC lung was derived from unused human lung donors and was procured at the time of organ donation	True
+GSM8823764	geo:GSE290834:GSM8823764	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823764	geo:GSE290834:GSM8823764	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_source_name_ch1 = distal lung	True
+GSM8823764	geo:GSE290834:GSM8823764	disease_free_text	Normal	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823764	geo:GSE290834:GSM8823764	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823764	geo:GSE290834:GSM8823764	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823764	geo:GSE290834:GSM8823764	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823764	geo:GSE290834:GSM8823764	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823764	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823765	geo:GSE290834:GSM8823765	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823765	geo:GSE290834:GSM8823765	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		3 deceased controls	True
+GSM8823765	geo:GSE290834:GSM8823765	sample_collection_method	unused human lung donor, procured at the time of organ donation	file	evidence/PMC12128974.txt		NC lung was derived from unused human lung donors and was procured at the time of organ donation	True
+GSM8823765	geo:GSE290834:GSM8823765	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823765	geo:GSE290834:GSM8823765	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_source_name_ch1 = distal lung	True
+GSM8823765	geo:GSE290834:GSM8823765	disease_free_text	Normal	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823765	geo:GSE290834:GSM8823765	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823765	geo:GSE290834:GSM8823765	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823765	geo:GSE290834:GSM8823765	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823765	geo:GSE290834:GSM8823765	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823765	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823766	geo:GSE290834:GSM8823766	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823766	geo:GSE290834:GSM8823766	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		3 deceased controls	True
+GSM8823766	geo:GSE290834:GSM8823766	sample_collection_method	unused human lung donor, procured at the time of organ donation	file	evidence/PMC12128974.txt		NC lung was derived from unused human lung donors and was procured at the time of organ donation	True
+GSM8823766	geo:GSE290834:GSM8823766	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823766	geo:GSE290834:GSM8823766	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_source_name_ch1 = distal lung	True
+GSM8823766	geo:GSE290834:GSM8823766	disease_free_text	Normal	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823766	geo:GSE290834:GSM8823766	cell_enrichment	CD45neg	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = cell enrichment: CD45neg	True
+GSM8823766	geo:GSE290834:GSM8823766	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823766	geo:GSE290834:GSM8823766	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823766	geo:GSE290834:GSM8823766	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823766	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True
+GSM8823767	geo:GSE290834:GSM8823767	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823767	geo:GSE290834:GSM8823767	disease_ontology_term_id	PATO:0000461	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz		3 deceased controls	True
+GSM8823767	geo:GSE290834:GSM8823767	sample_collection_method	unused human lung donor, procured at the time of organ donation	file	evidence/PMC12128974.txt		NC lung was derived from unused human lung donors and was procured at the time of organ donation	True
+GSM8823767	geo:GSE290834:GSM8823767	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823767	geo:GSE290834:GSM8823767	tissue_type	tissue	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_source_name_ch1 = distal lung	True
+GSM8823767	geo:GSE290834:GSM8823767	disease_free_text	Normal	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = disease state: Normal	True
+GSM8823767	geo:GSE290834:GSM8823767	cell_enrichment	CD45pos	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = cell enrichment: CD45pos	True
+GSM8823767	geo:GSE290834:GSM8823767	tissue_free_text	distal lung	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = tissue: distal lung	True
+GSM8823767	geo:GSE290834:GSM8823767	suspension_type	cell	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = suspension type: cell	True
+GSM8823767	geo:GSE290834:GSM8823767	assay	10x 3' v3	file	raw/fp-8d7b7f74e805/GSE290834_family.soft.gz	GSM8823767	!Sample_characteristics_ch1 = library platform: 10x 3' v3	True

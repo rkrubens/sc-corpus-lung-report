@@ -1,0 +1,42 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8634112	geo:GSE281994:GSM8634112	donor_id	<column patient_id>	column	work/fp-bd98d911e830/reconciled/GSM8634112_authors_calls.tsv.gz/patient_id			True
+GSM8634112	geo:GSE281994:GSM8634112	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM8634112	geo:GSE281994:GSM8634112	author_cell_type	<column cell_type>	column	work/fp-bd98d911e830/reconciled/GSM8634112_authors_calls.tsv.gz/cell_type			True
+GSM8634113	geo:GSE281994:GSM8634113	donor_id	<column patient_id>	column	work/fp-bd98d911e830/reconciled/GSM8634113_authors_calls.tsv.gz/patient_id			True
+GSM8634113	geo:GSE281994:GSM8634113	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM8634113	geo:GSE281994:GSM8634113	author_cell_type	<column cell_type>	column	work/fp-bd98d911e830/reconciled/GSM8634113_authors_calls.tsv.gz/cell_type			True
+GSM8634114	geo:GSE281994:GSM8634114	donor_id	<column patient_id>	column	work/fp-bd98d911e830/reconciled/GSM8634114_authors_calls.tsv.gz/patient_id			True
+GSM8634114	geo:GSE281994:GSM8634114	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM8634114	geo:GSE281994:GSM8634114	author_cell_type	<column cell_type>	column	work/fp-bd98d911e830/reconciled/GSM8634114_authors_calls.tsv.gz/cell_type			True
+GSM8634115	geo:GSE281994:GSM8634115	donor_id	<column patient_id>	column	work/fp-bd98d911e830/reconciled/GSM8634115_authors_calls.tsv.gz/patient_id			True
+GSM8634115	geo:GSE281994:GSM8634115	assay_ontology_term_id	EFO:0030059	derived	ols:efo		10x multiome	True
+GSM8634115	geo:GSE281994:GSM8634115	author_cell_type	<column cell_type>	column	work/fp-bd98d911e830/reconciled/GSM8634115_authors_calls.tsv.gz/cell_type			True
+		organism	Homo sapiens	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8634112	geo:GSE281994:GSM8634112	tissue_free_text	lung	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634112	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634112	geo:GSE281994:GSM8634112	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634112	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634112	geo:GSE281994:GSM8634112	tissue_type	organoid	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		a 3D organoid system, derived from lung tissue samples obtained from IPF patients and healthy, control resections from tumor explants	True
+GSM8634112	geo:GSE281994:GSM8634112	cell_enrichment	EPCAM+ distal airway epithelial cells	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		We isolated EPCAM+ distal airway epithelial cells through tissue dissection and multiple sorting steps	True
+GSM8634112	geo:GSE281994:GSM8634112	disease_free_text	healthy	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634112	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM8634112	geo:GSE281994:GSM8634112	disease_ontology_term_id	PATO:0000461	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634112	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM8634112	geo:GSE281994:GSM8634112	assay	10x multiome	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		10x Chromium Single Cell Multiome ATAC + Gene Expression	True
+GSM8634113	geo:GSE281994:GSM8634113	tissue_free_text	lung	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634113	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634113	geo:GSE281994:GSM8634113	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634113	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634113	geo:GSE281994:GSM8634113	tissue_type	organoid	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		a 3D organoid system, derived from lung tissue samples obtained from IPF patients and healthy, control resections from tumor explants	True
+GSM8634113	geo:GSE281994:GSM8634113	cell_enrichment	EPCAM+ distal airway epithelial cells	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		We isolated EPCAM+ distal airway epithelial cells through tissue dissection and multiple sorting steps	True
+GSM8634113	geo:GSE281994:GSM8634113	disease_free_text	healthy	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634113	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM8634113	geo:GSE281994:GSM8634113	disease_ontology_term_id	PATO:0000461	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634113	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM8634113	geo:GSE281994:GSM8634113	assay	10x multiome	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		10x Chromium Single Cell Multiome ATAC + Gene Expression	True
+GSM8634114	geo:GSE281994:GSM8634114	tissue_free_text	lung	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634114	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634114	geo:GSE281994:GSM8634114	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634114	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634114	geo:GSE281994:GSM8634114	tissue_type	organoid	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		a 3D organoid system, derived from lung tissue samples obtained from IPF patients and healthy, control resections from tumor explants	True
+GSM8634114	geo:GSE281994:GSM8634114	cell_enrichment	EPCAM+ distal airway epithelial cells	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		We isolated EPCAM+ distal airway epithelial cells through tissue dissection and multiple sorting steps	True
+GSM8634114	geo:GSE281994:GSM8634114	disease_free_text	IPF	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634114	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8634114	geo:GSE281994:GSM8634114	disease_ontology_term_id	MONDO:0800504	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634114	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8634114	geo:GSE281994:GSM8634114	assay	10x multiome	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		10x Chromium Single Cell Multiome ATAC + Gene Expression	True
+GSM8634115	geo:GSE281994:GSM8634115	tissue_free_text	lung	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634115	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634115	geo:GSE281994:GSM8634115	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634115	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8634115	geo:GSE281994:GSM8634115	tissue_type	organoid	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		a 3D organoid system, derived from lung tissue samples obtained from IPF patients and healthy, control resections from tumor explants	True
+GSM8634115	geo:GSE281994:GSM8634115	cell_enrichment	EPCAM+ distal airway epithelial cells	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		We isolated EPCAM+ distal airway epithelial cells through tissue dissection and multiple sorting steps	True
+GSM8634115	geo:GSE281994:GSM8634115	disease_free_text	IPF	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634115	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8634115	geo:GSE281994:GSM8634115	disease_ontology_term_id	MONDO:0800504	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz	GSM8634115	!Sample_characteristics_ch1 = disease state: IPF	True
+GSM8634115	geo:GSE281994:GSM8634115	assay	10x multiome	file	raw/fp-bd98d911e830/GSE281994_family.soft.gz		10x Chromium Single Cell Multiome ATAC + Gene Expression	True

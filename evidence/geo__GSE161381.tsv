@@ -1,0 +1,32 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4906342	geo:GSE161381:GSM4906342	donor_id	D122	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906342	!Sample_title = D122: Male 31 yrs Lung	True
+GSM4906342	geo:GSE161381:GSM4906342	age	31 years	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906342	!Sample_characteristics_ch1 = age: 31 yrs	True
+GSM4906342	geo:GSE161381:GSM4906342	sex	male	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906342	!Sample_characteristics_ch1 = Sex: M	True
+GSM4906342	geo:GSE161381:GSM4906342	tissue_free_text	Biopsy from small airway	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906342	!Sample_source_name_ch1 = Biopsy from small airway	True
+GSM4906342	geo:GSE161381:GSM4906342	disease_ontology_term_id	PATO:0000461	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		from healthy donors of ~30 weeks, ~3 years and ~30 years of age	True
+GSM4906342	geo:GSE161381:GSM4906342	suspension_type	nucleus	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		Nuclei were isolated from individual biopsies	True
+GSM4906342	geo:GSE161381:GSM4906342	sample_preservation	flash frozen	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		flash frozen biopsies from equivalent small airway regions of the lung	True
+GSM4906343	geo:GSE161381:GSM4906343	donor_id	D175	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906343	!Sample_title = D175: Female 29 yrs Lung	True
+GSM4906343	geo:GSE161381:GSM4906343	age	29 years	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906343	!Sample_characteristics_ch1 = age: 29 yrs	True
+GSM4906343	geo:GSE161381:GSM4906343	sex	female	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906343	!Sample_characteristics_ch1 = Sex: F	True
+GSM4906343	geo:GSE161381:GSM4906343	tissue_free_text	Biopsy from small airway	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906343	!Sample_source_name_ch1 = Biopsy from small airway	True
+GSM4906343	geo:GSE161381:GSM4906343	disease_ontology_term_id	PATO:0000461	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		from healthy donors of ~30 weeks, ~3 years and ~30 years of age	True
+GSM4906343	geo:GSE161381:GSM4906343	suspension_type	nucleus	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		Nuclei were isolated from individual biopsies	True
+GSM4906343	geo:GSE161381:GSM4906343	sample_preservation	flash frozen	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		flash frozen biopsies from equivalent small airway regions of the lung	True
+GSM4906344	geo:GSE161381:GSM4906344	donor_id	D231	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906344	!Sample_title = D231: Female 33 yrs Lung	True
+GSM4906344	geo:GSE161381:GSM4906344	age	33 years	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906344	!Sample_characteristics_ch1 = age: 33 yrs	True
+GSM4906344	geo:GSE161381:GSM4906344	sex	female	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906344	!Sample_characteristics_ch1 = Sex: F	True
+GSM4906344	geo:GSE161381:GSM4906344	tissue_free_text	Biopsy from small airway	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906344	!Sample_source_name_ch1 = Biopsy from small airway	True
+GSM4906344	geo:GSE161381:GSM4906344	disease_ontology_term_id	PATO:0000461	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		from healthy donors of ~30 weeks, ~3 years and ~30 years of age	True
+GSM4906344	geo:GSE161381:GSM4906344	suspension_type	nucleus	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		Nuclei were isolated from individual biopsies	True
+GSM4906344	geo:GSE161381:GSM4906344	sample_preservation	flash frozen	file	raw/fp-b559cda52212/GSE161381_family.soft.gz		flash frozen biopsies from equivalent small airway regions of the lung	True
+GSM4906342	geo:GSE161381:GSM4906342	atac.genome_assembly	hg19	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906342	!Sample_data_processing = Genome_build: hg19	True
+GSM4906343	geo:GSE161381:GSM4906343	atac.genome_assembly	hg19	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906343	!Sample_data_processing = Genome_build: hg19	True
+GSM4906344	geo:GSE161381:GSM4906344	atac.genome_assembly	hg19	file	raw/fp-b559cda52212/GSE161381_family.soft.gz	GSM4906344	!Sample_data_processing = Genome_build: hg19	True
+GSM4906342	geo:GSE161381:GSM4906342	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4906342	geo:GSE161381:GSM4906342	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31 years	True
+GSM4906343	geo:GSE161381:GSM4906343	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4906343	geo:GSE161381:GSM4906343	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29 years	True
+GSM4906344	geo:GSE161381:GSM4906344	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4906344	geo:GSE161381:GSM4906344	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33 years	True

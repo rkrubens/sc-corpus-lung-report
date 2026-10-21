@@ -1,0 +1,9 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5621344	geo:GSE185659:GSM5621344	disease_free_text	Rejection	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621344	!Sample_characteristics_ch1 = clinical_context: Rejection	True
+GSM5621345	geo:GSE185659:GSM5621345	disease_free_text	Treated	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621345	!Sample_characteristics_ch1 = clinical_context: Treated	True
+GSM5621346	geo:GSE185659:GSM5621346	disease_free_text	Rejection	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621346	!Sample_characteristics_ch1 = clinical_context: Rejection	True
+GSM5621347	geo:GSE185659:GSM5621347	disease_free_text	Treated	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621347	!Sample_characteristics_ch1 = clinical_context: Treated	True
+GSM5621348	geo:GSE185659:GSM5621348	disease_free_text	Early_No_Rejection	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621348	!Sample_characteristics_ch1 = clinical_context: Early_No_Rejection	True
+GSM5621349	geo:GSE185659:GSM5621349	disease_free_text	Rejection	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621349	!Sample_characteristics_ch1 = clinical_context: Rejection	True
+GSM5621350	geo:GSE185659:GSM5621350	disease_free_text	Treated	file	raw/fp-10b2cc15fd75/GSE185659_family.soft.gz	GSM5621350	!Sample_characteristics_ch1 = clinical_context: Treated	True

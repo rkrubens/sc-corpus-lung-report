@@ -1,0 +1,61 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4876739	geo:GSE160675:GSM4876739	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM4876739	geo:GSE160675:GSM4876739	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM4876740	geo:GSE160675:GSM4876740	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM4876740	geo:GSE160675:GSM4876740	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM4876741	geo:GSE160675:GSM4876741	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM4876741	geo:GSE160675:GSM4876741	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM4876742	geo:GSE160675:GSM4876742	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM4876742	geo:GSE160675:GSM4876742	development_stage_ontology_term_id	HsapDv:0000120	derived	age_in_years:'26-year-old stage':ols:hsapdv		26	True
+GSM4876744	geo:GSE160675:GSM4876744	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM4876744	geo:GSE160675:GSM4876744	development_stage_ontology_term_id	HsapDv:0000122	derived	age_in_years:'28-year-old stage':ols:hsapdv		28	True
+GSM4876745	geo:GSE160675:GSM4876745	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM4876745	geo:GSE160675:GSM4876745	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM4876746	geo:GSE160675:GSM4876746	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM4876746	geo:GSE160675:GSM4876746	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM4876747	geo:GSE160675:GSM4876747	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM4876747	geo:GSE160675:GSM4876747	development_stage_ontology_term_id	HsapDv:0000111	derived	age_in_years:'17-year-old stage':ols:hsapdv		17	True
+GSM4876747	geo:GSE160675:GSM4876747	tissue_ontology_term_id	UBERON:0002186	derived	ols:uberon		Bronchiole	True
+GSM4876748	geo:GSE160675:GSM4876748	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM4876748	geo:GSE160675:GSM4876748	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM4876748	geo:GSE160675:GSM4876748	tissue_ontology_term_id	UBERON:0002186	derived	ols:uberon		Bronchiole	True
+GSM4876749	geo:GSE160675:GSM4876749	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM4876749	geo:GSE160675:GSM4876749	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM4876749	geo:GSE160675:GSM4876749	tissue_ontology_term_id	UBERON:0002186	derived	ols:uberon		Bronchiole	True
+GSM4876750	geo:GSE160675:GSM4876750	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM4876750	geo:GSE160675:GSM4876750	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM4876750	geo:GSE160675:GSM4876750	tissue_ontology_term_id	UBERON:0002186	derived	ols:uberon		Bronchiole	True
+		organism	Homo sapiens	file	raw/fp-759a868c8810/GSE160675_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4876739	geo:GSE160675:GSM4876739	sex	Female	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876739	!Sample_characteristics_ch1 = Sex: Female	True
+GSM4876739	geo:GSE160675:GSM4876739	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876739	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876739	geo:GSE160675:GSM4876739	age	26	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876739	!Sample_characteristics_ch1 = age of donor: 26	True
+GSM4876740	geo:GSE160675:GSM4876740	sex	Female	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876740	!Sample_characteristics_ch1 = Sex: Female	True
+GSM4876740	geo:GSE160675:GSM4876740	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876740	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876740	geo:GSE160675:GSM4876740	age	26	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876740	!Sample_characteristics_ch1 = age of donor: 26	True
+GSM4876741	geo:GSE160675:GSM4876741	sex	Male	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876741	!Sample_characteristics_ch1 = Sex: Male	True
+GSM4876741	geo:GSE160675:GSM4876741	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876741	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876741	geo:GSE160675:GSM4876741	age	26	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876741	!Sample_characteristics_ch1 = age of donor: 26	True
+GSM4876742	geo:GSE160675:GSM4876742	sex	Male	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876742	!Sample_characteristics_ch1 = Sex: Male	True
+GSM4876742	geo:GSE160675:GSM4876742	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876742	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876742	geo:GSE160675:GSM4876742	age	26	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876742	!Sample_characteristics_ch1 = age of donor: 26	True
+GSM4876744	geo:GSE160675:GSM4876744	sex	Male	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876744	!Sample_characteristics_ch1 = Sex: Male	True
+GSM4876744	geo:GSE160675:GSM4876744	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876744	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876744	geo:GSE160675:GSM4876744	age	28	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876744	!Sample_characteristics_ch1 = age of donor: 28	True
+GSM4876745	geo:GSE160675:GSM4876745	sex	Female	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876745	!Sample_characteristics_ch1 = Sex: Female	True
+GSM4876745	geo:GSE160675:GSM4876745	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876745	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876745	geo:GSE160675:GSM4876745	age	23	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876745	!Sample_characteristics_ch1 = age of donor: 23	True
+GSM4876746	geo:GSE160675:GSM4876746	sex	Female	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876746	!Sample_characteristics_ch1 = Sex: Female	True
+GSM4876746	geo:GSE160675:GSM4876746	tissue_free_text	Bronchi	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876746	!Sample_characteristics_ch1 = tissue: Bronchi	True
+GSM4876746	geo:GSE160675:GSM4876746	age	23	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876746	!Sample_characteristics_ch1 = age of donor: 23	True
+GSM4876747	geo:GSE160675:GSM4876747	sex	Female	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876747	!Sample_characteristics_ch1 = Sex: Female	True
+GSM4876747	geo:GSE160675:GSM4876747	tissue_free_text	Bronchiole	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876747	!Sample_characteristics_ch1 = tissue: Bronchiole	True
+GSM4876747	geo:GSE160675:GSM4876747	age	17	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876747	!Sample_characteristics_ch1 = age of donor: 17	True
+GSM4876748	geo:GSE160675:GSM4876748	sex	Female	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876748	!Sample_characteristics_ch1 = Sex: Female	True
+GSM4876748	geo:GSE160675:GSM4876748	tissue_free_text	Bronchiole	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876748	!Sample_characteristics_ch1 = tissue: Bronchiole	True
+GSM4876748	geo:GSE160675:GSM4876748	age	52	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876748	!Sample_characteristics_ch1 = age of donor: 52	True
+GSM4876749	geo:GSE160675:GSM4876749	sex	Male	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876749	!Sample_characteristics_ch1 = Sex: Male	True
+GSM4876749	geo:GSE160675:GSM4876749	tissue_free_text	Bronchiole	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876749	!Sample_characteristics_ch1 = tissue: Bronchiole	True
+GSM4876749	geo:GSE160675:GSM4876749	age	44	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876749	!Sample_characteristics_ch1 = age of donor: 44	True
+GSM4876750	geo:GSE160675:GSM4876750	sex	Male	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876750	!Sample_characteristics_ch1 = Sex: Male	True
+GSM4876750	geo:GSE160675:GSM4876750	tissue_free_text	Bronchiole	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876750	!Sample_characteristics_ch1 = tissue: Bronchiole	True
+GSM4876750	geo:GSE160675:GSM4876750	age	44	file	raw/fp-759a868c8810/GSE160675_family.soft.gz	GSM4876750	!Sample_characteristics_ch1 = age of donor: 44	True

@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8952678	geo:GSE295552:GSM8952678	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952678	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952678	geo:GSE295552:GSM8952678	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952678	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952679	geo:GSE295552:GSM8952679	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952679	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952679	geo:GSE295552:GSM8952679	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952679	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952680	geo:GSE295552:GSM8952680	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952680	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952680	geo:GSE295552:GSM8952680	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952680	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952681	geo:GSE295552:GSM8952681	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952681	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952681	geo:GSE295552:GSM8952681	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952681	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952682	geo:GSE295552:GSM8952682	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952682	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952682	geo:GSE295552:GSM8952682	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952682	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952683	geo:GSE295552:GSM8952683	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952683	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952683	geo:GSE295552:GSM8952683	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952683	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952684	geo:GSE295552:GSM8952684	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952684	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952684	geo:GSE295552:GSM8952684	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952684	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952685	geo:GSE295552:GSM8952685	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952685	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952685	geo:GSE295552:GSM8952685	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952685	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952686	geo:GSE295552:GSM8952686	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952686	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952686	geo:GSE295552:GSM8952686	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952686	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True
+GSM8952687	geo:GSE295552:GSM8952687	tissue_free_text	Bronchial biopsy	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952687	!Sample_characteristics_ch1 = tissue: Bronchial biopsy	True
+GSM8952687	geo:GSE295552:GSM8952687	disease_free_text	Healthy never smoker	file	raw/fp-bdda7a49f48b/GSE295552_family.soft.gz	GSM8952687	!Sample_characteristics_ch1 = genotype: Healthy never smoker	True

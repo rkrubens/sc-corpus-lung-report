@@ -1,0 +1,463 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7829618	geo:GSE244781:GSM7829618	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7829618	geo:GSE244781:GSM7829618	assay_ontology_term_id	EFO:0009901	derived	ols:efo		10x 3' v1	True
+GSM7829618	geo:GSE244781:GSM7829618	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+GSM7829618	geo:GSE244781:GSM7829618	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	assay_ontology_term_id	EFO:0009901	derived	ols:efo		10x 3' v1	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	assay_ontology_term_id	EFO:0009901	derived	ols:efo		10x 3' v1	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829620	geo:GSE244781:GSM7829620	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7829620	geo:GSE244781:GSM7829620	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829620	geo:GSE244781:GSM7829620	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM7829620	geo:GSE244781:GSM7829620	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829621	geo:GSE244781:GSM7829621	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829621	geo:GSE244781:GSM7829621	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829621	geo:GSE244781:GSM7829621	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM7829621	geo:GSE244781:GSM7829621	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829622	geo:GSE244781:GSM7829622	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829622	geo:GSE244781:GSM7829622	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829622	geo:GSE244781:GSM7829622	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18	True
+GSM7829622	geo:GSE244781:GSM7829622	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829623	geo:GSE244781:GSM7829623	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829623	geo:GSE244781:GSM7829623	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829623	geo:GSE244781:GSM7829623	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM7829623	geo:GSE244781:GSM7829623	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829624	geo:GSE244781:GSM7829624	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829624	geo:GSE244781:GSM7829624	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829624	geo:GSE244781:GSM7829624	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM7829624	geo:GSE244781:GSM7829624	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829625	geo:GSE244781:GSM7829625	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829625	geo:GSE244781:GSM7829625	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM7829625	geo:GSE244781:GSM7829625	development_stage_ontology_term_id	HsapDv:0000115	derived	age_in_years:'21-year-old stage':ols:hsapdv		21	True
+GSM7829625	geo:GSE244781:GSM7829625	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829626	geo:GSE244781:GSM7829626	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829626	geo:GSE244781:GSM7829626	assay_ontology_term_id	EFO:0011025	derived	ols:efo		10x 5' v1	True
+GSM7829626	geo:GSE244781:GSM7829626	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM7829626	geo:GSE244781:GSM7829626	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829627	geo:GSE244781:GSM7829627	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829627	geo:GSE244781:GSM7829627	assay_ontology_term_id	EFO:0011025	derived	ols:efo		10x 5' v1	True
+GSM7829627	geo:GSE244781:GSM7829627	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM7829627	geo:GSE244781:GSM7829627	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829628	geo:GSE244781:GSM7829628	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829628	geo:GSE244781:GSM7829628	assay_ontology_term_id	EFO:0011025	derived	ols:efo		10x 5' v1	True
+GSM7829628	geo:GSE244781:GSM7829628	development_stage_ontology_term_id	HsapDv:0000132	derived	age_in_years:'38-year-old stage':ols:hsapdv		38	True
+GSM7829628	geo:GSE244781:GSM7829628	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829629	geo:GSE244781:GSM7829629	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829629	geo:GSE244781:GSM7829629	assay_ontology_term_id	EFO:0011025	derived	ols:efo		10x 5' v1	True
+GSM7829629	geo:GSE244781:GSM7829629	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM7829629	geo:GSE244781:GSM7829629	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829630	geo:GSE244781:GSM7829630	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829630	geo:GSE244781:GSM7829630	assay_ontology_term_id	EFO:0011025	derived	ols:efo		10x 5' v1	True
+GSM7829630	geo:GSE244781:GSM7829630	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM7829630	geo:GSE244781:GSM7829630	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829631	geo:GSE244781:GSM7829631	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7829631	geo:GSE244781:GSM7829631	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829632	geo:GSE244781:GSM7829632	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829632	geo:GSE244781:GSM7829632	assay_ontology_term_id	EFO:0009901	derived	ols:efo		10x 3' v1	True
+GSM7829632	geo:GSE244781:GSM7829632	development_stage_ontology_term_id	HsapDv:0000115	derived	age_in_years:'21-year-old stage':ols:hsapdv		21	True
+GSM7829632	geo:GSE244781:GSM7829632	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829632	geo:GSE244781:GSM7829632	disease_ontology_term_id	MONDO:0001999	derived	ols:mondo		idiopathic pulmonary arterial hypertension	True
+GSM7829633	geo:GSE244781:GSM7829633	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829633	geo:GSE244781:GSM7829633	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829633	geo:GSE244781:GSM7829633	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM7829633	geo:GSE244781:GSM7829633	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829633	geo:GSE244781:GSM7829633	disease_ontology_term_id	MONDO:0001999	derived	ols:mondo		idiopathic pulmonary arterial hypertension	True
+GSM7829634	geo:GSE244781:GSM7829634	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829634	geo:GSE244781:GSM7829634	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829634	geo:GSE244781:GSM7829634	development_stage_ontology_term_id	HsapDv:0000130	derived	age_in_years:'36-year-old stage':ols:hsapdv		36	True
+GSM7829634	geo:GSE244781:GSM7829634	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829634	geo:GSE244781:GSM7829634	disease_ontology_term_id	MONDO:0001999	derived	ols:mondo		idiopathic pulmonary arterial hypertension	True
+GSM7829635	geo:GSE244781:GSM7829635	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829635	geo:GSE244781:GSM7829635	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829635	geo:GSE244781:GSM7829635	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM7829635	geo:GSE244781:GSM7829635	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829635	geo:GSE244781:GSM7829635	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829636	geo:GSE244781:GSM7829636	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829636	geo:GSE244781:GSM7829636	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829636	geo:GSE244781:GSM7829636	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM7829636	geo:GSE244781:GSM7829636	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829636	geo:GSE244781:GSM7829636	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829637	geo:GSE244781:GSM7829637	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829637	geo:GSE244781:GSM7829637	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829637	geo:GSE244781:GSM7829637	development_stage_ontology_term_id	HsapDv:0000137	derived	age_in_years:'43-year-old stage':ols:hsapdv		43	True
+GSM7829637	geo:GSE244781:GSM7829637	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829637	geo:GSE244781:GSM7829637	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829638	geo:GSE244781:GSM7829638	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829638	geo:GSE244781:GSM7829638	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829638	geo:GSE244781:GSM7829638	development_stage_ontology_term_id	HsapDv:0000137	derived	age_in_years:'43-year-old stage':ols:hsapdv		43	True
+GSM7829638	geo:GSE244781:GSM7829638	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829638	geo:GSE244781:GSM7829638	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829639	geo:GSE244781:GSM7829639	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829639	geo:GSE244781:GSM7829639	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829639	geo:GSE244781:GSM7829639	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM7829639	geo:GSE244781:GSM7829639	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829639	geo:GSE244781:GSM7829639	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829640	geo:GSE244781:GSM7829640	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829640	geo:GSE244781:GSM7829640	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829640	geo:GSE244781:GSM7829640	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+GSM7829640	geo:GSE244781:GSM7829640	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829640	geo:GSE244781:GSM7829640	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829641	geo:GSE244781:GSM7829641	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829641	geo:GSE244781:GSM7829641	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829641	geo:GSE244781:GSM7829641	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM7829641	geo:GSE244781:GSM7829641	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829641	geo:GSE244781:GSM7829641	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829642	geo:GSE244781:GSM7829642	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829642	geo:GSE244781:GSM7829642	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829642	geo:GSE244781:GSM7829642	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM7829642	geo:GSE244781:GSM7829642	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829642	geo:GSE244781:GSM7829642	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829643	geo:GSE244781:GSM7829643	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829643	geo:GSE244781:GSM7829643	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM7829643	geo:GSE244781:GSM7829643	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM7829643	geo:GSE244781:GSM7829643	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829643	geo:GSE244781:GSM7829643	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829644	geo:GSE244781:GSM7829644	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829644	geo:GSE244781:GSM7829644	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM7829644	geo:GSE244781:GSM7829644	development_stage_ontology_term_id	HsapDv:0000137	derived	age_in_years:'43-year-old stage':ols:hsapdv		43	True
+GSM7829644	geo:GSE244781:GSM7829644	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829644	geo:GSE244781:GSM7829644	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829645	geo:GSE244781:GSM7829645	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM7829645	geo:GSE244781:GSM7829645	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM7829645	geo:GSE244781:GSM7829645	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM7829645	geo:GSE244781:GSM7829645	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829645	geo:GSE244781:GSM7829645	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829646	geo:GSE244781:GSM7829646	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829646	geo:GSE244781:GSM7829646	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM7829646	geo:GSE244781:GSM7829646	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM7829646	geo:GSE244781:GSM7829646	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829646	geo:GSE244781:GSM7829646	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829647	geo:GSE244781:GSM7829647	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829647	geo:GSE244781:GSM7829647	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM7829647	geo:GSE244781:GSM7829647	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM7829647	geo:GSE244781:GSM7829647	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829647	geo:GSE244781:GSM7829647	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829648	geo:GSE244781:GSM7829648	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829648	geo:GSE244781:GSM7829648	assay_ontology_term_id	EFO:0011025	derived	ols:efo		10x 5' v1	True
+GSM7829648	geo:GSE244781:GSM7829648	development_stage_ontology_term_id	HsapDv:0000136	derived	age_in_years:'42-year-old stage':ols:hsapdv		42	True
+GSM7829648	geo:GSE244781:GSM7829648	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829648	geo:GSE244781:GSM7829648	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829649	geo:GSE244781:GSM7829649	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829649	geo:GSE244781:GSM7829649	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7829649	geo:GSE244781:GSM7829649	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM7829649	geo:GSE244781:GSM7829649	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829649	geo:GSE244781:GSM7829649	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+GSM7829650	geo:GSE244781:GSM7829650	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM7829650	geo:GSE244781:GSM7829650	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7829650	geo:GSE244781:GSM7829650	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM7829650	geo:GSE244781:GSM7829650	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7829650	geo:GSE244781:GSM7829650	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		systemic sclerosis	True
+		organism	Homo sapiens	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7829618	geo:GSE244781:GSM7829618	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829618	geo:GSE244781:GSM7829618	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829618	geo:GSE244781:GSM7829618	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829618	geo:GSE244781:GSM7829618	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829618	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829618	geo:GSE244781:GSM7829618	age	76	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829618	!Sample_characteristics_ch1 = age: 76	True
+GSM7829618	geo:GSE244781:GSM7829618	sex	male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829618	!Sample_characteristics_ch1 = Sex: male	True
+GSM7829618	geo:GSE244781:GSM7829618	donor_id	2016-110-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829618	!Sample_characteristics_ch1 = core code: 2016-110-CORE	True
+GSM7829618	geo:GSE244781:GSM7829618	assay	10x 3' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829618	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV1	True
+GSM7829618	geo:GSE244781:GSM7829618	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829618	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	age	56	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = age: 56	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	sex	male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = Sex: male	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	donor_id	2016-174-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = core code: 2016-174-CORE	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	assay	10x 3' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV1	True
+GSM7829619_SC31D	geo:GSE244781:GSM7829619_SC31D	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	age	56	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = age: 56	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	sex	male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = Sex: male	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	donor_id	2016-174-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = core code: 2016-174-CORE	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	assay	10x 3' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV1	True
+GSM7829619_SC31	geo:GSE244781:GSM7829619_SC31	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829619	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829620	geo:GSE244781:GSM7829620	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829620	geo:GSE244781:GSM7829620	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829620	geo:GSE244781:GSM7829620	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829620	geo:GSE244781:GSM7829620	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829620	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829620	geo:GSE244781:GSM7829620	age	55	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829620	!Sample_characteristics_ch1 = age: 55	True
+GSM7829620	geo:GSE244781:GSM7829620	sex	male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829620	!Sample_characteristics_ch1 = Sex: male	True
+GSM7829620	geo:GSE244781:GSM7829620	donor_id	EV2017-001/2017-007-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829620	!Sample_characteristics_ch1 = core code: EV2017-001/2017-007-CORE	True
+GSM7829620	geo:GSE244781:GSM7829620	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829620	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829620	geo:GSE244781:GSM7829620	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829620	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829621	geo:GSE244781:GSM7829621	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829621	geo:GSE244781:GSM7829621	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829621	geo:GSE244781:GSM7829621	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829621	geo:GSE244781:GSM7829621	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829621	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829621	geo:GSE244781:GSM7829621	age	57	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829621	!Sample_characteristics_ch1 = age: 57	True
+GSM7829621	geo:GSE244781:GSM7829621	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829621	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829621	geo:GSE244781:GSM7829621	donor_id	2017-025-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829621	!Sample_characteristics_ch1 = core code: 2017-025-CORE	True
+GSM7829621	geo:GSE244781:GSM7829621	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829621	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829621	geo:GSE244781:GSM7829621	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829621	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829622	geo:GSE244781:GSM7829622	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829622	geo:GSE244781:GSM7829622	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829622	geo:GSE244781:GSM7829622	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829622	geo:GSE244781:GSM7829622	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829622	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829622	geo:GSE244781:GSM7829622	age	18	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829622	!Sample_characteristics_ch1 = age: 18	True
+GSM7829622	geo:GSE244781:GSM7829622	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829622	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829622	geo:GSE244781:GSM7829622	donor_id	2017-029-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829622	!Sample_characteristics_ch1 = core code: 2017-029-CORE	True
+GSM7829622	geo:GSE244781:GSM7829622	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829622	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829622	geo:GSE244781:GSM7829622	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829622	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829623	geo:GSE244781:GSM7829623	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829623	geo:GSE244781:GSM7829623	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829623	geo:GSE244781:GSM7829623	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829623	geo:GSE244781:GSM7829623	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829623	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829623	geo:GSE244781:GSM7829623	age	23	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829623	!Sample_characteristics_ch1 = age: 23	True
+GSM7829623	geo:GSE244781:GSM7829623	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829623	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829623	geo:GSE244781:GSM7829623	donor_id	2017-105-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829623	!Sample_characteristics_ch1 = core code: 2017-105-CORE	True
+GSM7829623	geo:GSE244781:GSM7829623	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829623	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829623	geo:GSE244781:GSM7829623	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829623	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829624	geo:GSE244781:GSM7829624	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829624	geo:GSE244781:GSM7829624	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829624	geo:GSE244781:GSM7829624	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829624	geo:GSE244781:GSM7829624	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829624	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829624	geo:GSE244781:GSM7829624	age	23	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829624	!Sample_characteristics_ch1 = age: 23	True
+GSM7829624	geo:GSE244781:GSM7829624	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829624	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829624	geo:GSE244781:GSM7829624	donor_id	2017-105-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829624	!Sample_characteristics_ch1 = core code: 2017-105-CORE	True
+GSM7829624	geo:GSE244781:GSM7829624	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829624	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829624	geo:GSE244781:GSM7829624	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829624	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829625	geo:GSE244781:GSM7829625	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829625	geo:GSE244781:GSM7829625	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829625	geo:GSE244781:GSM7829625	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829625	geo:GSE244781:GSM7829625	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829625	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829625	geo:GSE244781:GSM7829625	age	21	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829625	!Sample_characteristics_ch1 = age: 21	True
+GSM7829625	geo:GSE244781:GSM7829625	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829625	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829625	geo:GSE244781:GSM7829625	donor_id	2019-022-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829625	!Sample_characteristics_ch1 = core code: 2019-022-CORE	True
+GSM7829625	geo:GSE244781:GSM7829625	assay	10x 3' v3	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829625	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV3	True
+GSM7829625	geo:GSE244781:GSM7829625	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829625	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829626	geo:GSE244781:GSM7829626	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829626	geo:GSE244781:GSM7829626	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829626	geo:GSE244781:GSM7829626	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829626	geo:GSE244781:GSM7829626	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829626	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829626	geo:GSE244781:GSM7829626	age	33	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829626	!Sample_characteristics_ch1 = age: 33	True
+GSM7829626	geo:GSE244781:GSM7829626	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829626	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829626	geo:GSE244781:GSM7829626	donor_id	2019-095-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829626	!Sample_characteristics_ch1 = core code: 2019-095-CORE	True
+GSM7829626	geo:GSE244781:GSM7829626	assay	10x 5' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829626	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV1	True
+GSM7829626	geo:GSE244781:GSM7829626	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829626	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829627	geo:GSE244781:GSM7829627	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829627	geo:GSE244781:GSM7829627	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829627	geo:GSE244781:GSM7829627	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829627	geo:GSE244781:GSM7829627	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829627	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829627	geo:GSE244781:GSM7829627	age	64	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829627	!Sample_characteristics_ch1 = age: 64	True
+GSM7829627	geo:GSE244781:GSM7829627	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829627	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829627	geo:GSE244781:GSM7829627	donor_id	2019-098-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829627	!Sample_characteristics_ch1 = core code: 2019-098-CORE	True
+GSM7829627	geo:GSE244781:GSM7829627	assay	10x 5' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829627	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV1	True
+GSM7829627	geo:GSE244781:GSM7829627	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829627	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829628	geo:GSE244781:GSM7829628	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829628	geo:GSE244781:GSM7829628	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829628	geo:GSE244781:GSM7829628	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829628	geo:GSE244781:GSM7829628	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829628	geo:GSE244781:GSM7829628	age	38	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = age: 38	True
+GSM7829628	geo:GSE244781:GSM7829628	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829628	geo:GSE244781:GSM7829628	donor_id	2019-106-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = core code: 2019-106-CORE	True
+GSM7829628	geo:GSE244781:GSM7829628	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = depletion: 50% CD45, EPCAM depleted	True
+GSM7829628	geo:GSE244781:GSM7829628	assay	10x 5' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV1	True
+GSM7829628	geo:GSE244781:GSM7829628	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829628	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829629	geo:GSE244781:GSM7829629	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829629	geo:GSE244781:GSM7829629	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829629	geo:GSE244781:GSM7829629	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829629	geo:GSE244781:GSM7829629	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829629	geo:GSE244781:GSM7829629	age	62	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = age: 62	True
+GSM7829629	geo:GSE244781:GSM7829629	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829629	geo:GSE244781:GSM7829629	donor_id	2019-113-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = core code: 2019-113-CORE	True
+GSM7829629	geo:GSE244781:GSM7829629	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = depletion: 50% CD45, EPCAM depleted	True
+GSM7829629	geo:GSE244781:GSM7829629	assay	10x 5' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV1	True
+GSM7829629	geo:GSE244781:GSM7829629	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829629	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829630	geo:GSE244781:GSM7829630	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829630	geo:GSE244781:GSM7829630	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829630	geo:GSE244781:GSM7829630	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829630	geo:GSE244781:GSM7829630	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829630	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829630	geo:GSE244781:GSM7829630	age	63	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829630	!Sample_characteristics_ch1 = age: 63	True
+GSM7829630	geo:GSE244781:GSM7829630	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829630	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829630	geo:GSE244781:GSM7829630	donor_id	2019-114-CORE	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829630	!Sample_characteristics_ch1 = core code: 2019-114-CORE	True
+GSM7829630	geo:GSE244781:GSM7829630	assay	10x 5' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829630	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV1	True
+GSM7829630	geo:GSE244781:GSM7829630	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829630	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829631	geo:GSE244781:GSM7829631	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829631	geo:GSE244781:GSM7829631	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829631	geo:GSE244781:GSM7829631	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829631	geo:GSE244781:GSM7829631	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829631	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829631	geo:GSE244781:GSM7829631	assay	10x 5' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829631	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV2	True
+GSM7829631	geo:GSE244781:GSM7829631	disease_ontology_term_id	PATO:0000461	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829631	!Sample_characteristics_ch1 = disease state: normal control	True
+GSM7829632	geo:GSE244781:GSM7829632	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829632	geo:GSE244781:GSM7829632	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829632	geo:GSE244781:GSM7829632	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829632	geo:GSE244781:GSM7829632	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829632	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829632	geo:GSE244781:GSM7829632	age	21	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829632	!Sample_characteristics_ch1 = age: 21	True
+GSM7829632	geo:GSE244781:GSM7829632	disease_free_text	idiopathic pulmonary arterial hypertension	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829632	!Sample_characteristics_ch1 = disease state: idiopathic pulmonary arterial hypertension	True
+GSM7829632	geo:GSE244781:GSM7829632	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829632	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829632	geo:GSE244781:GSM7829632	donor_id	2016-137-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829632	!Sample_characteristics_ch1 = core code: 2016-137-LT	True
+GSM7829632	geo:GSE244781:GSM7829632	assay	10x 3' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829632	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV1	True
+GSM7829633	geo:GSE244781:GSM7829633	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829633	geo:GSE244781:GSM7829633	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829633	geo:GSE244781:GSM7829633	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829633	geo:GSE244781:GSM7829633	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829633	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829633	geo:GSE244781:GSM7829633	age	50	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829633	!Sample_characteristics_ch1 = age: 50	True
+GSM7829633	geo:GSE244781:GSM7829633	disease_free_text	idiopathic pulmonary arterial hypertension	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829633	!Sample_characteristics_ch1 = disease state: idiopathic pulmonary arterial hypertension	True
+GSM7829633	geo:GSE244781:GSM7829633	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829633	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829633	geo:GSE244781:GSM7829633	donor_id	2017-114-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829633	!Sample_characteristics_ch1 = core code: 2017-114-LT	True
+GSM7829633	geo:GSE244781:GSM7829633	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829633	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829634	geo:GSE244781:GSM7829634	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829634	geo:GSE244781:GSM7829634	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829634	geo:GSE244781:GSM7829634	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829634	geo:GSE244781:GSM7829634	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829634	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829634	geo:GSE244781:GSM7829634	age	36	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829634	!Sample_characteristics_ch1 = age: 36	True
+GSM7829634	geo:GSE244781:GSM7829634	disease_free_text	idiopathic pulmonary arterial hypertension	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829634	!Sample_characteristics_ch1 = disease state: idiopathic pulmonary arterial hypertension	True
+GSM7829634	geo:GSE244781:GSM7829634	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829634	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829634	geo:GSE244781:GSM7829634	donor_id	2018-048-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829634	!Sample_characteristics_ch1 = core code: 2018-048-LT	True
+GSM7829634	geo:GSE244781:GSM7829634	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829634	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829635	geo:GSE244781:GSM7829635	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829635	geo:GSE244781:GSM7829635	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829635	geo:GSE244781:GSM7829635	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829635	geo:GSE244781:GSM7829635	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829635	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829635	geo:GSE244781:GSM7829635	age	67	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829635	!Sample_characteristics_ch1 = age: 67	True
+GSM7829635	geo:GSE244781:GSM7829635	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829635	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829635	geo:GSE244781:GSM7829635	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829635	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829635	geo:GSE244781:GSM7829635	donor_id	2017-012-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829635	!Sample_characteristics_ch1 = core code: 2017-012-LT	True
+GSM7829635	geo:GSE244781:GSM7829635	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829635	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829636	geo:GSE244781:GSM7829636	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829636	geo:GSE244781:GSM7829636	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829636	geo:GSE244781:GSM7829636	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829636	geo:GSE244781:GSM7829636	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829636	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829636	geo:GSE244781:GSM7829636	age	67	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829636	!Sample_characteristics_ch1 = age: 67	True
+GSM7829636	geo:GSE244781:GSM7829636	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829636	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829636	geo:GSE244781:GSM7829636	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829636	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829636	geo:GSE244781:GSM7829636	donor_id	2017-012-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829636	!Sample_characteristics_ch1 = core code: 2017-012-LT	True
+GSM7829636	geo:GSE244781:GSM7829636	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829636	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829637	geo:GSE244781:GSM7829637	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829637	geo:GSE244781:GSM7829637	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829637	geo:GSE244781:GSM7829637	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829637	geo:GSE244781:GSM7829637	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829637	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829637	geo:GSE244781:GSM7829637	age	43	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829637	!Sample_characteristics_ch1 = age: 43	True
+GSM7829637	geo:GSE244781:GSM7829637	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829637	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829637	geo:GSE244781:GSM7829637	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829637	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829637	geo:GSE244781:GSM7829637	donor_id	2017-041-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829637	!Sample_characteristics_ch1 = core code: 2017-041-LT	True
+GSM7829637	geo:GSE244781:GSM7829637	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829637	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829638	geo:GSE244781:GSM7829638	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829638	geo:GSE244781:GSM7829638	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829638	geo:GSE244781:GSM7829638	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829638	geo:GSE244781:GSM7829638	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829638	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829638	geo:GSE244781:GSM7829638	age	43	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829638	!Sample_characteristics_ch1 = age: 43	True
+GSM7829638	geo:GSE244781:GSM7829638	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829638	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829638	geo:GSE244781:GSM7829638	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829638	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829638	geo:GSE244781:GSM7829638	donor_id	2017-041-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829638	!Sample_characteristics_ch1 = core code: 2017-041-LT	True
+GSM7829638	geo:GSE244781:GSM7829638	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829638	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829639	geo:GSE244781:GSM7829639	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829639	geo:GSE244781:GSM7829639	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829639	geo:GSE244781:GSM7829639	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829639	geo:GSE244781:GSM7829639	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829639	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829639	geo:GSE244781:GSM7829639	age	53	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829639	!Sample_characteristics_ch1 = age: 53	True
+GSM7829639	geo:GSE244781:GSM7829639	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829639	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829639	geo:GSE244781:GSM7829639	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829639	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829639	geo:GSE244781:GSM7829639	donor_id	2017-074-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829639	!Sample_characteristics_ch1 = core code: 2017-074-LT	True
+GSM7829639	geo:GSE244781:GSM7829639	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829639	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829640	geo:GSE244781:GSM7829640	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829640	geo:GSE244781:GSM7829640	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829640	geo:GSE244781:GSM7829640	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829640	geo:GSE244781:GSM7829640	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829640	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829640	geo:GSE244781:GSM7829640	age	53	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829640	!Sample_characteristics_ch1 = age: 53	True
+GSM7829640	geo:GSE244781:GSM7829640	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829640	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829640	geo:GSE244781:GSM7829640	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829640	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829640	geo:GSE244781:GSM7829640	donor_id	2017-074-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829640	!Sample_characteristics_ch1 = core code: 2017-074-LT	True
+GSM7829640	geo:GSE244781:GSM7829640	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829640	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829641	geo:GSE244781:GSM7829641	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829641	geo:GSE244781:GSM7829641	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829641	geo:GSE244781:GSM7829641	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829641	geo:GSE244781:GSM7829641	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829641	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829641	geo:GSE244781:GSM7829641	age	64	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829641	!Sample_characteristics_ch1 = age: 64	True
+GSM7829641	geo:GSE244781:GSM7829641	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829641	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829641	geo:GSE244781:GSM7829641	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829641	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829641	geo:GSE244781:GSM7829641	donor_id	2017-090-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829641	!Sample_characteristics_ch1 = core code: 2017-090-LT	True
+GSM7829641	geo:GSE244781:GSM7829641	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829641	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829642	geo:GSE244781:GSM7829642	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829642	geo:GSE244781:GSM7829642	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829642	geo:GSE244781:GSM7829642	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829642	geo:GSE244781:GSM7829642	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829642	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829642	geo:GSE244781:GSM7829642	age	64	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829642	!Sample_characteristics_ch1 = age: 64	True
+GSM7829642	geo:GSE244781:GSM7829642	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829642	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829642	geo:GSE244781:GSM7829642	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829642	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829642	geo:GSE244781:GSM7829642	donor_id	2017-090-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829642	!Sample_characteristics_ch1 = core code: 2017-090-LT	True
+GSM7829642	geo:GSE244781:GSM7829642	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829642	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829643	geo:GSE244781:GSM7829643	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829643	geo:GSE244781:GSM7829643	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829643	geo:GSE244781:GSM7829643	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829643	geo:GSE244781:GSM7829643	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829643	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829643	geo:GSE244781:GSM7829643	age	64	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829643	!Sample_characteristics_ch1 = age: 64	True
+GSM7829643	geo:GSE244781:GSM7829643	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829643	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829643	geo:GSE244781:GSM7829643	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829643	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829643	geo:GSE244781:GSM7829643	donor_id	2018-012-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829643	!Sample_characteristics_ch1 = core code: 2018-012-LT	True
+GSM7829643	geo:GSE244781:GSM7829643	assay	10x 3' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829643	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV2	True
+GSM7829644	geo:GSE244781:GSM7829644	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829644	geo:GSE244781:GSM7829644	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829644	geo:GSE244781:GSM7829644	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829644	geo:GSE244781:GSM7829644	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829644	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829644	geo:GSE244781:GSM7829644	age	43	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829644	!Sample_characteristics_ch1 = age: 43	True
+GSM7829644	geo:GSE244781:GSM7829644	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829644	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829644	geo:GSE244781:GSM7829644	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829644	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829644	geo:GSE244781:GSM7829644	donor_id	2019-027-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829644	!Sample_characteristics_ch1 = core code: 2019-027-LT	True
+GSM7829644	geo:GSE244781:GSM7829644	assay	10x 3' v3	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829644	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV3	True
+GSM7829645	geo:GSE244781:GSM7829645	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829645	geo:GSE244781:GSM7829645	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829645	geo:GSE244781:GSM7829645	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829645	geo:GSE244781:GSM7829645	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829645	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829645	geo:GSE244781:GSM7829645	age	33	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829645	!Sample_characteristics_ch1 = age: 33	True
+GSM7829645	geo:GSE244781:GSM7829645	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829645	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829645	geo:GSE244781:GSM7829645	sex	Male	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829645	!Sample_characteristics_ch1 = Sex: Male	True
+GSM7829645	geo:GSE244781:GSM7829645	donor_id	2019-029-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829645	!Sample_characteristics_ch1 = core code: 2019-029-LT	True
+GSM7829645	geo:GSE244781:GSM7829645	assay	10x 3' v3	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829645	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV3	True
+GSM7829646	geo:GSE244781:GSM7829646	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829646	geo:GSE244781:GSM7829646	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829646	geo:GSE244781:GSM7829646	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829646	geo:GSE244781:GSM7829646	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829646	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829646	geo:GSE244781:GSM7829646	age	62	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829646	!Sample_characteristics_ch1 = age: 62	True
+GSM7829646	geo:GSE244781:GSM7829646	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829646	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829646	geo:GSE244781:GSM7829646	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829646	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829646	geo:GSE244781:GSM7829646	donor_id	2019-039-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829646	!Sample_characteristics_ch1 = core code: 2019-039-LT	True
+GSM7829646	geo:GSE244781:GSM7829646	assay	10x 3' v3	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829646	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV3	True
+GSM7829647	geo:GSE244781:GSM7829647	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829647	geo:GSE244781:GSM7829647	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829647	geo:GSE244781:GSM7829647	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829647	geo:GSE244781:GSM7829647	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829647	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829647	geo:GSE244781:GSM7829647	age	59	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829647	!Sample_characteristics_ch1 = age: 59	True
+GSM7829647	geo:GSE244781:GSM7829647	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829647	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829647	geo:GSE244781:GSM7829647	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829647	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829647	geo:GSE244781:GSM7829647	donor_id	2019-049-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829647	!Sample_characteristics_ch1 = core code: 2019-049-LT	True
+GSM7829647	geo:GSE244781:GSM7829647	assay	10x 3' v3	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829647	!Sample_characteristics_ch1 = protocol: 10X Genomics 3PrimeV3	True
+GSM7829648	geo:GSE244781:GSM7829648	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829648	geo:GSE244781:GSM7829648	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829648	geo:GSE244781:GSM7829648	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829648	geo:GSE244781:GSM7829648	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829648	geo:GSE244781:GSM7829648	age	42	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = age: 42	True
+GSM7829648	geo:GSE244781:GSM7829648	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829648	geo:GSE244781:GSM7829648	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829648	geo:GSE244781:GSM7829648	donor_id	2019-118-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = core code: 2019-118-LT	True
+GSM7829648	geo:GSE244781:GSM7829648	cell_enrichment	50% CD45, EPCAM depleted	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = depletion: 50% CD45, EPCAM depleted	True
+GSM7829648	geo:GSE244781:GSM7829648	assay	10x 5' v1	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829648	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV1	True
+GSM7829649	geo:GSE244781:GSM7829649	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829649	geo:GSE244781:GSM7829649	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829649	geo:GSE244781:GSM7829649	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829649	geo:GSE244781:GSM7829649	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829649	geo:GSE244781:GSM7829649	age	58	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = age: 58	True
+GSM7829649	geo:GSE244781:GSM7829649	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829649	geo:GSE244781:GSM7829649	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829649	geo:GSE244781:GSM7829649	donor_id	2020-062-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = core code: 2020-062-LT	True
+GSM7829649	geo:GSE244781:GSM7829649	cell_enrichment	50% CD45 depleted	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = depletion: 50% CD45 depleted	True
+GSM7829649	geo:GSE244781:GSM7829649	assay	10x 5' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829649	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV2	True
+GSM7829650	geo:GSE244781:GSM7829650	tissue_type	tissue	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829650	geo:GSE244781:GSM7829650	suspension_type	cell	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		A single cell suspension was generated by filtering lungs through 70 micron filters	True
+GSM7829650	geo:GSE244781:GSM7829650	sample_collection_method	explant	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz		Explanted lungs were finely diced and digested for 1 hour	True
+GSM7829650	geo:GSE244781:GSM7829650	tissue_free_text	Lung	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7829650	geo:GSE244781:GSM7829650	age	54	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = age: 54	True
+GSM7829650	geo:GSE244781:GSM7829650	disease_free_text	systemic sclerosis	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = disease state: systemic sclerosis	True
+GSM7829650	geo:GSE244781:GSM7829650	sex	Female	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = Sex: Female	True
+GSM7829650	geo:GSE244781:GSM7829650	donor_id	2020-065-LT	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = core code: 2020-065-LT	True
+GSM7829650	geo:GSE244781:GSM7829650	cell_enrichment	50% CD163 depleted	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = depletion: 50% CD163 depleted	True
+GSM7829650	geo:GSE244781:GSM7829650	assay	10x 5' v2	file	raw/fp-b4176c2a8e34/GSE244781_family.soft.gz	GSM7829650	!Sample_characteristics_ch1 = protocol: 10X Genomics 5PrimeV2	True

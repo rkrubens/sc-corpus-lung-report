@@ -1,0 +1,69 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4411718	geo:GSE146981:GSM4411718	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411719	geo:GSE146981:GSM4411719	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411720	geo:GSE146981:GSM4411720	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411721	geo:GSE146981:GSM4411721	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411722	geo:GSE146981:GSM4411722	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411723	geo:GSE146981:GSM4411723	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411724	geo:GSE146981:GSM4411724	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411725	geo:GSE146981:GSM4411725	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411726	geo:GSE146981:GSM4411726	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411727	geo:GSE146981:GSM4411727	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4411728	geo:GSE146981:GSM4411728	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+		organism	Homo sapiens	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4411701	geo:GSE146981:GSM4411701	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411701	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411701	geo:GSE146981:GSM4411701	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411701	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411702	geo:GSE146981:GSM4411702	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411702	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411702	geo:GSE146981:GSM4411702	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411702	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411703	geo:GSE146981:GSM4411703	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411703	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411703	geo:GSE146981:GSM4411703	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411703	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411704	geo:GSE146981:GSM4411704	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411704	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411704	geo:GSE146981:GSM4411704	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411704	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411705	geo:GSE146981:GSM4411705	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411705	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411705	geo:GSE146981:GSM4411705	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411705	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411706	geo:GSE146981:GSM4411706	tissue_free_text	donor proximal airway	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411706	!Sample_characteristics_ch1 = tissue: donor proximal airway	True
+GSM4411706	geo:GSE146981:GSM4411706	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411706	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411707	geo:GSE146981:GSM4411707	tissue_free_text	donor trachea	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411707	!Sample_characteristics_ch1 = tissue: donor trachea	True
+GSM4411707	geo:GSE146981:GSM4411707	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411707	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411708	geo:GSE146981:GSM4411708	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411708	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411708	geo:GSE146981:GSM4411708	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411708	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411709	geo:GSE146981:GSM4411709	tissue_free_text	donor trachea+proximal airway	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411709	!Sample_characteristics_ch1 = tissue: donor trachea+proximal airway	True
+GSM4411709	geo:GSE146981:GSM4411709	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411709	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411710	geo:GSE146981:GSM4411710	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411710	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411710	geo:GSE146981:GSM4411710	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411710	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411711	geo:GSE146981:GSM4411711	tissue_free_text	donor trachea+proximal airway	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411711	!Sample_characteristics_ch1 = tissue: donor trachea+proximal airway	True
+GSM4411711	geo:GSE146981:GSM4411711	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411711	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411712	geo:GSE146981:GSM4411712	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411712	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411712	geo:GSE146981:GSM4411712	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411712	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411713	geo:GSE146981:GSM4411713	tissue_free_text	donor proximal airway	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411713	!Sample_characteristics_ch1 = tissue: donor proximal airway	True
+GSM4411713	geo:GSE146981:GSM4411713	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411713	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411714	geo:GSE146981:GSM4411714	tissue_free_text	donor trachea	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411714	!Sample_characteristics_ch1 = tissue: donor trachea	True
+GSM4411714	geo:GSE146981:GSM4411714	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411714	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411715	geo:GSE146981:GSM4411715	tissue_free_text	donor distal	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411715	!Sample_characteristics_ch1 = tissue: donor distal	True
+GSM4411715	geo:GSE146981:GSM4411715	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411715	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411716	geo:GSE146981:GSM4411716	tissue_free_text	donor proximal airway	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411716	!Sample_characteristics_ch1 = tissue: donor proximal airway	True
+GSM4411716	geo:GSE146981:GSM4411716	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411716	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411717	geo:GSE146981:GSM4411717	tissue_free_text	donor trachea	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411717	!Sample_characteristics_ch1 = tissue: donor trachea	True
+GSM4411717	geo:GSE146981:GSM4411717	disease_free_text	Donor	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411717	!Sample_characteristics_ch1 = group: Donor	True
+GSM4411718	geo:GSE146981:GSM4411718	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411718	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411718	geo:GSE146981:GSM4411718	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411718	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411719	geo:GSE146981:GSM4411719	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411719	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411719	geo:GSE146981:GSM4411719	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411719	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411720	geo:GSE146981:GSM4411720	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411720	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411720	geo:GSE146981:GSM4411720	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411720	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411721	geo:GSE146981:GSM4411721	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411721	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411721	geo:GSE146981:GSM4411721	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411721	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411722	geo:GSE146981:GSM4411722	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411722	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411722	geo:GSE146981:GSM4411722	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411722	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411723	geo:GSE146981:GSM4411723	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411723	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411723	geo:GSE146981:GSM4411723	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411723	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411724	geo:GSE146981:GSM4411724	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411724	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411724	geo:GSE146981:GSM4411724	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411724	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411725	geo:GSE146981:GSM4411725	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411725	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411725	geo:GSE146981:GSM4411725	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411725	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411726	geo:GSE146981:GSM4411726	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411726	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411726	geo:GSE146981:GSM4411726	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411726	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411727	geo:GSE146981:GSM4411727	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411727	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411727	geo:GSE146981:GSM4411727	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411727	!Sample_characteristics_ch1 = group: IPF	True
+GSM4411728	geo:GSE146981:GSM4411728	tissue_free_text	IPF lung explant	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411728	!Sample_characteristics_ch1 = tissue: IPF lung explant	True
+GSM4411728	geo:GSE146981:GSM4411728	disease_free_text	IPF	file	raw/fp-b856d0f2f3ea/GSE146981_family.soft.gz	GSM4411728	!Sample_characteristics_ch1 = group: IPF	True

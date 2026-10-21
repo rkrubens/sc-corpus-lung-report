@@ -1,0 +1,82 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		!Series_sample_taxid = 9606	True
+GSM9778873	geo:GSE334010:GSM9778873	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778873	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778873	geo:GSE334010:GSM9778873	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778873	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778873	geo:GSE334010:GSM9778873	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778873	geo:GSE334010:GSM9778873	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778873	dissociated into a single-cell suspension	True
+GSM9778873	geo:GSE334010:GSM9778873	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778873	From fixed cell suspension	True
+GSM9778874	geo:GSE334010:GSM9778874	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778874	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778874	geo:GSE334010:GSM9778874	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778874	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778874	geo:GSE334010:GSM9778874	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778874	geo:GSE334010:GSM9778874	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778874	dissociated into a single-cell suspension	True
+GSM9778874	geo:GSE334010:GSM9778874	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778874	From fixed cell suspension	True
+GSM9778875	geo:GSE334010:GSM9778875	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778875	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778875	geo:GSE334010:GSM9778875	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778875	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778875	geo:GSE334010:GSM9778875	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778875	geo:GSE334010:GSM9778875	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778875	dissociated into a single-cell suspension	True
+GSM9778875	geo:GSE334010:GSM9778875	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778875	From fixed cell suspension	True
+GSM9778876	geo:GSE334010:GSM9778876	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778876	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778876	geo:GSE334010:GSM9778876	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778876	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778876	geo:GSE334010:GSM9778876	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778876	geo:GSE334010:GSM9778876	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778876	dissociated into a single-cell suspension	True
+GSM9778876	geo:GSE334010:GSM9778876	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778876	From fixed cell suspension	True
+GSM9778877	geo:GSE334010:GSM9778877	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778877	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778877	geo:GSE334010:GSM9778877	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778877	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778877	geo:GSE334010:GSM9778877	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778877	geo:GSE334010:GSM9778877	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778877	dissociated into a single-cell suspension	True
+GSM9778877	geo:GSE334010:GSM9778877	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778877	From fixed cell suspension	True
+GSM9778878	geo:GSE334010:GSM9778878	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778878	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778878	geo:GSE334010:GSM9778878	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778878	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778878	geo:GSE334010:GSM9778878	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778878	geo:GSE334010:GSM9778878	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778878	dissociated into a single-cell suspension	True
+GSM9778878	geo:GSE334010:GSM9778878	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778878	From fixed cell suspension	True
+GSM9778879	geo:GSE334010:GSM9778879	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778879	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778879	geo:GSE334010:GSM9778879	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778879	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778879	geo:GSE334010:GSM9778879	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778879	geo:GSE334010:GSM9778879	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778879	dissociated into a single-cell suspension	True
+GSM9778879	geo:GSE334010:GSM9778879	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778879	From fixed cell suspension	True
+GSM9778880	geo:GSE334010:GSM9778880	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778880	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778880	geo:GSE334010:GSM9778880	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778880	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778880	geo:GSE334010:GSM9778880	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778880	geo:GSE334010:GSM9778880	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778880	dissociated into a single-cell suspension	True
+GSM9778880	geo:GSE334010:GSM9778880	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778880	From fixed cell suspension	True
+GSM9778881	geo:GSE334010:GSM9778881	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778881	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778881	geo:GSE334010:GSM9778881	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778881	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778881	geo:GSE334010:GSM9778881	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778881	geo:GSE334010:GSM9778881	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778881	dissociated into a single-cell suspension	True
+GSM9778881	geo:GSE334010:GSM9778881	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778881	From fixed cell suspension	True
+GSM9778882	geo:GSE334010:GSM9778882	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778882	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778882	geo:GSE334010:GSM9778882	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778882	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778882	geo:GSE334010:GSM9778882	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778882	geo:GSE334010:GSM9778882	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778882	dissociated into a single-cell suspension	True
+GSM9778882	geo:GSE334010:GSM9778882	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778882	From fixed cell suspension	True
+GSM9778883	geo:GSE334010:GSM9778883	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778883	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778883	geo:GSE334010:GSM9778883	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778883	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778883	geo:GSE334010:GSM9778883	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778883	geo:GSE334010:GSM9778883	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778883	dissociated into a single-cell suspension	True
+GSM9778883	geo:GSE334010:GSM9778883	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778883	From fixed cell suspension	True
+GSM9778884	geo:GSE334010:GSM9778884	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778884	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778884	geo:GSE334010:GSM9778884	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778884	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778884	geo:GSE334010:GSM9778884	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778884	geo:GSE334010:GSM9778884	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778884	dissociated into a single-cell suspension	True
+GSM9778884	geo:GSE334010:GSM9778884	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778884	From fixed cell suspension	True
+GSM9778885	geo:GSE334010:GSM9778885	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778885	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778885	geo:GSE334010:GSM9778885	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778885	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778885	geo:GSE334010:GSM9778885	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778885	geo:GSE334010:GSM9778885	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778885	dissociated into a single-cell suspension	True
+GSM9778885	geo:GSE334010:GSM9778885	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778885	From fixed cell suspension	True
+GSM9778886	geo:GSE334010:GSM9778886	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778886	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778886	geo:GSE334010:GSM9778886	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778886	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778886	geo:GSE334010:GSM9778886	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778886	geo:GSE334010:GSM9778886	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778886	dissociated into a single-cell suspension	True
+GSM9778886	geo:GSE334010:GSM9778886	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778886	From fixed cell suspension	True
+GSM9778887	geo:GSE334010:GSM9778887	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778887	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778887	geo:GSE334010:GSM9778887	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778887	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778887	geo:GSE334010:GSM9778887	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778887	geo:GSE334010:GSM9778887	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778887	dissociated into a single-cell suspension	True
+GSM9778887	geo:GSE334010:GSM9778887	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778887	From fixed cell suspension	True
+GSM9778888	geo:GSE334010:GSM9778888	tissue_free_text	Lung	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778888	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778888	geo:GSE334010:GSM9778888	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778888	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9778888	geo:GSE334010:GSM9778888	tissue_type	cell culture	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz		expanded under standard in vitro culture conditions	True
+GSM9778888	geo:GSE334010:GSM9778888	suspension_type	cell	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778888	dissociated into a single-cell suspension	True
+GSM9778888	geo:GSE334010:GSM9778888	sample_preservation	fixed	file	raw/fp-473e1717cc68/GSE334010_family.soft.gz	GSM9778888	From fixed cell suspension	True

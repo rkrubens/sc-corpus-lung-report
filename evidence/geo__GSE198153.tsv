@@ -1,0 +1,46 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5939873	geo:GSE198153:GSM5939873	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5939873	geo:GSE198153:GSM5939873	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5939874	geo:GSE198153:GSM5939874	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5939874	geo:GSE198153:GSM5939874	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5939875	geo:GSE198153:GSM5939875	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5939875	geo:GSE198153:GSM5939875	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM5939876	geo:GSE198153:GSM5939876	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5939876	geo:GSE198153:GSM5939876	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+		organism	Homo sapiens	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5939873	geo:GSE198153:GSM5939873	tissue_free_text	peripheral lung tissue (alveolar basal cells grown out of cultured tissue pieces)	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939873	geo:GSE198153:GSM5939873	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939873	geo:GSE198153:GSM5939873	tissue_type	cell culture	file	evidence/PMC9180703.txt		Briefly, peripheral fibrotic lung tissue was cut into small pieces and placed into 12-well culture dishes (one piece/well) containing DMEM growth medium.	True
+GSM5939873	geo:GSE198153:GSM5939873	suspension_type	cell	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single-cell suspensions were generated from cells from cultured peripheral lung tissue biopsies	True
+GSM5939873	geo:GSE198153:GSM5939873	assay	10x 3' v3	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM5939873	geo:GSE198153:GSM5939873	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939873	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939873	geo:GSE198153:GSM5939873	sex	male	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939873	!Sample_characteristics_ch1 = Sex: male	True
+GSM5939873	geo:GSE198153:GSM5939873	donor_id	1	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939873	!Sample_characteristics_ch1 = patient: 1	True
+GSM5939873	geo:GSE198153:GSM5939873	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939873	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939874	geo:GSE198153:GSM5939874	tissue_free_text	peripheral lung tissue (alveolar basal cells grown out of cultured tissue pieces)	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939874	geo:GSE198153:GSM5939874	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939874	geo:GSE198153:GSM5939874	tissue_type	cell culture	file	evidence/PMC9180703.txt		Briefly, peripheral fibrotic lung tissue was cut into small pieces and placed into 12-well culture dishes (one piece/well) containing DMEM growth medium.	True
+GSM5939874	geo:GSE198153:GSM5939874	suspension_type	cell	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single-cell suspensions were generated from cells from cultured peripheral lung tissue biopsies	True
+GSM5939874	geo:GSE198153:GSM5939874	assay	10x 3' v3	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM5939874	geo:GSE198153:GSM5939874	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939874	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939874	geo:GSE198153:GSM5939874	sex	female	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939874	!Sample_characteristics_ch1 = Sex: female	True
+GSM5939874	geo:GSE198153:GSM5939874	donor_id	2	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939874	!Sample_characteristics_ch1 = patient: 2	True
+GSM5939874	geo:GSE198153:GSM5939874	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939874	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939875	geo:GSE198153:GSM5939875	tissue_free_text	peripheral lung tissue (alveolar basal cells grown out of cultured tissue pieces)	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939875	geo:GSE198153:GSM5939875	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939875	geo:GSE198153:GSM5939875	tissue_type	cell culture	file	evidence/PMC9180703.txt		Briefly, peripheral fibrotic lung tissue was cut into small pieces and placed into 12-well culture dishes (one piece/well) containing DMEM growth medium.	True
+GSM5939875	geo:GSE198153:GSM5939875	suspension_type	cell	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single-cell suspensions were generated from cells from cultured peripheral lung tissue biopsies	True
+GSM5939875	geo:GSE198153:GSM5939875	assay	10x 3' v3	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM5939875	geo:GSE198153:GSM5939875	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939875	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939875	geo:GSE198153:GSM5939875	sex	male	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939875	!Sample_characteristics_ch1 = Sex: male	True
+GSM5939875	geo:GSE198153:GSM5939875	donor_id	3	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939875	!Sample_characteristics_ch1 = patient: 3	True
+GSM5939875	geo:GSE198153:GSM5939875	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939875	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939876	geo:GSE198153:GSM5939876	tissue_free_text	peripheral lung tissue (alveolar basal cells grown out of cultured tissue pieces)	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939876	geo:GSE198153:GSM5939876	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Alveolar basal cells from peripheral lung tissue of IPF patient	True
+GSM5939876	geo:GSE198153:GSM5939876	tissue_type	cell culture	file	evidence/PMC9180703.txt		Briefly, peripheral fibrotic lung tissue was cut into small pieces and placed into 12-well culture dishes (one piece/well) containing DMEM growth medium.	True
+GSM5939876	geo:GSE198153:GSM5939876	suspension_type	cell	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single-cell suspensions were generated from cells from cultured peripheral lung tissue biopsies	True
+GSM5939876	geo:GSE198153:GSM5939876	assay	10x 3' v3	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz		Single Cell 3’ v3 Reagent Kit (10× Genomics)	True
+GSM5939876	geo:GSE198153:GSM5939876	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939876	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True
+GSM5939876	geo:GSE198153:GSM5939876	sex	female	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939876	!Sample_characteristics_ch1 = Sex: female	True
+GSM5939876	geo:GSE198153:GSM5939876	donor_id	2	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939876	!Sample_characteristics_ch1 = patient: 2	True
+GSM5939876	geo:GSE198153:GSM5939876	disease_ontology_term_id	MONDO:0800504	file	raw/fp-cef0f8963682/GSE198153_family.soft.gz	GSM5939876	!Sample_characteristics_ch1 = disease: idiopathic pulmonary fibrosis	True

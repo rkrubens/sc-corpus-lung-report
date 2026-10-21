@@ -1,0 +1,58 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7105963	geo:GSE227712:GSM7105963	donor_id	<column donor_label>	column	work/cell_table.tsv/donor_label			True
+GSM7105964	geo:GSE227712:GSM7105964	donor_id	<column donor_label>	column	work/cell_table.tsv/donor_label			True
+GSM7105965	geo:GSE227712:GSM7105965	donor_id	<column donor_label>	column	work/cell_table.tsv/donor_label			True
+GSM7105966	geo:GSE227712:GSM7105966	donor_id	<column donor_label>	column	work/cell_table.tsv/donor_label			True
+GSM7105963	geo:GSE227712:GSM7105963	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv/sex			True
+GSM7105964	geo:GSE227712:GSM7105964	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv/sex			True
+GSM7105965	geo:GSE227712:GSM7105965	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv/sex			True
+GSM7105966	geo:GSE227712:GSM7105966	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv/sex			True
+GSM7105963	geo:GSE227712:GSM7105963	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7105964	geo:GSE227712:GSM7105964	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7105965	geo:GSE227712:GSM7105965	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7105966	geo:GSE227712:GSM7105966	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM7105963	geo:GSE227712:GSM7105963	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7105964	geo:GSE227712:GSM7105964	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7105965	geo:GSE227712:GSM7105965	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7105966	geo:GSE227712:GSM7105966	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM7105963	geo:GSE227712:GSM7105963	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+GSM7105964	geo:GSE227712:GSM7105964	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+GSM7105965	geo:GSE227712:GSM7105965	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+GSM7105966	geo:GSE227712:GSM7105966	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+		organism	Homo sapiens	file	raw/fp-d6a82b86d4c3/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM7105963	geo:GSE227712:GSM7105963	tissue_free_text	Lung	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105964	geo:GSE227712:GSM7105964	tissue_free_text	Lung	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105965	geo:GSE227712:GSM7105965	tissue_free_text	Lung	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105966	geo:GSE227712:GSM7105966	tissue_free_text	Lung	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105963	geo:GSE227712:GSM7105963	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105964	geo:GSE227712:GSM7105964	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105965	geo:GSE227712:GSM7105965	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105966	geo:GSE227712:GSM7105966	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105963	geo:GSE227712:GSM7105963	disease_free_text	lung cancer patients (lobectomy); macroscopically healthy tissue distal to the tumour	file	evidence/PMC10100501.txt		Macroscopically healthy tissue distal to the tumour was used	True
+GSM7105964	geo:GSE227712:GSM7105964	disease_free_text	lung cancer patients (lobectomy); macroscopically healthy tissue distal to the tumour	file	evidence/PMC10100501.txt		Macroscopically healthy tissue distal to the tumour was used	True
+GSM7105965	geo:GSE227712:GSM7105965	disease_free_text	lung cancer patients (lobectomy); macroscopically healthy tissue distal to the tumour	file	evidence/PMC10100501.txt		Macroscopically healthy tissue distal to the tumour was used	True
+GSM7105966	geo:GSE227712:GSM7105966	disease_free_text	lung cancer patients (lobectomy); macroscopically healthy tissue distal to the tumour	file	evidence/PMC10100501.txt		Macroscopically healthy tissue distal to the tumour was used	True
+GSM7105963	geo:GSE227712:GSM7105963	sample_collection_method	lobectomy	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105964	geo:GSE227712:GSM7105964	sample_collection_method	lobectomy	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105965	geo:GSE227712:GSM7105965	sample_collection_method	lobectomy	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105966	geo:GSE227712:GSM7105966	sample_collection_method	lobectomy	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105963	geo:GSE227712:GSM7105963	tissue_type	tissue	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105964	geo:GSE227712:GSM7105964	tissue_type	tissue	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105965	geo:GSE227712:GSM7105965	tissue_type	tissue	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105966	geo:GSE227712:GSM7105966	tissue_type	tissue	file	evidence/PMC10100501.txt		Lung tissue was obtained from patients undergoing lobectomy due to lung cancer	True
+GSM7105963	geo:GSE227712:GSM7105963	suspension_type	cell	file	evidence/PMC10100501.txt		Single-cell suspensions were obtained by digesting the tissue	True
+GSM7105964	geo:GSE227712:GSM7105964	suspension_type	cell	file	evidence/PMC10100501.txt		Single-cell suspensions were obtained by digesting the tissue	True
+GSM7105965	geo:GSE227712:GSM7105965	suspension_type	cell	file	evidence/PMC10100501.txt		Single-cell suspensions were obtained by digesting the tissue	True
+GSM7105966	geo:GSE227712:GSM7105966	suspension_type	cell	file	evidence/PMC10100501.txt		Single-cell suspensions were obtained by digesting the tissue	True
+GSM7105963	geo:GSE227712:GSM7105963	cell_enrichment	FACS-sorted mast cells (CD45+ CD117 high, lineage-negative)	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		The human lung mast cells were FACS sorted	True
+GSM7105964	geo:GSE227712:GSM7105964	cell_enrichment	FACS-sorted mast cells (CD45+ CD117 high, lineage-negative)	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		The human lung mast cells were FACS sorted	True
+GSM7105965	geo:GSE227712:GSM7105965	cell_enrichment	FACS-sorted mast cells (CD45+ CD117 high, lineage-negative)	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		The human lung mast cells were FACS sorted	True
+GSM7105966	geo:GSE227712:GSM7105966	cell_enrichment	FACS-sorted mast cells (CD45+ CD117 high, lineage-negative)	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		The human lung mast cells were FACS sorted	True
+GSM7105963	geo:GSE227712:GSM7105963	assay	Smart-seq2	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		!Sample_extract_protocol_ch1 = SmartSeq2	True
+GSM7105964	geo:GSE227712:GSM7105964	assay	Smart-seq2	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		!Sample_extract_protocol_ch1 = SmartSeq2	True
+GSM7105965	geo:GSE227712:GSM7105965	assay	Smart-seq2	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		!Sample_extract_protocol_ch1 = SmartSeq2	True
+GSM7105966	geo:GSE227712:GSM7105966	assay	Smart-seq2	file	raw/fp-d6a82b86d4c3/GSE227712_family.soft.gz		!Sample_extract_protocol_ch1 = SmartSeq2	True
+GSM7105963	geo:GSE227712:GSM7105963	treatment_status	untreated (no preoperative chemo- or radiotherapy)	file	evidence/PMC10100501.txt		none of them had preoperative chemo- or radiotherapy	True
+GSM7105964	geo:GSE227712:GSM7105964	treatment_status	untreated (no preoperative chemo- or radiotherapy)	file	evidence/PMC10100501.txt		none of them had preoperative chemo- or radiotherapy	True
+GSM7105965	geo:GSE227712:GSM7105965	treatment_status	untreated (no preoperative chemo- or radiotherapy)	file	evidence/PMC10100501.txt		none of them had preoperative chemo- or radiotherapy	True
+GSM7105966	geo:GSE227712:GSM7105966	treatment_status	untreated (no preoperative chemo- or radiotherapy)	file	evidence/PMC10100501.txt		none of them had preoperative chemo- or radiotherapy	True

@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4705606	geo:GSE155515:GSM4705606	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4705606	geo:GSE155515:GSM4705606	development_stage_ontology_term_id	HsapDv:0000130	derived	age_in_years:'36-year-old stage':ols:hsapdv		36	True
+GSM4705607	geo:GSE155515:GSM4705607	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4705607	geo:GSE155515:GSM4705607	development_stage_ontology_term_id	HsapDv:0000115	derived	age_in_years:'21-year-old stage':ols:hsapdv		21	True
+GSM4705608	geo:GSE155515:GSM4705608	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4705608	geo:GSE155515:GSM4705608	development_stage_ontology_term_id	HsapDv:0000116	derived	age_in_years:'22-year-old stage':ols:hsapdv		22	True
+GSM4705609	geo:GSE155515:GSM4705609	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4705609	geo:GSE155515:GSM4705609	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM4705610	geo:GSE155515:GSM4705610	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4705610	geo:GSE155515:GSM4705610	development_stage_ontology_term_id	HsapDv:0000133	derived	age_in_years:'39-year-old stage':ols:hsapdv		39	True
+GSM4705611	geo:GSE155515:GSM4705611	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4705611	geo:GSE155515:GSM4705611	development_stage_ontology_term_id	HsapDv:0000124	derived	age_in_years:'30-year-old stage':ols:hsapdv		30	True
+		organism	Homo sapiens	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4705606	geo:GSE155515:GSM4705606	age	36	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705606	!Sample_characteristics_ch1 = age: 36	True
+GSM4705606	geo:GSE155515:GSM4705606	sex	F	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705606	!Sample_characteristics_ch1 = gender: F	True
+GSM4705607	geo:GSE155515:GSM4705607	age	21	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705607	!Sample_characteristics_ch1 = age: 21	True
+GSM4705607	geo:GSE155515:GSM4705607	sex	F	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705607	!Sample_characteristics_ch1 = gender: F	True
+GSM4705608	geo:GSE155515:GSM4705608	age	22	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705608	!Sample_characteristics_ch1 = age: 22	True
+GSM4705608	geo:GSE155515:GSM4705608	sex	F	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705608	!Sample_characteristics_ch1 = gender: F	True
+GSM4705609	geo:GSE155515:GSM4705609	age	57	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705609	!Sample_characteristics_ch1 = age: 57	True
+GSM4705609	geo:GSE155515:GSM4705609	sex	M	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705609	!Sample_characteristics_ch1 = gender: M	True
+GSM4705610	geo:GSE155515:GSM4705610	age	39	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705610	!Sample_characteristics_ch1 = age: 39	True
+GSM4705610	geo:GSE155515:GSM4705610	sex	M	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705610	!Sample_characteristics_ch1 = gender: M	True
+GSM4705611	geo:GSE155515:GSM4705611	age	30	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705611	!Sample_characteristics_ch1 = age: 30	True
+GSM4705611	geo:GSE155515:GSM4705611	sex	M	file	raw/fp-b0303f464ce5/GSE155515_family.soft.gz	GSM4705611	!Sample_characteristics_ch1 = gender: M	True

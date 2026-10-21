@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+PS-SCDI-041n	arrayexpress:E-MTAB-13968:PS-SCDI-041n	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+		organism	Homo sapiens	file	raw/fp-1bfda705c377/E-MTAB-13968.sdrf.txt		Homo sapiens	True
+PS-SCDI-041n	arrayexpress:E-MTAB-13968:PS-SCDI-041n	disease_free_text	Non-small cell lung cancer (NSCLC) PDX	file	raw/fp-1bfda705c377/E-MTAB-13968.idf.txt		Non-small cell lung cancer (NSCLC) PDX models	True
+PS-SCDI-041n	arrayexpress:E-MTAB-13968:PS-SCDI-041n	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-1bfda705c377/E-MTAB-13968.idf.txt		Non-small cell lung cancer (NSCLC) PDX models	True
+PS-SCDI-041n	arrayexpress:E-MTAB-13968:PS-SCDI-041n	tissue_free_text	tumor (LXFS lung cancer xenograft grown subcutaneously in mice)	file	raw/fp-1bfda705c377/E-MTAB-13968.sdrf.txt		xenograft LXFS cells grown in mice	True
+PS-SCDI-041n	arrayexpress:E-MTAB-13968:PS-SCDI-041n	suspension_type	cell	file	raw/fp-1bfda705c377/E-MTAB-13968.idf.txt		suspensions of up to 10 million cells	True
+PS-SCDI-041n	arrayexpress:E-MTAB-13968:PS-SCDI-041n	sample_preservation	fixed	file	raw/fp-1bfda705c377/E-MTAB-13968.idf.txt		Cells were fixed for 16-24h at 4C	True

@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-fc15cb916f47/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM7509499	geo:GSE235782:GSM7509499	tissue_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509499	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509499	geo:GSE235782:GSM7509499	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509499	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509499	geo:GSE235782:GSM7509499	disease_ontology_term_id	MONDO:0005061	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509499	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509499	geo:GSE235782:GSM7509499	disease_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509499	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509499	geo:GSE235782:GSM7509499	assay	EFO:0009899	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509499	single cell 3’ v2 protocol, 10x Genomics	True
+GSM7509500	geo:GSE235782:GSM7509500	tissue_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509500	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509500	geo:GSE235782:GSM7509500	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509500	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509500	geo:GSE235782:GSM7509500	disease_ontology_term_id	MONDO:0005061	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509500	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509500	geo:GSE235782:GSM7509500	disease_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509500	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509500	geo:GSE235782:GSM7509500	assay	EFO:0009899	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509500	single cell 3’ v2 protocol, 10x Genomics	True
+GSM7509501	geo:GSE235782:GSM7509501	tissue_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509501	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509501	geo:GSE235782:GSM7509501	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509501	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509501	geo:GSE235782:GSM7509501	disease_ontology_term_id	MONDO:0005061	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509501	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509501	geo:GSE235782:GSM7509501	disease_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509501	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509501	geo:GSE235782:GSM7509501	suspension_type	na	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509501	!Sample_title = spatial transcriptomics	True
+GSM7509502	geo:GSE235782:GSM7509502	tissue_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509502	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509502	geo:GSE235782:GSM7509502	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509502	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM7509502	geo:GSE235782:GSM7509502	disease_ontology_term_id	MONDO:0005061	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509502	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509502	geo:GSE235782:GSM7509502	disease_free_text	lung adenocarcinoma	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509502	!Sample_source_name_ch1 = lung adenocarcinoma	True
+GSM7509502	geo:GSE235782:GSM7509502	suspension_type	na	file	raw/fp-fc15cb916f47/GSE235782_family.soft.gz	GSM7509502	!Sample_title = spatial transcriptomics	True

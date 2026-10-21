@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5454349	geo:GSE180139:GSM5454349	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM5454350	geo:GSE180139:GSM5454350	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-e01662ae8241/GSE180139_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5454349	geo:GSE180139:GSM5454349	disease_free_text	lung cancer with RA-ILD	file	raw/fp-e01662ae8241/GSE180139_family.soft.gz	GSM5454349	!Sample_characteristics_ch1 = disease: lung cancer with RA-ILD	True
+GSM5454349	geo:GSE180139:GSM5454349	tissue_free_text	lung	file	raw/fp-e01662ae8241/GSE180139_family.soft.gz	GSM5454349	!Sample_characteristics_ch1 = tissue: lung	True
+GSM5454350	geo:GSE180139:GSM5454350	disease_free_text	lung cancer with RA-ILD	file	raw/fp-e01662ae8241/GSE180139_family.soft.gz	GSM5454350	!Sample_characteristics_ch1 = disease: lung cancer with RA-ILD	True
+GSM5454350	geo:GSE180139:GSM5454350	tissue_free_text	lung	file	raw/fp-e01662ae8241/GSE180139_family.soft.gz	GSM5454350	!Sample_characteristics_ch1 = tissue: lung	True

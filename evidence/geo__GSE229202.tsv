@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7156658	geo:GSE229202:GSM7156658	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7156659	geo:GSE229202:GSM7156659	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7156660	geo:GSE229202:GSM7156660	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7156661	geo:GSE229202:GSM7156661	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7156658	geo:GSE229202:GSM7156658	tissue_free_text	lung	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156658	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7156658	geo:GSE229202:GSM7156658	treatment	control	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156658	!Sample_characteristics_ch1 = treatment: control	True
+GSM7156659	geo:GSE229202:GSM7156659	tissue_free_text	lung	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156659	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7156659	geo:GSE229202:GSM7156659	treatment	IL13_02days	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156659	!Sample_characteristics_ch1 = treatment: IL13_02days	True
+GSM7156660	geo:GSE229202:GSM7156660	tissue_free_text	lung	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156660	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7156660	geo:GSE229202:GSM7156660	treatment	IL13_07days	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156660	!Sample_characteristics_ch1 = treatment: IL13_07days	True
+GSM7156661	geo:GSE229202:GSM7156661	tissue_free_text	lung	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156661	!Sample_characteristics_ch1 = tissue: lung	True
+GSM7156661	geo:GSE229202:GSM7156661	treatment	IL13_21days	file	raw/fp-995e8dacf4af/GSE229202_family.soft.gz	GSM7156661	!Sample_characteristics_ch1 = treatment: IL13_21days	True

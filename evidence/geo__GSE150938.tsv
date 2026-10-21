@@ -1,0 +1,146 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+RJLC10	geo:GSE150938:RJLC10	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC11	geo:GSE150938:RJLC11	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC12	geo:GSE150938:RJLC12	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC13-1	geo:GSE150938:RJLC13-1	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC13-2	geo:GSE150938:RJLC13-2	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC14	geo:GSE150938:RJLC14	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC15	geo:GSE150938:RJLC15	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC16	geo:GSE150938:RJLC16	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC17	geo:GSE150938:RJLC17	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC18	geo:GSE150938:RJLC18	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC8	geo:GSE150938:RJLC8	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC9	geo:GSE150938:RJLC9	donor_id	<column Patient_ID>	column	work/cells_reconciled.tsv/Patient_ID			True
+RJLC10	geo:GSE150938:RJLC10	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC11	geo:GSE150938:RJLC11	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC12	geo:GSE150938:RJLC12	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC13-1	geo:GSE150938:RJLC13-1	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC13-2	geo:GSE150938:RJLC13-2	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC14	geo:GSE150938:RJLC14	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC15	geo:GSE150938:RJLC15	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC16	geo:GSE150938:RJLC16	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC17	geo:GSE150938:RJLC17	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC18	geo:GSE150938:RJLC18	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC8	geo:GSE150938:RJLC8	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC9	geo:GSE150938:RJLC9	disease_free_text	<column soft_histology>	column	work/cells_reconciled.tsv/soft_histology			True
+RJLC10	geo:GSE150938:RJLC10	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC11	geo:GSE150938:RJLC11	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC12	geo:GSE150938:RJLC12	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC13-1	geo:GSE150938:RJLC13-1	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC13-2	geo:GSE150938:RJLC13-2	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC14	geo:GSE150938:RJLC14	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC15	geo:GSE150938:RJLC15	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC16	geo:GSE150938:RJLC16	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC17	geo:GSE150938:RJLC17	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC18	geo:GSE150938:RJLC18	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC8	geo:GSE150938:RJLC8	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC9	geo:GSE150938:RJLC9	disease_stage	<column soft_tumor_stage>	column	work/cells_reconciled.tsv/soft_tumor_stage			True
+RJLC10	geo:GSE150938:RJLC10	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC11	geo:GSE150938:RJLC11	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC12	geo:GSE150938:RJLC12	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC13-1	geo:GSE150938:RJLC13-1	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC13-2	geo:GSE150938:RJLC13-2	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC14	geo:GSE150938:RJLC14	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC15	geo:GSE150938:RJLC15	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC16	geo:GSE150938:RJLC16	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC17	geo:GSE150938:RJLC17	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC18	geo:GSE150938:RJLC18	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC8	geo:GSE150938:RJLC8	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+RJLC9	geo:GSE150938:RJLC9	author_cell_type	<column minorCluster>	column	work/cells_reconciled.tsv/minorCluster			True
+		organism	Homo sapiens	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+RJLC10	geo:GSE150938:RJLC10	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC11	geo:GSE150938:RJLC11	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC12	geo:GSE150938:RJLC12	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC13-1	geo:GSE150938:RJLC13-1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC13-2	geo:GSE150938:RJLC13-2	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC14	geo:GSE150938:RJLC14	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC15	geo:GSE150938:RJLC15	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC16	geo:GSE150938:RJLC16	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC17	geo:GSE150938:RJLC17	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC18	geo:GSE150938:RJLC18	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC8	geo:GSE150938:RJLC8	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC9	geo:GSE150938:RJLC9	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		!Sample_source_name_ch1 = lung	True
+RJLC10	geo:GSE150938:RJLC10	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC11	geo:GSE150938:RJLC11	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC12	geo:GSE150938:RJLC12	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC13-1	geo:GSE150938:RJLC13-1	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC13-2	geo:GSE150938:RJLC13-2	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC14	geo:GSE150938:RJLC14	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC15	geo:GSE150938:RJLC15	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC16	geo:GSE150938:RJLC16	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC17	geo:GSE150938:RJLC17	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC18	geo:GSE150938:RJLC18	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC8	geo:GSE150938:RJLC8	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC9	geo:GSE150938:RJLC9	tissue_free_text	lung tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC10	geo:GSE150938:RJLC10	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC11	geo:GSE150938:RJLC11	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC12	geo:GSE150938:RJLC12	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC13-1	geo:GSE150938:RJLC13-1	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC13-2	geo:GSE150938:RJLC13-2	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC14	geo:GSE150938:RJLC14	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC15	geo:GSE150938:RJLC15	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC16	geo:GSE150938:RJLC16	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC17	geo:GSE150938:RJLC17	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC18	geo:GSE150938:RJLC18	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC8	geo:GSE150938:RJLC8	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC9	geo:GSE150938:RJLC9	tissue_type	tumor	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC10	geo:GSE150938:RJLC10	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC11	geo:GSE150938:RJLC11	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC12	geo:GSE150938:RJLC12	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC13-1	geo:GSE150938:RJLC13-1	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC13-2	geo:GSE150938:RJLC13-2	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC14	geo:GSE150938:RJLC14	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC15	geo:GSE150938:RJLC15	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC16	geo:GSE150938:RJLC16	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC17	geo:GSE150938:RJLC17	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC18	geo:GSE150938:RJLC18	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC8	geo:GSE150938:RJLC8	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC9	geo:GSE150938:RJLC9	disease_ontology_term_id	MONDO:0021117	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		tissue: lung tumor	True
+RJLC10	geo:GSE150938:RJLC10	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC11	geo:GSE150938:RJLC11	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC12	geo:GSE150938:RJLC12	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC13-1	geo:GSE150938:RJLC13-1	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC13-2	geo:GSE150938:RJLC13-2	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC14	geo:GSE150938:RJLC14	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC15	geo:GSE150938:RJLC15	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC16	geo:GSE150938:RJLC16	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC17	geo:GSE150938:RJLC17	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC18	geo:GSE150938:RJLC18	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC8	geo:GSE150938:RJLC8	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC9	geo:GSE150938:RJLC9	sample_preservation	fresh	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Fresh tumors were cut into approximately 1 mm3 pieces	True
+RJLC10	geo:GSE150938:RJLC10	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC11	geo:GSE150938:RJLC11	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC12	geo:GSE150938:RJLC12	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC13-1	geo:GSE150938:RJLC13-1	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC13-2	geo:GSE150938:RJLC13-2	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC14	geo:GSE150938:RJLC14	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC15	geo:GSE150938:RJLC15	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC16	geo:GSE150938:RJLC16	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC17	geo:GSE150938:RJLC17	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC18	geo:GSE150938:RJLC18	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC8	geo:GSE150938:RJLC8	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC9	geo:GSE150938:RJLC9	suspension_type	cell	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		the suspended cells were centrifuged at 400 g for 5 min	True
+RJLC10	geo:GSE150938:RJLC10	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC11	geo:GSE150938:RJLC11	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC12	geo:GSE150938:RJLC12	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC13-1	geo:GSE150938:RJLC13-1	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC13-2	geo:GSE150938:RJLC13-2	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC14	geo:GSE150938:RJLC14	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC15	geo:GSE150938:RJLC15	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC16	geo:GSE150938:RJLC16	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC17	geo:GSE150938:RJLC17	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC18	geo:GSE150938:RJLC18	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC8	geo:GSE150938:RJLC8	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC9	geo:GSE150938:RJLC9	assay	EFO:0030003	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		RNA libraries were prepared for sequencing using standard 10X Genomics protocols	True
+RJLC10	geo:GSE150938:RJLC10	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC11	geo:GSE150938:RJLC11	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC12	geo:GSE150938:RJLC12	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC13-1	geo:GSE150938:RJLC13-1	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC13-2	geo:GSE150938:RJLC13-2	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC14	geo:GSE150938:RJLC14	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC15	geo:GSE150938:RJLC15	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC16	geo:GSE150938:RJLC16	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC17	geo:GSE150938:RJLC17	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC18	geo:GSE150938:RJLC18	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC8	geo:GSE150938:RJLC8	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True
+RJLC9	geo:GSE150938:RJLC9	gene_annotation_version	hg38	file	raw/fp-fc60d5d41cba/GSE150938_family.soft.gz		Genome_build: hg38	True

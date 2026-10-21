@@ -1,0 +1,87 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9137049	geo:GSE303859:GSM9137049	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137050	geo:GSE303859:GSM9137050	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137051	geo:GSE303859:GSM9137051	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137052	geo:GSE303859:GSM9137052	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137053	geo:GSE303859:GSM9137053	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137054	geo:GSE303859:GSM9137054	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137054	geo:GSE303859:GSM9137054	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137055	geo:GSE303859:GSM9137055	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137055	geo:GSE303859:GSM9137055	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137056	geo:GSE303859:GSM9137056	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137056	geo:GSE303859:GSM9137056	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137057	geo:GSE303859:GSM9137057	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137057	geo:GSE303859:GSM9137057	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137058	geo:GSE303859:GSM9137058	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9137058	geo:GSE303859:GSM9137058	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137059	geo:GSE303859:GSM9137059	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9137059	geo:GSE303859:GSM9137059	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137060	geo:GSE303859:GSM9137060	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9137060	geo:GSE303859:GSM9137060	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137061	geo:GSE303859:GSM9137061	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137061	geo:GSE303859:GSM9137061	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137062	geo:GSE303859:GSM9137062	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137062	geo:GSE303859:GSM9137062	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+GSM9137063	geo:GSE303859:GSM9137063	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9137063	geo:GSE303859:GSM9137063	disease_ontology_term_id	MONDO:0005100	derived	ols:mondo		SSc	True
+		organism	Homo sapiens	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9137049	geo:GSE303859:GSM9137049	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137049	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137049	geo:GSE303859:GSM9137049	age	45-49	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137049	!Sample_characteristics_ch1 = age: 45-49	True
+GSM9137049	geo:GSE303859:GSM9137049	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137049	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137049	geo:GSE303859:GSM9137049	disease_free_text	control	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137049	!Sample_characteristics_ch1 = condition: control	True
+GSM9137050	geo:GSE303859:GSM9137050	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137050	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137050	geo:GSE303859:GSM9137050	age	40-44	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137050	!Sample_characteristics_ch1 = age: 40-44	True
+GSM9137050	geo:GSE303859:GSM9137050	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137050	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137050	geo:GSE303859:GSM9137050	disease_free_text	control	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137050	!Sample_characteristics_ch1 = condition: control	True
+GSM9137051	geo:GSE303859:GSM9137051	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137051	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137051	geo:GSE303859:GSM9137051	age	20-24	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137051	!Sample_characteristics_ch1 = age: 20-24	True
+GSM9137051	geo:GSE303859:GSM9137051	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137051	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137051	geo:GSE303859:GSM9137051	disease_free_text	control	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137051	!Sample_characteristics_ch1 = condition: control	True
+GSM9137052	geo:GSE303859:GSM9137052	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137052	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137052	geo:GSE303859:GSM9137052	age	30-34	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137052	!Sample_characteristics_ch1 = age: 30-34	True
+GSM9137052	geo:GSE303859:GSM9137052	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137052	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137052	geo:GSE303859:GSM9137052	disease_free_text	control	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137052	!Sample_characteristics_ch1 = condition: control	True
+GSM9137053	geo:GSE303859:GSM9137053	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137053	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137053	geo:GSE303859:GSM9137053	age	30-34	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137053	!Sample_characteristics_ch1 = age: 30-34	True
+GSM9137053	geo:GSE303859:GSM9137053	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137053	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137053	geo:GSE303859:GSM9137053	disease_free_text	control	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137053	!Sample_characteristics_ch1 = condition: control	True
+GSM9137054	geo:GSE303859:GSM9137054	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137054	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137054	geo:GSE303859:GSM9137054	age	35-39	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137054	!Sample_characteristics_ch1 = age: 35-39	True
+GSM9137054	geo:GSE303859:GSM9137054	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137054	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137054	geo:GSE303859:GSM9137054	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137054	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137055	geo:GSE303859:GSM9137055	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137055	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137055	geo:GSE303859:GSM9137055	age	50-54	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137055	!Sample_characteristics_ch1 = age: 50-54	True
+GSM9137055	geo:GSE303859:GSM9137055	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137055	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137055	geo:GSE303859:GSM9137055	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137055	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137056	geo:GSE303859:GSM9137056	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137056	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137056	geo:GSE303859:GSM9137056	age	60-64	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137056	!Sample_characteristics_ch1 = age: 60-64	True
+GSM9137056	geo:GSE303859:GSM9137056	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137056	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137056	geo:GSE303859:GSM9137056	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137056	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137057	geo:GSE303859:GSM9137057	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137057	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137057	geo:GSE303859:GSM9137057	age	50-54	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137057	!Sample_characteristics_ch1 = age: 50-54	True
+GSM9137057	geo:GSE303859:GSM9137057	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137057	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137057	geo:GSE303859:GSM9137057	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137057	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137058	geo:GSE303859:GSM9137058	sex	male	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137058	!Sample_characteristics_ch1 = Sex: male	True
+GSM9137058	geo:GSE303859:GSM9137058	age	50-54	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137058	!Sample_characteristics_ch1 = age: 50-54	True
+GSM9137058	geo:GSE303859:GSM9137058	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137058	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137058	geo:GSE303859:GSM9137058	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137058	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137059	geo:GSE303859:GSM9137059	sex	male	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137059	!Sample_characteristics_ch1 = Sex: male	True
+GSM9137059	geo:GSE303859:GSM9137059	age	60-64	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137059	!Sample_characteristics_ch1 = age: 60-64	True
+GSM9137059	geo:GSE303859:GSM9137059	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137059	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137059	geo:GSE303859:GSM9137059	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137059	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137060	geo:GSE303859:GSM9137060	sex	male	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137060	!Sample_characteristics_ch1 = Sex: male	True
+GSM9137060	geo:GSE303859:GSM9137060	age	50-54	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137060	!Sample_characteristics_ch1 = age: 50-54	True
+GSM9137060	geo:GSE303859:GSM9137060	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137060	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137060	geo:GSE303859:GSM9137060	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137060	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137061	geo:GSE303859:GSM9137061	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137061	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137061	geo:GSE303859:GSM9137061	age	25-29	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137061	!Sample_characteristics_ch1 = age: 25-29	True
+GSM9137061	geo:GSE303859:GSM9137061	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137061	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137061	geo:GSE303859:GSM9137061	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137061	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137062	geo:GSE303859:GSM9137062	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137062	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137062	geo:GSE303859:GSM9137062	age	30-34	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137062	!Sample_characteristics_ch1 = age: 30-34	True
+GSM9137062	geo:GSE303859:GSM9137062	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137062	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137062	geo:GSE303859:GSM9137062	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137062	!Sample_characteristics_ch1 = condition: SSc	True
+GSM9137063	geo:GSE303859:GSM9137063	sex	female	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137063	!Sample_characteristics_ch1 = Sex: female	True
+GSM9137063	geo:GSE303859:GSM9137063	age	55-59	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137063	!Sample_characteristics_ch1 = age: 55-59	True
+GSM9137063	geo:GSE303859:GSM9137063	tissue_free_text	BAL	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137063	!Sample_characteristics_ch1 = tissue: BAL	True
+GSM9137063	geo:GSE303859:GSM9137063	disease_free_text	SSc	file	raw/fp-4df005e148b0/GSE303859_family.soft.gz	GSM9137063	!Sample_characteristics_ch1 = condition: SSc	True

@@ -1,0 +1,212 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+tumor_P1	geo:GSE190597:tumor_P1	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P10	geo:GSE190597:tumor_P10	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P11	geo:GSE190597:tumor_P11	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P12	geo:GSE190597:tumor_P12	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P13	geo:GSE190597:tumor_P13	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P2	geo:GSE190597:tumor_P2	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P3	geo:GSE190597:tumor_P3	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P4	geo:GSE190597:tumor_P4	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P5	geo:GSE190597:tumor_P5	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P6	geo:GSE190597:tumor_P6	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P7	geo:GSE190597:tumor_P7	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P8	geo:GSE190597:tumor_P8	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P9	geo:GSE190597:tumor_P9	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampleID			True
+tumor_P1	geo:GSE190597:tumor_P1	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P10	geo:GSE190597:tumor_P10	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P11	geo:GSE190597:tumor_P11	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P12	geo:GSE190597:tumor_P12	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P13	geo:GSE190597:tumor_P13	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P2	geo:GSE190597:tumor_P2	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P3	geo:GSE190597:tumor_P3	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P4	geo:GSE190597:tumor_P4	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P5	geo:GSE190597:tumor_P5	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P6	geo:GSE190597:tumor_P6	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P7	geo:GSE190597:tumor_P7	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P8	geo:GSE190597:tumor_P8	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P9	geo:GSE190597:tumor_P9	sample_collection_method	<column sampling>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/sampling			True
+tumor_P1	geo:GSE190597:tumor_P1	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P10	geo:GSE190597:tumor_P10	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P11	geo:GSE190597:tumor_P11	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P12	geo:GSE190597:tumor_P12	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P13	geo:GSE190597:tumor_P13	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P2	geo:GSE190597:tumor_P2	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P3	geo:GSE190597:tumor_P3	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P4	geo:GSE190597:tumor_P4	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P5	geo:GSE190597:tumor_P5	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P6	geo:GSE190597:tumor_P6	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P7	geo:GSE190597:tumor_P7	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P8	geo:GSE190597:tumor_P8	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P9	geo:GSE190597:tumor_P9	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+tumor_P1	geo:GSE190597:tumor_P1	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P10	geo:GSE190597:tumor_P10	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P11	geo:GSE190597:tumor_P11	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P12	geo:GSE190597:tumor_P12	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P13	geo:GSE190597:tumor_P13	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P2	geo:GSE190597:tumor_P2	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P3	geo:GSE190597:tumor_P3	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P4	geo:GSE190597:tumor_P4	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P5	geo:GSE190597:tumor_P5	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P6	geo:GSE190597:tumor_P6	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P7	geo:GSE190597:tumor_P7	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P8	geo:GSE190597:tumor_P8	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+tumor_P9	geo:GSE190597:tumor_P9	author_cell_type	<column celltype>	column	work/fp-fd78afca0a19/GSE190597_srt_tumor_converted/cell_metadata.tsv.gz/celltype			True
+blood_P1	geo:GSE190597:blood_P1	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P2	geo:GSE190597:blood_P2	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P3	geo:GSE190597:blood_P3	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P4	geo:GSE190597:blood_P4	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P5	geo:GSE190597:blood_P5	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P7	geo:GSE190597:blood_P7	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P8	geo:GSE190597:blood_P8	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P9	geo:GSE190597:blood_P9	donor_id	<column sampleID>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/sampleID			True
+blood_P1	geo:GSE190597:blood_P1	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P2	geo:GSE190597:blood_P2	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P3	geo:GSE190597:blood_P3	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P4	geo:GSE190597:blood_P4	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P5	geo:GSE190597:blood_P5	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P7	geo:GSE190597:blood_P7	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P8	geo:GSE190597:blood_P8	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P9	geo:GSE190597:blood_P9	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+blood_P1	geo:GSE190597:blood_P1	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P2	geo:GSE190597:blood_P2	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P3	geo:GSE190597:blood_P3	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P4	geo:GSE190597:blood_P4	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P5	geo:GSE190597:blood_P5	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P7	geo:GSE190597:blood_P7	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P8	geo:GSE190597:blood_P8	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P9	geo:GSE190597:blood_P9	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+blood_P1	geo:GSE190597:blood_P1	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P2	geo:GSE190597:blood_P2	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P3	geo:GSE190597:blood_P3	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P4	geo:GSE190597:blood_P4	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P5	geo:GSE190597:blood_P5	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P7	geo:GSE190597:blood_P7	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P8	geo:GSE190597:blood_P8	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+blood_P9	geo:GSE190597:blood_P9	author_cell_type	<column predicted.celltype.l2>	column	work/fp-fd78afca0a19/GSE190597_srt_pbmc_converted/cell_metadata.tsv.gz/predicted.celltype.l2			True
+		organism	Homo sapiens	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	!Sample_organism_ch1 = Homo sapiens	True
+tumor_P1	geo:GSE190597:tumor_P1	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P10	geo:GSE190597:tumor_P10	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P11	geo:GSE190597:tumor_P11	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P12	geo:GSE190597:tumor_P12	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P13	geo:GSE190597:tumor_P13	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P2	geo:GSE190597:tumor_P2	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P3	geo:GSE190597:tumor_P3	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P4	geo:GSE190597:tumor_P4	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P5	geo:GSE190597:tumor_P5	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P6	geo:GSE190597:tumor_P6	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P7	geo:GSE190597:tumor_P7	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P8	geo:GSE190597:tumor_P8	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P9	geo:GSE190597:tumor_P9	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+tumor_P1	geo:GSE190597:tumor_P1	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P10	geo:GSE190597:tumor_P10	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P11	geo:GSE190597:tumor_P11	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P12	geo:GSE190597:tumor_P12	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P13	geo:GSE190597:tumor_P13	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P2	geo:GSE190597:tumor_P2	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P3	geo:GSE190597:tumor_P3	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P4	geo:GSE190597:tumor_P4	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P5	geo:GSE190597:tumor_P5	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P6	geo:GSE190597:tumor_P6	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P7	geo:GSE190597:tumor_P7	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P8	geo:GSE190597:tumor_P8	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P9	geo:GSE190597:tumor_P9	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P1	geo:GSE190597:tumor_P1	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P10	geo:GSE190597:tumor_P10	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P11	geo:GSE190597:tumor_P11	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P12	geo:GSE190597:tumor_P12	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P13	geo:GSE190597:tumor_P13	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P2	geo:GSE190597:tumor_P2	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P3	geo:GSE190597:tumor_P3	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P4	geo:GSE190597:tumor_P4	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P5	geo:GSE190597:tumor_P5	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P6	geo:GSE190597:tumor_P6	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P7	geo:GSE190597:tumor_P7	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P8	geo:GSE190597:tumor_P8	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P9	geo:GSE190597:tumor_P9	tissue_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM8138122	tissue: pleural mesothelioma	True
+tumor_P1	geo:GSE190597:tumor_P1	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P10	geo:GSE190597:tumor_P10	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P11	geo:GSE190597:tumor_P11	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P12	geo:GSE190597:tumor_P12	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P13	geo:GSE190597:tumor_P13	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P2	geo:GSE190597:tumor_P2	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P3	geo:GSE190597:tumor_P3	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P4	geo:GSE190597:tumor_P4	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P5	geo:GSE190597:tumor_P5	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P6	geo:GSE190597:tumor_P6	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P7	geo:GSE190597:tumor_P7	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P8	geo:GSE190597:tumor_P8	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P9	geo:GSE190597:tumor_P9	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+tumor_P1	geo:GSE190597:tumor_P1	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P10	geo:GSE190597:tumor_P10	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P11	geo:GSE190597:tumor_P11	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P12	geo:GSE190597:tumor_P12	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P13	geo:GSE190597:tumor_P13	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P2	geo:GSE190597:tumor_P2	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P3	geo:GSE190597:tumor_P3	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P4	geo:GSE190597:tumor_P4	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P5	geo:GSE190597:tumor_P5	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P6	geo:GSE190597:tumor_P6	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P7	geo:GSE190597:tumor_P7	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P8	geo:GSE190597:tumor_P8	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P9	geo:GSE190597:tumor_P9	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Dissociated single cells from the tumor samples were profiled using the Chromium platform	True
+tumor_P1	geo:GSE190597:tumor_P1	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P10	geo:GSE190597:tumor_P10	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P11	geo:GSE190597:tumor_P11	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P12	geo:GSE190597:tumor_P12	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P13	geo:GSE190597:tumor_P13	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P2	geo:GSE190597:tumor_P2	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P3	geo:GSE190597:tumor_P3	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P4	geo:GSE190597:tumor_P4	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P5	geo:GSE190597:tumor_P5	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P6	geo:GSE190597:tumor_P6	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P7	geo:GSE190597:tumor_P7	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P8	geo:GSE190597:tumor_P8	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+tumor_P9	geo:GSE190597:tumor_P9	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P1	geo:GSE190597:blood_P1	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P2	geo:GSE190597:blood_P2	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P3	geo:GSE190597:blood_P3	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P4	geo:GSE190597:blood_P4	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P5	geo:GSE190597:blood_P5	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P7	geo:GSE190597:blood_P7	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P8	geo:GSE190597:blood_P8	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P9	geo:GSE190597:blood_P9	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		!Series_title = Single cell view of tumor microenvironment gradients in pleural mesothelioma	True
+blood_P1	geo:GSE190597:blood_P1	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P2	geo:GSE190597:blood_P2	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P3	geo:GSE190597:blood_P3	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P4	geo:GSE190597:blood_P4	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P5	geo:GSE190597:blood_P5	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P7	geo:GSE190597:blood_P7	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P8	geo:GSE190597:blood_P8	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P9	geo:GSE190597:blood_P9	disease_free_text	pleural mesothelioma	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P1	geo:GSE190597:blood_P1	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P2	geo:GSE190597:blood_P2	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P3	geo:GSE190597:blood_P3	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P4	geo:GSE190597:blood_P4	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P5	geo:GSE190597:blood_P5	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P7	geo:GSE190597:blood_P7	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P8	geo:GSE190597:blood_P8	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P9	geo:GSE190597:blood_P9	tissue_free_text	blood	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz	GSM7114954	!Sample_source_name_ch1 = Blood	True
+blood_P1	geo:GSE190597:blood_P1	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P2	geo:GSE190597:blood_P2	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P3	geo:GSE190597:blood_P3	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P4	geo:GSE190597:blood_P4	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P5	geo:GSE190597:blood_P5	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P7	geo:GSE190597:blood_P7	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P8	geo:GSE190597:blood_P8	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P9	geo:GSE190597:blood_P9	tissue_type	tissue	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Patient-matching primary tumor resections and blood samples were collected from 13 MPM patients	True
+blood_P1	geo:GSE190597:blood_P1	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P2	geo:GSE190597:blood_P2	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P3	geo:GSE190597:blood_P3	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P4	geo:GSE190597:blood_P4	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P5	geo:GSE190597:blood_P5	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P7	geo:GSE190597:blood_P7	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P8	geo:GSE190597:blood_P8	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P9	geo:GSE190597:blood_P9	suspension_type	cell	file	raw/fp-fd78afca0a19/GSE190597_family.soft.gz		Cells from the blood samples were profiled with the 10x Chromium Next GEM Chip K Kit	True
+blood_P1	geo:GSE190597:blood_P1	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P2	geo:GSE190597:blood_P2	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P3	geo:GSE190597:blood_P3	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P4	geo:GSE190597:blood_P4	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P5	geo:GSE190597:blood_P5	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P7	geo:GSE190597:blood_P7	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P8	geo:GSE190597:blood_P8	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True
+blood_P9	geo:GSE190597:blood_P9	treatment_status	treatment-naive	file	evidence/PMC13109001.txt		Only patients with treatment-naive PM were included in this study	True

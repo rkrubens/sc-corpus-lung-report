@@ -1,0 +1,249 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4952953	geo:GSE162498:GSM4952953	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4952953	geo:GSE162498:GSM4952953	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4952953	geo:GSE162498:GSM4952953	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952954	geo:GSE162498:GSM4952954	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4952954	geo:GSE162498:GSM4952954	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4952954	geo:GSE162498:GSM4952954	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952955	geo:GSE162498:GSM4952955	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4952955	geo:GSE162498:GSM4952955	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4952955	geo:GSE162498:GSM4952955	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952956	geo:GSE162498:GSM4952956	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952956	geo:GSE162498:GSM4952956	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4952956	geo:GSE162498:GSM4952956	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952957	geo:GSE162498:GSM4952957	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952957	geo:GSE162498:GSM4952957	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4952957	geo:GSE162498:GSM4952957	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952958	geo:GSE162498:GSM4952958	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4952958	geo:GSE162498:GSM4952958	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952959	geo:GSE162498:GSM4952959	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952959	geo:GSE162498:GSM4952959	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952960	geo:GSE162498:GSM4952960	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952960	geo:GSE162498:GSM4952960	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952960	geo:GSE162498:GSM4952960	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952961	geo:GSE162498:GSM4952961	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952961	geo:GSE162498:GSM4952961	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952961	geo:GSE162498:GSM4952961	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952962	geo:GSE162498:GSM4952962	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4952962	geo:GSE162498:GSM4952962	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952962	geo:GSE162498:GSM4952962	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952963	geo:GSE162498:GSM4952963	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4952963	geo:GSE162498:GSM4952963	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952963	geo:GSE162498:GSM4952963	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952964	geo:GSE162498:GSM4952964	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952964	geo:GSE162498:GSM4952964	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952964	geo:GSE162498:GSM4952964	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952965	geo:GSE162498:GSM4952965	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952965	geo:GSE162498:GSM4952965	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952965	geo:GSE162498:GSM4952965	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952966	geo:GSE162498:GSM4952966	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952966	geo:GSE162498:GSM4952966	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952966	geo:GSE162498:GSM4952966	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952967	geo:GSE162498:GSM4952967	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952967	geo:GSE162498:GSM4952967	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952967	geo:GSE162498:GSM4952967	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952968	geo:GSE162498:GSM4952968	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952968	geo:GSE162498:GSM4952968	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952968	geo:GSE162498:GSM4952968	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+GSM4952969	geo:GSE162498:GSM4952969	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4952969	geo:GSE162498:GSM4952969	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM4952969	geo:GSE162498:GSM4952969	author_cell_type	<column predicted.id>	column	work/fp-da555c1ccabf/GSE162498_NSCLC_CD3_4tumors_4Juxta_2Juxta_converted/cell_metadata.tsv.gz/predicted.id			True
+		organism	Homo sapiens	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4952953	geo:GSE162498:GSM4952953	donor_id	P34	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	!Sample_title = P34_Tumor	True
+GSM4952953	geo:GSE162498:GSM4952953	sex	female	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	Sex: F	True
+GSM4952953	geo:GSE162498:GSM4952953	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	tissue: NSCLC tumor tissue	True
+GSM4952953	geo:GSE162498:GSM4952953	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952953	geo:GSE162498:GSM4952953	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	tissue: NSCLC tumor tissue	True
+GSM4952953	geo:GSE162498:GSM4952953	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	tissue: NSCLC tumor tissue	True
+GSM4952953	geo:GSE162498:GSM4952953	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	tissue: NSCLC tumor tissue	True
+GSM4952953	geo:GSE162498:GSM4952953	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952953	geo:GSE162498:GSM4952953	disease_stage	pT2bN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	tumor stage: pT2bN0	True
+GSM4952953	geo:GSE162498:GSM4952953	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952953	geo:GSE162498:GSM4952953	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	until uniform cell suspensions were obtained	True
+GSM4952953	geo:GSE162498:GSM4952953	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952953	geo:GSE162498:GSM4952953	assay	10x 3' v2	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952953	RNA from P34, P35, P42, P43 and P46 was extracted according to the Single Cell 3' Reagent Kits V2	True
+GSM4952954	geo:GSE162498:GSM4952954	donor_id	P35	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	!Sample_title = P35_Tumor	True
+GSM4952954	geo:GSE162498:GSM4952954	sex	female	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	Sex: F	True
+GSM4952954	geo:GSE162498:GSM4952954	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	tissue: NSCLC tumor tissue	True
+GSM4952954	geo:GSE162498:GSM4952954	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952954	geo:GSE162498:GSM4952954	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	tissue: NSCLC tumor tissue	True
+GSM4952954	geo:GSE162498:GSM4952954	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	tissue: NSCLC tumor tissue	True
+GSM4952954	geo:GSE162498:GSM4952954	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	tissue: NSCLC tumor tissue	True
+GSM4952954	geo:GSE162498:GSM4952954	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952954	geo:GSE162498:GSM4952954	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	tumor stage: pT2aN0	True
+GSM4952954	geo:GSE162498:GSM4952954	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952954	geo:GSE162498:GSM4952954	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	until uniform cell suspensions were obtained	True
+GSM4952954	geo:GSE162498:GSM4952954	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952954	geo:GSE162498:GSM4952954	assay	10x 3' v2	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952954	RNA from P34, P35, P42, P43 and P46 was extracted according to the Single Cell 3' Reagent Kits V2	True
+GSM4952955	geo:GSE162498:GSM4952955	donor_id	P42	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	!Sample_title = P42_Tumor	True
+GSM4952955	geo:GSE162498:GSM4952955	sex	female	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	Sex: F	True
+GSM4952955	geo:GSE162498:GSM4952955	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	tissue: NSCLC tumor tissue	True
+GSM4952955	geo:GSE162498:GSM4952955	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952955	geo:GSE162498:GSM4952955	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	tissue: NSCLC tumor tissue	True
+GSM4952955	geo:GSE162498:GSM4952955	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	tissue: NSCLC tumor tissue	True
+GSM4952955	geo:GSE162498:GSM4952955	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	tissue: NSCLC tumor tissue	True
+GSM4952955	geo:GSE162498:GSM4952955	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952955	geo:GSE162498:GSM4952955	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	tumor stage: pT2aN0	True
+GSM4952955	geo:GSE162498:GSM4952955	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952955	geo:GSE162498:GSM4952955	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	until uniform cell suspensions were obtained	True
+GSM4952955	geo:GSE162498:GSM4952955	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952955	geo:GSE162498:GSM4952955	assay	10x 3' v2	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952955	RNA from P34, P35, P42, P43 and P46 was extracted according to the Single Cell 3' Reagent Kits V2	True
+GSM4952956	geo:GSE162498:GSM4952956	donor_id	P43	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	!Sample_title = P43_Tumor	True
+GSM4952956	geo:GSE162498:GSM4952956	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	Sex: M	True
+GSM4952956	geo:GSE162498:GSM4952956	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	tissue: NSCLC tumor tissue	True
+GSM4952956	geo:GSE162498:GSM4952956	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952956	geo:GSE162498:GSM4952956	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	tissue: NSCLC tumor tissue	True
+GSM4952956	geo:GSE162498:GSM4952956	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	tissue: NSCLC tumor tissue	True
+GSM4952956	geo:GSE162498:GSM4952956	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	tissue: NSCLC tumor tissue	True
+GSM4952956	geo:GSE162498:GSM4952956	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952956	geo:GSE162498:GSM4952956	disease_stage	pT2aN2	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	tumor stage: pT2aN2	True
+GSM4952956	geo:GSE162498:GSM4952956	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952956	geo:GSE162498:GSM4952956	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	until uniform cell suspensions were obtained	True
+GSM4952956	geo:GSE162498:GSM4952956	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952956	geo:GSE162498:GSM4952956	assay	10x 3' v2	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952956	RNA from P34, P35, P42, P43 and P46 was extracted according to the Single Cell 3' Reagent Kits V2	True
+GSM4952957	geo:GSE162498:GSM4952957	donor_id	P46	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	!Sample_title = P46_Tumor	True
+GSM4952957	geo:GSE162498:GSM4952957	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	Sex: M	True
+GSM4952957	geo:GSE162498:GSM4952957	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	tissue: NSCLC tumor tissue	True
+GSM4952957	geo:GSE162498:GSM4952957	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952957	geo:GSE162498:GSM4952957	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	tissue: NSCLC tumor tissue	True
+GSM4952957	geo:GSE162498:GSM4952957	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	tissue: NSCLC tumor tissue	True
+GSM4952957	geo:GSE162498:GSM4952957	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	tissue: NSCLC tumor tissue	True
+GSM4952957	geo:GSE162498:GSM4952957	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952957	geo:GSE162498:GSM4952957	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	tumor stage: pT2aN0	True
+GSM4952957	geo:GSE162498:GSM4952957	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952957	geo:GSE162498:GSM4952957	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	until uniform cell suspensions were obtained	True
+GSM4952957	geo:GSE162498:GSM4952957	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952957	geo:GSE162498:GSM4952957	assay	10x 3' v2	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952957	RNA from P34, P35, P42, P43 and P46 was extracted according to the Single Cell 3' Reagent Kits V2	True
+GSM4952958	geo:GSE162498:GSM4952958	donor_id	P47	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	!Sample_title = P47_Tumor	True
+GSM4952958	geo:GSE162498:GSM4952958	sex	female	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	Sex: F	True
+GSM4952958	geo:GSE162498:GSM4952958	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	tissue: NSCLC tumor tissue	True
+GSM4952958	geo:GSE162498:GSM4952958	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952958	geo:GSE162498:GSM4952958	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	tissue: NSCLC tumor tissue	True
+GSM4952958	geo:GSE162498:GSM4952958	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	tissue: NSCLC tumor tissue	True
+GSM4952958	geo:GSE162498:GSM4952958	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	tissue: NSCLC tumor tissue	True
+GSM4952958	geo:GSE162498:GSM4952958	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952958	geo:GSE162498:GSM4952958	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	tumor stage: pT2aN0	True
+GSM4952958	geo:GSE162498:GSM4952958	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952958	geo:GSE162498:GSM4952958	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	until uniform cell suspensions were obtained	True
+GSM4952958	geo:GSE162498:GSM4952958	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952958	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952959	geo:GSE162498:GSM4952959	donor_id	P55	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	!Sample_title = P55_Tumor	True
+GSM4952959	geo:GSE162498:GSM4952959	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	Sex: M	True
+GSM4952959	geo:GSE162498:GSM4952959	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	tissue: NSCLC tumor tissue	True
+GSM4952959	geo:GSE162498:GSM4952959	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952959	geo:GSE162498:GSM4952959	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	tissue: NSCLC tumor tissue	True
+GSM4952959	geo:GSE162498:GSM4952959	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	tissue: NSCLC tumor tissue	True
+GSM4952959	geo:GSE162498:GSM4952959	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	tissue: NSCLC tumor tissue	True
+GSM4952959	geo:GSE162498:GSM4952959	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952959	geo:GSE162498:GSM4952959	disease_stage	pT2b N0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	tumor stage: pT2b N0	True
+GSM4952959	geo:GSE162498:GSM4952959	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952959	geo:GSE162498:GSM4952959	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	until uniform cell suspensions were obtained	True
+GSM4952959	geo:GSE162498:GSM4952959	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952959	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952960	geo:GSE162498:GSM4952960	donor_id	P57	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	!Sample_title = P57_Tumor	True
+GSM4952960	geo:GSE162498:GSM4952960	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	Sex: M	True
+GSM4952960	geo:GSE162498:GSM4952960	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	tissue: NSCLC tumor tissue	True
+GSM4952960	geo:GSE162498:GSM4952960	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952960	geo:GSE162498:GSM4952960	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	tissue: NSCLC tumor tissue	True
+GSM4952960	geo:GSE162498:GSM4952960	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	tissue: NSCLC tumor tissue	True
+GSM4952960	geo:GSE162498:GSM4952960	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	tissue: NSCLC tumor tissue	True
+GSM4952960	geo:GSE162498:GSM4952960	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952960	geo:GSE162498:GSM4952960	disease_stage	pT3 N0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	tumor stage: pT3 N0	True
+GSM4952960	geo:GSE162498:GSM4952960	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952960	geo:GSE162498:GSM4952960	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	until uniform cell suspensions were obtained	True
+GSM4952960	geo:GSE162498:GSM4952960	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952960	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952961	geo:GSE162498:GSM4952961	donor_id	P57	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	!Sample_title = P57_Blood	True
+GSM4952961	geo:GSE162498:GSM4952961	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	Sex: M	True
+GSM4952961	geo:GSE162498:GSM4952961	tissue_free_text	Blood sample	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	tissue: Blood sample	True
+GSM4952961	geo:GSE162498:GSM4952961	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	tissue: Blood sample	True
+GSM4952961	geo:GSE162498:GSM4952961	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	tissue: Blood sample	True
+GSM4952961	geo:GSE162498:GSM4952961	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952961	geo:GSE162498:GSM4952961	disease_stage	pT3 N0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	tumor stage: pT3 N0	True
+GSM4952961	geo:GSE162498:GSM4952961	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952961	geo:GSE162498:GSM4952961	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	until uniform cell suspensions were obtained	True
+GSM4952961	geo:GSE162498:GSM4952961	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952961	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952962	geo:GSE162498:GSM4952962	donor_id	P58	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	!Sample_title = P58_Tumor	True
+GSM4952962	geo:GSE162498:GSM4952962	sex	female	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	Sex: F	True
+GSM4952962	geo:GSE162498:GSM4952962	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	tissue: NSCLC tumor tissue	True
+GSM4952962	geo:GSE162498:GSM4952962	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952962	geo:GSE162498:GSM4952962	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	tissue: NSCLC tumor tissue	True
+GSM4952962	geo:GSE162498:GSM4952962	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	tissue: NSCLC tumor tissue	True
+GSM4952962	geo:GSE162498:GSM4952962	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	tissue: NSCLC tumor tissue	True
+GSM4952962	geo:GSE162498:GSM4952962	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952962	geo:GSE162498:GSM4952962	disease_stage	pT1cNO	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	tumor stage: pT1cNO	True
+GSM4952962	geo:GSE162498:GSM4952962	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952962	geo:GSE162498:GSM4952962	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	until uniform cell suspensions were obtained	True
+GSM4952962	geo:GSE162498:GSM4952962	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952962	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952963	geo:GSE162498:GSM4952963	donor_id	P58	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	!Sample_title = P58_Blood	True
+GSM4952963	geo:GSE162498:GSM4952963	sex	female	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	Sex: F	True
+GSM4952963	geo:GSE162498:GSM4952963	tissue_free_text	Blood sample	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	tissue: Blood sample	True
+GSM4952963	geo:GSE162498:GSM4952963	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	tissue: Blood sample	True
+GSM4952963	geo:GSE162498:GSM4952963	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	tissue: Blood sample	True
+GSM4952963	geo:GSE162498:GSM4952963	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952963	geo:GSE162498:GSM4952963	disease_stage	pT1cNO	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	tumor stage: pT1cNO	True
+GSM4952963	geo:GSE162498:GSM4952963	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952963	geo:GSE162498:GSM4952963	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	until uniform cell suspensions were obtained	True
+GSM4952963	geo:GSE162498:GSM4952963	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952963	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952964	geo:GSE162498:GSM4952964	donor_id	P60	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	!Sample_title = P60_Tumor	True
+GSM4952964	geo:GSE162498:GSM4952964	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	Sex: M	True
+GSM4952964	geo:GSE162498:GSM4952964	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	tissue: NSCLC tumor tissue	True
+GSM4952964	geo:GSE162498:GSM4952964	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952964	geo:GSE162498:GSM4952964	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	tissue: NSCLC tumor tissue	True
+GSM4952964	geo:GSE162498:GSM4952964	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	tissue: NSCLC tumor tissue	True
+GSM4952964	geo:GSE162498:GSM4952964	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	tissue: NSCLC tumor tissue	True
+GSM4952964	geo:GSE162498:GSM4952964	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952964	geo:GSE162498:GSM4952964	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	tumor stage: pT2aN0	True
+GSM4952964	geo:GSE162498:GSM4952964	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952964	geo:GSE162498:GSM4952964	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	until uniform cell suspensions were obtained	True
+GSM4952964	geo:GSE162498:GSM4952964	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952964	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952965	geo:GSE162498:GSM4952965	donor_id	P60	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	!Sample_title = P60_Juxta	True
+GSM4952965	geo:GSE162498:GSM4952965	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	Sex: M	True
+GSM4952965	geo:GSE162498:GSM4952965	tissue_free_text	NSCLC juxta tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	tissue: NSCLC juxta tissue	True
+GSM4952965	geo:GSE162498:GSM4952965	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952965	geo:GSE162498:GSM4952965	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	tissue: NSCLC juxta tissue	True
+GSM4952965	geo:GSE162498:GSM4952965	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	tissue: NSCLC juxta tissue	True
+GSM4952965	geo:GSE162498:GSM4952965	sampled_site_condition	adjacent normal tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		normal tissues adjacent to the tumor (juxta-tumor)	True
+GSM4952965	geo:GSE162498:GSM4952965	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952965	geo:GSE162498:GSM4952965	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	tumor stage: pT2aN0	True
+GSM4952965	geo:GSE162498:GSM4952965	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952965	geo:GSE162498:GSM4952965	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	until uniform cell suspensions were obtained	True
+GSM4952965	geo:GSE162498:GSM4952965	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952965	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952966	geo:GSE162498:GSM4952966	donor_id	P60	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	!Sample_title = P60_Blood	True
+GSM4952966	geo:GSE162498:GSM4952966	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	Sex: M	True
+GSM4952966	geo:GSE162498:GSM4952966	tissue_free_text	Blood sample	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	tissue: Blood sample	True
+GSM4952966	geo:GSE162498:GSM4952966	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	tissue: Blood sample	True
+GSM4952966	geo:GSE162498:GSM4952966	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	tissue: Blood sample	True
+GSM4952966	geo:GSE162498:GSM4952966	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952966	geo:GSE162498:GSM4952966	disease_stage	pT2aN0	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	tumor stage: pT2aN0	True
+GSM4952966	geo:GSE162498:GSM4952966	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952966	geo:GSE162498:GSM4952966	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	until uniform cell suspensions were obtained	True
+GSM4952966	geo:GSE162498:GSM4952966	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952966	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952967	geo:GSE162498:GSM4952967	donor_id	P61	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	!Sample_title = P61_Tumor	True
+GSM4952967	geo:GSE162498:GSM4952967	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	Sex: M	True
+GSM4952967	geo:GSE162498:GSM4952967	tissue_free_text	NSCLC tumor tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	tissue: NSCLC tumor tissue	True
+GSM4952967	geo:GSE162498:GSM4952967	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952967	geo:GSE162498:GSM4952967	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	tissue: NSCLC tumor tissue	True
+GSM4952967	geo:GSE162498:GSM4952967	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	tissue: NSCLC tumor tissue	True
+GSM4952967	geo:GSE162498:GSM4952967	sampled_site_condition	tumor	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	tissue: NSCLC tumor tissue	True
+GSM4952967	geo:GSE162498:GSM4952967	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952967	geo:GSE162498:GSM4952967	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952967	geo:GSE162498:GSM4952967	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	until uniform cell suspensions were obtained	True
+GSM4952967	geo:GSE162498:GSM4952967	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952967	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952968	geo:GSE162498:GSM4952968	donor_id	P61	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	!Sample_title = P61_Juxta	True
+GSM4952968	geo:GSE162498:GSM4952968	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	Sex: M	True
+GSM4952968	geo:GSE162498:GSM4952968	tissue_free_text	NSCLC juxta tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	tissue: NSCLC juxta tissue	True
+GSM4952968	geo:GSE162498:GSM4952968	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	Tumor and adjacent normal lung tissue samples were gently cut	True
+GSM4952968	geo:GSE162498:GSM4952968	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	tissue: NSCLC juxta tissue	True
+GSM4952968	geo:GSE162498:GSM4952968	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	tissue: NSCLC juxta tissue	True
+GSM4952968	geo:GSE162498:GSM4952968	sampled_site_condition	adjacent normal tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		normal tissues adjacent to the tumor (juxta-tumor)	True
+GSM4952968	geo:GSE162498:GSM4952968	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952968	geo:GSE162498:GSM4952968	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952968	geo:GSE162498:GSM4952968	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	until uniform cell suspensions were obtained	True
+GSM4952968	geo:GSE162498:GSM4952968	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952968	CD3 microbeads and MACS separation (Miltenyi)	True
+GSM4952969	geo:GSE162498:GSM4952969	donor_id	P61	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	!Sample_title = P61_Blood	True
+GSM4952969	geo:GSE162498:GSM4952969	sex	male	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	Sex: M	True
+GSM4952969	geo:GSE162498:GSM4952969	tissue_free_text	Blood sample	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	tissue: Blood sample	True
+GSM4952969	geo:GSE162498:GSM4952969	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	tissue: Blood sample	True
+GSM4952969	geo:GSE162498:GSM4952969	tissue_type	tissue	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	tissue: Blood sample	True
+GSM4952969	geo:GSE162498:GSM4952969	disease_free_text	NSCLC	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952969	geo:GSE162498:GSM4952969	treatment_status	untreated	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz		11 patients with untreated, primary NSCLC	True
+GSM4952969	geo:GSE162498:GSM4952969	suspension_type	cell	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	until uniform cell suspensions were obtained	True
+GSM4952969	geo:GSE162498:GSM4952969	cell_enrichment	CD3+ T cell isolation (CD3 microbeads, MACS)	file	raw/fp-da555c1ccabf/GSE162498_family.soft.gz	GSM4952969	CD3 microbeads and MACS separation (Miltenyi)	True

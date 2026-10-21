@@ -1,0 +1,30 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7412612	geo:GSE233203:GSM7412612	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412612	geo:GSE233203:GSM7412612	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM7412613	geo:GSE233203:GSM7412613	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412613	geo:GSE233203:GSM7412613	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM7412614	geo:GSE233203:GSM7412614	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412614	geo:GSE233203:GSM7412614	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM7412615	geo:GSE233203:GSM7412615	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412615	geo:GSE233203:GSM7412615	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM7412616	geo:GSE233203:GSM7412616	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412616	geo:GSE233203:GSM7412616	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM7412617	geo:GSE233203:GSM7412617	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412617	geo:GSE233203:GSM7412617	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM7412618	geo:GSE233203:GSM7412618	tissue_ontology_term_id	UBERON:0001087	derived	ols:uberon		Pleural fluid	True
+GSM7412618	geo:GSE233203:GSM7412618	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+		organism	Homo sapiens	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7412612	geo:GSE233203:GSM7412612	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412612	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412612	geo:GSE233203:GSM7412612	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412612	!Sample_characteristics_ch1 = tissue: Pleural fluid	True
+GSM7412613	geo:GSE233203:GSM7412613	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412613	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412613	geo:GSE233203:GSM7412613	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412613	!Sample_characteristics_ch1 = tissue: Pleural fluid	True
+GSM7412614	geo:GSE233203:GSM7412614	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412614	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412614	geo:GSE233203:GSM7412614	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412614	!Sample_characteristics_ch1 = tissue: Pleural fluid	True
+GSM7412615	geo:GSE233203:GSM7412615	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412615	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412615	geo:GSE233203:GSM7412615	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412615	!Sample_characteristics_ch1 = tissue: Pleural fluid	True
+GSM7412616	geo:GSE233203:GSM7412616	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412616	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412616	geo:GSE233203:GSM7412616	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412616	!Sample_characteristics_ch1 = tissue: Pleural fluid	True
+GSM7412617	geo:GSE233203:GSM7412617	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412617	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412617	geo:GSE233203:GSM7412617	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412617	!Sample_characteristics_ch1 = tissue: Pleural fluid	True
+GSM7412618	geo:GSE233203:GSM7412618	disease_free_text	Lung cancer	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412618	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM7412618	geo:GSE233203:GSM7412618	tissue_free_text	Pleural fluid	file	raw/fp-dc8c0edd402f/GSE233203_family.soft.gz	GSM7412618	!Sample_characteristics_ch1 = tissue: Pleural fluid	True

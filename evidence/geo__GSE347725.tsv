@@ -1,0 +1,553 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A124_Control	geo:GSE347725:A124_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A157_Control	geo:GSE347725:A157_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A159_Control	geo:GSE347725:A159_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A20_Control	geo:GSE347725:A20_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A55_Control	geo:GSE347725:A55_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A63_Control	geo:GSE347725:A63_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A76_Control	geo:GSE347725:A76_Control	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_ontology_term_id	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A124_Control	geo:GSE347725:A124_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A157_Control	geo:GSE347725:A157_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A159_Control	geo:GSE347725:A159_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A20_Control	geo:GSE347725:A20_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A55_Control	geo:GSE347725:A55_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A63_Control	geo:GSE347725:A63_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A76_Control	geo:GSE347725:A76_Control	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_free_text	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A124_Control	geo:GSE347725:A124_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A157_Control	geo:GSE347725:A157_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A159_Control	geo:GSE347725:A159_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A20_Control	geo:GSE347725:A20_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A55_Control	geo:GSE347725:A55_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A63_Control	geo:GSE347725:A63_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A76_Control	geo:GSE347725:A76_Control	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_stage	<column severity>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/severity			True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A124_Control	geo:GSE347725:A124_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A157_Control	geo:GSE347725:A157_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A159_Control	geo:GSE347725:A159_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A20_Control	geo:GSE347725:A20_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A55_Control	geo:GSE347725:A55_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A63_Control	geo:GSE347725:A63_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A76_Control	geo:GSE347725:A76_Control	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	sex_ontology_term_id	<column sex>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/sex			True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A124_Control	geo:GSE347725:A124_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A157_Control	geo:GSE347725:A157_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A159_Control	geo:GSE347725:A159_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A20_Control	geo:GSE347725:A20_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A55_Control	geo:GSE347725:A55_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A63_Control	geo:GSE347725:A63_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A76_Control	geo:GSE347725:A76_Control	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A124_Control	geo:GSE347725:A124_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A157_Control	geo:GSE347725:A157_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A159_Control	geo:GSE347725:A159_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A20_Control	geo:GSE347725:A20_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A55_Control	geo:GSE347725:A55_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A63_Control	geo:GSE347725:A63_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A76_Control	geo:GSE347725:A76_Control	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A124_Control	geo:GSE347725:A124_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A157_Control	geo:GSE347725:A157_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A159_Control	geo:GSE347725:A159_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A20_Control	geo:GSE347725:A20_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A55_Control	geo:GSE347725:A55_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A63_Control	geo:GSE347725:A63_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A76_Control	geo:GSE347725:A76_Control	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	author_cell_type	<column cell_type>	column	work/fp-af0bb268bb35/GSE347725_counts_raw.h5ad::obs/cell_type			True
+		organism	Homo sapiens	file	raw/fp-af0bb268bb35/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059301	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059302	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	tissue_free_text	frozen lung tissue	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_characteristics_ch1 = tissue: frozen lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A124_Control	geo:GSE347725:A124_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A157_Control	geo:GSE347725:A157_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A159_Control	geo:GSE347725:A159_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A20_Control	geo:GSE347725:A20_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A55_Control	geo:GSE347725:A55_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A63_Control	geo:GSE347725:A63_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A76_Control	geo:GSE347725:A76_Control	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	suspension_type	nucleus	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		We performed single-nuclei RNA-seq using 10x Genomics Chromium on transplated lung tissue	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A124_Control	geo:GSE347725:A124_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A157_Control	geo:GSE347725:A157_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A159_Control	geo:GSE347725:A159_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A20_Control	geo:GSE347725:A20_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A55_Control	geo:GSE347725:A55_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A63_Control	geo:GSE347725:A63_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A76_Control	geo:GSE347725:A76_Control	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	sample_preservation	frozen	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		Smashed frozen lung tissue from different donor samples were pooled	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A124_Control	geo:GSE347725:A124_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A157_Control	geo:GSE347725:A157_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A159_Control	geo:GSE347725:A159_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A20_Control	geo:GSE347725:A20_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A55_Control	geo:GSE347725:A55_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A63_Control	geo:GSE347725:A63_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A76_Control	geo:GSE347725:A76_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		!Series_title = Multiscale mapping of venous remodelling in idiopathic pulmonary fibrosis	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A124_Control	geo:GSE347725:A124_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A157_Control	geo:GSE347725:A157_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A159_Control	geo:GSE347725:A159_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A20_Control	geo:GSE347725:A20_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A55_Control	geo:GSE347725:A55_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A63_Control	geo:GSE347725:A63_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A76_Control	geo:GSE347725:A76_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz		to study the venous remodeling in IPF	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A124_Control	geo:GSE347725:A124_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A157_Control	geo:GSE347725:A157_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A159_Control	geo:GSE347725:A159_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A20_Control	geo:GSE347725:A20_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A55_Control	geo:GSE347725:A55_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A63_Control	geo:GSE347725:A63_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A76_Control	geo:GSE347725:A76_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A124_Control	geo:GSE347725:A124_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A157_Control	geo:GSE347725:A157_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A159_Control	geo:GSE347725:A159_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A20_Control	geo:GSE347725:A20_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A55_Control	geo:GSE347725:A55_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A63_Control	geo:GSE347725:A63_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A76_Control	geo:GSE347725:A76_Control	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_ontology_term_id	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A124_Control	geo:GSE347725:A124_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A157_Control	geo:GSE347725:A157_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A159_Control	geo:GSE347725:A159_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A20_Control	geo:GSE347725:A20_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A55_Control	geo:GSE347725:A55_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A63_Control	geo:GSE347725:A63_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A76_Control	geo:GSE347725:A76_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059300	!Sample_title = IPF mild1	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A124_Control	geo:GSE347725:A124_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A157_Control	geo:GSE347725:A157_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A159_Control	geo:GSE347725:A159_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A20_Control	geo:GSE347725:A20_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A55_Control	geo:GSE347725:A55_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A63_Control	geo:GSE347725:A63_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A76_Control	geo:GSE347725:A76_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059299	!Sample_title = IPF severe1	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A124_Control	geo:GSE347725:A124_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A157_Control	geo:GSE347725:A157_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A159_Control	geo:GSE347725:A159_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A20_Control	geo:GSE347725:A20_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A55_Control	geo:GSE347725:A55_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A63_Control	geo:GSE347725:A63_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A76_Control	geo:GSE347725:A76_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059303	!Sample_title = Controls non-smokers	True
+A101_IPFMild	geo:GSE347725:A101_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A101_IPFSevere	geo:GSE347725:A101_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A124_Control	geo:GSE347725:A124_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A131_IPFMild	geo:GSE347725:A131_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A131_IPFSevere	geo:GSE347725:A131_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A157_Control	geo:GSE347725:A157_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A159_Control	geo:GSE347725:A159_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A166_IPFMild	geo:GSE347725:A166_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A166_IPFSevere	geo:GSE347725:A166_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A20_Control	geo:GSE347725:A20_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A55_Control	geo:GSE347725:A55_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A63_Control	geo:GSE347725:A63_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A76_Control	geo:GSE347725:A76_Control	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A89_IPFMild	geo:GSE347725:A89_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A89_IPFSevere	geo:GSE347725:A89_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A97_IPFMild	geo:GSE347725:A97_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A97_IPFSevere	geo:GSE347725:A97_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A98_IPFMild	geo:GSE347725:A98_IPFMild	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True
+A98_IPFSevere	geo:GSE347725:A98_IPFSevere	disease_stage	<map of column severity>	file	raw/fp-af0bb268bb35/GSE347725_family.soft.gz	GSM10059304	!Sample_title = Controls ever-smokers	True

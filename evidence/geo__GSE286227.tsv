@@ -1,0 +1,4 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-dd786bf40e7a/GSE286227_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8721365	geo:GSE286227:GSM8721365	tissue_free_text	lung tissue	file	raw/fp-dd786bf40e7a/GSE286227_family.soft.gz	GSM8721365	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM8721366	geo:GSE286227:GSM8721366	tissue_free_text	lung tissue	file	raw/fp-dd786bf40e7a/GSE286227_family.soft.gz	GSM8721366	!Sample_characteristics_ch1 = tissue: lung tissue	True

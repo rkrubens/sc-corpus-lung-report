@@ -1,0 +1,11 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8509590	geo:GSE276934:GSM8509590	assay_ontology_term_id	EFO:0920058	derived	ols:efo		Visium HD	True
+		organism	Homo sapiens	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8509590	geo:GSE276934:GSM8509590	tissue_free_text	lung	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+GSM8509590	geo:GSE276934:GSM8509590	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+GSM8509590	geo:GSE276934:GSM8509590	tissue_type	tissue	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+GSM8509590	geo:GSE276934:GSM8509590	disease_free_text	mixed slide: one unaffected and three pulmonary fibrosis sections (VUHD049 unaffected; VUILD49LA, TILD111LA, TILD113LA fibrotic)	file	evidence/PMC11906353.txt		four specific samples from TMA5 (one unaffected and three PF) were then additionally run through the Visium HD protocol	True
+GSM8509590	geo:GSE276934:GSM8509590	assay	Visium HD	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz	GSM8509590	IPFTMA5, Post-Xenium Visium HD (VUILD49LA, TILD113LA, TILD111LA, VUHD049)	True
+GSM8509590	geo:GSE276934:GSM8509590	suspension_type	na	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz	GSM8509590	!Sample_data_processing = Library strategy: Spatial Transcriptomics	True
+GSM8509590	geo:GSE276934:GSM8509590	gene_annotation_version	GRCh38-2020-A	file	evidence/PMC11906353.txt		Reads were mapped against the GRCh38-2020-A reference	True
+GSM8509590	geo:GSE276934:GSM8509590	sample_preservation	FFPE	file	raw/fp-353b12ca0a10/GSE276934_family.soft.gz	GSM8509590	in a FFPE block mold	True

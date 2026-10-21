@@ -1,0 +1,28 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5324866	geo:GSE174725:GSM5324866	tissue_free_text	bronchoalveolar lavage fluid cells	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324866	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid cells	True
+GSM5324866	geo:GSE174725:GSM5324866	donor_id	exposure patient 1	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324866	!Sample_characteristics_ch1 = source: exposure patient 1	True
+GSM5324866	geo:GSE174725:GSM5324866	disease_free_text	exposed co-worker who did not develop silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		their co-workers who did not develop silicosis	True
+GSM5324866	geo:GSE174725:GSM5324866	disease_free_text	exposed co-worker who did not develop silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324866	!Sample_title = exposure patient 1	True
+GSM5324867	geo:GSE174725:GSM5324867	tissue_free_text	bronchoalveolar lavage fluid cells	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324867	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid cells	True
+GSM5324867	geo:GSE174725:GSM5324867	donor_id	exposure patient 2	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324867	!Sample_characteristics_ch1 = source: exposure patient 2	True
+GSM5324867	geo:GSE174725:GSM5324867	disease_free_text	exposed co-worker who did not develop silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		their co-workers who did not develop silicosis	True
+GSM5324867	geo:GSE174725:GSM5324867	disease_free_text	exposed co-worker who did not develop silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324867	!Sample_title = exposure patient 2	True
+GSM5324868	geo:GSE174725:GSM5324868	tissue_free_text	bronchoalveolar lavage fluid cells	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324868	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid cells	True
+GSM5324868	geo:GSE174725:GSM5324868	donor_id	silicosis patient 1	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324868	!Sample_characteristics_ch1 = source: silicosis patient 1	True
+GSM5324868	geo:GSE174725:GSM5324868	disease_free_text	silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324868	!Sample_title = silicosis patient 1	True
+GSM5324868	geo:GSE174725:GSM5324868	disease_free_text	silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		of mine workers with silicosis	True
+GSM5324868	geo:GSE174725:GSM5324868	disease_ontology_term_id	MONDO:0005960	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324868	!Sample_title = silicosis patient 1	True
+GSM5324868	geo:GSE174725:GSM5324868	disease_ontology_term_id	MONDO:0005960	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		of mine workers with silicosis	True
+GSM5324869	geo:GSE174725:GSM5324869	tissue_free_text	bronchoalveolar lavage fluid cells	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324869	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid cells	True
+GSM5324869	geo:GSE174725:GSM5324869	donor_id	silicosis patient 2	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324869	!Sample_characteristics_ch1 = source: silicosis patient 2	True
+GSM5324869	geo:GSE174725:GSM5324869	disease_free_text	silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324869	!Sample_title = silicosis patient 2	True
+GSM5324869	geo:GSE174725:GSM5324869	disease_free_text	silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		of mine workers with silicosis	True
+GSM5324869	geo:GSE174725:GSM5324869	disease_ontology_term_id	MONDO:0005960	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324869	!Sample_title = silicosis patient 2	True
+GSM5324869	geo:GSE174725:GSM5324869	disease_ontology_term_id	MONDO:0005960	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		of mine workers with silicosis	True
+GSM5324870	geo:GSE174725:GSM5324870	tissue_free_text	bronchoalveolar lavage fluid cells	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324870	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid cells	True
+GSM5324870	geo:GSE174725:GSM5324870	donor_id	silicosis patient 3	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324870	!Sample_characteristics_ch1 = source: silicosis patient 3	True
+GSM5324870	geo:GSE174725:GSM5324870	disease_free_text	silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324870	!Sample_title = silicosis patient 3	True
+GSM5324870	geo:GSE174725:GSM5324870	disease_free_text	silicosis	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		of mine workers with silicosis	True
+GSM5324870	geo:GSE174725:GSM5324870	disease_ontology_term_id	MONDO:0005960	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz	GSM5324870	!Sample_title = silicosis patient 3	True
+GSM5324870	geo:GSE174725:GSM5324870	disease_ontology_term_id	MONDO:0005960	file	raw/fp-3678d9f00ac5/GSE174725_family.soft.gz		of mine workers with silicosis	True

@@ -1,0 +1,16 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9033142	geo:GSE299111:GSM9033142	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033142	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033142	geo:GSE299111:GSM9033142	treatment	untreated	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033142	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM9033143	geo:GSE299111:GSM9033143	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033143	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033143	geo:GSE299111:GSM9033143	treatment	neoadjuvant chemotherapy	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033143	!Sample_characteristics_ch1 = treatment: neoadjuvant chemotherapy	True
+GSM9033144	geo:GSE299111:GSM9033144	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033144	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033144	geo:GSE299111:GSM9033144	treatment	untreated	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033144	!Sample_characteristics_ch1 = treatment: untreated	True
+GSM9033145	geo:GSE299111:GSM9033145	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033145	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033145	geo:GSE299111:GSM9033145	treatment	neoadjuvant chemotherapy	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033145	!Sample_characteristics_ch1 = treatment: neoadjuvant chemotherapy	True
+GSM9033146	geo:GSE299111:GSM9033146	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033146	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033146	geo:GSE299111:GSM9033146	treatment	neoadjuvant chemotherapy	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033146	!Sample_characteristics_ch1 = treatment: neoadjuvant chemotherapy	True
+GSM9033147	geo:GSE299111:GSM9033147	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033147	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033147	geo:GSE299111:GSM9033147	treatment	neoadjuvant chemotherapy	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033147	!Sample_characteristics_ch1 = treatment: neoadjuvant chemotherapy	True
+GSM9033148	geo:GSE299111:GSM9033148	tissue_free_text	NSCLC	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033148	!Sample_characteristics_ch1 = tissue: NSCLC	True
+GSM9033148	geo:GSE299111:GSM9033148	treatment	untreated	file	raw/fp-51c45acb42c2/GSE299111_family.soft.gz	GSM9033148	!Sample_characteristics_ch1 = treatment: untreated	True

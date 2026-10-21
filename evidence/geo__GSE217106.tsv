@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+LAM32	geo:GSE217106:LAM32	tissue_free_text	Lung	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705232	!Sample_characteristics_ch1 = tissue: Lung	True
+LAM32	geo:GSE217106:LAM32	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz		Lymphangioleiomyomatosis (LAM) is a rare, debilitating lung disease that predominantly affects women of reproductive age.	True
+LAM32	geo:GSE217106:LAM32	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705232	!Sample_title = LAM32 snATAC-Seq	True
+LAM32	geo:GSE217106:LAM32	suspension_type	nucleus	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705232	Nuclei were sorted using Sony SH800	True
+LAM32	geo:GSE217106:LAM32	sample_preservation	frozen	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705232	Frozen tissue from LAM32 was minced and lysed in buffer, then filtered.	True
+LAM32	geo:GSE217106:LAM32	gene_annotation_version	hg38	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705232	!Sample_data_processing = Assembly: hg38	True
+LAM44	geo:GSE217106:LAM44	tissue_free_text	Lung	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705233	!Sample_characteristics_ch1 = tissue: Lung	True
+LAM44	geo:GSE217106:LAM44	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz		Lymphangioleiomyomatosis (LAM) is a rare, debilitating lung disease that predominantly affects women of reproductive age.	True
+LAM44	geo:GSE217106:LAM44	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705233	!Sample_title = LAM44 snATAC-Seq	True
+LAM44	geo:GSE217106:LAM44	suspension_type	nucleus	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705233	Nuclei were sorted using Sony SH800	True
+LAM44	geo:GSE217106:LAM44	sample_preservation	fresh	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705233	Fresh tissue from LAM44 was minced lysed in buffer	True
+LAM44	geo:GSE217106:LAM44	gene_annotation_version	hg38	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705233	!Sample_data_processing = Assembly: hg38	True
+LAM32	geo:GSE217106:LAM32	atac.genome_assembly	hg38	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705232	!Sample_data_processing = Assembly: hg38	True
+LAM44	geo:GSE217106:LAM44	atac.genome_assembly	hg38	file	raw/fp-b034c47b0965/GSE217106_family.soft.gz	GSM6705233	!Sample_data_processing = Assembly: hg38	True
+LAM32	geo:GSE217106:LAM32	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+LAM32	geo:GSE217106:LAM32	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+LAM44	geo:GSE217106:LAM44	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+LAM44	geo:GSE217106:LAM44	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True

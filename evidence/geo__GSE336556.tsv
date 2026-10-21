@@ -1,0 +1,29 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9837325	geo:GSE336556:GSM9837325	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837326	geo:GSE336556:GSM9837326	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837327	geo:GSE336556:GSM9837327	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837328	geo:GSE336556:GSM9837328	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837329	geo:GSE336556:GSM9837329	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837330	geo:GSE336556:GSM9837330	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837331	geo:GSE336556:GSM9837331	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837332	geo:GSE336556:GSM9837332	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9837333	geo:GSE336556:GSM9837333	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9837325	geo:GSE336556:GSM9837325	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837325	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837325	geo:GSE336556:GSM9837325	disease_free_text	A3	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837325	!Sample_characteristics_ch1 = rejection grade: A3	True
+GSM9837326	geo:GSE336556:GSM9837326	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837326	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837326	geo:GSE336556:GSM9837326	disease_free_text	A3	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837326	!Sample_characteristics_ch1 = rejection grade: A3	True
+GSM9837327	geo:GSE336556:GSM9837327	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837327	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837327	geo:GSE336556:GSM9837327	disease_free_text	A3	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837327	!Sample_characteristics_ch1 = rejection grade: A3	True
+GSM9837328	geo:GSE336556:GSM9837328	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837328	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837328	geo:GSE336556:GSM9837328	disease_free_text	A0	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837328	!Sample_characteristics_ch1 = rejection grade: A0	True
+GSM9837329	geo:GSE336556:GSM9837329	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837329	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837329	geo:GSE336556:GSM9837329	disease_free_text	A0	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837329	!Sample_characteristics_ch1 = rejection grade: A0	True
+GSM9837330	geo:GSE336556:GSM9837330	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837330	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837330	geo:GSE336556:GSM9837330	disease_free_text	A0	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837330	!Sample_characteristics_ch1 = rejection grade: A0	True
+GSM9837331	geo:GSE336556:GSM9837331	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837331	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837331	geo:GSE336556:GSM9837331	disease_free_text	A0	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837331	!Sample_characteristics_ch1 = rejection grade: A0	True
+GSM9837332	geo:GSE336556:GSM9837332	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837332	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837332	geo:GSE336556:GSM9837332	disease_free_text	A3	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837332	!Sample_characteristics_ch1 = rejection grade: A3	True
+GSM9837333	geo:GSE336556:GSM9837333	tissue_free_text	lung	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837333	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9837333	geo:GSE336556:GSM9837333	disease_free_text	A0	file	raw/fp-d12d549f48a6/GSE336556_family.soft.gz	GSM9837333	!Sample_characteristics_ch1 = rejection grade: A0	True

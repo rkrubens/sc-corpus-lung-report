@@ -1,0 +1,98 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8427428	geo:GSE273528:GSM8427428	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427428	geo:GSE273528:GSM8427428	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8427429	geo:GSE273528:GSM8427429	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427429	geo:GSE273528:GSM8427429	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8427430	geo:GSE273528:GSM8427430	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427430	geo:GSE273528:GSM8427430	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8427431	geo:GSE273528:GSM8427431	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427431	geo:GSE273528:GSM8427431	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8427432	geo:GSE273528:GSM8427432	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427432	geo:GSE273528:GSM8427432	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM8427433	geo:GSE273528:GSM8427433	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427433	geo:GSE273528:GSM8427433	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8427434	geo:GSE273528:GSM8427434	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427434	geo:GSE273528:GSM8427434	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM8427435	geo:GSE273528:GSM8427435	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427435	geo:GSE273528:GSM8427435	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8427436	geo:GSE273528:GSM8427436	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427436	geo:GSE273528:GSM8427436	development_stage_ontology_term_id	HsapDv:0000146	derived	age_in_years:'52-year-old stage':ols:hsapdv		52	True
+GSM8427437	geo:GSE273528:GSM8427437	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427437	geo:GSE273528:GSM8427437	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8427438	geo:GSE273528:GSM8427438	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427438	geo:GSE273528:GSM8427438	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8427439	geo:GSE273528:GSM8427439	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8427439	geo:GSE273528:GSM8427439	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM8427440	geo:GSE273528:GSM8427440	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427440	geo:GSE273528:GSM8427440	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8427441	geo:GSE273528:GSM8427441	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427441	geo:GSE273528:GSM8427441	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8427442	geo:GSE273528:GSM8427442	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427442	geo:GSE273528:GSM8427442	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM8427443	geo:GSE273528:GSM8427443	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8427443	geo:GSE273528:GSM8427443	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+		organism	Homo sapiens	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8427428	geo:GSE273528:GSM8427428	age	68	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427428	!Sample_characteristics_ch1 = age: 68	True
+GSM8427428	geo:GSE273528:GSM8427428	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427428	!Sample_characteristics_ch1 = gender: M	True
+GSM8427428	geo:GSE273528:GSM8427428	donor_id	30868	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427428	!Sample_characteristics_ch1 = patient id: 30868	True
+GSM8427428	geo:GSE273528:GSM8427428	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427428	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427429	geo:GSE273528:GSM8427429	age	68	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427429	!Sample_characteristics_ch1 = age: 68	True
+GSM8427429	geo:GSE273528:GSM8427429	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427429	!Sample_characteristics_ch1 = gender: M	True
+GSM8427429	geo:GSE273528:GSM8427429	donor_id	30868	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427429	!Sample_characteristics_ch1 = patient id: 30868	True
+GSM8427429	geo:GSE273528:GSM8427429	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427429	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427430	geo:GSE273528:GSM8427430	age	68	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427430	!Sample_characteristics_ch1 = age: 68	True
+GSM8427430	geo:GSE273528:GSM8427430	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427430	!Sample_characteristics_ch1 = gender: F	True
+GSM8427430	geo:GSE273528:GSM8427430	donor_id	21448	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427430	!Sample_characteristics_ch1 = patient id: 21448	True
+GSM8427430	geo:GSE273528:GSM8427430	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427430	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427431	geo:GSE273528:GSM8427431	age	68	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427431	!Sample_characteristics_ch1 = age: 68	True
+GSM8427431	geo:GSE273528:GSM8427431	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427431	!Sample_characteristics_ch1 = gender: F	True
+GSM8427431	geo:GSE273528:GSM8427431	donor_id	21448	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427431	!Sample_characteristics_ch1 = patient id: 21448	True
+GSM8427431	geo:GSE273528:GSM8427431	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427431	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427432	geo:GSE273528:GSM8427432	age	71	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427432	!Sample_characteristics_ch1 = age: 71	True
+GSM8427432	geo:GSE273528:GSM8427432	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427432	!Sample_characteristics_ch1 = gender: M	True
+GSM8427432	geo:GSE273528:GSM8427432	donor_id	27086	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427432	!Sample_characteristics_ch1 = patient id: 27086	True
+GSM8427432	geo:GSE273528:GSM8427432	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427432	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427433	geo:GSE273528:GSM8427433	age	66	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427433	!Sample_characteristics_ch1 = age: 66	True
+GSM8427433	geo:GSE273528:GSM8427433	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427433	!Sample_characteristics_ch1 = gender: M	True
+GSM8427433	geo:GSE273528:GSM8427433	donor_id	4710	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427433	!Sample_characteristics_ch1 = patient id: 4710	True
+GSM8427433	geo:GSE273528:GSM8427433	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427433	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427434	geo:GSE273528:GSM8427434	age	72	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427434	!Sample_characteristics_ch1 = age: 72	True
+GSM8427434	geo:GSE273528:GSM8427434	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427434	!Sample_characteristics_ch1 = gender: M	True
+GSM8427434	geo:GSE273528:GSM8427434	donor_id	611	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427434	!Sample_characteristics_ch1 = patient id: 611	True
+GSM8427434	geo:GSE273528:GSM8427434	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427434	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427435	geo:GSE273528:GSM8427435	age	65	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427435	!Sample_characteristics_ch1 = age: 65	True
+GSM8427435	geo:GSE273528:GSM8427435	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427435	!Sample_characteristics_ch1 = gender: M	True
+GSM8427435	geo:GSE273528:GSM8427435	donor_id	9475	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427435	!Sample_characteristics_ch1 = patient id: 9475	True
+GSM8427435	geo:GSE273528:GSM8427435	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427435	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427436	geo:GSE273528:GSM8427436	age	52	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427436	!Sample_characteristics_ch1 = age: 52	True
+GSM8427436	geo:GSE273528:GSM8427436	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427436	!Sample_characteristics_ch1 = gender: F	True
+GSM8427436	geo:GSE273528:GSM8427436	donor_id	1984	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427436	!Sample_characteristics_ch1 = patient id: 1984	True
+GSM8427436	geo:GSE273528:GSM8427436	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427436	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427437	geo:GSE273528:GSM8427437	age	66	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427437	!Sample_characteristics_ch1 = age: 66	True
+GSM8427437	geo:GSE273528:GSM8427437	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427437	!Sample_characteristics_ch1 = gender: M	True
+GSM8427437	geo:GSE273528:GSM8427437	donor_id	11980	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427437	!Sample_characteristics_ch1 = patient id: 11980	True
+GSM8427437	geo:GSE273528:GSM8427437	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427437	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427438	geo:GSE273528:GSM8427438	age	63	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427438	!Sample_characteristics_ch1 = age: 63	True
+GSM8427438	geo:GSE273528:GSM8427438	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427438	!Sample_characteristics_ch1 = gender: F	True
+GSM8427438	geo:GSE273528:GSM8427438	donor_id	3255	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427438	!Sample_characteristics_ch1 = patient id: 3255	True
+GSM8427438	geo:GSE273528:GSM8427438	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427438	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427439	geo:GSE273528:GSM8427439	age	69	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427439	!Sample_characteristics_ch1 = age: 69	True
+GSM8427439	geo:GSE273528:GSM8427439	sex	M	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427439	!Sample_characteristics_ch1 = gender: M	True
+GSM8427439	geo:GSE273528:GSM8427439	donor_id	29063	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427439	!Sample_characteristics_ch1 = patient id: 29063	True
+GSM8427439	geo:GSE273528:GSM8427439	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427439	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427440	geo:GSE273528:GSM8427440	age	63	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427440	!Sample_characteristics_ch1 = age: 63	True
+GSM8427440	geo:GSE273528:GSM8427440	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427440	!Sample_characteristics_ch1 = gender: F	True
+GSM8427440	geo:GSE273528:GSM8427440	donor_id	13034	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427440	!Sample_characteristics_ch1 = patient id: 13034	True
+GSM8427440	geo:GSE273528:GSM8427440	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427440	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427441	geo:GSE273528:GSM8427441	age	65	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427441	!Sample_characteristics_ch1 = age: 65	True
+GSM8427441	geo:GSE273528:GSM8427441	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427441	!Sample_characteristics_ch1 = gender: F	True
+GSM8427441	geo:GSE273528:GSM8427441	donor_id	915	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427441	!Sample_characteristics_ch1 = patient id: 915	True
+GSM8427441	geo:GSE273528:GSM8427441	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427441	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427442	geo:GSE273528:GSM8427442	age	72	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427442	!Sample_characteristics_ch1 = age: 72	True
+GSM8427442	geo:GSE273528:GSM8427442	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427442	!Sample_characteristics_ch1 = gender: F	True
+GSM8427442	geo:GSE273528:GSM8427442	donor_id	22809	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427442	!Sample_characteristics_ch1 = patient id: 22809	True
+GSM8427442	geo:GSE273528:GSM8427442	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427442	!Sample_characteristics_ch1 = site: LHMC	True
+GSM8427443	geo:GSE273528:GSM8427443	age	75	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427443	!Sample_characteristics_ch1 = age: 75	True
+GSM8427443	geo:GSE273528:GSM8427443	sex	F	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427443	!Sample_characteristics_ch1 = gender: F	True
+GSM8427443	geo:GSE273528:GSM8427443	donor_id	25115	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427443	!Sample_characteristics_ch1 = patient id: 25115	True
+GSM8427443	geo:GSE273528:GSM8427443	tissue_free_text	LHMC	file	raw/fp-9aa177c5987d/GSE273528_family.soft.gz	GSM8427443	!Sample_characteristics_ch1 = site: LHMC	True

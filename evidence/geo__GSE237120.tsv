@@ -1,0 +1,314 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+COPD10LLL	geo:GSE237120:COPD10LLL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD10LUL	geo:GSE237120:COPD10LUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD2LUL	geo:GSE237120:COPD2LUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD2RUL	geo:GSE237120:COPD2RUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD3RUL	geo:GSE237120:COPD3RUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD4RUL	geo:GSE237120:COPD4RUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD5RLL	geo:GSE237120:COPD5RLL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD6LLL	geo:GSE237120:COPD6LLL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD6LUL	geo:GSE237120:COPD6LUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD7LLL	geo:GSE237120:COPD7LLL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD7LUL	geo:GSE237120:COPD7LUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD8LLL	geo:GSE237120:COPD8LLL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD8LUL	geo:GSE237120:COPD8LUL	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA100	geo:GSE237120:UA100	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA104	geo:GSE237120:UA104	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA18	geo:GSE237120:UA18	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA22	geo:GSE237120:UA22	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA40	geo:GSE237120:UA40	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA42	geo:GSE237120:UA42	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA58	geo:GSE237120:UA58	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA70	geo:GSE237120:UA70	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA73	geo:GSE237120:UA73	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA74	geo:GSE237120:UA74	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+UA96	geo:GSE237120:UA96	donor_id	<column patient>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/patient			True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA100	geo:GSE237120:UA100	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA104	geo:GSE237120:UA104	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA18	geo:GSE237120:UA18	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA22	geo:GSE237120:UA22	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA40	geo:GSE237120:UA40	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA42	geo:GSE237120:UA42	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA58	geo:GSE237120:UA58	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA70	geo:GSE237120:UA70	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA73	geo:GSE237120:UA73	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA74	geo:GSE237120:UA74	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA96	geo:GSE237120:UA96	disease_free_text	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA100	geo:GSE237120:UA100	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA104	geo:GSE237120:UA104	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA18	geo:GSE237120:UA18	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA22	geo:GSE237120:UA22	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA40	geo:GSE237120:UA40	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA42	geo:GSE237120:UA42	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA58	geo:GSE237120:UA58	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA70	geo:GSE237120:UA70	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA73	geo:GSE237120:UA73	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA74	geo:GSE237120:UA74	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+UA96	geo:GSE237120:UA96	disease_ontology_term_id	<column condition>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/condition			True
+COPD10LLL	geo:GSE237120:COPD10LLL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD10LUL	geo:GSE237120:COPD10LUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD2LUL	geo:GSE237120:COPD2LUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD2RUL	geo:GSE237120:COPD2RUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD3RUL	geo:GSE237120:COPD3RUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD4RUL	geo:GSE237120:COPD4RUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD5RLL	geo:GSE237120:COPD5RLL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD6LLL	geo:GSE237120:COPD6LLL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD6LUL	geo:GSE237120:COPD6LUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD7LLL	geo:GSE237120:COPD7LLL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD7LUL	geo:GSE237120:COPD7LUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD8LLL	geo:GSE237120:COPD8LLL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD8LUL	geo:GSE237120:COPD8LUL	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA100	geo:GSE237120:UA100	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA104	geo:GSE237120:UA104	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA18	geo:GSE237120:UA18	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA22	geo:GSE237120:UA22	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA40	geo:GSE237120:UA40	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA42	geo:GSE237120:UA42	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA58	geo:GSE237120:UA58	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA70	geo:GSE237120:UA70	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA73	geo:GSE237120:UA73	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA74	geo:GSE237120:UA74	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+UA96	geo:GSE237120:UA96	sample_preservation	<column tissue.mount>	column	work/fp-6ca1090cf6d0/reconciled/aoi_metadata.csv/tissue.mount			True
+COPD10LLL	geo:GSE237120:COPD10LLL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD10LUL	geo:GSE237120:COPD10LUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD2LUL	geo:GSE237120:COPD2LUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD2RUL	geo:GSE237120:COPD2RUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD3RUL	geo:GSE237120:COPD3RUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD4RUL	geo:GSE237120:COPD4RUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD5RLL	geo:GSE237120:COPD5RLL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD6LLL	geo:GSE237120:COPD6LLL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD6LUL	geo:GSE237120:COPD6LUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD7LLL	geo:GSE237120:COPD7LLL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD7LUL	geo:GSE237120:COPD7LUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD8LLL	geo:GSE237120:COPD8LLL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD8LUL	geo:GSE237120:COPD8LUL	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA100	geo:GSE237120:UA100	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA104	geo:GSE237120:UA104	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA18	geo:GSE237120:UA18	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA22	geo:GSE237120:UA22	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA40	geo:GSE237120:UA40	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA42	geo:GSE237120:UA42	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA58	geo:GSE237120:UA58	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA70	geo:GSE237120:UA70	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA73	geo:GSE237120:UA73	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA74	geo:GSE237120:UA74	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+UA96	geo:GSE237120:UA96	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA100	geo:GSE237120:UA100	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA104	geo:GSE237120:UA104	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA18	geo:GSE237120:UA18	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA22	geo:GSE237120:UA22	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA40	geo:GSE237120:UA40	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA42	geo:GSE237120:UA42	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA58	geo:GSE237120:UA58	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA70	geo:GSE237120:UA70	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA73	geo:GSE237120:UA73	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA74	geo:GSE237120:UA74	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+UA96	geo:GSE237120:UA96	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA100	geo:GSE237120:UA100	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA104	geo:GSE237120:UA104	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA18	geo:GSE237120:UA18	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA22	geo:GSE237120:UA22	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA40	geo:GSE237120:UA40	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA42	geo:GSE237120:UA42	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA58	geo:GSE237120:UA58	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA70	geo:GSE237120:UA70	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA73	geo:GSE237120:UA73	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA74	geo:GSE237120:UA74	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+UA96	geo:GSE237120:UA96	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+		organism	Homo sapiens	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_organism_ch1 = Homo sapiens	True
+COPD10LLL	geo:GSE237120:COPD10LLL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD10LUL	geo:GSE237120:COPD10LUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD2LUL	geo:GSE237120:COPD2LUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD2RUL	geo:GSE237120:COPD2RUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD3RUL	geo:GSE237120:COPD3RUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD4RUL	geo:GSE237120:COPD4RUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD5RLL	geo:GSE237120:COPD5RLL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD6LLL	geo:GSE237120:COPD6LLL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD6LUL	geo:GSE237120:COPD6LUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD7LLL	geo:GSE237120:COPD7LLL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD7LUL	geo:GSE237120:COPD7LUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD8LLL	geo:GSE237120:COPD8LLL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD8LUL	geo:GSE237120:COPD8LUL	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA100	geo:GSE237120:UA100	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA104	geo:GSE237120:UA104	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA18	geo:GSE237120:UA18	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA22	geo:GSE237120:UA22	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA40	geo:GSE237120:UA40	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA42	geo:GSE237120:UA42	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA58	geo:GSE237120:UA58	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA70	geo:GSE237120:UA70	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA73	geo:GSE237120:UA73	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA74	geo:GSE237120:UA74	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA96	geo:GSE237120:UA96	tissue_free_text	lung	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD10LLL	geo:GSE237120:COPD10LLL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD10LUL	geo:GSE237120:COPD10LUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD2LUL	geo:GSE237120:COPD2LUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD2RUL	geo:GSE237120:COPD2RUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD3RUL	geo:GSE237120:COPD3RUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD4RUL	geo:GSE237120:COPD4RUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD5RLL	geo:GSE237120:COPD5RLL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD6LLL	geo:GSE237120:COPD6LLL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD6LUL	geo:GSE237120:COPD6LUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD7LLL	geo:GSE237120:COPD7LLL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD7LUL	geo:GSE237120:COPD7LUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD8LLL	geo:GSE237120:COPD8LLL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD8LUL	geo:GSE237120:COPD8LUL	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA100	geo:GSE237120:UA100	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA104	geo:GSE237120:UA104	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA18	geo:GSE237120:UA18	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA22	geo:GSE237120:UA22	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA40	geo:GSE237120:UA40	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA42	geo:GSE237120:UA42	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA58	geo:GSE237120:UA58	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA70	geo:GSE237120:UA70	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA73	geo:GSE237120:UA73	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA74	geo:GSE237120:UA74	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+UA96	geo:GSE237120:UA96	tissue_type	tissue	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA100	geo:GSE237120:UA100	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA104	geo:GSE237120:UA104	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA18	geo:GSE237120:UA18	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA22	geo:GSE237120:UA22	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA40	geo:GSE237120:UA40	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA42	geo:GSE237120:UA42	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA58	geo:GSE237120:UA58	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA70	geo:GSE237120:UA70	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA73	geo:GSE237120:UA73	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA74	geo:GSE237120:UA74	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+UA96	geo:GSE237120:UA96	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595670	!Sample_characteristics_ch1 = condition: copd	True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA100	geo:GSE237120:UA100	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA104	geo:GSE237120:UA104	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA18	geo:GSE237120:UA18	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA22	geo:GSE237120:UA22	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA40	geo:GSE237120:UA40	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA42	geo:GSE237120:UA42	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA58	geo:GSE237120:UA58	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA70	geo:GSE237120:UA70	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA73	geo:GSE237120:UA73	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA74	geo:GSE237120:UA74	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+UA96	geo:GSE237120:UA96	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz	GSM7595679	!Sample_characteristics_ch1 = condition: smoker.control	True
+COPD10LLL	geo:GSE237120:COPD10LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD10LUL	geo:GSE237120:COPD10LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD2LUL	geo:GSE237120:COPD2LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD2RUL	geo:GSE237120:COPD2RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD3RUL	geo:GSE237120:COPD3RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD4RUL	geo:GSE237120:COPD4RUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD5RLL	geo:GSE237120:COPD5RLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD6LLL	geo:GSE237120:COPD6LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD6LUL	geo:GSE237120:COPD6LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD7LLL	geo:GSE237120:COPD7LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD7LUL	geo:GSE237120:COPD7LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD8LLL	geo:GSE237120:COPD8LLL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD8LUL	geo:GSE237120:COPD8LUL	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA100	geo:GSE237120:UA100	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA104	geo:GSE237120:UA104	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA18	geo:GSE237120:UA18	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA22	geo:GSE237120:UA22	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA40	geo:GSE237120:UA40	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA42	geo:GSE237120:UA42	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA58	geo:GSE237120:UA58	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA70	geo:GSE237120:UA70	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA73	geo:GSE237120:UA73	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA74	geo:GSE237120:UA74	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+UA96	geo:GSE237120:UA96	disease_ontology_term_id	<map of column condition>	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		Smoker Controls (defined pack years >10), and COPD GOLD1-4 patients	True
+COPD10LLL	geo:GSE237120:COPD10LLL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD10LUL	geo:GSE237120:COPD10LUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD2LUL	geo:GSE237120:COPD2LUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD2RUL	geo:GSE237120:COPD2RUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD3RUL	geo:GSE237120:COPD3RUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD4RUL	geo:GSE237120:COPD4RUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD5RLL	geo:GSE237120:COPD5RLL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD6LLL	geo:GSE237120:COPD6LLL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD6LUL	geo:GSE237120:COPD6LUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD7LLL	geo:GSE237120:COPD7LLL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD7LUL	geo:GSE237120:COPD7LUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD8LLL	geo:GSE237120:COPD8LLL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+COPD8LUL	geo:GSE237120:COPD8LUL	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA100	geo:GSE237120:UA100	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA104	geo:GSE237120:UA104	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA18	geo:GSE237120:UA18	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA22	geo:GSE237120:UA22	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA40	geo:GSE237120:UA40	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA42	geo:GSE237120:UA42	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA58	geo:GSE237120:UA58	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA70	geo:GSE237120:UA70	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA73	geo:GSE237120:UA73	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA74	geo:GSE237120:UA74	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True
+UA96	geo:GSE237120:UA96	suspension_type	na	file	raw/fp-6ca1090cf6d0/GSE237120_family.soft.gz		!Sample_extract_protocol_ch1 = Default Nanostring GeoMx extraction protocol	True

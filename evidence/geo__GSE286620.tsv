@@ -1,0 +1,15 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8729900	geo:GSE286620:GSM8729900	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8729900	geo:GSE286620:GSM8729900	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+		organism	Homo sapiens	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8729900	geo:GSE286620:GSM8729900	donor_id	ENCDO520EJG	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		donor_id: ENCDO520EJG	True
+GSM8729900	geo:GSE286620:GSM8729900	sex	male	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		Sex: male	True
+GSM8729900	geo:GSE286620:GSM8729900	age	60	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		age: 60 year	True
+GSM8729900	geo:GSE286620:GSM8729900	tissue_free_text	upper lobe of right lung	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		tissue_type: upper lobe of right lung	True
+GSM8729900	geo:GSE286620:GSM8729900	tissue_ontology_term_id	UBERON:0008952	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		tissue_type: upper lobe of right lung	True
+GSM8729900	geo:GSE286620:GSM8729900	tissue_type	tissue	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		biomaterial_type: tissue	True
+GSM8729900	geo:GSE286620:GSM8729900	disease_free_text	lungs with severe emphysema	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		health state: DM: no; HTN: yes; CAD: no; lungs with severe emphysema	True
+GSM8729900	geo:GSE286620:GSM8729900	disease_ontology_term_id	MONDO:0004849	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		health state: DM: no; HTN: yes; CAD: no; lungs with severe emphysema	True
+GSM8729900	geo:GSE286620:GSM8729900	suspension_type	nucleus	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		subcellular fraction term name: nucleus	True
+GSM8729900	geo:GSE286620:GSM8729900	sample_preservation	flash-freezing	file	raw/fp-25a39b9667ce/GSE286620_family.soft.gz		preserved by flash-freezing nuclear fraction	True
+GSM8729900	geo:GSE286620:GSM8729900	gene_annotation_version	V29	file	work/fp-25a39b9667ce/GSE286620_RAW/GSM8729900_ENCLB228GCE_README.txt.gz		genome annotation: V29	True

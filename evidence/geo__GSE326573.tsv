@@ -1,0 +1,322 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9634791	geo:GSE326573:GSM9634791	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634793	geo:GSE326573:GSM9634793	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634795	geo:GSE326573:GSM9634795	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634797	geo:GSE326573:GSM9634797	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634799	geo:GSE326573:GSM9634799	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634801	geo:GSE326573:GSM9634801	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634803	geo:GSE326573:GSM9634803	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634805	geo:GSE326573:GSM9634805	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634807	geo:GSE326573:GSM9634807	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634809	geo:GSE326573:GSM9634809	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634811	geo:GSE326573:GSM9634811	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634813	geo:GSE326573:GSM9634813	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634815	geo:GSE326573:GSM9634815	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634817	geo:GSE326573:GSM9634817	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634819	geo:GSE326573:GSM9634819	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634821	geo:GSE326573:GSM9634821	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634823	geo:GSE326573:GSM9634823	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634825	geo:GSE326573:GSM9634825	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634826	geo:GSE326573:GSM9634826	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634828	geo:GSE326573:GSM9634828	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634830	geo:GSE326573:GSM9634830	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634832	geo:GSE326573:GSM9634832	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634833	geo:GSE326573:GSM9634833	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634835	geo:GSE326573:GSM9634835	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634836	geo:GSE326573:GSM9634836	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634837	geo:GSE326573:GSM9634837	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634839	geo:GSE326573:GSM9634839	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634841	geo:GSE326573:GSM9634841	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634843	geo:GSE326573:GSM9634843	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634845	geo:GSE326573:GSM9634845	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634847	geo:GSE326573:GSM9634847	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9634849	geo:GSE326573:GSM9634849	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	!Sample_organism_ch1 = Homo sapiens	True
+GSM9634791	geo:GSE326573:GSM9634791	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634791	geo:GSE326573:GSM9634791	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634791	geo:GSE326573:GSM9634791	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634791	geo:GSE326573:GSM9634791	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634791	geo:GSE326573:GSM9634791	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	Assembly: GRCh38-2020-A	True
+GSM9634791	geo:GSE326573:GSM9634791	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	!Sample_title = non-diseased control_1_RNA	True
+GSM9634791	geo:GSE326573:GSM9634791	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634791	geo:GSE326573:GSM9634791	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	!Sample_title = non-diseased control_1_RNA	True
+GSM9634791	geo:GSE326573:GSM9634791	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634791	obtained at the time of organ procurement	True
+GSM9634793	geo:GSE326573:GSM9634793	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634793	geo:GSE326573:GSM9634793	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634793	geo:GSE326573:GSM9634793	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634793	geo:GSE326573:GSM9634793	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634793	geo:GSE326573:GSM9634793	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	Assembly: GRCh38-2020-A	True
+GSM9634793	geo:GSE326573:GSM9634793	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	!Sample_title = non-diseased control_2_RNA	True
+GSM9634793	geo:GSE326573:GSM9634793	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634793	geo:GSE326573:GSM9634793	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	!Sample_title = non-diseased control_2_RNA	True
+GSM9634793	geo:GSE326573:GSM9634793	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634793	obtained at the time of organ procurement	True
+GSM9634795	geo:GSE326573:GSM9634795	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634795	geo:GSE326573:GSM9634795	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634795	geo:GSE326573:GSM9634795	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634795	geo:GSE326573:GSM9634795	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634795	geo:GSE326573:GSM9634795	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	Assembly: GRCh38-2020-A	True
+GSM9634795	geo:GSE326573:GSM9634795	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	!Sample_title = non-diseased control_3_RNA	True
+GSM9634795	geo:GSE326573:GSM9634795	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634795	geo:GSE326573:GSM9634795	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	!Sample_title = non-diseased control_3_RNA	True
+GSM9634795	geo:GSE326573:GSM9634795	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634795	obtained at the time of organ procurement	True
+GSM9634797	geo:GSE326573:GSM9634797	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634797	geo:GSE326573:GSM9634797	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634797	geo:GSE326573:GSM9634797	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634797	geo:GSE326573:GSM9634797	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634797	geo:GSE326573:GSM9634797	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	Assembly: GRCh38-2020-A	True
+GSM9634797	geo:GSE326573:GSM9634797	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	!Sample_title = non-diseased control_4_RNA	True
+GSM9634797	geo:GSE326573:GSM9634797	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634797	geo:GSE326573:GSM9634797	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	!Sample_title = non-diseased control_4_RNA	True
+GSM9634797	geo:GSE326573:GSM9634797	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634797	obtained at the time of organ procurement	True
+GSM9634799	geo:GSE326573:GSM9634799	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634799	geo:GSE326573:GSM9634799	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634799	geo:GSE326573:GSM9634799	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634799	geo:GSE326573:GSM9634799	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634799	geo:GSE326573:GSM9634799	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	Assembly: GRCh38-2020-A	True
+GSM9634799	geo:GSE326573:GSM9634799	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	!Sample_title = IPF_1a_RNA	True
+GSM9634799	geo:GSE326573:GSM9634799	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634799	geo:GSE326573:GSM9634799	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	!Sample_title = IPF_1a_RNA	True
+GSM9634799	geo:GSE326573:GSM9634799	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634799	geo:GSE326573:GSM9634799	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634799	removed at the time of lung transplant surgery	True
+GSM9634801	geo:GSE326573:GSM9634801	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634801	geo:GSE326573:GSM9634801	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634801	geo:GSE326573:GSM9634801	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634801	geo:GSE326573:GSM9634801	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634801	geo:GSE326573:GSM9634801	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	Assembly: GRCh38-2020-A	True
+GSM9634801	geo:GSE326573:GSM9634801	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	!Sample_title = IPF_2_RNA	True
+GSM9634801	geo:GSE326573:GSM9634801	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634801	geo:GSE326573:GSM9634801	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	!Sample_title = IPF_2_RNA	True
+GSM9634801	geo:GSE326573:GSM9634801	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634801	geo:GSE326573:GSM9634801	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634801	removed at the time of lung transplant surgery	True
+GSM9634803	geo:GSE326573:GSM9634803	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634803	geo:GSE326573:GSM9634803	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634803	geo:GSE326573:GSM9634803	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634803	geo:GSE326573:GSM9634803	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634803	geo:GSE326573:GSM9634803	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	Assembly: GRCh38-2020-A	True
+GSM9634803	geo:GSE326573:GSM9634803	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	!Sample_title = IPF_3_RNA	True
+GSM9634803	geo:GSE326573:GSM9634803	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634803	geo:GSE326573:GSM9634803	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	!Sample_title = IPF_3_RNA	True
+GSM9634803	geo:GSE326573:GSM9634803	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634803	geo:GSE326573:GSM9634803	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634803	removed at the time of lung transplant surgery	True
+GSM9634805	geo:GSE326573:GSM9634805	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634805	geo:GSE326573:GSM9634805	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634805	geo:GSE326573:GSM9634805	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634805	geo:GSE326573:GSM9634805	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634805	geo:GSE326573:GSM9634805	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	Assembly: GRCh38-2020-A	True
+GSM9634805	geo:GSE326573:GSM9634805	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	!Sample_title = IPF_4_RNA	True
+GSM9634805	geo:GSE326573:GSM9634805	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634805	geo:GSE326573:GSM9634805	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	!Sample_title = IPF_4_RNA	True
+GSM9634805	geo:GSE326573:GSM9634805	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634805	geo:GSE326573:GSM9634805	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634805	removed at the time of lung transplant surgery	True
+GSM9634807	geo:GSE326573:GSM9634807	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634807	geo:GSE326573:GSM9634807	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634807	geo:GSE326573:GSM9634807	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634807	geo:GSE326573:GSM9634807	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634807	geo:GSE326573:GSM9634807	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	Assembly: GRCh38-2020-A	True
+GSM9634807	geo:GSE326573:GSM9634807	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	!Sample_title = non-diseased control_5_RNA	True
+GSM9634807	geo:GSE326573:GSM9634807	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634807	geo:GSE326573:GSM9634807	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	!Sample_title = non-diseased control_5_RNA	True
+GSM9634807	geo:GSE326573:GSM9634807	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634807	obtained at the time of organ procurement	True
+GSM9634809	geo:GSE326573:GSM9634809	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634809	geo:GSE326573:GSM9634809	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634809	geo:GSE326573:GSM9634809	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634809	geo:GSE326573:GSM9634809	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634809	geo:GSE326573:GSM9634809	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	Assembly: GRCh38-2020-A	True
+GSM9634809	geo:GSE326573:GSM9634809	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	!Sample_title = non-diseased control_6_RNA	True
+GSM9634809	geo:GSE326573:GSM9634809	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634809	geo:GSE326573:GSM9634809	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	!Sample_title = non-diseased control_6_RNA	True
+GSM9634809	geo:GSE326573:GSM9634809	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634809	obtained at the time of organ procurement	True
+GSM9634811	geo:GSE326573:GSM9634811	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634811	geo:GSE326573:GSM9634811	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634811	geo:GSE326573:GSM9634811	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634811	geo:GSE326573:GSM9634811	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634811	geo:GSE326573:GSM9634811	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	Assembly: GRCh38-2020-A	True
+GSM9634811	geo:GSE326573:GSM9634811	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	!Sample_title = non-diseased control_7_RNA	True
+GSM9634811	geo:GSE326573:GSM9634811	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634811	geo:GSE326573:GSM9634811	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	!Sample_title = non-diseased control_7_RNA	True
+GSM9634811	geo:GSE326573:GSM9634811	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634811	obtained at the time of organ procurement	True
+GSM9634813	geo:GSE326573:GSM9634813	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634813	geo:GSE326573:GSM9634813	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634813	geo:GSE326573:GSM9634813	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634813	geo:GSE326573:GSM9634813	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634813	geo:GSE326573:GSM9634813	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	Assembly: GRCh38-2020-A	True
+GSM9634813	geo:GSE326573:GSM9634813	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	!Sample_title = non-diseased control_8_RNA	True
+GSM9634813	geo:GSE326573:GSM9634813	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634813	geo:GSE326573:GSM9634813	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	!Sample_title = non-diseased control_8_RNA	True
+GSM9634813	geo:GSE326573:GSM9634813	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634813	obtained at the time of organ procurement	True
+GSM9634815	geo:GSE326573:GSM9634815	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634815	geo:GSE326573:GSM9634815	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634815	geo:GSE326573:GSM9634815	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634815	geo:GSE326573:GSM9634815	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634815	geo:GSE326573:GSM9634815	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	Assembly: GRCh38-2020-A	True
+GSM9634815	geo:GSE326573:GSM9634815	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	!Sample_title = IPF_5_RNA	True
+GSM9634815	geo:GSE326573:GSM9634815	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634815	geo:GSE326573:GSM9634815	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	!Sample_title = IPF_5_RNA	True
+GSM9634815	geo:GSE326573:GSM9634815	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634815	geo:GSE326573:GSM9634815	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634815	removed at the time of lung transplant surgery	True
+GSM9634817	geo:GSE326573:GSM9634817	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634817	geo:GSE326573:GSM9634817	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634817	geo:GSE326573:GSM9634817	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634817	geo:GSE326573:GSM9634817	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634817	geo:GSE326573:GSM9634817	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	Assembly: GRCh38-2020-A	True
+GSM9634817	geo:GSE326573:GSM9634817	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	!Sample_title = IPF_6_RNA	True
+GSM9634817	geo:GSE326573:GSM9634817	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634817	geo:GSE326573:GSM9634817	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	!Sample_title = IPF_6_RNA	True
+GSM9634817	geo:GSE326573:GSM9634817	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634817	geo:GSE326573:GSM9634817	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634817	removed at the time of lung transplant surgery	True
+GSM9634819	geo:GSE326573:GSM9634819	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634819	geo:GSE326573:GSM9634819	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634819	geo:GSE326573:GSM9634819	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634819	geo:GSE326573:GSM9634819	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634819	geo:GSE326573:GSM9634819	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	Assembly: GRCh38-2020-A	True
+GSM9634819	geo:GSE326573:GSM9634819	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	!Sample_title = IPF_7_RNA	True
+GSM9634819	geo:GSE326573:GSM9634819	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634819	geo:GSE326573:GSM9634819	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	!Sample_title = IPF_7_RNA	True
+GSM9634819	geo:GSE326573:GSM9634819	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634819	geo:GSE326573:GSM9634819	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634819	removed at the time of lung transplant surgery	True
+GSM9634821	geo:GSE326573:GSM9634821	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634821	geo:GSE326573:GSM9634821	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634821	geo:GSE326573:GSM9634821	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634821	geo:GSE326573:GSM9634821	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634821	geo:GSE326573:GSM9634821	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	Assembly: GRCh38-2020-A	True
+GSM9634821	geo:GSE326573:GSM9634821	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	!Sample_title = CTD-ILD_2b_RNA	True
+GSM9634821	geo:GSE326573:GSM9634821	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634821	geo:GSE326573:GSM9634821	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634821	removed at the time of lung transplant surgery	True
+GSM9634823	geo:GSE326573:GSM9634823	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634823	geo:GSE326573:GSM9634823	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634823	geo:GSE326573:GSM9634823	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634823	geo:GSE326573:GSM9634823	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634823	geo:GSE326573:GSM9634823	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	Assembly: GRCh38-2020-A	True
+GSM9634823	geo:GSE326573:GSM9634823	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	!Sample_title = IPAF_1_RNA	True
+GSM9634823	geo:GSE326573:GSM9634823	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	Interstitial Pneumonia with Autoimmune Features (IPAF)	True
+GSM9634823	geo:GSE326573:GSM9634823	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634823	removed at the time of lung transplant surgery	True
+GSM9634825	geo:GSE326573:GSM9634825	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634825	geo:GSE326573:GSM9634825	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634825	geo:GSE326573:GSM9634825	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634825	geo:GSE326573:GSM9634825	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634825	geo:GSE326573:GSM9634825	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	Assembly: GRCh38-2020-A	True
+GSM9634825	geo:GSE326573:GSM9634825	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	!Sample_title = IPAF_2_RNA	True
+GSM9634825	geo:GSE326573:GSM9634825	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	Interstitial Pneumonia with Autoimmune Features (IPAF)	True
+GSM9634825	geo:GSE326573:GSM9634825	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634825	removed at the time of lung transplant surgery	True
+GSM9634826	geo:GSE326573:GSM9634826	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634826	geo:GSE326573:GSM9634826	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634826	geo:GSE326573:GSM9634826	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634826	geo:GSE326573:GSM9634826	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634826	geo:GSE326573:GSM9634826	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	Assembly: GRCh38-2020-A	True
+GSM9634826	geo:GSE326573:GSM9634826	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	!Sample_title = IPAF_3_RNA	True
+GSM9634826	geo:GSE326573:GSM9634826	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	Interstitial Pneumonia with Autoimmune Features (IPAF)	True
+GSM9634826	geo:GSE326573:GSM9634826	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634826	removed at the time of lung transplant surgery	True
+GSM9634828	geo:GSE326573:GSM9634828	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634828	geo:GSE326573:GSM9634828	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634828	geo:GSE326573:GSM9634828	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634828	geo:GSE326573:GSM9634828	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634828	geo:GSE326573:GSM9634828	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	Assembly: GRCh38-2020-A	True
+GSM9634828	geo:GSE326573:GSM9634828	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	!Sample_title = IPAF_4_RNA	True
+GSM9634828	geo:GSE326573:GSM9634828	disease_free_text	Interstitial Pneumonia with Autoimmune Features (IPAF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	Interstitial Pneumonia with Autoimmune Features (IPAF)	True
+GSM9634828	geo:GSE326573:GSM9634828	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634828	removed at the time of lung transplant surgery	True
+GSM9634830	geo:GSE326573:GSM9634830	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634830	geo:GSE326573:GSM9634830	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634830	geo:GSE326573:GSM9634830	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634830	geo:GSE326573:GSM9634830	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634830	geo:GSE326573:GSM9634830	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	Assembly: GRCh38-2020-A	True
+GSM9634830	geo:GSE326573:GSM9634830	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	!Sample_title = CTD-ILD_1_RNA	True
+GSM9634830	geo:GSE326573:GSM9634830	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634830	geo:GSE326573:GSM9634830	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634830	removed at the time of lung transplant surgery	True
+GSM9634832	geo:GSE326573:GSM9634832	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634832	geo:GSE326573:GSM9634832	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634832	geo:GSE326573:GSM9634832	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634832	geo:GSE326573:GSM9634832	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634832	geo:GSE326573:GSM9634832	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	Assembly: GRCh38-2020-A	True
+GSM9634832	geo:GSE326573:GSM9634832	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	!Sample_title = CTD-ILD_2a_RNA	True
+GSM9634832	geo:GSE326573:GSM9634832	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634832	geo:GSE326573:GSM9634832	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634832	removed at the time of lung transplant surgery	True
+GSM9634833	geo:GSE326573:GSM9634833	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634833	geo:GSE326573:GSM9634833	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634833	geo:GSE326573:GSM9634833	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634833	geo:GSE326573:GSM9634833	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634833	geo:GSE326573:GSM9634833	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	Assembly: GRCh38-2020-A	True
+GSM9634833	geo:GSE326573:GSM9634833	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	!Sample_title = CTD-ILD_3a_RNA	True
+GSM9634833	geo:GSE326573:GSM9634833	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634833	geo:GSE326573:GSM9634833	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634833	removed at the time of lung transplant surgery	True
+GSM9634835	geo:GSE326573:GSM9634835	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634835	geo:GSE326573:GSM9634835	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634835	geo:GSE326573:GSM9634835	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634835	geo:GSE326573:GSM9634835	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634835	geo:GSE326573:GSM9634835	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	Assembly: GRCh38-2020-A	True
+GSM9634835	geo:GSE326573:GSM9634835	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	!Sample_title = CTD-ILD_3b_RNA	True
+GSM9634835	geo:GSE326573:GSM9634835	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634835	geo:GSE326573:GSM9634835	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634835	removed at the time of lung transplant surgery	True
+GSM9634836	geo:GSE326573:GSM9634836	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634836	geo:GSE326573:GSM9634836	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634836	geo:GSE326573:GSM9634836	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634836	geo:GSE326573:GSM9634836	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634836	geo:GSE326573:GSM9634836	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	Assembly: GRCh38-2020-A	True
+GSM9634836	geo:GSE326573:GSM9634836	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	!Sample_title = CTD-ILD_4_RNA	True
+GSM9634836	geo:GSE326573:GSM9634836	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634836	geo:GSE326573:GSM9634836	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634836	removed at the time of lung transplant surgery	True
+GSM9634837	geo:GSE326573:GSM9634837	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634837	geo:GSE326573:GSM9634837	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634837	geo:GSE326573:GSM9634837	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634837	geo:GSE326573:GSM9634837	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634837	geo:GSE326573:GSM9634837	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	Assembly: GRCh38-2020-A	True
+GSM9634837	geo:GSE326573:GSM9634837	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	!Sample_title = non-diseased control_9_RNA	True
+GSM9634837	geo:GSE326573:GSM9634837	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634837	geo:GSE326573:GSM9634837	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	!Sample_title = non-diseased control_9_RNA	True
+GSM9634837	geo:GSE326573:GSM9634837	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634837	obtained at the time of organ procurement	True
+GSM9634839	geo:GSE326573:GSM9634839	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634839	geo:GSE326573:GSM9634839	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634839	geo:GSE326573:GSM9634839	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634839	geo:GSE326573:GSM9634839	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634839	geo:GSE326573:GSM9634839	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	Assembly: GRCh38-2020-A	True
+GSM9634839	geo:GSE326573:GSM9634839	disease_ontology_term_id	PATO:0000461	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	!Sample_title = non-diseased control_10_RNA	True
+GSM9634839	geo:GSE326573:GSM9634839	disease_ontology_term_id	PATO:0000461	file	evidence/PMC13564086.txt		non-fibrotic control lungs (declined donors)	True
+GSM9634839	geo:GSE326573:GSM9634839	disease_free_text	non-diseased control	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	!Sample_title = non-diseased control_10_RNA	True
+GSM9634839	geo:GSE326573:GSM9634839	sample_collection_method	obtained at the time of organ procurement	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634839	obtained at the time of organ procurement	True
+GSM9634841	geo:GSE326573:GSM9634841	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634841	geo:GSE326573:GSM9634841	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634841	geo:GSE326573:GSM9634841	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634841	geo:GSE326573:GSM9634841	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634841	geo:GSE326573:GSM9634841	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	Assembly: GRCh38-2020-A	True
+GSM9634841	geo:GSE326573:GSM9634841	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	!Sample_title = CTD-ILD_5_RNA	True
+GSM9634841	geo:GSE326573:GSM9634841	disease_free_text	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	Connective Tissue Disease-associated Interstitial Lung Disease (CTD-ILD)	True
+GSM9634841	geo:GSE326573:GSM9634841	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634841	removed at the time of lung transplant surgery	True
+GSM9634843	geo:GSE326573:GSM9634843	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634843	geo:GSE326573:GSM9634843	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634843	geo:GSE326573:GSM9634843	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634843	geo:GSE326573:GSM9634843	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634843	geo:GSE326573:GSM9634843	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	Assembly: GRCh38-2020-A	True
+GSM9634843	geo:GSE326573:GSM9634843	disease_ontology_term_id	MONDO:0019622	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	!Sample_title = NSIP_RNA	True
+GSM9634843	geo:GSE326573:GSM9634843	disease_ontology_term_id	MONDO:0019622	file	evidence/PMC13564086.txt		nonspecific interstitial pneumonia [NSIP]	True
+GSM9634843	geo:GSE326573:GSM9634843	disease_free_text	nonspecific interstitial pneumonia (NSIP)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	!Sample_title = NSIP_RNA	True
+GSM9634843	geo:GSE326573:GSM9634843	disease_free_text	nonspecific interstitial pneumonia (NSIP)	file	evidence/PMC13564086.txt		nonspecific interstitial pneumonia [NSIP]	True
+GSM9634843	geo:GSE326573:GSM9634843	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634843	removed at the time of lung transplant surgery	True
+GSM9634845	geo:GSE326573:GSM9634845	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634845	geo:GSE326573:GSM9634845	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634845	geo:GSE326573:GSM9634845	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634845	geo:GSE326573:GSM9634845	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634845	geo:GSE326573:GSM9634845	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	Assembly: GRCh38-2020-A	True
+GSM9634845	geo:GSE326573:GSM9634845	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	!Sample_title = IPF_1b_RNA	True
+GSM9634845	geo:GSE326573:GSM9634845	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634845	geo:GSE326573:GSM9634845	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	!Sample_title = IPF_1b_RNA	True
+GSM9634845	geo:GSE326573:GSM9634845	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634845	geo:GSE326573:GSM9634845	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634845	removed at the time of lung transplant surgery	True
+GSM9634847	geo:GSE326573:GSM9634847	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634847	geo:GSE326573:GSM9634847	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634847	geo:GSE326573:GSM9634847	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634847	geo:GSE326573:GSM9634847	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634847	geo:GSE326573:GSM9634847	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	Assembly: GRCh38-2020-A	True
+GSM9634847	geo:GSE326573:GSM9634847	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	!Sample_title = IPF_10_RNA	True
+GSM9634847	geo:GSE326573:GSM9634847	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634847	geo:GSE326573:GSM9634847	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	!Sample_title = IPF_10_RNA	True
+GSM9634847	geo:GSE326573:GSM9634847	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634847	geo:GSE326573:GSM9634847	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634847	removed at the time of lung transplant surgery	True
+GSM9634849	geo:GSE326573:GSM9634849	tissue_free_text	Lung	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634849	geo:GSE326573:GSM9634849	tissue_type	tissue	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9634849	geo:GSE326573:GSM9634849	suspension_type	cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz		single-cell suspensions derived from minced lung tissue	True
+GSM9634849	geo:GSE326573:GSM9634849	cell_enrichment	CD3+ T cell	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	!Sample_characteristics_ch1 = cell type: CD3+ T cell	True
+GSM9634849	geo:GSE326573:GSM9634849	gene_annotation_version	GRCh38-2020-A	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	Assembly: GRCh38-2020-A	True
+GSM9634849	geo:GSE326573:GSM9634849	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	!Sample_title = IPF_11_RNA	True
+GSM9634849	geo:GSE326573:GSM9634849	disease_ontology_term_id	MONDO:0800504	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634849	geo:GSE326573:GSM9634849	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	!Sample_title = IPF_11_RNA	True
+GSM9634849	geo:GSE326573:GSM9634849	disease_free_text	Idiopathic Pulmonary Fibrosis (IPF)	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	Idiopathic Pulmonary Fibrosis (IPF)	True
+GSM9634849	geo:GSE326573:GSM9634849	sample_collection_method	removed at the time of lung transplant surgery	file	raw/fp-38b2fe5a8f84/GSE326573_family.soft.gz	GSM9634849	removed at the time of lung transplant surgery	True

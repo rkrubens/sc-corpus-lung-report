@@ -1,0 +1,58 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8035286	geo:GSE254166:GSM8035286	donor_id	<column patient>	column	work/fp-20431ffd622b/reconciled/GSM8035286_cells.csv.gz/patient			True
+GSM8035286	geo:GSE254166:GSM8035286	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8035286	geo:GSE254166:GSM8035286	author_cell_type	<column cluster_names>	column	work/fp-20431ffd622b/reconciled/GSM8035286_cells.csv.gz/cluster_names			True
+GSM8035287	geo:GSE254166:GSM8035287	donor_id	<column patient>	column	work/fp-20431ffd622b/reconciled/GSM8035287_cells.csv.gz/patient			True
+GSM8035287	geo:GSE254166:GSM8035287	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8035287	geo:GSE254166:GSM8035287	author_cell_type	<column cluster_names>	column	work/fp-20431ffd622b/reconciled/GSM8035287_cells.csv.gz/cluster_names			True
+GSM8035288	geo:GSE254166:GSM8035288	donor_id	<column patient>	column	work/fp-20431ffd622b/reconciled/GSM8035288_cells.csv.gz/patient			True
+GSM8035288	geo:GSE254166:GSM8035288	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8035288	geo:GSE254166:GSM8035288	author_cell_type	<column cluster_names>	column	work/fp-20431ffd622b/reconciled/GSM8035288_cells.csv.gz/cluster_names			True
+GSM8035289	geo:GSE254166:GSM8035289	donor_id	<column patient>	column	work/fp-20431ffd622b/reconciled/GSM8035289_cells.csv.gz/patient			True
+GSM8035289	geo:GSE254166:GSM8035289	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8035289	geo:GSE254166:GSM8035289	author_cell_type	<column cluster_names>	column	work/fp-20431ffd622b/reconciled/GSM8035289_cells.csv.gz/cluster_names			True
+GSM8035290	geo:GSE254166:GSM8035290	donor_id	<column patient>	column	work/fp-20431ffd622b/reconciled/GSM8035290_cells.csv.gz/patient			True
+GSM8035290	geo:GSE254166:GSM8035290	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8035290	geo:GSE254166:GSM8035290	author_cell_type	<column cluster_names>	column	work/fp-20431ffd622b/reconciled/GSM8035290_cells.csv.gz/cluster_names			True
+GSM8035291	geo:GSE254166:GSM8035291	donor_id	<column patient>	column	work/fp-20431ffd622b/reconciled/GSM8035291_cells.csv.gz/patient			True
+GSM8035291	geo:GSE254166:GSM8035291	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM8035291	geo:GSE254166:GSM8035291	author_cell_type	<column cluster_names>	column	work/fp-20431ffd622b/reconciled/GSM8035291_cells.csv.gz/cluster_names			True
+		organism	Homo sapiens	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	!Sample_organism_ch1 = Homo sapiens	True
+GSM8035286	geo:GSE254166:GSM8035286	assay	10x 3' v3	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	Single-cell libraries were generated using 10x Genomics Chromium Next GEM Single Cell 3’ v3.1 kits	True
+GSM8035286	geo:GSE254166:GSM8035286	suspension_type	cell	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	to achieve a single-cell suspension	True
+GSM8035286	geo:GSE254166:GSM8035286	tissue_type	organoid	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	!Sample_title = Airway organoids, BAL, biol rep 1	True
+GSM8035286	geo:GSE254166:GSM8035286	tissue_free_text	Lung	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035286	geo:GSE254166:GSM8035286	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035286	geo:GSE254166:GSM8035286	sample_collection_method	bronchoalveolar lavage	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035286	!Sample_title = Airway organoids, BAL, biol rep 1	True
+GSM8035287	geo:GSE254166:GSM8035287	assay	10x 3' v3	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035287	Single-cell libraries were generated using 10x Genomics Chromium Next GEM Single Cell 3’ v3.1 kits	True
+GSM8035287	geo:GSE254166:GSM8035287	suspension_type	cell	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035287	to achieve a single-cell suspension	True
+GSM8035287	geo:GSE254166:GSM8035287	tissue_type	organoid	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035287	!Sample_title = Airway organoids, BAL, biol rep 2	True
+GSM8035287	geo:GSE254166:GSM8035287	tissue_free_text	Lung	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035287	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035287	geo:GSE254166:GSM8035287	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035287	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035287	geo:GSE254166:GSM8035287	sample_collection_method	bronchoalveolar lavage	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035287	!Sample_title = Airway organoids, BAL, biol rep 2	True
+GSM8035288	geo:GSE254166:GSM8035288	assay	10x 3' v3	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035288	Single-cell libraries were generated using 10x Genomics Chromium Next GEM Single Cell 3’ v3.1 kits	True
+GSM8035288	geo:GSE254166:GSM8035288	suspension_type	cell	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035288	to achieve a single-cell suspension	True
+GSM8035288	geo:GSE254166:GSM8035288	tissue_type	organoid	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035288	!Sample_title = Airway organoids, tissue	True
+GSM8035288	geo:GSE254166:GSM8035288	tissue_free_text	Lung	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035288	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035288	geo:GSE254166:GSM8035288	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035288	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035288	geo:GSE254166:GSM8035288	disease_free_text	normal lung tissue	file	evidence/PMC11208964.txt		airway organoids derived from two different human BAL samples and normal lung tissue	True
+GSM8035288	geo:GSE254166:GSM8035288	disease_ontology_term_id	PATO:0000461	file	evidence/PMC11208964.txt		airway organoids derived from two different human BAL samples and normal lung tissue	True
+GSM8035289	geo:GSE254166:GSM8035289	assay	10x 3' v3	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035289	Single-cell libraries were generated using 10x Genomics Chromium Next GEM Single Cell 3’ v3.1 kits	True
+GSM8035289	geo:GSE254166:GSM8035289	suspension_type	cell	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035289	to achieve a single-cell suspension	True
+GSM8035289	geo:GSE254166:GSM8035289	tissue_type	organoid	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035289	!Sample_title = Alveolar organoids, BAL, biol rep 1	True
+GSM8035289	geo:GSE254166:GSM8035289	tissue_free_text	Lung	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035289	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035289	geo:GSE254166:GSM8035289	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035289	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035289	geo:GSE254166:GSM8035289	sample_collection_method	bronchoalveolar lavage	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035289	!Sample_title = Alveolar organoids, BAL, biol rep 1	True
+GSM8035290	geo:GSE254166:GSM8035290	assay	10x 3' v3	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035290	Single-cell libraries were generated using 10x Genomics Chromium Next GEM Single Cell 3’ v3.1 kits	True
+GSM8035290	geo:GSE254166:GSM8035290	suspension_type	cell	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035290	to achieve a single-cell suspension	True
+GSM8035290	geo:GSE254166:GSM8035290	tissue_type	organoid	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035290	!Sample_title = Alveolar organoids, BAL, biol rep 2	True
+GSM8035290	geo:GSE254166:GSM8035290	tissue_free_text	Lung	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035290	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035290	geo:GSE254166:GSM8035290	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035290	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035290	geo:GSE254166:GSM8035290	sample_collection_method	bronchoalveolar lavage	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035290	!Sample_title = Alveolar organoids, BAL, biol rep 2	True
+GSM8035291	geo:GSE254166:GSM8035291	assay	10x 3' v3	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035291	Single-cell libraries were generated using 10x Genomics Chromium Next GEM Single Cell 3’ v3.1 kits	True
+GSM8035291	geo:GSE254166:GSM8035291	suspension_type	cell	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035291	to achieve a single-cell suspension	True
+GSM8035291	geo:GSE254166:GSM8035291	tissue_type	organoid	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035291	!Sample_title = Alveolar organoids, tissue	True
+GSM8035291	geo:GSE254166:GSM8035291	tissue_free_text	Lung	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035291	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035291	geo:GSE254166:GSM8035291	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-20431ffd622b/GSE254166_family.soft.gz	GSM8035291	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8035291	geo:GSE254166:GSM8035291	disease_free_text	normal lung tissue	file	evidence/PMC11208964.txt		alveolar organoids derived from two different human BAL samples and normal lung tissue	True
+GSM8035291	geo:GSE254166:GSM8035291	disease_ontology_term_id	PATO:0000461	file	evidence/PMC11208964.txt		alveolar organoids derived from two different human BAL samples and normal lung tissue	True

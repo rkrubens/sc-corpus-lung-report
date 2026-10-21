@@ -1,0 +1,83 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4876617	geo:GSE160664:GSM4876617	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876617	geo:GSE160664:GSM4876617	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876617_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876618	geo:GSE160664:GSM4876618	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876618	geo:GSE160664:GSM4876618	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876618_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876621	geo:GSE160664:GSM4876621	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876621	geo:GSE160664:GSM4876621	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876621_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876622	geo:GSE160664:GSM4876622	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876622	geo:GSE160664:GSM4876622	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876622_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876623	geo:GSE160664:GSM4876623	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876623	geo:GSE160664:GSM4876623	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876623_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876624	geo:GSE160664:GSM4876624	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876624	geo:GSE160664:GSM4876624	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876624_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876625	geo:GSE160664:GSM4876625	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876625	geo:GSE160664:GSM4876625	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876625_cell_metadata.tsv.gz/OrigCellType			True
+GSM4876626	geo:GSE160664:GSM4876626	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4876626	geo:GSE160664:GSM4876626	author_cell_type	<column OrigCellType>	column	work/fp-ae557b3d8416/reconciled/GSM4876626_cell_metadata.tsv.gz/OrigCellType			True
+		organism	Homo sapiens	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		!Series_sample_taxid = 9606	True
+		organism	Homo sapiens	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876617	!Sample_organism_ch1 = Homo sapiens	True
+GSM4876617	geo:GSE160664:GSM4876617	donor_id	cc01	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876617	!Sample_title = cc01_pep	True
+GSM4876617	geo:GSE160664:GSM4876617	tissue_free_text	Airway Epithelium proximal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876617	!Sample_source_name_ch1 = Airway Epithelium proximal	True
+GSM4876617	geo:GSE160664:GSM4876617	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876617	geo:GSE160664:GSM4876617	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876617	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876617	geo:GSE160664:GSM4876617	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876617	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876617	geo:GSE160664:GSM4876617	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876617	geo:GSE160664:GSM4876617	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876617	geo:GSE160664:GSM4876617	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876617	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876618	geo:GSE160664:GSM4876618	donor_id	cc01	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876618	!Sample_title = cc01_dep	True
+GSM4876618	geo:GSE160664:GSM4876618	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876618	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876618	geo:GSE160664:GSM4876618	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876618	geo:GSE160664:GSM4876618	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876618	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876618	geo:GSE160664:GSM4876618	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876618	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876618	geo:GSE160664:GSM4876618	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876618	geo:GSE160664:GSM4876618	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876618	geo:GSE160664:GSM4876618	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876618	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876621	geo:GSE160664:GSM4876621	donor_id	cc04	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876621	!Sample_title = cc04_dep	True
+GSM4876621	geo:GSE160664:GSM4876621	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876621	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876621	geo:GSE160664:GSM4876621	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876621	geo:GSE160664:GSM4876621	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876621	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876621	geo:GSE160664:GSM4876621	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876621	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876621	geo:GSE160664:GSM4876621	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876621	geo:GSE160664:GSM4876621	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876621	geo:GSE160664:GSM4876621	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876621	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876622	geo:GSE160664:GSM4876622	donor_id	cc05	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876622	!Sample_title = cc05_dep	True
+GSM4876622	geo:GSE160664:GSM4876622	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876622	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876622	geo:GSE160664:GSM4876622	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876622	geo:GSE160664:GSM4876622	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876622	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876622	geo:GSE160664:GSM4876622	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876622	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876622	geo:GSE160664:GSM4876622	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876622	geo:GSE160664:GSM4876622	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876622	geo:GSE160664:GSM4876622	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876622	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876623	geo:GSE160664:GSM4876623	donor_id	dd09	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876623	!Sample_title = dd09_dep	True
+GSM4876623	geo:GSE160664:GSM4876623	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876623	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876623	geo:GSE160664:GSM4876623	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876623	geo:GSE160664:GSM4876623	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876623	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876623	geo:GSE160664:GSM4876623	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876623	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876623	geo:GSE160664:GSM4876623	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876623	geo:GSE160664:GSM4876623	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876623	geo:GSE160664:GSM4876623	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876623	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876624	geo:GSE160664:GSM4876624	donor_id	dd10	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876624	!Sample_title = dd10_dep	True
+GSM4876624	geo:GSE160664:GSM4876624	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876624	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876624	geo:GSE160664:GSM4876624	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876624	geo:GSE160664:GSM4876624	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876624	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876624	geo:GSE160664:GSM4876624	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876624	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876624	geo:GSE160664:GSM4876624	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876624	geo:GSE160664:GSM4876624	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876624	geo:GSE160664:GSM4876624	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876624	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876625	geo:GSE160664:GSM4876625	donor_id	dd39	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876625	!Sample_title = dd39_dep	True
+GSM4876625	geo:GSE160664:GSM4876625	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876625	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876625	geo:GSE160664:GSM4876625	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876625	geo:GSE160664:GSM4876625	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876625	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876625	geo:GSE160664:GSM4876625	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876625	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876625	geo:GSE160664:GSM4876625	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876625	geo:GSE160664:GSM4876625	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876625	geo:GSE160664:GSM4876625	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876625	!Sample_data_processing = Genome_build: GRCh38	True
+GSM4876626	geo:GSE160664:GSM4876626	donor_id	dd49	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876626	!Sample_title = dd49_dep	True
+GSM4876626	geo:GSE160664:GSM4876626	tissue_free_text	Airway Epithelium distal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876626	!Sample_source_name_ch1 = Airway Epithelium distal	True
+GSM4876626	geo:GSE160664:GSM4876626	tissue_type	tissue	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		from control lung explant tissue	True
+GSM4876626	geo:GSE160664:GSM4876626	disease_free_text	Normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876626	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876626	geo:GSE160664:GSM4876626	disease_ontology_term_id	normal	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876626	!Sample_characteristics_ch1 = disease: Normal	True
+GSM4876626	geo:GSE160664:GSM4876626	suspension_type	cell	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		Single cell RNA-seq using 10x chromium system on FACS isolated epithelial cells	True
+GSM4876626	geo:GSE160664:GSM4876626	cell_enrichment	FACS-sorted epithelial cells (DAPI-,CD45-,CD31-,CD326+)	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz		FACS isolated epithelial cells (DAPI-,CD45-,CD31-,CD326+)	True
+GSM4876626	geo:GSE160664:GSM4876626	gene_annotation_version	GRCh38	file	raw/fp-ae557b3d8416/GSE160664_family.soft.gz	GSM4876626	!Sample_data_processing = Genome_build: GRCh38	True

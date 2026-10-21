@@ -1,0 +1,54 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	donor_id	<column DonorID>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/DonorID			True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	donor_id	<column DonorID>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/DonorID			True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	sex_ontology_term_id	<column Gender>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/Gender			True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	sex_ontology_term_id	<column Gender>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/Gender			True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	development_stage_ontology_term_id	<column DonorID>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/DonorID			True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	development_stage_ontology_term_id	<column DonorID>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/DonorID			True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	timepoint	<column Day>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/Day			True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	timepoint	<column Day>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/Day			True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	development_stage_ontology_term_id	HsapDv:0000113	derived	age_in_years:'19-year-old stage':ols:hsapdv		19	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	development_stage_ontology_term_id	HsapDv:0000113	derived	age_in_years:'19-year-old stage':ols:hsapdv		19	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	author_cell_type	<column Clusters>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/Clusters			True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	author_cell_type	<column Clusters>	column	work/fp-1f866f7689fc/GSE193683_ALIdata_converted/cell_metadata.tsv.gz/Clusters			True
+SC2100310	geo:GSE193683:SC2100310	donor_id	<column DonorID>	column	work/fp-1f866f7689fc/GSE193683_SUBMERGEDdata_converted/cell_metadata.tsv.gz/DonorID			True
+SC2100310	geo:GSE193683:SC2100310	sex_ontology_term_id	<column Gender>	column	work/fp-1f866f7689fc/GSE193683_SUBMERGEDdata_converted/cell_metadata.tsv.gz/Gender			True
+SC2100310	geo:GSE193683:SC2100310	development_stage_ontology_term_id	<column DonorID>	column	work/fp-1f866f7689fc/GSE193683_SUBMERGEDdata_converted/cell_metadata.tsv.gz/DonorID			True
+SC2100310	geo:GSE193683:SC2100310	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+SC2100310	geo:GSE193683:SC2100310	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+SC2100310	geo:GSE193683:SC2100310	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+SC2100310	geo:GSE193683:SC2100310	development_stage_ontology_term_id	HsapDv:0000113	derived	age_in_years:'19-year-old stage':ols:hsapdv		19	True
+SC2100310	geo:GSE193683:SC2100310	author_cell_type	<column Clusters>	column	work/fp-1f866f7689fc/GSE193683_SUBMERGEDdata_converted/cell_metadata.tsv.gz/Clusters			True
+		organism	Homo sapiens	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	sex	<map of column Gender>	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	combined data of donor IDs 27 (60 years old black male) and 54 (19 years old black female)	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	sex	<map of column Gender>	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	combined data of donor IDs 27 (60 years old black male) and 54 (19 years old black female)	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	age	<map of column DonorID>	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	combined data of donor IDs 27 (60 years old black male) and 54 (19 years old black female)	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	age	<map of column DonorID>	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	combined data of donor IDs 27 (60 years old black male) and 54 (19 years old black female)	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	tissue_free_text	primary bronchial epithelial cells (cultured)	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	cell type: primary bronchial epithelial cells	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	tissue_free_text	primary bronchial epithelial cells (cultured)	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	cell type: primary bronchial epithelial cells	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	cell type: primary bronchial epithelial cells	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	cell type: primary bronchial epithelial cells	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	tissue_type	cell culture	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	HBECs were expanded and differentiated according to manufacturer protocols [PneumaCult™-ALI, Stem Cell Technologies; #05001].	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	tissue_type	cell culture	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	HBECs were expanded and differentiated according to manufacturer protocols [PneumaCult™-ALI, Stem Cell Technologies; #05001].	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	disease_ontology_term_id	PATO:0000461	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		3 individual healthy donor bronchial epithelial tissue samples were used for single-cell RNA sequencing analysis.	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	disease_ontology_term_id	PATO:0000461	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		3 individual healthy donor bronchial epithelial tissue samples were used for single-cell RNA sequencing analysis.	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	disease_free_text	healthy donor	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		3 individual healthy donor bronchial epithelial tissue samples were used for single-cell RNA sequencing analysis.	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	disease_free_text	healthy donor	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		3 individual healthy donor bronchial epithelial tissue samples were used for single-cell RNA sequencing analysis.	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	suspension_type	cell	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	The cell suspension was then filtered using MACS SmartStrainers [Miltenyi #130-098-458] to obtain single cell suspension.	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	suspension_type	cell	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	The cell suspension was then filtered using MACS SmartStrainers [Miltenyi #130-098-458] to obtain single cell suspension.	True
+AW21001_Donor27	geo:GSE193683:AW21001_Donor27	treatment	StemXVivo EMT Inducing Media (EMT induction) supplemented to the basal chambers of fully differentiated ALI cultures	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	On Day 25, we supplemented the basal chambers of fully differentiated ALI cultures with 1X of StemXVivo EMT Inducing Media [R&D; CCM017].	True
+AW21001_Donor54	geo:GSE193683:AW21001_Donor54	treatment	StemXVivo EMT Inducing Media (EMT induction) supplemented to the basal chambers of fully differentiated ALI cultures	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818615	On Day 25, we supplemented the basal chambers of fully differentiated ALI cultures with 1X of StemXVivo EMT Inducing Media [R&D; CCM017].	True
+SC2100310	geo:GSE193683:SC2100310	sex	<map of column Gender>	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818616	combined data of donor ID 34 (11 years old Caucasian male), donor IDs 27 (60 years old black male) and 54 (19 years old black female)	True
+SC2100310	geo:GSE193683:SC2100310	age	<map of column DonorID>	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818616	combined data of donor ID 34 (11 years old Caucasian male), donor IDs 27 (60 years old black male) and 54 (19 years old black female)	True
+SC2100310	geo:GSE193683:SC2100310	tissue_free_text	primary bronchial epithelial cells (cultured)	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818616	cell type: primary bronchial epithelial cells	True
+SC2100310	geo:GSE193683:SC2100310	tissue_ontology_term_id	UBERON:0002031	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818616	cell type: primary bronchial epithelial cells	True
+SC2100310	geo:GSE193683:SC2100310	tissue_type	cell culture	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818616	HBECs were expanded and differentiated according to manufacturer protocols [PneumaCult™-ALI, Stem Cell Technologies; #05001].	True
+SC2100310	geo:GSE193683:SC2100310	disease_ontology_term_id	PATO:0000461	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		3 individual healthy donor bronchial epithelial tissue samples were used for single-cell RNA sequencing analysis.	True
+SC2100310	geo:GSE193683:SC2100310	disease_free_text	healthy donor	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz		3 individual healthy donor bronchial epithelial tissue samples were used for single-cell RNA sequencing analysis.	True
+SC2100310	geo:GSE193683:SC2100310	suspension_type	cell	file	raw/fp-1f866f7689fc/GSE193683_family.soft.gz	GSM5818616	The cell suspension was then filtered using MACS SmartStrainers [Miltenyi #130-098-458] to obtain single cell suspension.	True

@@ -1,0 +1,389 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8647884	geo:GSE282639:GSM8647884	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647884	geo:GSE282639:GSM8647884	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647885	geo:GSE282639:GSM8647885	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647885	geo:GSE282639:GSM8647885	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647886	geo:GSE282639:GSM8647886	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647886	geo:GSE282639:GSM8647886	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647887	geo:GSE282639:GSM8647887	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647887	geo:GSE282639:GSM8647887	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647888	geo:GSE282639:GSM8647888	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647888	geo:GSE282639:GSM8647888	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647889	geo:GSE282639:GSM8647889	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647889	geo:GSE282639:GSM8647889	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647890	geo:GSE282639:GSM8647890	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647890	geo:GSE282639:GSM8647890	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647891	geo:GSE282639:GSM8647891	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647891	geo:GSE282639:GSM8647891	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647892	geo:GSE282639:GSM8647892	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647892	geo:GSE282639:GSM8647892	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647893	geo:GSE282639:GSM8647893	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647893	geo:GSE282639:GSM8647893	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647894	geo:GSE282639:GSM8647894	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647894	geo:GSE282639:GSM8647894	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647895	geo:GSE282639:GSM8647895	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647895	geo:GSE282639:GSM8647895	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647896	geo:GSE282639:GSM8647896	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647896	geo:GSE282639:GSM8647896	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647897	geo:GSE282639:GSM8647897	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647897	geo:GSE282639:GSM8647897	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647898	geo:GSE282639:GSM8647898	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647898	geo:GSE282639:GSM8647898	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647899	geo:GSE282639:GSM8647899	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647899	geo:GSE282639:GSM8647899	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647900	geo:GSE282639:GSM8647900	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647900	geo:GSE282639:GSM8647900	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647901	geo:GSE282639:GSM8647901	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647901	geo:GSE282639:GSM8647901	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647902	geo:GSE282639:GSM8647902	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647902	geo:GSE282639:GSM8647902	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647903	geo:GSE282639:GSM8647903	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647903	geo:GSE282639:GSM8647903	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647904	geo:GSE282639:GSM8647904	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647904	geo:GSE282639:GSM8647904	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647905	geo:GSE282639:GSM8647905	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647905	geo:GSE282639:GSM8647905	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647906	geo:GSE282639:GSM8647906	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647906	geo:GSE282639:GSM8647906	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647907	geo:GSE282639:GSM8647907	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647907	geo:GSE282639:GSM8647907	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647908	geo:GSE282639:GSM8647908	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647908	geo:GSE282639:GSM8647908	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647909	geo:GSE282639:GSM8647909	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647909	geo:GSE282639:GSM8647909	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647910	geo:GSE282639:GSM8647910	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647910	geo:GSE282639:GSM8647910	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647911	geo:GSE282639:GSM8647911	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647911	geo:GSE282639:GSM8647911	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647912	geo:GSE282639:GSM8647912	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647912	geo:GSE282639:GSM8647912	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647913	geo:GSE282639:GSM8647913	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647913	geo:GSE282639:GSM8647913	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647914	geo:GSE282639:GSM8647914	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647914	geo:GSE282639:GSM8647914	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647915	geo:GSE282639:GSM8647915	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647915	geo:GSE282639:GSM8647915	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647916	geo:GSE282639:GSM8647916	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647916	geo:GSE282639:GSM8647916	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647917	geo:GSE282639:GSM8647917	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647917	geo:GSE282639:GSM8647917	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647918	geo:GSE282639:GSM8647918	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647918	geo:GSE282639:GSM8647918	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647919	geo:GSE282639:GSM8647919	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647919	geo:GSE282639:GSM8647919	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		idiopathic pulmonary fibrosis	True
+GSM8647920	geo:GSE282639:GSM8647920	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647920	geo:GSE282639:GSM8647920	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647921	geo:GSE282639:GSM8647921	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647921	geo:GSE282639:GSM8647921	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647922	geo:GSE282639:GSM8647922	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647922	geo:GSE282639:GSM8647922	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647923	geo:GSE282639:GSM8647923	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647923	geo:GSE282639:GSM8647923	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647924	geo:GSE282639:GSM8647924	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647924	geo:GSE282639:GSM8647924	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647925	geo:GSE282639:GSM8647925	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647925	geo:GSE282639:GSM8647925	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM8647926	geo:GSE282639:GSM8647926	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8647926	geo:GSE282639:GSM8647926	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+		organism	Homo sapiens	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8647884	geo:GSE282639:GSM8647884	donor_id	SUBJECT11	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647884	!Sample_title = SUBJECT11 [Block_1_FOV_4]	True
+GSM8647884	geo:GSE282639:GSM8647884	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647884	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647884	geo:GSE282639:GSM8647884	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647884	geo:GSE282639:GSM8647884	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647884	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647884	geo:GSE282639:GSM8647884	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647884	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647884	geo:GSE282639:GSM8647884	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647884	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647884	geo:GSE282639:GSM8647884	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647884	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647885	geo:GSE282639:GSM8647885	donor_id	SUBJECT15	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647885	!Sample_title = SUBJECT15 [Block_1_FOV_9]	True
+GSM8647885	geo:GSE282639:GSM8647885	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647885	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647885	geo:GSE282639:GSM8647885	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647885	geo:GSE282639:GSM8647885	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647885	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647885	geo:GSE282639:GSM8647885	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647885	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647885	geo:GSE282639:GSM8647885	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647885	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647885	geo:GSE282639:GSM8647885	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647885	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647886	geo:GSE282639:GSM8647886	donor_id	SUBJECT6	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647886	!Sample_title = SUBJECT6 [Block_1_FOV_16]	True
+GSM8647886	geo:GSE282639:GSM8647886	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647886	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647886	geo:GSE282639:GSM8647886	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647886	geo:GSE282639:GSM8647886	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647886	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647886	geo:GSE282639:GSM8647886	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647886	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647886	geo:GSE282639:GSM8647886	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647886	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647886	geo:GSE282639:GSM8647886	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647886	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647887	geo:GSE282639:GSM8647887	donor_id	SUBJECT8	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647887	!Sample_title = SUBJECT8 [Block_1_FOV_19]	True
+GSM8647887	geo:GSE282639:GSM8647887	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647887	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647887	geo:GSE282639:GSM8647887	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647887	geo:GSE282639:GSM8647887	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647887	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647887	geo:GSE282639:GSM8647887	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647887	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647887	geo:GSE282639:GSM8647887	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647887	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647887	geo:GSE282639:GSM8647887	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647887	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647888	geo:GSE282639:GSM8647888	donor_id	SUBJECT8	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647888	!Sample_title = SUBJECT8 [Block_1_FOV_20]	True
+GSM8647888	geo:GSE282639:GSM8647888	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647888	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647888	geo:GSE282639:GSM8647888	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647888	geo:GSE282639:GSM8647888	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647888	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647888	geo:GSE282639:GSM8647888	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647888	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647888	geo:GSE282639:GSM8647888	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647888	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647888	geo:GSE282639:GSM8647888	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647888	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647889	geo:GSE282639:GSM8647889	donor_id	SUBJECT13	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647889	!Sample_title = SUBJECT13 [Block_1_FOV_6]	True
+GSM8647889	geo:GSE282639:GSM8647889	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647889	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647889	geo:GSE282639:GSM8647889	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647889	geo:GSE282639:GSM8647889	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647889	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647889	geo:GSE282639:GSM8647889	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647889	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647889	geo:GSE282639:GSM8647889	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647889	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647889	geo:GSE282639:GSM8647889	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647889	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647890	geo:GSE282639:GSM8647890	donor_id	SUBJECT26	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647890	!Sample_title = SUBJECT26 [Block_2_FOV_3]	True
+GSM8647890	geo:GSE282639:GSM8647890	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647890	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647890	geo:GSE282639:GSM8647890	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647890	geo:GSE282639:GSM8647890	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647890	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647890	geo:GSE282639:GSM8647890	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647890	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647890	geo:GSE282639:GSM8647890	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647890	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647890	geo:GSE282639:GSM8647890	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647890	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647891	geo:GSE282639:GSM8647891	donor_id	SUBJECT26	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647891	!Sample_title = SUBJECT26 [Block_2_FOV_4]	True
+GSM8647891	geo:GSE282639:GSM8647891	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647891	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647891	geo:GSE282639:GSM8647891	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647891	geo:GSE282639:GSM8647891	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647891	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647891	geo:GSE282639:GSM8647891	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647891	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647891	geo:GSE282639:GSM8647891	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647891	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647891	geo:GSE282639:GSM8647891	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647891	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647892	geo:GSE282639:GSM8647892	donor_id	SUBJECT24	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647892	!Sample_title = SUBJECT24 [Block_2_FOV_24]	True
+GSM8647892	geo:GSE282639:GSM8647892	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647892	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647892	geo:GSE282639:GSM8647892	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647892	geo:GSE282639:GSM8647892	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647892	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647892	geo:GSE282639:GSM8647892	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647892	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647892	geo:GSE282639:GSM8647892	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647892	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647892	geo:GSE282639:GSM8647892	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647892	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647893	geo:GSE282639:GSM8647893	donor_id	SUBJECT24	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647893	!Sample_title = SUBJECT24 [Block_2_FOV_25]	True
+GSM8647893	geo:GSE282639:GSM8647893	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647893	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647893	geo:GSE282639:GSM8647893	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647893	geo:GSE282639:GSM8647893	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647893	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647893	geo:GSE282639:GSM8647893	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647893	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647893	geo:GSE282639:GSM8647893	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647893	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647893	geo:GSE282639:GSM8647893	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647893	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647894	geo:GSE282639:GSM8647894	donor_id	SUBJECT22	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647894	!Sample_title = SUBJECT22 [Block_2_FOV_19]	True
+GSM8647894	geo:GSE282639:GSM8647894	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647894	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647894	geo:GSE282639:GSM8647894	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647894	geo:GSE282639:GSM8647894	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647894	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647894	geo:GSE282639:GSM8647894	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647894	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647894	geo:GSE282639:GSM8647894	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647894	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647894	geo:GSE282639:GSM8647894	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647894	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647895	geo:GSE282639:GSM8647895	donor_id	SUBJECT22	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647895	!Sample_title = SUBJECT22 [Block_2_FOV_20]	True
+GSM8647895	geo:GSE282639:GSM8647895	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647895	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647895	geo:GSE282639:GSM8647895	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647895	geo:GSE282639:GSM8647895	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647895	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647895	geo:GSE282639:GSM8647895	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647895	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647895	geo:GSE282639:GSM8647895	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647895	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647895	geo:GSE282639:GSM8647895	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647895	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647896	geo:GSE282639:GSM8647896	donor_id	SUBJECT5	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647896	!Sample_title = SUBJECT5 [Block_1_FOV_15]	True
+GSM8647896	geo:GSE282639:GSM8647896	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647896	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647896	geo:GSE282639:GSM8647896	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647896	geo:GSE282639:GSM8647896	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647896	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647896	geo:GSE282639:GSM8647896	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647896	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647896	geo:GSE282639:GSM8647896	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647896	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647896	geo:GSE282639:GSM8647896	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647896	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647897	geo:GSE282639:GSM8647897	donor_id	SUBJECT2	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647897	!Sample_title = SUBJECT2 [Block_1_FOV_10]	True
+GSM8647897	geo:GSE282639:GSM8647897	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647897	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647897	geo:GSE282639:GSM8647897	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647897	geo:GSE282639:GSM8647897	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647897	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647897	geo:GSE282639:GSM8647897	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647897	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647897	geo:GSE282639:GSM8647897	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647897	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647897	geo:GSE282639:GSM8647897	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647897	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647898	geo:GSE282639:GSM8647898	donor_id	SUBJECT20	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647898	!Sample_title = SUBJECT20 [Block_2_FOV_15]	True
+GSM8647898	geo:GSE282639:GSM8647898	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647898	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647898	geo:GSE282639:GSM8647898	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647898	geo:GSE282639:GSM8647898	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647898	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647898	geo:GSE282639:GSM8647898	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647898	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647898	geo:GSE282639:GSM8647898	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647898	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647898	geo:GSE282639:GSM8647898	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647898	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647899	geo:GSE282639:GSM8647899	donor_id	SUBJECT20	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647899	!Sample_title = SUBJECT20 [Block_2_FOV_16]	True
+GSM8647899	geo:GSE282639:GSM8647899	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647899	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647899	geo:GSE282639:GSM8647899	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647899	geo:GSE282639:GSM8647899	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647899	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647899	geo:GSE282639:GSM8647899	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647899	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647899	geo:GSE282639:GSM8647899	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647899	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647899	geo:GSE282639:GSM8647899	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647899	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647900	geo:GSE282639:GSM8647900	donor_id	SUBJECT1	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647900	!Sample_title = SUBJECT1 [Block_1_FOV_1]	True
+GSM8647900	geo:GSE282639:GSM8647900	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647900	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647900	geo:GSE282639:GSM8647900	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647900	geo:GSE282639:GSM8647900	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647900	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647900	geo:GSE282639:GSM8647900	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647900	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647900	geo:GSE282639:GSM8647900	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647900	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647900	geo:GSE282639:GSM8647900	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647900	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647901	geo:GSE282639:GSM8647901	donor_id	SUBJECT1	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647901	!Sample_title = SUBJECT1 [Block_1_FOV_2]	True
+GSM8647901	geo:GSE282639:GSM8647901	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647901	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647901	geo:GSE282639:GSM8647901	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647901	geo:GSE282639:GSM8647901	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647901	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647901	geo:GSE282639:GSM8647901	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647901	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647901	geo:GSE282639:GSM8647901	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647901	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647901	geo:GSE282639:GSM8647901	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647901	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647902	geo:GSE282639:GSM8647902	donor_id	SUBJECT25	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647902	!Sample_title = SUBJECT25 [Block_2_FOV_26]	True
+GSM8647902	geo:GSE282639:GSM8647902	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647902	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647902	geo:GSE282639:GSM8647902	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647902	geo:GSE282639:GSM8647902	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647902	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647902	geo:GSE282639:GSM8647902	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647902	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647902	geo:GSE282639:GSM8647902	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647902	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647902	geo:GSE282639:GSM8647902	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647902	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647903	geo:GSE282639:GSM8647903	donor_id	SUBJECT18	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647903	!Sample_title = SUBJECT18 [Block_2_FOV_11]	True
+GSM8647903	geo:GSE282639:GSM8647903	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647903	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647903	geo:GSE282639:GSM8647903	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647903	geo:GSE282639:GSM8647903	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647903	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647903	geo:GSE282639:GSM8647903	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647903	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647903	geo:GSE282639:GSM8647903	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647903	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647903	geo:GSE282639:GSM8647903	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647903	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647904	geo:GSE282639:GSM8647904	donor_id	SUBJECT18	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647904	!Sample_title = SUBJECT18 [Block_2_FOV_12]	True
+GSM8647904	geo:GSE282639:GSM8647904	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647904	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647904	geo:GSE282639:GSM8647904	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647904	geo:GSE282639:GSM8647904	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647904	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647904	geo:GSE282639:GSM8647904	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647904	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647904	geo:GSE282639:GSM8647904	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647904	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647904	geo:GSE282639:GSM8647904	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647904	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647905	geo:GSE282639:GSM8647905	donor_id	SUBJECT4	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647905	!Sample_title = SUBJECT4 [Block_1_FOV_13]	True
+GSM8647905	geo:GSE282639:GSM8647905	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647905	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647905	geo:GSE282639:GSM8647905	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647905	geo:GSE282639:GSM8647905	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647905	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647905	geo:GSE282639:GSM8647905	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647905	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647905	geo:GSE282639:GSM8647905	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647905	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647905	geo:GSE282639:GSM8647905	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647905	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647906	geo:GSE282639:GSM8647906	donor_id	SUBJECT4	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647906	!Sample_title = SUBJECT4 [Block_1_FOV_14]	True
+GSM8647906	geo:GSE282639:GSM8647906	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647906	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647906	geo:GSE282639:GSM8647906	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647906	geo:GSE282639:GSM8647906	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647906	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647906	geo:GSE282639:GSM8647906	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647906	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647906	geo:GSE282639:GSM8647906	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647906	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647906	geo:GSE282639:GSM8647906	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647906	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647907	geo:GSE282639:GSM8647907	donor_id	SUBJECT14	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647907	!Sample_title = SUBJECT14 [Block_1_FOV_7]	True
+GSM8647907	geo:GSE282639:GSM8647907	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647907	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647907	geo:GSE282639:GSM8647907	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647907	geo:GSE282639:GSM8647907	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647907	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647907	geo:GSE282639:GSM8647907	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647907	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647907	geo:GSE282639:GSM8647907	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647907	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647907	geo:GSE282639:GSM8647907	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647907	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647908	geo:GSE282639:GSM8647908	donor_id	SUBJECT9	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647908	!Sample_title = SUBJECT9 [Block_1_FOV_21]	True
+GSM8647908	geo:GSE282639:GSM8647908	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647908	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647908	geo:GSE282639:GSM8647908	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647908	geo:GSE282639:GSM8647908	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647908	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647908	geo:GSE282639:GSM8647908	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647908	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647908	geo:GSE282639:GSM8647908	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647908	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647908	geo:GSE282639:GSM8647908	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647908	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647909	geo:GSE282639:GSM8647909	donor_id	SUBJECT9	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647909	!Sample_title = SUBJECT9 [Block_1_FOV_22]	True
+GSM8647909	geo:GSE282639:GSM8647909	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647909	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647909	geo:GSE282639:GSM8647909	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647909	geo:GSE282639:GSM8647909	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647909	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647909	geo:GSE282639:GSM8647909	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647909	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647909	geo:GSE282639:GSM8647909	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647909	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647909	geo:GSE282639:GSM8647909	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647909	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647910	geo:GSE282639:GSM8647910	donor_id	SUBJECT9	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647910	!Sample_title = SUBJECT9 [Block_1_FOV_23]	True
+GSM8647910	geo:GSE282639:GSM8647910	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647910	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647910	geo:GSE282639:GSM8647910	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647910	geo:GSE282639:GSM8647910	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647910	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647910	geo:GSE282639:GSM8647910	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647910	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647910	geo:GSE282639:GSM8647910	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647910	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647910	geo:GSE282639:GSM8647910	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647910	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647911	geo:GSE282639:GSM8647911	donor_id	SUBJECT7	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647911	!Sample_title = SUBJECT7 [Block_1_FOV_18]	True
+GSM8647911	geo:GSE282639:GSM8647911	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647911	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647911	geo:GSE282639:GSM8647911	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647911	geo:GSE282639:GSM8647911	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647911	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647911	geo:GSE282639:GSM8647911	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647911	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647911	geo:GSE282639:GSM8647911	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647911	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647911	geo:GSE282639:GSM8647911	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647911	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647912	geo:GSE282639:GSM8647912	donor_id	SUBJECT3	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647912	!Sample_title = SUBJECT3 [Block_1_FOV_12]	True
+GSM8647912	geo:GSE282639:GSM8647912	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647912	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647912	geo:GSE282639:GSM8647912	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647912	geo:GSE282639:GSM8647912	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647912	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647912	geo:GSE282639:GSM8647912	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647912	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647912	geo:GSE282639:GSM8647912	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647912	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647912	geo:GSE282639:GSM8647912	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647912	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647913	geo:GSE282639:GSM8647913	donor_id	SUBJECT3	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647913	!Sample_title = SUBJECT3 [Block_1_FOV_11]	True
+GSM8647913	geo:GSE282639:GSM8647913	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647913	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647913	geo:GSE282639:GSM8647913	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647913	geo:GSE282639:GSM8647913	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647913	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647913	geo:GSE282639:GSM8647913	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647913	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647913	geo:GSE282639:GSM8647913	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647913	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647913	geo:GSE282639:GSM8647913	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647913	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647914	geo:GSE282639:GSM8647914	donor_id	SUBJECT10	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647914	!Sample_title = SUBJECT10 [Block_1_FOV_24]	True
+GSM8647914	geo:GSE282639:GSM8647914	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647914	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647914	geo:GSE282639:GSM8647914	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647914	geo:GSE282639:GSM8647914	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647914	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647914	geo:GSE282639:GSM8647914	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647914	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647914	geo:GSE282639:GSM8647914	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647914	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647914	geo:GSE282639:GSM8647914	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647914	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647915	geo:GSE282639:GSM8647915	donor_id	SUBJECT10	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647915	!Sample_title = SUBJECT10 [Block_1_FOV_25]	True
+GSM8647915	geo:GSE282639:GSM8647915	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647915	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647915	geo:GSE282639:GSM8647915	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647915	geo:GSE282639:GSM8647915	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647915	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647915	geo:GSE282639:GSM8647915	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647915	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647915	geo:GSE282639:GSM8647915	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647915	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647915	geo:GSE282639:GSM8647915	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647915	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647916	geo:GSE282639:GSM8647916	donor_id	SUBJECT16	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647916	!Sample_title = SUBJECT16 [Block_2_FOV_1]	True
+GSM8647916	geo:GSE282639:GSM8647916	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647916	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647916	geo:GSE282639:GSM8647916	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647916	geo:GSE282639:GSM8647916	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647916	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647916	geo:GSE282639:GSM8647916	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647916	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647916	geo:GSE282639:GSM8647916	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647916	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647916	geo:GSE282639:GSM8647916	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647916	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647917	geo:GSE282639:GSM8647917	donor_id	SUBJECT17	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647917	!Sample_title = SUBJECT17 [Block_2_FOV_10]	True
+GSM8647917	geo:GSE282639:GSM8647917	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647917	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647917	geo:GSE282639:GSM8647917	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647917	geo:GSE282639:GSM8647917	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647917	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647917	geo:GSE282639:GSM8647917	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647917	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647917	geo:GSE282639:GSM8647917	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647917	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647917	geo:GSE282639:GSM8647917	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647917	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647918	geo:GSE282639:GSM8647918	donor_id	SUBJECT12	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647918	!Sample_title = SUBJECT12 [Block_1_FOV_5]	True
+GSM8647918	geo:GSE282639:GSM8647918	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647918	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647918	geo:GSE282639:GSM8647918	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647918	geo:GSE282639:GSM8647918	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647918	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647918	geo:GSE282639:GSM8647918	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647918	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647918	geo:GSE282639:GSM8647918	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647918	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647918	geo:GSE282639:GSM8647918	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647918	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647919	geo:GSE282639:GSM8647919	donor_id	SUBJECT19	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647919	!Sample_title = SUBJECT19 [Block_2_FOV_14]	True
+GSM8647919	geo:GSE282639:GSM8647919	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647919	!Sample_characteristics_ch1 = disease: IPF	True
+GSM8647919	geo:GSE282639:GSM8647919	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF)	True
+GSM8647919	geo:GSE282639:GSM8647919	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647919	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647919	geo:GSE282639:GSM8647919	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647919	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647919	geo:GSE282639:GSM8647919	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647919	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647919	geo:GSE282639:GSM8647919	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647919	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647920	geo:GSE282639:GSM8647920	donor_id	SUBJECT21	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647920	!Sample_title = SUBJECT21 [Block_2_FOV_17]	True
+GSM8647920	geo:GSE282639:GSM8647920	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647920	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647920	geo:GSE282639:GSM8647920	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647920	geo:GSE282639:GSM8647920	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647920	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647920	geo:GSE282639:GSM8647920	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647920	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647920	geo:GSE282639:GSM8647920	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647920	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647920	geo:GSE282639:GSM8647920	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647920	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647921	geo:GSE282639:GSM8647921	donor_id	SUBJECT21	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647921	!Sample_title = SUBJECT21 [Block_2_FOV_18]	True
+GSM8647921	geo:GSE282639:GSM8647921	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647921	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647921	geo:GSE282639:GSM8647921	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647921	geo:GSE282639:GSM8647921	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647921	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647921	geo:GSE282639:GSM8647921	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647921	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647921	geo:GSE282639:GSM8647921	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647921	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647921	geo:GSE282639:GSM8647921	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647921	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647922	geo:GSE282639:GSM8647922	donor_id	SUBJECT23	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647922	!Sample_title = SUBJECT23 [Block_2_FOV_22]	True
+GSM8647922	geo:GSE282639:GSM8647922	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647922	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647922	geo:GSE282639:GSM8647922	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647922	geo:GSE282639:GSM8647922	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647922	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647922	geo:GSE282639:GSM8647922	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647922	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647922	geo:GSE282639:GSM8647922	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647922	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647922	geo:GSE282639:GSM8647922	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647922	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647923	geo:GSE282639:GSM8647923	donor_id	SUBJECT23	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647923	!Sample_title = SUBJECT23 [Block_2_FOV_23]	True
+GSM8647923	geo:GSE282639:GSM8647923	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647923	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647923	geo:GSE282639:GSM8647923	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647923	geo:GSE282639:GSM8647923	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647923	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647923	geo:GSE282639:GSM8647923	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647923	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647923	geo:GSE282639:GSM8647923	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647923	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647923	geo:GSE282639:GSM8647923	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647923	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647924	geo:GSE282639:GSM8647924	donor_id	SUBJECT28	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647924	!Sample_title = SUBJECT28 [Block_2_FOV_9]	True
+GSM8647924	geo:GSE282639:GSM8647924	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647924	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647924	geo:GSE282639:GSM8647924	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647924	geo:GSE282639:GSM8647924	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647924	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647924	geo:GSE282639:GSM8647924	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647924	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647924	geo:GSE282639:GSM8647924	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647924	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647924	geo:GSE282639:GSM8647924	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647924	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647925	geo:GSE282639:GSM8647925	donor_id	SUBJECT27	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647925	!Sample_title = SUBJECT27 [Block_2_FOV_7]	True
+GSM8647925	geo:GSE282639:GSM8647925	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647925	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647925	geo:GSE282639:GSM8647925	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647925	geo:GSE282639:GSM8647925	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647925	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647925	geo:GSE282639:GSM8647925	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647925	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647925	geo:GSE282639:GSM8647925	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647925	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647925	geo:GSE282639:GSM8647925	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647925	FFPE tissue sections were prepared for CosMxTM SMI profiling	True
+GSM8647926	geo:GSE282639:GSM8647926	donor_id	SUBJECT27	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647926	!Sample_title = SUBJECT27 [Block_2_FOV_8]	True
+GSM8647926	geo:GSE282639:GSM8647926	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647926	!Sample_characteristics_ch1 = disease: Control	True
+GSM8647926	geo:GSE282639:GSM8647926	disease_free_text	normal	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz		Subcellular spatial transcriptomics on lung tissue from idiopathic pulmonary fibrosis (IPF) and unaffected control subjects	True
+GSM8647926	geo:GSE282639:GSM8647926	tissue_free_text	lung	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647926	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647926	geo:GSE282639:GSM8647926	tissue_type	tissue	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647926	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647926	geo:GSE282639:GSM8647926	sample_preservation	FFPE	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647926	!Sample_source_name_ch1 = lung tissue FFPE	True
+GSM8647926	geo:GSE282639:GSM8647926	suspension_type	na	file	raw/fp-4f47d2e2fdb4/GSE282639_family.soft.gz	GSM8647926	FFPE tissue sections were prepared for CosMxTM SMI profiling	True

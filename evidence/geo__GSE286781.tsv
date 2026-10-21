@@ -1,0 +1,15 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8730208	geo:GSE286781:GSM8730208	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8730208	geo:GSE286781:GSM8730208	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8730208	geo:GSE286781:GSM8730208	tissue_ontology_term_id	UBERON:0008953	derived	ols:uberon		lower lobe of left lung	True
+		organism	Homo sapiens	file	raw/fp-5001252117f2/GSE286781_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8730208	geo:GSE286781:GSM8730208	donor_id	ENCDO520EJG	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = donor_id: ENCDO520EJG	True
+GSM8730208	geo:GSE286781:GSM8730208	sex	male	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = Sex: male	True
+GSM8730208	geo:GSE286781:GSM8730208	age	60	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = age: 60 year	True
+GSM8730208	geo:GSE286781:GSM8730208	tissue_free_text	lower lobe of left lung	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = tissue_type: lower lobe of left lung	True
+GSM8730208	geo:GSE286781:GSM8730208	tissue_type	tissue	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = biomaterial_type: tissue	True
+GSM8730208	geo:GSE286781:GSM8730208	disease_free_text	lungs with severe emphysema	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = health state: DM: no; HTN: yes; CAD: no; lungs with severe emphysema	True
+GSM8730208	geo:GSE286781:GSM8730208	disease_ontology_term_id	MONDO:0004849	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = health state: DM: no; HTN: yes; CAD: no; lungs with severe emphysema	True
+GSM8730208	geo:GSE286781:GSM8730208	suspension_type	nucleus	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	!Sample_characteristics_ch1 = subcellular fraction term name: nucleus	True
+GSM8730208	geo:GSE286781:GSM8730208	sample_preservation	flash-freezing	file	raw/fp-5001252117f2/GSE286781_family.soft.gz	GSM8730208	preserved by flash-freezing nuclear fraction	True
+GSM8730208	geo:GSE286781:GSM8730208	gene_annotation_version	V29	file	work/fp-5001252117f2/GSE286781_RAW/GSM8730208_ENCLB681VIY_README.txt.gz		genome annotation: V29	True

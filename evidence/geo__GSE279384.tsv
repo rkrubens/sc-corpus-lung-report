@@ -1,0 +1,401 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+NYU1029-1	geo:GSE279384:NYU1029-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1069-2	geo:GSE279384:NYU1069-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1075	geo:GSE279384:NYU1075	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1102	geo:GSE279384:NYU1102	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1111	geo:GSE279384:NYU1111	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1184	geo:GSE279384:NYU1184	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU119	geo:GSE279384:NYU119	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1259	geo:GSE279384:NYU1259	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1272	geo:GSE279384:NYU1272	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1274	geo:GSE279384:NYU1274	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1319	geo:GSE279384:NYU1319	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1404	geo:GSE279384:NYU1404	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1430	geo:GSE279384:NYU1430	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1487	geo:GSE279384:NYU1487	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1639	geo:GSE279384:NYU1639	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1665-2	geo:GSE279384:NYU1665-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1750	geo:GSE279384:NYU1750	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1761	geo:GSE279384:NYU1761	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1780-1	geo:GSE279384:NYU1780-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1782	geo:GSE279384:NYU1782	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1808	geo:GSE279384:NYU1808	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1831	geo:GSE279384:NYU1831	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1846	geo:GSE279384:NYU1846	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1848	geo:GSE279384:NYU1848	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1853	geo:GSE279384:NYU1853	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1923-2	geo:GSE279384:NYU1923-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1932	geo:GSE279384:NYU1932	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU195	geo:GSE279384:NYU195	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1984-1	geo:GSE279384:NYU1984-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1997-1	geo:GSE279384:NYU1997-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2152	geo:GSE279384:NYU2152	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2174	geo:GSE279384:NYU2174	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2223-2	geo:GSE279384:NYU2223-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2295-2	geo:GSE279384:NYU2295-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2316	geo:GSE279384:NYU2316	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2330-1	geo:GSE279384:NYU2330-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2339	geo:GSE279384:NYU2339	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2426-1	geo:GSE279384:NYU2426-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2493	geo:GSE279384:NYU2493	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2561	geo:GSE279384:NYU2561	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2568	geo:GSE279384:NYU2568	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2570	geo:GSE279384:NYU2570	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2596	geo:GSE279384:NYU2596	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2636	geo:GSE279384:NYU2636	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU2646	geo:GSE279384:NYU2646	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU287	geo:GSE279384:NYU287	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU347-1	geo:GSE279384:NYU347-1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU408	geo:GSE279384:NYU408	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU753-2	geo:GSE279384:NYU753-2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU904	geo:GSE279384:NYU904	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU917	geo:GSE279384:NYU917	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+NYU1029-1	geo:GSE279384:NYU1029-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1069-2	geo:GSE279384:NYU1069-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1075	geo:GSE279384:NYU1075	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1102	geo:GSE279384:NYU1102	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1111	geo:GSE279384:NYU1111	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1184	geo:GSE279384:NYU1184	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU119	geo:GSE279384:NYU119	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1259	geo:GSE279384:NYU1259	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1272	geo:GSE279384:NYU1272	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1274	geo:GSE279384:NYU1274	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1319	geo:GSE279384:NYU1319	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1404	geo:GSE279384:NYU1404	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1430	geo:GSE279384:NYU1430	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1487	geo:GSE279384:NYU1487	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1639	geo:GSE279384:NYU1639	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1665-2	geo:GSE279384:NYU1665-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1750	geo:GSE279384:NYU1750	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1761	geo:GSE279384:NYU1761	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1780-1	geo:GSE279384:NYU1780-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1782	geo:GSE279384:NYU1782	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1808	geo:GSE279384:NYU1808	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1831	geo:GSE279384:NYU1831	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1846	geo:GSE279384:NYU1846	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1848	geo:GSE279384:NYU1848	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1853	geo:GSE279384:NYU1853	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1923-2	geo:GSE279384:NYU1923-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1932	geo:GSE279384:NYU1932	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU195	geo:GSE279384:NYU195	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1984-1	geo:GSE279384:NYU1984-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU1997-1	geo:GSE279384:NYU1997-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2152	geo:GSE279384:NYU2152	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2174	geo:GSE279384:NYU2174	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2223-2	geo:GSE279384:NYU2223-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2295-2	geo:GSE279384:NYU2295-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2316	geo:GSE279384:NYU2316	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2330-1	geo:GSE279384:NYU2330-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2339	geo:GSE279384:NYU2339	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2426-1	geo:GSE279384:NYU2426-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2493	geo:GSE279384:NYU2493	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2561	geo:GSE279384:NYU2561	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2568	geo:GSE279384:NYU2568	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2570	geo:GSE279384:NYU2570	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2596	geo:GSE279384:NYU2596	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2636	geo:GSE279384:NYU2636	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU2646	geo:GSE279384:NYU2646	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU287	geo:GSE279384:NYU287	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU347-1	geo:GSE279384:NYU347-1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU408	geo:GSE279384:NYU408	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU753-2	geo:GSE279384:NYU753-2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU904	geo:GSE279384:NYU904	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+NYU917	geo:GSE279384:NYU917	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_organism_ch1 = Homo sapiens	True
+NYU1029-1	geo:GSE279384:NYU1029-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1069-2	geo:GSE279384:NYU1069-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1075	geo:GSE279384:NYU1075	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1102	geo:GSE279384:NYU1102	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1111	geo:GSE279384:NYU1111	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1184	geo:GSE279384:NYU1184	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU119	geo:GSE279384:NYU119	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1259	geo:GSE279384:NYU1259	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1272	geo:GSE279384:NYU1272	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1274	geo:GSE279384:NYU1274	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1319	geo:GSE279384:NYU1319	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1404	geo:GSE279384:NYU1404	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1430	geo:GSE279384:NYU1430	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1487	geo:GSE279384:NYU1487	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1639	geo:GSE279384:NYU1639	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1665-2	geo:GSE279384:NYU1665-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1750	geo:GSE279384:NYU1750	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1761	geo:GSE279384:NYU1761	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1780-1	geo:GSE279384:NYU1780-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1782	geo:GSE279384:NYU1782	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1808	geo:GSE279384:NYU1808	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1831	geo:GSE279384:NYU1831	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1846	geo:GSE279384:NYU1846	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1848	geo:GSE279384:NYU1848	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1853	geo:GSE279384:NYU1853	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1923-2	geo:GSE279384:NYU1923-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1932	geo:GSE279384:NYU1932	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU195	geo:GSE279384:NYU195	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1984-1	geo:GSE279384:NYU1984-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1997-1	geo:GSE279384:NYU1997-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2152	geo:GSE279384:NYU2152	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2174	geo:GSE279384:NYU2174	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2223-2	geo:GSE279384:NYU2223-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2295-2	geo:GSE279384:NYU2295-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2316	geo:GSE279384:NYU2316	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2330-1	geo:GSE279384:NYU2330-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2339	geo:GSE279384:NYU2339	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2426-1	geo:GSE279384:NYU2426-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2493	geo:GSE279384:NYU2493	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2561	geo:GSE279384:NYU2561	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2568	geo:GSE279384:NYU2568	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2570	geo:GSE279384:NYU2570	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2596	geo:GSE279384:NYU2596	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2636	geo:GSE279384:NYU2636	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2646	geo:GSE279384:NYU2646	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU287	geo:GSE279384:NYU287	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU347-1	geo:GSE279384:NYU347-1	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU408	geo:GSE279384:NYU408	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU753-2	geo:GSE279384:NYU753-2	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU904	geo:GSE279384:NYU904	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU917	geo:GSE279384:NYU917	disease_free_text	lung adenocarcinoma	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1029-1	geo:GSE279384:NYU1029-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1069-2	geo:GSE279384:NYU1069-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1075	geo:GSE279384:NYU1075	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1102	geo:GSE279384:NYU1102	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1111	geo:GSE279384:NYU1111	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1184	geo:GSE279384:NYU1184	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU119	geo:GSE279384:NYU119	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1259	geo:GSE279384:NYU1259	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1272	geo:GSE279384:NYU1272	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1274	geo:GSE279384:NYU1274	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1319	geo:GSE279384:NYU1319	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1404	geo:GSE279384:NYU1404	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1430	geo:GSE279384:NYU1430	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1487	geo:GSE279384:NYU1487	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1639	geo:GSE279384:NYU1639	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1665-2	geo:GSE279384:NYU1665-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1750	geo:GSE279384:NYU1750	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1761	geo:GSE279384:NYU1761	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1780-1	geo:GSE279384:NYU1780-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1782	geo:GSE279384:NYU1782	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1808	geo:GSE279384:NYU1808	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1831	geo:GSE279384:NYU1831	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1846	geo:GSE279384:NYU1846	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1848	geo:GSE279384:NYU1848	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1853	geo:GSE279384:NYU1853	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1923-2	geo:GSE279384:NYU1923-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1932	geo:GSE279384:NYU1932	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU195	geo:GSE279384:NYU195	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1984-1	geo:GSE279384:NYU1984-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1997-1	geo:GSE279384:NYU1997-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2152	geo:GSE279384:NYU2152	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2174	geo:GSE279384:NYU2174	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2223-2	geo:GSE279384:NYU2223-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2295-2	geo:GSE279384:NYU2295-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2316	geo:GSE279384:NYU2316	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2330-1	geo:GSE279384:NYU2330-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2339	geo:GSE279384:NYU2339	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2426-1	geo:GSE279384:NYU2426-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2493	geo:GSE279384:NYU2493	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2561	geo:GSE279384:NYU2561	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2568	geo:GSE279384:NYU2568	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2570	geo:GSE279384:NYU2570	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2596	geo:GSE279384:NYU2596	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2636	geo:GSE279384:NYU2636	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU2646	geo:GSE279384:NYU2646	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU287	geo:GSE279384:NYU287	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU347-1	geo:GSE279384:NYU347-1	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU408	geo:GSE279384:NYU408	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU753-2	geo:GSE279384:NYU753-2	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU904	geo:GSE279384:NYU904	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU917	geo:GSE279384:NYU917	tissue_free_text	lung	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = tissue: lung	True
+NYU1029-1	geo:GSE279384:NYU1029-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1069-2	geo:GSE279384:NYU1069-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1075	geo:GSE279384:NYU1075	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1102	geo:GSE279384:NYU1102	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1111	geo:GSE279384:NYU1111	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1184	geo:GSE279384:NYU1184	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU119	geo:GSE279384:NYU119	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1259	geo:GSE279384:NYU1259	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1272	geo:GSE279384:NYU1272	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1274	geo:GSE279384:NYU1274	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1319	geo:GSE279384:NYU1319	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1404	geo:GSE279384:NYU1404	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1430	geo:GSE279384:NYU1430	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1487	geo:GSE279384:NYU1487	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1639	geo:GSE279384:NYU1639	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1665-2	geo:GSE279384:NYU1665-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1750	geo:GSE279384:NYU1750	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1761	geo:GSE279384:NYU1761	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1780-1	geo:GSE279384:NYU1780-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1782	geo:GSE279384:NYU1782	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1808	geo:GSE279384:NYU1808	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1831	geo:GSE279384:NYU1831	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1846	geo:GSE279384:NYU1846	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1848	geo:GSE279384:NYU1848	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1853	geo:GSE279384:NYU1853	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1923-2	geo:GSE279384:NYU1923-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1932	geo:GSE279384:NYU1932	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU195	geo:GSE279384:NYU195	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1984-1	geo:GSE279384:NYU1984-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1997-1	geo:GSE279384:NYU1997-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2152	geo:GSE279384:NYU2152	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2174	geo:GSE279384:NYU2174	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2223-2	geo:GSE279384:NYU2223-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2295-2	geo:GSE279384:NYU2295-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2316	geo:GSE279384:NYU2316	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2330-1	geo:GSE279384:NYU2330-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2339	geo:GSE279384:NYU2339	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2426-1	geo:GSE279384:NYU2426-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2493	geo:GSE279384:NYU2493	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2561	geo:GSE279384:NYU2561	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2568	geo:GSE279384:NYU2568	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2570	geo:GSE279384:NYU2570	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2596	geo:GSE279384:NYU2596	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2636	geo:GSE279384:NYU2636	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU2646	geo:GSE279384:NYU2646	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU287	geo:GSE279384:NYU287	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU347-1	geo:GSE279384:NYU347-1	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU408	geo:GSE279384:NYU408	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU753-2	geo:GSE279384:NYU753-2	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU904	geo:GSE279384:NYU904	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU917	geo:GSE279384:NYU917	treatment_status	naive	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_characteristics_ch1 = treatment: naïve	True
+NYU1029-1	geo:GSE279384:NYU1029-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1069-2	geo:GSE279384:NYU1069-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1075	geo:GSE279384:NYU1075	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1102	geo:GSE279384:NYU1102	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1111	geo:GSE279384:NYU1111	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1184	geo:GSE279384:NYU1184	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU119	geo:GSE279384:NYU119	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1259	geo:GSE279384:NYU1259	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1272	geo:GSE279384:NYU1272	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1274	geo:GSE279384:NYU1274	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1319	geo:GSE279384:NYU1319	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1404	geo:GSE279384:NYU1404	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1430	geo:GSE279384:NYU1430	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1487	geo:GSE279384:NYU1487	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1639	geo:GSE279384:NYU1639	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1665-2	geo:GSE279384:NYU1665-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1750	geo:GSE279384:NYU1750	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1761	geo:GSE279384:NYU1761	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1780-1	geo:GSE279384:NYU1780-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1782	geo:GSE279384:NYU1782	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1808	geo:GSE279384:NYU1808	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1831	geo:GSE279384:NYU1831	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1846	geo:GSE279384:NYU1846	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1848	geo:GSE279384:NYU1848	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1853	geo:GSE279384:NYU1853	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1923-2	geo:GSE279384:NYU1923-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1932	geo:GSE279384:NYU1932	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU195	geo:GSE279384:NYU195	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1984-1	geo:GSE279384:NYU1984-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1997-1	geo:GSE279384:NYU1997-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2152	geo:GSE279384:NYU2152	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2174	geo:GSE279384:NYU2174	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2223-2	geo:GSE279384:NYU2223-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2295-2	geo:GSE279384:NYU2295-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2316	geo:GSE279384:NYU2316	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2330-1	geo:GSE279384:NYU2330-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2339	geo:GSE279384:NYU2339	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2426-1	geo:GSE279384:NYU2426-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2493	geo:GSE279384:NYU2493	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2561	geo:GSE279384:NYU2561	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2568	geo:GSE279384:NYU2568	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2570	geo:GSE279384:NYU2570	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2596	geo:GSE279384:NYU2596	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2636	geo:GSE279384:NYU2636	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU2646	geo:GSE279384:NYU2646	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU287	geo:GSE279384:NYU287	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU347-1	geo:GSE279384:NYU347-1	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU408	geo:GSE279384:NYU408	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU753-2	geo:GSE279384:NYU753-2	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU904	geo:GSE279384:NYU904	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU917	geo:GSE279384:NYU917	suspension_type	nucleus	file	raw/fp-087f46123487/GSE279384_family.soft.gz	GSM8568273	!Sample_molecule_ch1 = nuclear RNA	True
+NYU1029-1	geo:GSE279384:NYU1029-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1069-2	geo:GSE279384:NYU1069-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1075	geo:GSE279384:NYU1075	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1102	geo:GSE279384:NYU1102	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1111	geo:GSE279384:NYU1111	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1139-49-1	geo:GSE279384:NYU1139-49-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1139-69-1	geo:GSE279384:NYU1139-69-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1184	geo:GSE279384:NYU1184	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU119	geo:GSE279384:NYU119	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1259	geo:GSE279384:NYU1259	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1272	geo:GSE279384:NYU1272	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1274	geo:GSE279384:NYU1274	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1319	geo:GSE279384:NYU1319	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1404	geo:GSE279384:NYU1404	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1430	geo:GSE279384:NYU1430	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1487	geo:GSE279384:NYU1487	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1606S-2	geo:GSE279384:NYU1606S-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1639	geo:GSE279384:NYU1639	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1665-2	geo:GSE279384:NYU1665-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1750	geo:GSE279384:NYU1750	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1761	geo:GSE279384:NYU1761	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1780-1	geo:GSE279384:NYU1780-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1782	geo:GSE279384:NYU1782	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1808	geo:GSE279384:NYU1808	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1831	geo:GSE279384:NYU1831	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1840-84-1	geo:GSE279384:NYU1840-84-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1840-84-2	geo:GSE279384:NYU1840-84-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1846	geo:GSE279384:NYU1846	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1848	geo:GSE279384:NYU1848	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1853	geo:GSE279384:NYU1853	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1923-2	geo:GSE279384:NYU1923-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1932	geo:GSE279384:NYU1932	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU195	geo:GSE279384:NYU195	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1984-1	geo:GSE279384:NYU1984-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU1997-1	geo:GSE279384:NYU1997-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2058-CH-1	geo:GSE279384:NYU2058-CH-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2152	geo:GSE279384:NYU2152	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2174	geo:GSE279384:NYU2174	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2223-2	geo:GSE279384:NYU2223-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2295-2	geo:GSE279384:NYU2295-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2316	geo:GSE279384:NYU2316	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2330-1	geo:GSE279384:NYU2330-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2339	geo:GSE279384:NYU2339	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2426-1	geo:GSE279384:NYU2426-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2493	geo:GSE279384:NYU2493	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2561	geo:GSE279384:NYU2561	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2568	geo:GSE279384:NYU2568	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2570	geo:GSE279384:NYU2570	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2596	geo:GSE279384:NYU2596	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2636	geo:GSE279384:NYU2636	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU2646	geo:GSE279384:NYU2646	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU287	geo:GSE279384:NYU287	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU347-1	geo:GSE279384:NYU347-1	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU408	geo:GSE279384:NYU408	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU753-2	geo:GSE279384:NYU753-2	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU904	geo:GSE279384:NYU904	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True
+NYU917	geo:GSE279384:NYU917	sample_preservation	frozen	file	raw/fp-087f46123487/GSE279384_family.soft.gz		!Series_overall_design = RNA from single nucleus of frozen human LUAD samples was extracted and sequenced using 5-prime v1.1 chemistry	True

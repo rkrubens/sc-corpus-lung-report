@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-55faec531a2b/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	tissue_free_text	lung	file	raw/fp-55faec531a2b/GSE185048_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	tissue_type	cell culture	file	raw/fp-55faec531a2b/GSE185048_family.soft.gz		healthy primary human airway epithelia cultured at the air-liquid interface	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	disease_ontology_term_id	PATO:0000461	file	raw/fp-55faec531a2b/GSE185048_family.soft.gz		The goal of this study was to compare cell composition and gene expression of different cell types in healthy primary human airway epithelia	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	suspension_type	cell	file	raw/fp-55faec531a2b/GSE185048_family.soft.gz		Cultured cells were rinsed in PBS -/- and lifted in TrypLE	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	assay	10x 3' v2	file	raw/fp-55faec531a2b/GSE185048_family.soft.gz		10x Genomics Chromium Single Cell 3’ Reagent Kits v2 system	True
+GSE185048_matrices	geo:GSE185048:GSE185048_matrices	sample_preservation	fresh	file	raw/fp-55faec531a2b/GSE185048_family.soft.gz		Cultured cells were rinsed in PBS -/- and lifted in TrypLE	True

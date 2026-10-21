@@ -1,0 +1,110 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5575227	geo:GSE183974:GSM5575227	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5575227	geo:GSE183974:GSM5575227	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575227	geo:GSE183974:GSM5575227	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM5575227	geo:GSE183974:GSM5575227	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5575228	geo:GSE183974:GSM5575228	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM5575228	geo:GSE183974:GSM5575228	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575228	geo:GSE183974:GSM5575228	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM5575228	geo:GSE183974:GSM5575228	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5575229	geo:GSE183974:GSM5575229	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575229	geo:GSE183974:GSM5575229	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575229	geo:GSE183974:GSM5575229	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM5575229	geo:GSE183974:GSM5575229	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5575230	geo:GSE183974:GSM5575230	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575230	geo:GSE183974:GSM5575230	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575230	geo:GSE183974:GSM5575230	development_stage_ontology_term_id	HsapDv:0000134	derived	age_in_years:'40-year-old stage':ols:hsapdv		40	True
+GSM5575230	geo:GSE183974:GSM5575230	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5575231	geo:GSE183974:GSM5575231	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575231	geo:GSE183974:GSM5575231	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575231	geo:GSE183974:GSM5575231	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM5575231	geo:GSE183974:GSM5575231	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5575232	geo:GSE183974:GSM5575232	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575232	geo:GSE183974:GSM5575232	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575232	geo:GSE183974:GSM5575232	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM5575232	geo:GSE183974:GSM5575232	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM5575233	geo:GSE183974:GSM5575233	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575233	geo:GSE183974:GSM5575233	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575233	geo:GSE183974:GSM5575233	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM5575233	geo:GSE183974:GSM5575233	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM5575234	geo:GSE183974:GSM5575234	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575234	geo:GSE183974:GSM5575234	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575234	geo:GSE183974:GSM5575234	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM5575234	geo:GSE183974:GSM5575234	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+GSM5575235	geo:GSE183974:GSM5575235	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM5575235	geo:GSE183974:GSM5575235	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM5575235	geo:GSE183974:GSM5575235	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM5575235	geo:GSE183974:GSM5575235	disease_ontology_term_id	MONDO:0005002	derived	ols:mondo		chronic obstructive pulmonary disease	True
+		organism	Homo sapiens	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	!Sample_organism_ch1 = Homo sapiens	True
+GSM5575227	geo:GSE183974:GSM5575227	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575227	geo:GSE183974:GSM5575227	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575227	geo:GSE183974:GSM5575227	age	60	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	!Sample_characteristics_ch1 = patient age: 60	True
+GSM5575227	geo:GSE183974:GSM5575227	sex	female	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	!Sample_characteristics_ch1 = patient sex: F	True
+GSM5575227	geo:GSE183974:GSM5575227	disease_free_text	Healthy no smoker	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	!Sample_characteristics_ch1 = patient status: Healthy no smoker	True
+GSM5575227	geo:GSE183974:GSM5575227	disease_ontology_term_id	normal	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	!Sample_characteristics_ch1 = patient status: Healthy no smoker	True
+GSM5575227	geo:GSE183974:GSM5575227	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575227	geo:GSE183974:GSM5575227	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575227	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575228	geo:GSE183974:GSM5575228	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575228	geo:GSE183974:GSM5575228	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575228	geo:GSE183974:GSM5575228	age	56	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	!Sample_characteristics_ch1 = patient age: 56	True
+GSM5575228	geo:GSE183974:GSM5575228	sex	female	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	!Sample_characteristics_ch1 = patient sex: F	True
+GSM5575228	geo:GSE183974:GSM5575228	disease_free_text	Healthy smoker	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	!Sample_characteristics_ch1 = patient status: Healthy smoker	True
+GSM5575228	geo:GSE183974:GSM5575228	disease_ontology_term_id	normal	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	!Sample_characteristics_ch1 = patient status: Healthy smoker	True
+GSM5575228	geo:GSE183974:GSM5575228	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575228	geo:GSE183974:GSM5575228	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575228	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575229	geo:GSE183974:GSM5575229	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575229	geo:GSE183974:GSM5575229	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575229	geo:GSE183974:GSM5575229	age	56	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	!Sample_characteristics_ch1 = patient age: 56	True
+GSM5575229	geo:GSE183974:GSM5575229	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575229	geo:GSE183974:GSM5575229	disease_free_text	Healthy smoker	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	!Sample_characteristics_ch1 = patient status: Healthy smoker	True
+GSM5575229	geo:GSE183974:GSM5575229	disease_ontology_term_id	normal	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	!Sample_characteristics_ch1 = patient status: Healthy smoker	True
+GSM5575229	geo:GSE183974:GSM5575229	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575229	geo:GSE183974:GSM5575229	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575229	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575230	geo:GSE183974:GSM5575230	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575230	geo:GSE183974:GSM5575230	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575230	geo:GSE183974:GSM5575230	age	40	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	!Sample_characteristics_ch1 = patient age: 40	True
+GSM5575230	geo:GSE183974:GSM5575230	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575230	geo:GSE183974:GSM5575230	disease_free_text	Healthy smoker	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	!Sample_characteristics_ch1 = patient status: Healthy smoker	True
+GSM5575230	geo:GSE183974:GSM5575230	disease_ontology_term_id	normal	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	!Sample_characteristics_ch1 = patient status: Healthy smoker	True
+GSM5575230	geo:GSE183974:GSM5575230	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575230	geo:GSE183974:GSM5575230	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575230	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575231	geo:GSE183974:GSM5575231	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575231	geo:GSE183974:GSM5575231	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575231	geo:GSE183974:GSM5575231	age	56	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	!Sample_characteristics_ch1 = patient age: 56	True
+GSM5575231	geo:GSE183974:GSM5575231	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575231	geo:GSE183974:GSM5575231	disease_free_text	Healthy no smoker	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	!Sample_characteristics_ch1 = patient status: Healthy no smoker	True
+GSM5575231	geo:GSE183974:GSM5575231	disease_ontology_term_id	normal	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	!Sample_characteristics_ch1 = patient status: Healthy no smoker	True
+GSM5575231	geo:GSE183974:GSM5575231	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575231	geo:GSE183974:GSM5575231	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575231	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575232	geo:GSE183974:GSM5575232	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575232	geo:GSE183974:GSM5575232	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575232	geo:GSE183974:GSM5575232	age	63	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	!Sample_characteristics_ch1 = patient age: 63	True
+GSM5575232	geo:GSE183974:GSM5575232	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575232	geo:GSE183974:GSM5575232	disease_free_text	COPD	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	!Sample_characteristics_ch1 = patient status: COPD	True
+GSM5575232	geo:GSE183974:GSM5575232	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	!Sample_characteristics_ch1 = patient status: COPD	True
+GSM5575232	geo:GSE183974:GSM5575232	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575232	geo:GSE183974:GSM5575232	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575232	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575233	geo:GSE183974:GSM5575233	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575233	geo:GSE183974:GSM5575233	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575233	geo:GSE183974:GSM5575233	age	56	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	!Sample_characteristics_ch1 = patient age: 56	True
+GSM5575233	geo:GSE183974:GSM5575233	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575233	geo:GSE183974:GSM5575233	disease_free_text	Healthy no smoker	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	!Sample_characteristics_ch1 = patient status: Healthy no smoker	True
+GSM5575233	geo:GSE183974:GSM5575233	disease_ontology_term_id	normal	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	!Sample_characteristics_ch1 = patient status: Healthy no smoker	True
+GSM5575233	geo:GSE183974:GSM5575233	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575233	geo:GSE183974:GSM5575233	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575233	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575234	geo:GSE183974:GSM5575234	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575234	geo:GSE183974:GSM5575234	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575234	geo:GSE183974:GSM5575234	age	60	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	!Sample_characteristics_ch1 = patient age: 60	True
+GSM5575234	geo:GSE183974:GSM5575234	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575234	geo:GSE183974:GSM5575234	disease_free_text	COPD	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	!Sample_characteristics_ch1 = patient status: COPD	True
+GSM5575234	geo:GSE183974:GSM5575234	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	!Sample_characteristics_ch1 = patient status: COPD	True
+GSM5575234	geo:GSE183974:GSM5575234	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575234	geo:GSE183974:GSM5575234	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575234	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True
+GSM5575235	geo:GSE183974:GSM5575235	tissue_free_text	Bronchoalveolar lavage fluid (BALF) cells	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid (BALF) cells	True
+GSM5575235	geo:GSE183974:GSM5575235	sample_collection_method	bronchoalveolar lavage	file	raw/fp-e3880392be72/GSE183974_family.soft.gz		residual bronchoalveolar lavage fluids	True
+GSM5575235	geo:GSE183974:GSM5575235	age	65	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	!Sample_characteristics_ch1 = patient age: 65	True
+GSM5575235	geo:GSE183974:GSM5575235	sex	male	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	!Sample_characteristics_ch1 = patient sex: M	True
+GSM5575235	geo:GSE183974:GSM5575235	disease_free_text	COPD	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	!Sample_characteristics_ch1 = patient status: COPD	True
+GSM5575235	geo:GSE183974:GSM5575235	disease_ontology_term_id	chronic obstructive pulmonary disease	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	!Sample_characteristics_ch1 = patient status: COPD	True
+GSM5575235	geo:GSE183974:GSM5575235	suspension_type	cell	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	approximately 5000 cells were suspended in PBS with 0.04% BSA	True
+GSM5575235	geo:GSE183974:GSM5575235	assay	10x 3' v2	file	raw/fp-e3880392be72/GSE183974_family.soft.gz	GSM5575235	Chromium Single Cell 3' Gel Bead Kit v2 (10X Genomics)	True

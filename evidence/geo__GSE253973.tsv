@@ -1,0 +1,16 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8031345	geo:GSE253973:GSM8031345	tissue_ontology_term_id	UBERON:0000977	derived	ols:uberon		Pleura	True
+GSM8031346	geo:GSE253973:GSM8031346	tissue_ontology_term_id	UBERON:0000977	derived	ols:uberon		Pleura	True
+GSM8031347	geo:GSE253973:GSM8031347	tissue_ontology_term_id	UBERON:0000977	derived	ols:uberon		Pleura	True
+		organism	Homo sapiens	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8031345	geo:GSE253973:GSM8031345	tissue_free_text	Pleura	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031345	!Sample_characteristics_ch1 = tissue: Pleura	True
+GSM8031346	geo:GSE253973:GSM8031346	tissue_free_text	Pleura	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031346	!Sample_characteristics_ch1 = tissue: Pleura	True
+GSM8031347	geo:GSE253973:GSM8031347	tissue_free_text	Pleura	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031347	!Sample_characteristics_ch1 = tissue: Pleura	True
+GSM8031348	geo:GSE253973:GSM8031348	tissue_free_text	Mesothelioma	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031348	!Sample_characteristics_ch1 = tissue: Mesothelioma	True
+GSM8031349	geo:GSE253973:GSM8031349	tissue_free_text	Mesothelioma	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031349	!Sample_characteristics_ch1 = tissue: Mesothelioma	True
+GSM8031350	geo:GSE253973:GSM8031350	tissue_free_text	Mesothelioma	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031350	!Sample_characteristics_ch1 = tissue: Mesothelioma	True
+GSM8031351	geo:GSE253973:GSM8031351	tissue_free_text	Mesothelioma	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031351	!Sample_characteristics_ch1 = tissue: Mesothelioma	True
+GSM8031352	geo:GSE253973:GSM8031352	tissue_free_text	Mesothelioma	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031352	!Sample_characteristics_ch1 = tissue: Mesothelioma	True
+GSM8031353	geo:GSE253973:GSM8031353	tissue_free_text	Pdo	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031353	!Sample_characteristics_ch1 = tissue: Pdo	True
+GSM8031354	geo:GSE253973:GSM8031354	tissue_free_text	Pdo	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031354	!Sample_characteristics_ch1 = tissue: Pdo	True
+GSM8031355	geo:GSE253973:GSM8031355	tissue_free_text	Pdo	file	raw/fp-8ac54e5228ad/GSE253973_family.soft.gz	GSM8031355	!Sample_characteristics_ch1 = tissue: Pdo	True

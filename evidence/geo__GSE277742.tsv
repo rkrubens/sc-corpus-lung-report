@@ -1,0 +1,150 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8528670	geo:GSE277742:GSM8528670	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528670	geo:GSE277742:GSM8528670	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM8528671	geo:GSE277742:GSM8528671	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528671	geo:GSE277742:GSM8528671	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8528672	geo:GSE277742:GSM8528672	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528672	geo:GSE277742:GSM8528672	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8528673	geo:GSE277742:GSM8528673	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528673	geo:GSE277742:GSM8528673	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM8528674	geo:GSE277742:GSM8528674	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528674	geo:GSE277742:GSM8528674	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM8528674	geo:GSE277742:GSM8528674	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528675	geo:GSE277742:GSM8528675	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528675	geo:GSE277742:GSM8528675	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8528675	geo:GSE277742:GSM8528675	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528676	geo:GSE277742:GSM8528676	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528676	geo:GSE277742:GSM8528676	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8528676	geo:GSE277742:GSM8528676	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528677	geo:GSE277742:GSM8528677	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528677	geo:GSE277742:GSM8528677	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM8528677	geo:GSE277742:GSM8528677	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528678	geo:GSE277742:GSM8528678	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528678	geo:GSE277742:GSM8528678	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM8528678	geo:GSE277742:GSM8528678	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528679	geo:GSE277742:GSM8528679	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528679	geo:GSE277742:GSM8528679	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM8528679	geo:GSE277742:GSM8528679	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528680	geo:GSE277742:GSM8528680	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528680	geo:GSE277742:GSM8528680	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM8528680	geo:GSE277742:GSM8528680	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528681	geo:GSE277742:GSM8528681	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528681	geo:GSE277742:GSM8528681	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8528681	geo:GSE277742:GSM8528681	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528682	geo:GSE277742:GSM8528682	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528682	geo:GSE277742:GSM8528682	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM8528682	geo:GSE277742:GSM8528682	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528683	geo:GSE277742:GSM8528683	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528683	geo:GSE277742:GSM8528683	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+GSM8528683	geo:GSE277742:GSM8528683	disease_ontology_term_id	MONDO:0004970	derived	ols:mondo		Adenocarcinoma	True
+GSM8528684	geo:GSE277742:GSM8528684	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528684	geo:GSE277742:GSM8528684	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM8528684	geo:GSE277742:GSM8528684	disease_ontology_term_id	MONDO:0005096	derived	ols:mondo		Squamous cell carcinoma	True
+GSM8528685	geo:GSE277742:GSM8528685	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528685	geo:GSE277742:GSM8528685	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM8528685	geo:GSE277742:GSM8528685	disease_ontology_term_id	MONDO:0005096	derived	ols:mondo		Squamous cell carcinoma	True
+GSM8528686	geo:GSE277742:GSM8528686	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528686	geo:GSE277742:GSM8528686	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM8528686	geo:GSE277742:GSM8528686	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung cancer	True
+GSM8528687	geo:GSE277742:GSM8528687	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528687	geo:GSE277742:GSM8528687	development_stage_ontology_term_id	HsapDv:0000152	derived	age_in_years:'58-year-old stage':ols:hsapdv		58	True
+GSM8528687	geo:GSE277742:GSM8528687	disease_ontology_term_id	MONDO:0005096	derived	ols:mondo		Squamous cell carcinoma	True
+GSM8528688	geo:GSE277742:GSM8528688	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528688	geo:GSE277742:GSM8528688	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM8528688	geo:GSE277742:GSM8528688	disease_ontology_term_id	MONDO:0000402	derived	ols:mondo		small cell carcinoma	True
+GSM8528689	geo:GSE277742:GSM8528689	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528689	geo:GSE277742:GSM8528689	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM8528689	geo:GSE277742:GSM8528689	disease_ontology_term_id	MONDO:0005096	derived	ols:mondo		Squamous cell carcinoma	True
+GSM8528690	geo:GSE277742:GSM8528690	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8528690	geo:GSE277742:GSM8528690	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM8528691	geo:GSE277742:GSM8528691	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8528691	geo:GSE277742:GSM8528691	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+		organism	Homo sapiens	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8528670	geo:GSE277742:GSM8528670	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528670	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528670	geo:GSE277742:GSM8528670	age	68	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528670	!Sample_characteristics_ch1 = age: 68	True
+GSM8528670	geo:GSE277742:GSM8528670	disease_free_text	non metastatic control	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528670	!Sample_characteristics_ch1 = pathology: non metastatic control	True
+GSM8528670	geo:GSE277742:GSM8528670	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528670	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528671	geo:GSE277742:GSM8528671	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528671	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528671	geo:GSE277742:GSM8528671	age	63	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528671	!Sample_characteristics_ch1 = age: 63	True
+GSM8528671	geo:GSE277742:GSM8528671	disease_free_text	non metastatic control	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528671	!Sample_characteristics_ch1 = pathology: non metastatic control	True
+GSM8528671	geo:GSE277742:GSM8528671	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528671	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528672	geo:GSE277742:GSM8528672	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528672	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528672	geo:GSE277742:GSM8528672	age	65	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528672	!Sample_characteristics_ch1 = age: 65	True
+GSM8528672	geo:GSE277742:GSM8528672	disease_free_text	non metastatic control	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528672	!Sample_characteristics_ch1 = pathology: non metastatic control	True
+GSM8528672	geo:GSE277742:GSM8528672	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528672	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528673	geo:GSE277742:GSM8528673	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528673	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528673	geo:GSE277742:GSM8528673	age	74	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528673	!Sample_characteristics_ch1 = age: 74	True
+GSM8528673	geo:GSE277742:GSM8528673	disease_free_text	non metastatic control	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528673	!Sample_characteristics_ch1 = pathology: non metastatic control	True
+GSM8528673	geo:GSE277742:GSM8528673	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528673	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528674	geo:GSE277742:GSM8528674	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528674	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528674	geo:GSE277742:GSM8528674	age	71	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528674	!Sample_characteristics_ch1 = age: 71	True
+GSM8528674	geo:GSE277742:GSM8528674	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528674	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528674	geo:GSE277742:GSM8528674	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528674	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528675	geo:GSE277742:GSM8528675	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528675	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528675	geo:GSE277742:GSM8528675	age	60	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528675	!Sample_characteristics_ch1 = age: 60	True
+GSM8528675	geo:GSE277742:GSM8528675	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528675	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528675	geo:GSE277742:GSM8528675	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528675	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528676	geo:GSE277742:GSM8528676	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528676	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528676	geo:GSE277742:GSM8528676	age	66	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528676	!Sample_characteristics_ch1 = age: 66	True
+GSM8528676	geo:GSE277742:GSM8528676	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528676	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528676	geo:GSE277742:GSM8528676	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528676	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528677	geo:GSE277742:GSM8528677	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528677	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528677	geo:GSE277742:GSM8528677	age	77	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528677	!Sample_characteristics_ch1 = age: 77	True
+GSM8528677	geo:GSE277742:GSM8528677	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528677	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528677	geo:GSE277742:GSM8528677	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528677	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528678	geo:GSE277742:GSM8528678	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528678	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528678	geo:GSE277742:GSM8528678	age	71	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528678	!Sample_characteristics_ch1 = age: 71	True
+GSM8528678	geo:GSE277742:GSM8528678	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528678	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528678	geo:GSE277742:GSM8528678	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528678	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528679	geo:GSE277742:GSM8528679	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528679	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528679	geo:GSE277742:GSM8528679	age	71	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528679	!Sample_characteristics_ch1 = age: 71	True
+GSM8528679	geo:GSE277742:GSM8528679	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528679	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528679	geo:GSE277742:GSM8528679	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528679	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528680	geo:GSE277742:GSM8528680	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528680	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528680	geo:GSE277742:GSM8528680	age	62	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528680	!Sample_characteristics_ch1 = age: 62	True
+GSM8528680	geo:GSE277742:GSM8528680	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528680	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528680	geo:GSE277742:GSM8528680	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528680	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528681	geo:GSE277742:GSM8528681	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528681	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528681	geo:GSE277742:GSM8528681	age	63	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528681	!Sample_characteristics_ch1 = age: 63	True
+GSM8528681	geo:GSE277742:GSM8528681	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528681	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528681	geo:GSE277742:GSM8528681	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528681	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528682	geo:GSE277742:GSM8528682	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528682	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528682	geo:GSE277742:GSM8528682	age	55	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528682	!Sample_characteristics_ch1 = age: 55	True
+GSM8528682	geo:GSE277742:GSM8528682	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528682	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528682	geo:GSE277742:GSM8528682	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528682	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528683	geo:GSE277742:GSM8528683	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528683	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528683	geo:GSE277742:GSM8528683	age	72	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528683	!Sample_characteristics_ch1 = age: 72	True
+GSM8528683	geo:GSE277742:GSM8528683	disease_free_text	Adenocarcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528683	!Sample_characteristics_ch1 = pathology: Adenocarcinoma	True
+GSM8528683	geo:GSE277742:GSM8528683	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528683	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528684	geo:GSE277742:GSM8528684	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528684	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528684	geo:GSE277742:GSM8528684	age	74	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528684	!Sample_characteristics_ch1 = age: 74	True
+GSM8528684	geo:GSE277742:GSM8528684	disease_free_text	Squamous cell carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528684	!Sample_characteristics_ch1 = pathology: Squamous cell carcinoma	True
+GSM8528684	geo:GSE277742:GSM8528684	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528684	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528685	geo:GSE277742:GSM8528685	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528685	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528685	geo:GSE277742:GSM8528685	age	57	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528685	!Sample_characteristics_ch1 = age: 57	True
+GSM8528685	geo:GSE277742:GSM8528685	disease_free_text	Squamous cell carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528685	!Sample_characteristics_ch1 = pathology: Squamous cell carcinoma	True
+GSM8528685	geo:GSE277742:GSM8528685	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528685	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528686	geo:GSE277742:GSM8528686	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528686	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528686	geo:GSE277742:GSM8528686	age	69	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528686	!Sample_characteristics_ch1 = age: 69	True
+GSM8528686	geo:GSE277742:GSM8528686	disease_free_text	small cell lung cancer	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528686	!Sample_characteristics_ch1 = pathology: small cell lung cancer	True
+GSM8528686	geo:GSE277742:GSM8528686	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528686	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528687	geo:GSE277742:GSM8528687	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528687	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528687	geo:GSE277742:GSM8528687	age	58	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528687	!Sample_characteristics_ch1 = age: 58	True
+GSM8528687	geo:GSE277742:GSM8528687	disease_free_text	Squamous cell carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528687	!Sample_characteristics_ch1 = pathology: Squamous cell carcinoma	True
+GSM8528687	geo:GSE277742:GSM8528687	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528687	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528688	geo:GSE277742:GSM8528688	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528688	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528688	geo:GSE277742:GSM8528688	age	71	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528688	!Sample_characteristics_ch1 = age: 71	True
+GSM8528688	geo:GSE277742:GSM8528688	disease_free_text	small cell carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528688	!Sample_characteristics_ch1 = pathology: small cell carcinoma	True
+GSM8528688	geo:GSE277742:GSM8528688	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528688	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528689	geo:GSE277742:GSM8528689	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528689	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528689	geo:GSE277742:GSM8528689	age	59	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528689	!Sample_characteristics_ch1 = age: 59	True
+GSM8528689	geo:GSE277742:GSM8528689	disease_free_text	Squamous cell carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528689	!Sample_characteristics_ch1 = pathology: Squamous cell carcinoma	True
+GSM8528689	geo:GSE277742:GSM8528689	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528689	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528690	geo:GSE277742:GSM8528690	sex	F	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528690	!Sample_characteristics_ch1 = Sex: F	True
+GSM8528690	geo:GSE277742:GSM8528690	age	64	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528690	!Sample_characteristics_ch1 = age: 64	True
+GSM8528690	geo:GSE277742:GSM8528690	disease_free_text	Non-small cell carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528690	!Sample_characteristics_ch1 = pathology: Non-small cell carcinoma	True
+GSM8528690	geo:GSE277742:GSM8528690	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528690	!Sample_characteristics_ch1 = tissue: Lymph nodes	True
+GSM8528691	geo:GSE277742:GSM8528691	sex	M	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528691	!Sample_characteristics_ch1 = Sex: M	True
+GSM8528691	geo:GSE277742:GSM8528691	age	75	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528691	!Sample_characteristics_ch1 = age: 75	True
+GSM8528691	geo:GSE277742:GSM8528691	disease_free_text	Poorly differentiated carcinoma	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528691	!Sample_characteristics_ch1 = pathology: Poorly differentiated carcinoma	True
+GSM8528691	geo:GSE277742:GSM8528691	tissue_free_text	Lymph nodes	file	raw/fp-a2ed6ccd0fb4/GSE277742_family.soft.gz	GSM8528691	!Sample_characteristics_ch1 = tissue: Lymph nodes	True

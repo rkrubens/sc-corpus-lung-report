@@ -1,0 +1,15 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+geomx_aois	geo:GSE305762:geomx_aois	donor_id	<column patient_id>	column	work/fp-a53e2cc87599/geomx_aoi_reconciled.csv/patient_id			True
+geomx_aois	geo:GSE305762:geomx_aois	sex_ontology_term_id	<column sex>	column	work/fp-a53e2cc87599/geomx_aoi_reconciled.csv/sex			True
+geomx_aois	geo:GSE305762:geomx_aois	sampled_site_condition	<column component2>	column	work/fp-a53e2cc87599/geomx_aoi_reconciled.csv/component2			True
+geomx_aois	geo:GSE305762:geomx_aois	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+geomx_aois	geo:GSE305762:geomx_aois	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+geomx_aois	geo:GSE305762:geomx_aois	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+		organism	Homo sapiens	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+geomx_aois	geo:GSE305762:geomx_aois	disease_free_text	Lung squamous cell carcinoma associated with idiopathic pulmonary fibrosis	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		!Sample_source_name_ch1 = Lung squamous cell carcinoma associated with idiopathic pulmonary fibrosis	True
+geomx_aois	geo:GSE305762:geomx_aois	disease_ontology_term_id	lung squamous cell carcinoma	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		!Sample_source_name_ch1 = Lung squamous cell carcinoma associated with idiopathic pulmonary fibrosis	True
+geomx_aois	geo:GSE305762:geomx_aois	tissue_free_text	FFPE lung specimens	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		FFPE lung specimens from six patients	True
+geomx_aois	geo:GSE305762:geomx_aois	tissue_ontology_term_id	lung	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		FFPE lung specimens from six patients	True
+geomx_aois	geo:GSE305762:geomx_aois	sample_collection_method	surgical resection	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		!Sample_characteristics_ch1 = treatment: surgical resection	True
+geomx_aois	geo:GSE305762:geomx_aois	sample_preservation	FFPE	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		FFPE lung specimens from six patients	True
+geomx_aois	geo:GSE305762:geomx_aois	suspension_type	na	file	raw/fp-a53e2cc87599/GSE305762_family.soft.gz		A total of 52 ROIs were profiled	True

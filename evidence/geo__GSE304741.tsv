@@ -1,0 +1,112 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9156070	geo:GSE304741:GSM9156070	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156070	geo:GSE304741:GSM9156070	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156070	geo:GSE304741:GSM9156070	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156070	geo:GSE304741:GSM9156070	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156070	geo:GSE304741:GSM9156070	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 1	True
+GSM9156070	geo:GSE304741:GSM9156070	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156070	geo:GSE304741:GSM9156070	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	Nuclei were isolated according to protocol	True
+GSM9156070	geo:GSE304741:GSM9156070	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156070	geo:GSE304741:GSM9156070	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156072	geo:GSE304741:GSM9156072	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156072	geo:GSE304741:GSM9156072	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156072	geo:GSE304741:GSM9156072	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156072	geo:GSE304741:GSM9156072	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156072	geo:GSE304741:GSM9156072	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 2	True
+GSM9156072	geo:GSE304741:GSM9156072	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156072	geo:GSE304741:GSM9156072	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	Nuclei were isolated according to protocol	True
+GSM9156072	geo:GSE304741:GSM9156072	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156072	geo:GSE304741:GSM9156072	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156074	geo:GSE304741:GSM9156074	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156074	geo:GSE304741:GSM9156074	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156074	geo:GSE304741:GSM9156074	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156074	geo:GSE304741:GSM9156074	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156074	geo:GSE304741:GSM9156074	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 3	True
+GSM9156074	geo:GSE304741:GSM9156074	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156074	geo:GSE304741:GSM9156074	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	Nuclei were isolated according to protocol	True
+GSM9156074	geo:GSE304741:GSM9156074	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156074	geo:GSE304741:GSM9156074	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156076	geo:GSE304741:GSM9156076	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156076	geo:GSE304741:GSM9156076	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156076	geo:GSE304741:GSM9156076	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156076	geo:GSE304741:GSM9156076	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156076	geo:GSE304741:GSM9156076	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 4	True
+GSM9156076	geo:GSE304741:GSM9156076	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156076	geo:GSE304741:GSM9156076	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	Nuclei were isolated according to protocol	True
+GSM9156076	geo:GSE304741:GSM9156076	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156076	geo:GSE304741:GSM9156076	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156078	geo:GSE304741:GSM9156078	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156078	geo:GSE304741:GSM9156078	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156078	geo:GSE304741:GSM9156078	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156078	geo:GSE304741:GSM9156078	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156078	geo:GSE304741:GSM9156078	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 5	True
+GSM9156078	geo:GSE304741:GSM9156078	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156078	geo:GSE304741:GSM9156078	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	Nuclei were isolated according to protocol	True
+GSM9156078	geo:GSE304741:GSM9156078	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156078	geo:GSE304741:GSM9156078	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156080	geo:GSE304741:GSM9156080	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156080	geo:GSE304741:GSM9156080	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156080	geo:GSE304741:GSM9156080	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156080	geo:GSE304741:GSM9156080	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156080	geo:GSE304741:GSM9156080	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 6	True
+GSM9156080	geo:GSE304741:GSM9156080	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156080	geo:GSE304741:GSM9156080	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	Nuclei were isolated according to protocol	True
+GSM9156080	geo:GSE304741:GSM9156080	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156080	geo:GSE304741:GSM9156080	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156082	geo:GSE304741:GSM9156082	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156082	geo:GSE304741:GSM9156082	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156082	geo:GSE304741:GSM9156082	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156082	geo:GSE304741:GSM9156082	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156082	geo:GSE304741:GSM9156082	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 7	True
+GSM9156082	geo:GSE304741:GSM9156082	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156082	geo:GSE304741:GSM9156082	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	Nuclei were isolated according to protocol	True
+GSM9156082	geo:GSE304741:GSM9156082	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156082	geo:GSE304741:GSM9156082	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156084	geo:GSE304741:GSM9156084	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156084	geo:GSE304741:GSM9156084	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156084	geo:GSE304741:GSM9156084	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156084	geo:GSE304741:GSM9156084	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156084	geo:GSE304741:GSM9156084	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 8	True
+GSM9156084	geo:GSE304741:GSM9156084	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156084	geo:GSE304741:GSM9156084	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	Nuclei were isolated according to protocol	True
+GSM9156084	geo:GSE304741:GSM9156084	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156084	geo:GSE304741:GSM9156084	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156086	geo:GSE304741:GSM9156086	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156086	geo:GSE304741:GSM9156086	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156086	geo:GSE304741:GSM9156086	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156086	geo:GSE304741:GSM9156086	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156086	geo:GSE304741:GSM9156086	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 9	True
+GSM9156086	geo:GSE304741:GSM9156086	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156086	geo:GSE304741:GSM9156086	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	Nuclei were isolated according to protocol	True
+GSM9156086	geo:GSE304741:GSM9156086	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156086	geo:GSE304741:GSM9156086	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156088	geo:GSE304741:GSM9156088	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156088	geo:GSE304741:GSM9156088	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156088	geo:GSE304741:GSM9156088	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156088	geo:GSE304741:GSM9156088	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156088	geo:GSE304741:GSM9156088	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 10	True
+GSM9156088	geo:GSE304741:GSM9156088	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156088	geo:GSE304741:GSM9156088	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	Nuclei were isolated according to protocol	True
+GSM9156088	geo:GSE304741:GSM9156088	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156088	geo:GSE304741:GSM9156088	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156090	geo:GSE304741:GSM9156090	tissue_free_text	lung tumor, NSCLC	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156090	geo:GSE304741:GSM9156090	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156090	geo:GSE304741:GSM9156090	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156090	geo:GSE304741:GSM9156090	disease_ontology_term_id	MONDO:0005233	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_source_name_ch1 = lung tumor, NSCLC	True
+GSM9156090	geo:GSE304741:GSM9156090	treatment_status	treatment-naive	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_title = CD56⁺ NK and T cells sorted from treatment-naive NSCLC, GEX, rep 11	True
+GSM9156090	geo:GSE304741:GSM9156090	cell_enrichment	sorted CD56+ NK and T cells	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_characteristics_ch1 = cell type: CD56⁺ NK and T cell	True
+GSM9156090	geo:GSE304741:GSM9156090	suspension_type	nucleus	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	Nuclei were isolated according to protocol	True
+GSM9156090	geo:GSE304741:GSM9156090	gene_annotation_version	GRCh38-2020-A-2.0.0	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156090	geo:GSE304741:GSM9156090	tissue_type	tissue	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_characteristics_ch1 = tissue: lung tumor, NSCLC	True
+GSM9156070	geo:GSE304741:GSM9156070	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156070	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156072	geo:GSE304741:GSM9156072	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156072	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156074	geo:GSE304741:GSM9156074	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156074	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156076	geo:GSE304741:GSM9156076	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156076	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156078	geo:GSE304741:GSM9156078	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156078	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156080	geo:GSE304741:GSM9156080	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156080	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156082	geo:GSE304741:GSM9156082	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156082	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156084	geo:GSE304741:GSM9156084	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156084	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156086	geo:GSE304741:GSM9156086	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156086	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156088	geo:GSE304741:GSM9156088	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156088	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True
+GSM9156090	geo:GSE304741:GSM9156090	atac.genome_assembly	GRCh38	file	raw/fp-c7fbfaee1807/GSE304741_family.soft.gz	GSM9156090	!Sample_data_processing = Assembly: GRCh38-2020-A-2.0.0	True

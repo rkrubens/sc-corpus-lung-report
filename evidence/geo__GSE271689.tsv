@@ -1,0 +1,9 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	disease_free_text	non-small cell lung cancer	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		We studied two independent cohorts of advanced NSCLC tissue samples	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	disease_ontology_term_id	MONDO:0005233	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		We studied two independent cohorts of advanced NSCLC tissue samples	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	tissue_free_text	Lung Cancer	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung Cancer	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	tissue_type	tissue	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung Cancer	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	suspension_type	na	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		TMA slides were processed using the Nanostring GeoMx DSP manual slide preparation	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	sample_preservation	FFPE	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		Antigen retrieval of the FFPE tissue was performed	True
+geomx_target_counts	geo:GSE271689:geomx_target_counts	treatment	first-line immunotherapy	file	raw/fp-09eaf0d8af3a/GSE271689_family.soft.gz		NSCLC samples from patients undergoing first-line immunotherapy	True

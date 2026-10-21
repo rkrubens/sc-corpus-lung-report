@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8730206	geo:GSE286779:GSM8730206	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM8730206	geo:GSE286779:GSM8730206	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8730206	geo:GSE286779:GSM8730206	tissue_ontology_term_id	UBERON:0002171	derived	ols:uberon		lower lobe of right lung	True
+GSM8730206	geo:GSE286779:GSM8730206	disease_ontology_term_id	MONDO:0004849	derived	ols:mondo		pulmonary emphysema	True
+		organism	Homo sapiens	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8730206	geo:GSE286779:GSM8730206	donor_id	ENCDO520EJG	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		donor_id: ENCDO520EJG	True
+GSM8730206	geo:GSE286779:GSM8730206	sex	male	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		Sex: male	True
+GSM8730206	geo:GSE286779:GSM8730206	age	60	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		age: 60 year	True
+GSM8730206	geo:GSE286779:GSM8730206	tissue_free_text	lower lobe of right lung	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		tissue_type: lower lobe of right lung	True
+GSM8730206	geo:GSE286779:GSM8730206	tissue_type	tissue	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		biomaterial_type: tissue	True
+GSM8730206	geo:GSE286779:GSM8730206	disease_free_text	pulmonary emphysema	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		lungs with severe emphysema	True
+GSM8730206	geo:GSE286779:GSM8730206	suspension_type	nucleus	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		subcellular fraction term name: nucleus	True
+GSM8730206	geo:GSE286779:GSM8730206	sample_preservation	flash-frozen	file	raw/fp-1f03e680feab/GSE286779_family.soft.gz		preserved by flash-freezing nuclear fraction	True

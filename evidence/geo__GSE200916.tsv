@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6046651	geo:GSE200916:GSM6046651	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046652	geo:GSE200916:GSM6046652	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046653	geo:GSE200916:GSM6046653	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046654	geo:GSE200916:GSM6046654	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046655	geo:GSE200916:GSM6046655	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046656	geo:GSE200916:GSM6046656	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046657	geo:GSE200916:GSM6046657	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046658	geo:GSE200916:GSM6046658	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046659	geo:GSE200916:GSM6046659	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046660	geo:GSE200916:GSM6046660	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046661	geo:GSE200916:GSM6046661	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM6046662	geo:GSE200916:GSM6046662	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+		organism	Homo sapiens	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6046651	geo:GSE200916:GSM6046651	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046651	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046652	geo:GSE200916:GSM6046652	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046652	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046653	geo:GSE200916:GSM6046653	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046653	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046654	geo:GSE200916:GSM6046654	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046654	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046655	geo:GSE200916:GSM6046655	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046655	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046656	geo:GSE200916:GSM6046656	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046656	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046657	geo:GSE200916:GSM6046657	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046657	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046658	geo:GSE200916:GSM6046658	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046658	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046659	geo:GSE200916:GSM6046659	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046659	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046660	geo:GSE200916:GSM6046660	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046660	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046661	geo:GSE200916:GSM6046661	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046661	!Sample_characteristics_ch1 = disease state: lung cancer	True
+GSM6046662	geo:GSE200916:GSM6046662	disease_free_text	lung cancer	file	raw/fp-9c11c5ae6706/GSE200916_family.soft.gz	GSM6046662	!Sample_characteristics_ch1 = disease state: lung cancer	True

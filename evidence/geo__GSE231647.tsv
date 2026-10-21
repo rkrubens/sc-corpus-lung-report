@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7295187	geo:GSE231647:GSM7295187	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 years old	True
+GSM7295187	geo:GSE231647:GSM7295187	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7295188	geo:GSE231647:GSM7295188	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 years old	True
+GSM7295188	geo:GSE231647:GSM7295188	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7295189	geo:GSE231647:GSM7295189	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 years old	True
+GSM7295189	geo:GSE231647:GSM7295189	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM7295190	geo:GSE231647:GSM7295190	development_stage_ontology_term_id	HsapDv:0000112	derived	age_in_years:'18-year-old stage':ols:hsapdv		18 years old	True
+GSM7295190	geo:GSE231647:GSM7295190	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7295187	geo:GSE231647:GSM7295187	age	18 years old	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295187	!Sample_characteristics_ch1 = age: 18 years old	True
+GSM7295187	geo:GSE231647:GSM7295187	tissue_free_text	Lung	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295187	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7295187	geo:GSE231647:GSM7295187	treatment	34 days post paraquat-poisoning	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295187	!Sample_characteristics_ch1 = treatment: 34 days post paraquat-poisoning	True
+GSM7295188	geo:GSE231647:GSM7295188	age	18 years old	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295188	!Sample_characteristics_ch1 = age: 18 years old	True
+GSM7295188	geo:GSE231647:GSM7295188	tissue_free_text	Lung	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295188	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7295188	geo:GSE231647:GSM7295188	treatment	34 days post paraquat-poisoning	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295188	!Sample_characteristics_ch1 = treatment: 34 days post paraquat-poisoning	True
+GSM7295189	geo:GSE231647:GSM7295189	age	18 years old	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295189	!Sample_characteristics_ch1 = age: 18 years old	True
+GSM7295189	geo:GSE231647:GSM7295189	tissue_free_text	Lung	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295189	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7295189	geo:GSE231647:GSM7295189	treatment	34 days post paraquat-poisoning	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295189	!Sample_characteristics_ch1 = treatment: 34 days post paraquat-poisoning	True
+GSM7295190	geo:GSE231647:GSM7295190	age	18 years old	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295190	!Sample_characteristics_ch1 = age: 18 years old	True
+GSM7295190	geo:GSE231647:GSM7295190	tissue_free_text	Lung	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295190	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7295190	geo:GSE231647:GSM7295190	treatment	34 days post paraquat-poisoning	file	raw/fp-126ff9f9cb4e/GSE231647_family.soft.gz	GSM7295190	!Sample_characteristics_ch1 = treatment: 34 days post paraquat-poisoning	True

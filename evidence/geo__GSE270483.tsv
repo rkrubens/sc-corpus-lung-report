@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8343695	geo:GSE270483:GSM8343695	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343695	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343696	geo:GSE270483:GSM8343696	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343696	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343697	geo:GSE270483:GSM8343697	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343697	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343698	geo:GSE270483:GSM8343698	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343698	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343699	geo:GSE270483:GSM8343699	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343699	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343700	geo:GSE270483:GSM8343700	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343700	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343701	geo:GSE270483:GSM8343701	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343701	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True
+GSM8343702	geo:GSE270483:GSM8343702	tissue_free_text	pulmonary endoatherectomy	file	raw/fp-3a2f37a2c135/GSE270483_family.soft.gz	GSM8343702	!Sample_characteristics_ch1 = tissue: pulmonary endoatherectomy	True

@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9485172	geo:GSE318039:GSM9485172	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485173	geo:GSE318039:GSM9485173	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485174	geo:GSE318039:GSM9485174	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485175	geo:GSE318039:GSM9485175	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485176	geo:GSE318039:GSM9485176	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485177	geo:GSE318039:GSM9485177	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485178	geo:GSE318039:GSM9485178	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9485179	geo:GSE318039:GSM9485179	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9485172	geo:GSE318039:GSM9485172	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485172	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485172	geo:GSE318039:GSM9485172	disease_free_text	healthy donor	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485172	!Sample_characteristics_ch1 = phenotype: healthy donor	True
+GSM9485173	geo:GSE318039:GSM9485173	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485173	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485173	geo:GSE318039:GSM9485173	disease_free_text	healthy donor	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485173	!Sample_characteristics_ch1 = phenotype: healthy donor	True
+GSM9485174	geo:GSE318039:GSM9485174	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485174	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485174	geo:GSE318039:GSM9485174	disease_free_text	healthy donor	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485174	!Sample_characteristics_ch1 = phenotype: healthy donor	True
+GSM9485175	geo:GSE318039:GSM9485175	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485175	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485175	geo:GSE318039:GSM9485175	disease_free_text	COPD	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485175	!Sample_characteristics_ch1 = phenotype: COPD	True
+GSM9485176	geo:GSE318039:GSM9485176	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485176	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485176	geo:GSE318039:GSM9485176	disease_free_text	COPD	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485176	!Sample_characteristics_ch1 = phenotype: COPD	True
+GSM9485177	geo:GSE318039:GSM9485177	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485177	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485177	geo:GSE318039:GSM9485177	disease_free_text	COPD	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485177	!Sample_characteristics_ch1 = phenotype: COPD	True
+GSM9485178	geo:GSE318039:GSM9485178	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485178	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485178	geo:GSE318039:GSM9485178	disease_free_text	COPD	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485178	!Sample_characteristics_ch1 = phenotype: COPD	True
+GSM9485179	geo:GSE318039:GSM9485179	tissue_free_text	lung	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485179	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9485179	geo:GSE318039:GSM9485179	disease_free_text	COPD	file	raw/fp-d82179d7d8ad/GSE318039_family.soft.gz	GSM9485179	!Sample_characteristics_ch1 = phenotype: COPD	True

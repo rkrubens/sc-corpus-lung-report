@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7978679	geo:GSE250404:GSM7978679	tissue_free_text	lung tissue	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978679	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM7978679	geo:GSE250404:GSM7978679	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978679	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM7978679	geo:GSE250404:GSM7978679	tissue_type	tissue	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978679	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM7978679	geo:GSE250404:GSM7978679	suspension_type	cell	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978679	!Sample_characteristics_ch1 = cell type: single-cell suspensions of lung tissue	True
+GSM7978679	geo:GSE250404:GSM7978679	disease_free_text	OP patient (organising pneumonia)	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978679	!Sample_characteristics_ch1 = disease: OP patient	True
+GSM7978680	geo:GSE250404:GSM7978680	tissue_free_text	lung tissue	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978680	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM7978680	geo:GSE250404:GSM7978680	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978680	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM7978680	geo:GSE250404:GSM7978680	tissue_type	tissue	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978680	!Sample_characteristics_ch1 = tissue: lung tissue	True
+GSM7978680	geo:GSE250404:GSM7978680	suspension_type	cell	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978680	!Sample_characteristics_ch1 = cell type: single-cell suspensions of lung tissue	True
+GSM7978680	geo:GSE250404:GSM7978680	disease_free_text	healthy	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978680	!Sample_characteristics_ch1 = disease: healthy	True
+GSM7978680	geo:GSE250404:GSM7978680	disease_ontology_term_id	PATO:0000461	file	raw/fp-bcec1b9d1373/GSE250404_family.soft.gz	GSM7978680	!Sample_characteristics_ch1 = disease: healthy	True
+GSM7978680	geo:GSE250404:GSM7978680	disease_ontology_term_id	PATO:0000461	file	evidence/PMC11290555.txt		one healthy control (HC) who was not pregnant and without tuberculosis or other lung diseases	True

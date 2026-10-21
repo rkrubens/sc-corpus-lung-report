@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9358871	geo:GSE313006:GSM9358871	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9358872	geo:GSE313006:GSM9358872	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9358873	geo:GSE313006:GSM9358873	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9358874	geo:GSE313006:GSM9358874	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9358871	geo:GSE313006:GSM9358871	disease_free_text	COPD	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358871	!Sample_characteristics_ch1 = disease: COPD	True
+GSM9358871	geo:GSE313006:GSM9358871	tissue_free_text	lung	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358871	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9358872	geo:GSE313006:GSM9358872	disease_free_text	COPD	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358872	!Sample_characteristics_ch1 = disease: COPD	True
+GSM9358872	geo:GSE313006:GSM9358872	tissue_free_text	lung	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358872	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9358873	geo:GSE313006:GSM9358873	disease_free_text	COPD	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358873	!Sample_characteristics_ch1 = disease: COPD	True
+GSM9358873	geo:GSE313006:GSM9358873	tissue_free_text	lung	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358873	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9358874	geo:GSE313006:GSM9358874	disease_free_text	COPD	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358874	!Sample_characteristics_ch1 = disease: COPD	True
+GSM9358874	geo:GSE313006:GSM9358874	tissue_free_text	lung	file	raw/fp-834a25c0bbe7/GSE313006_family.soft.gz	GSM9358874	!Sample_characteristics_ch1 = tissue: lung	True

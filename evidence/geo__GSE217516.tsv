@@ -1,0 +1,32 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6720919	geo:GSE217516:GSM6720919	development_stage_ontology_term_id	HsapDv:0000208	derived	age_in_years:'82-year-old stage':ols:hsapdv		82	True
+GSM6720919	geo:GSE217516:GSM6720919	disease_ontology_term_id	MONDO:0004822	derived	ols:mondo		bronchiectasis	True
+GSM6720920	geo:GSE217516:GSM6720920	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM6720920	geo:GSE217516:GSM6720920	disease_ontology_term_id	MONDO:0004822	derived	ols:mondo		bronchiectasis	True
+GSM6720921	geo:GSE217516:GSM6720921	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+GSM6720921	geo:GSE217516:GSM6720921	disease_ontology_term_id	MONDO:0004822	derived	ols:mondo		bronchiectasis	True
+GSM6720922	geo:GSE217516:GSM6720922	development_stage_ontology_term_id	HsapDv:0000134	derived	age_in_years:'40-year-old stage':ols:hsapdv		40	True
+GSM6720922	geo:GSE217516:GSM6720922	disease_ontology_term_id	MONDO:0004822	derived	ols:mondo		bronchiectasis	True
+GSM6720923	geo:GSE217516:GSM6720923	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM6720923	geo:GSE217516:GSM6720923	disease_ontology_term_id	MONDO:0004822	derived	ols:mondo		bronchiectasis	True
+GSM6720924	geo:GSE217516:GSM6720924	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6720924	geo:GSE217516:GSM6720924	disease_ontology_term_id	MONDO:0004822	derived	ols:mondo		bronchiectasis	True
+		organism	Homo sapiens	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6720919	geo:GSE217516:GSM6720919	age	82	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720919	!Sample_characteristics_ch1 = age: 82	True
+GSM6720919	geo:GSE217516:GSM6720919	disease_free_text	bronchiectasis	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720919	!Sample_characteristics_ch1 = disease state: bronchiectasis	True
+GSM6720919	geo:GSE217516:GSM6720919	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720919	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM6720920	geo:GSE217516:GSM6720920	age	71	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720920	!Sample_characteristics_ch1 = age: 71	True
+GSM6720920	geo:GSE217516:GSM6720920	disease_free_text	bronchiectasis	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720920	!Sample_characteristics_ch1 = disease state: bronchiectasis	True
+GSM6720920	geo:GSE217516:GSM6720920	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720920	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM6720921	geo:GSE217516:GSM6720921	age	75	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720921	!Sample_characteristics_ch1 = age: 75	True
+GSM6720921	geo:GSE217516:GSM6720921	disease_free_text	bronchiectasis	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720921	!Sample_characteristics_ch1 = disease state: bronchiectasis	True
+GSM6720921	geo:GSE217516:GSM6720921	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720921	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM6720922	geo:GSE217516:GSM6720922	age	40	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720922	!Sample_characteristics_ch1 = age: 40	True
+GSM6720922	geo:GSE217516:GSM6720922	disease_free_text	bronchiectasis	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720922	!Sample_characteristics_ch1 = disease state: bronchiectasis	True
+GSM6720922	geo:GSE217516:GSM6720922	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720922	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM6720923	geo:GSE217516:GSM6720923	age	71	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720923	!Sample_characteristics_ch1 = age: 71	True
+GSM6720923	geo:GSE217516:GSM6720923	disease_free_text	bronchiectasis	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720923	!Sample_characteristics_ch1 = disease state: bronchiectasis	True
+GSM6720923	geo:GSE217516:GSM6720923	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720923	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM6720924	geo:GSE217516:GSM6720924	age	66	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720924	!Sample_characteristics_ch1 = age: 66	True
+GSM6720924	geo:GSE217516:GSM6720924	disease_free_text	bronchiectasis	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720924	!Sample_characteristics_ch1 = disease state: bronchiectasis	True
+GSM6720924	geo:GSE217516:GSM6720924	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-70e67edfff3e/GSE217516_family.soft.gz	GSM6720924	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True

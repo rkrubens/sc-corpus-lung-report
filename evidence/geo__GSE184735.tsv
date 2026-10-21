@@ -1,0 +1,23 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5596665	geo:GSE184735:GSM5596665	disease_ontology_term_id	MONDO:0015274	derived	ols:mondo		Chronic Beryllium Disease	True
+GSM5596666	geo:GSE184735:GSM5596666	disease_ontology_term_id	MONDO:0015274	derived	ols:mondo		Chronic Beryllium Disease	True
+GSM5596672	geo:GSE184735:GSM5596672	disease_ontology_term_id	MONDO:0015274	derived	ols:mondo		Chronic Beryllium Disease	True
+		organism	Homo sapiens	file	raw/fp-d135715a8534/GSE184735_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5596664	geo:GSE184735:GSM5596664	disease_free_text	Non-diseased	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596664	!Sample_characteristics_ch1 = diagnosis: Non-diseased	True
+GSM5596664	geo:GSE184735:GSM5596664	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596664	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596665	geo:GSE184735:GSM5596665	disease_free_text	Chronic Beryllium Disease	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596665	!Sample_characteristics_ch1 = diagnosis: Chronic Beryllium Disease	True
+GSM5596665	geo:GSE184735:GSM5596665	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596665	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596666	geo:GSE184735:GSM5596666	disease_free_text	Chronic Beryllium Disease	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596666	!Sample_characteristics_ch1 = diagnosis: Chronic Beryllium Disease	True
+GSM5596666	geo:GSE184735:GSM5596666	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596666	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596667	geo:GSE184735:GSM5596667	disease_free_text	Progressive Sarcoidosis	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596667	!Sample_characteristics_ch1 = diagnosis: Progressive Sarcoidosis	True
+GSM5596667	geo:GSE184735:GSM5596667	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596667	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596668	geo:GSE184735:GSM5596668	disease_free_text	Progressive Sarcoidosis	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596668	!Sample_characteristics_ch1 = diagnosis: Progressive Sarcoidosis	True
+GSM5596668	geo:GSE184735:GSM5596668	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596668	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596669	geo:GSE184735:GSM5596669	disease_free_text	Non-progressive Sarcoidosis	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596669	!Sample_characteristics_ch1 = diagnosis: Non-progressive Sarcoidosis	True
+GSM5596669	geo:GSE184735:GSM5596669	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596669	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596670	geo:GSE184735:GSM5596670	disease_free_text	Non-progressive Sarcoidosis	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596670	!Sample_characteristics_ch1 = diagnosis: Non-progressive Sarcoidosis	True
+GSM5596670	geo:GSE184735:GSM5596670	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596670	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596671	geo:GSE184735:GSM5596671	disease_free_text	Non-diseased	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596671	!Sample_characteristics_ch1 = diagnosis: Non-diseased	True
+GSM5596671	geo:GSE184735:GSM5596671	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596671	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5596672	geo:GSE184735:GSM5596672	disease_free_text	Chronic Beryllium Disease	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596672	!Sample_characteristics_ch1 = diagnosis: Chronic Beryllium Disease	True
+GSM5596672	geo:GSE184735:GSM5596672	tissue_free_text	bronchoalveolar lavage	file	raw/fp-d135715a8534/GSE184735_family.soft.gz	GSM5596672	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True

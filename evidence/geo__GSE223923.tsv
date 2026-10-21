@@ -1,0 +1,6 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-dc4ac21fa98c/GSE223923_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7006822	geo:GSE223923:GSM7006822	tissue_free_text	Lung adenocarcinoa	file	raw/fp-dc4ac21fa98c/GSE223923_family.soft.gz	GSM7006822	!Sample_characteristics_ch1 = tissue: Lung adenocarcinoa	True
+GSM7006823	geo:GSE223923:GSM7006823	tissue_free_text	Lung adenocarcinoa	file	raw/fp-dc4ac21fa98c/GSE223923_family.soft.gz	GSM7006823	!Sample_characteristics_ch1 = tissue: Lung adenocarcinoa	True
+GSM7006824	geo:GSE223923:GSM7006824	tissue_free_text	Lung adenocarcinoa	file	raw/fp-dc4ac21fa98c/GSE223923_family.soft.gz	GSM7006824	!Sample_characteristics_ch1 = tissue: Lung adenocarcinoa	True
+GSM7006825	geo:GSE223923:GSM7006825	tissue_free_text	Lung adenocarcinoa	file	raw/fp-dc4ac21fa98c/GSE223923_family.soft.gz	GSM7006825	!Sample_characteristics_ch1 = tissue: Lung adenocarcinoa	True

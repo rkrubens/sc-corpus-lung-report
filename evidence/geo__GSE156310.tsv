@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4728858	geo:GSE156310:GSM4728858	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM4728859	geo:GSE156310:GSM4728859	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-f99079d01e39/GSE156310_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4728858	geo:GSE156310:GSM4728858	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-f99079d01e39/GSE156310_family.soft.gz	GSM4728858	!Sample_characteristics_ch1 = disease: Idiopathic pulmonary fibrosis (IPF)	True
+GSM4728858	geo:GSE156310:GSM4728858	tissue_free_text	Lung	file	raw/fp-f99079d01e39/GSE156310_family.soft.gz	GSM4728858	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM4728859	geo:GSE156310:GSM4728859	disease_free_text	Idiopathic pulmonary fibrosis (IPF)	file	raw/fp-f99079d01e39/GSE156310_family.soft.gz	GSM4728859	!Sample_characteristics_ch1 = disease: Idiopathic pulmonary fibrosis (IPF)	True
+GSM4728859	geo:GSE156310:GSM4728859	tissue_free_text	Lung	file	raw/fp-f99079d01e39/GSE156310_family.soft.gz	GSM4728859	!Sample_characteristics_ch1 = tissue: Lung	True

@@ -1,0 +1,32 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9769651	geo:GSE333596:GSM9769651	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9769652	geo:GSE333596:GSM9769652	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9769653	geo:GSE333596:GSM9769653	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9769654	geo:GSE333596:GSM9769654	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9769656	geo:GSE333596:GSM9769656	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9769658	geo:GSE333596:GSM9769658	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9769647	geo:GSE333596:GSM9769647	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769647	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769647	geo:GSE333596:GSM9769647	tissue_free_text	lung tumor	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769647	!Sample_characteristics_ch1 = tissue: lung tumor	True
+GSM9769648	geo:GSE333596:GSM9769648	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769648	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769648	geo:GSE333596:GSM9769648	tissue_free_text	lung tumor	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769648	!Sample_characteristics_ch1 = tissue: lung tumor	True
+GSM9769649	geo:GSE333596:GSM9769649	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769649	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769649	geo:GSE333596:GSM9769649	tissue_free_text	lung tumor	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769649	!Sample_characteristics_ch1 = tissue: lung tumor	True
+GSM9769650	geo:GSE333596:GSM9769650	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769650	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769650	geo:GSE333596:GSM9769650	tissue_free_text	lung tumor	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769650	!Sample_characteristics_ch1 = tissue: lung tumor	True
+GSM9769651	geo:GSE333596:GSM9769651	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769651	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769651	geo:GSE333596:GSM9769651	tissue_free_text	lung	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769651	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9769652	geo:GSE333596:GSM9769652	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769652	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769652	geo:GSE333596:GSM9769652	tissue_free_text	lung	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769652	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9769653	geo:GSE333596:GSM9769653	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769653	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769653	geo:GSE333596:GSM9769653	tissue_free_text	lung	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769653	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9769654	geo:GSE333596:GSM9769654	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769654	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769654	geo:GSE333596:GSM9769654	tissue_free_text	lung	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769654	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9769655	geo:GSE333596:GSM9769655	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769655	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769655	geo:GSE333596:GSM9769655	tissue_free_text	lung tumor	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769655	!Sample_characteristics_ch1 = tissue: lung tumor	True
+GSM9769656	geo:GSE333596:GSM9769656	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769656	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769656	geo:GSE333596:GSM9769656	tissue_free_text	lung	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769656	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9769657	geo:GSE333596:GSM9769657	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769657	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769657	geo:GSE333596:GSM9769657	tissue_free_text	lung tumor	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769657	!Sample_characteristics_ch1 = tissue: lung tumor	True
+GSM9769658	geo:GSE333596:GSM9769658	disease_free_text	LUAD	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769658	!Sample_characteristics_ch1 = disease state: LUAD	True
+GSM9769658	geo:GSE333596:GSM9769658	tissue_free_text	lung	file	raw/fp-823b7e6b4a1f/GSE333596_family.soft.gz	GSM9769658	!Sample_characteristics_ch1 = tissue: lung	True

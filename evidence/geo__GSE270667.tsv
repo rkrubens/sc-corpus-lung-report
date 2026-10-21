@@ -1,0 +1,80 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8349737	geo:GSE270667:GSM8349737	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349737	geo:GSE270667:GSM8349737	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM8349737	geo:GSE270667:GSM8349737	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349738	geo:GSE270667:GSM8349738	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349738	geo:GSE270667:GSM8349738	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM8349738	geo:GSE270667:GSM8349738	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349739	geo:GSE270667:GSM8349739	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349739	geo:GSE270667:GSM8349739	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM8349739	geo:GSE270667:GSM8349739	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349740	geo:GSE270667:GSM8349740	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349740	geo:GSE270667:GSM8349740	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM8349740	geo:GSE270667:GSM8349740	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349741	geo:GSE270667:GSM8349741	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349741	geo:GSE270667:GSM8349741	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM8349741	geo:GSE270667:GSM8349741	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349742	geo:GSE270667:GSM8349742	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349742	geo:GSE270667:GSM8349742	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM8349742	geo:GSE270667:GSM8349742	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349743	geo:GSE270667:GSM8349743	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8349743	geo:GSE270667:GSM8349743	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8349743	geo:GSE270667:GSM8349743	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349744	geo:GSE270667:GSM8349744	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM8349744	geo:GSE270667:GSM8349744	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8349744	geo:GSE270667:GSM8349744	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349745	geo:GSE270667:GSM8349745	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349745	geo:GSE270667:GSM8349745	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8349745	geo:GSE270667:GSM8349745	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349746	geo:GSE270667:GSM8349746	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349746	geo:GSE270667:GSM8349746	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM8349746	geo:GSE270667:GSM8349746	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349747	geo:GSE270667:GSM8349747	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349747	geo:GSE270667:GSM8349747	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8349747	geo:GSE270667:GSM8349747	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8349748	geo:GSE270667:GSM8349748	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM8349748	geo:GSE270667:GSM8349748	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM8349748	geo:GSE270667:GSM8349748	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8349737	geo:GSE270667:GSM8349737	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349737	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349737	geo:GSE270667:GSM8349737	age	57	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349737	!Sample_characteristics_ch1 = age: 57	True
+GSM8349737	geo:GSE270667:GSM8349737	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349737	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349738	geo:GSE270667:GSM8349738	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349738	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349738	geo:GSE270667:GSM8349738	age	57	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349738	!Sample_characteristics_ch1 = age: 57	True
+GSM8349738	geo:GSE270667:GSM8349738	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349738	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349739	geo:GSE270667:GSM8349739	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349739	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349739	geo:GSE270667:GSM8349739	age	67	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349739	!Sample_characteristics_ch1 = age: 67	True
+GSM8349739	geo:GSE270667:GSM8349739	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349739	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349740	geo:GSE270667:GSM8349740	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349740	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349740	geo:GSE270667:GSM8349740	age	67	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349740	!Sample_characteristics_ch1 = age: 67	True
+GSM8349740	geo:GSE270667:GSM8349740	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349740	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349741	geo:GSE270667:GSM8349741	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349741	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349741	geo:GSE270667:GSM8349741	age	62	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349741	!Sample_characteristics_ch1 = age: 62	True
+GSM8349741	geo:GSE270667:GSM8349741	disease_free_text	COPD	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349741	!Sample_characteristics_ch1 = disease: COPD	True
+GSM8349741	geo:GSE270667:GSM8349741	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349741	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349742	geo:GSE270667:GSM8349742	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349742	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349742	geo:GSE270667:GSM8349742	age	62	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349742	!Sample_characteristics_ch1 = age: 62	True
+GSM8349742	geo:GSE270667:GSM8349742	disease_free_text	COPD	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349742	!Sample_characteristics_ch1 = disease: COPD	True
+GSM8349742	geo:GSE270667:GSM8349742	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349742	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349743	geo:GSE270667:GSM8349743	sex	F	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349743	!Sample_characteristics_ch1 = Sex: F	True
+GSM8349743	geo:GSE270667:GSM8349743	age	63	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349743	!Sample_characteristics_ch1 = age: 63	True
+GSM8349743	geo:GSE270667:GSM8349743	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349743	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349744	geo:GSE270667:GSM8349744	sex	F	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349744	!Sample_characteristics_ch1 = Sex: F	True
+GSM8349744	geo:GSE270667:GSM8349744	age	63	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349744	!Sample_characteristics_ch1 = age: 63	True
+GSM8349744	geo:GSE270667:GSM8349744	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349744	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349745	geo:GSE270667:GSM8349745	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349745	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349745	geo:GSE270667:GSM8349745	age	65	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349745	!Sample_characteristics_ch1 = age: 65	True
+GSM8349745	geo:GSE270667:GSM8349745	disease_free_text	COPD	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349745	!Sample_characteristics_ch1 = disease: COPD	True
+GSM8349745	geo:GSE270667:GSM8349745	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349745	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349746	geo:GSE270667:GSM8349746	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349746	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349746	geo:GSE270667:GSM8349746	age	65	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349746	!Sample_characteristics_ch1 = age: 65	True
+GSM8349746	geo:GSE270667:GSM8349746	disease_free_text	COPD	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349746	!Sample_characteristics_ch1 = disease: COPD	True
+GSM8349746	geo:GSE270667:GSM8349746	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349746	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349747	geo:GSE270667:GSM8349747	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349747	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349747	geo:GSE270667:GSM8349747	age	60	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349747	!Sample_characteristics_ch1 = age: 60	True
+GSM8349747	geo:GSE270667:GSM8349747	disease_free_text	COPD	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349747	!Sample_characteristics_ch1 = disease: COPD	True
+GSM8349747	geo:GSE270667:GSM8349747	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349747	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8349748	geo:GSE270667:GSM8349748	sex	M	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349748	!Sample_characteristics_ch1 = Sex: M	True
+GSM8349748	geo:GSE270667:GSM8349748	age	60	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349748	!Sample_characteristics_ch1 = age: 60	True
+GSM8349748	geo:GSE270667:GSM8349748	disease_free_text	COPD	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349748	!Sample_characteristics_ch1 = disease: COPD	True
+GSM8349748	geo:GSE270667:GSM8349748	tissue_free_text	Lung	file	raw/fp-226302f7c4cd/GSE270667_family.soft.gz	GSM8349748	!Sample_characteristics_ch1 = tissue: Lung	True

@@ -1,0 +1,23 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9053607	geo:GSE300087:GSM9053607	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9053608	geo:GSE300087:GSM9053608	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9053609	geo:GSE300087:GSM9053609	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9053610	geo:GSE300087:GSM9053610	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9053611	geo:GSE300087:GSM9053611	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9053612	geo:GSE300087:GSM9053612	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9053613	geo:GSE300087:GSM9053613	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-db000c417add/GSE300087_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9053607	geo:GSE300087:GSM9053607	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053607	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053607	geo:GSE300087:GSM9053607	treatment	DMSO	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053607	!Sample_characteristics_ch1 = treatment: DMSO	True
+GSM9053608	geo:GSE300087:GSM9053608	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053608	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053608	geo:GSE300087:GSM9053608	treatment	EIPA	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053608	!Sample_characteristics_ch1 = treatment: EIPA	True
+GSM9053609	geo:GSE300087:GSM9053609	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053609	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053609	geo:GSE300087:GSM9053609	treatment	EIPA	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053609	!Sample_characteristics_ch1 = treatment: EIPA	True
+GSM9053610	geo:GSE300087:GSM9053610	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053610	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053610	geo:GSE300087:GSM9053610	treatment	DMSO	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053610	!Sample_characteristics_ch1 = treatment: DMSO	True
+GSM9053611	geo:GSE300087:GSM9053611	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053611	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053611	geo:GSE300087:GSM9053611	treatment	EIPA	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053611	!Sample_characteristics_ch1 = treatment: EIPA	True
+GSM9053612	geo:GSE300087:GSM9053612	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053612	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053612	geo:GSE300087:GSM9053612	treatment	DMSO	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053612	!Sample_characteristics_ch1 = treatment: DMSO	True
+GSM9053613	geo:GSE300087:GSM9053613	tissue_free_text	lung	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053613	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9053613	geo:GSE300087:GSM9053613	treatment	DMSO	file	raw/fp-db000c417add/GSE300087_family.soft.gz	GSM9053613	!Sample_characteristics_ch1 = treatment: DMSO	True

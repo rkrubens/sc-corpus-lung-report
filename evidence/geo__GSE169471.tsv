@@ -1,0 +1,27 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5206779	geo:GSE169471:GSM5206779	disease_ontology_term_id	MONDO:0001999	derived	ols:mondo		IPAH	True
+GSM5206780	geo:GSE169471:GSM5206780	disease_ontology_term_id	MONDO:0001999	derived	ols:mondo		IPAH	True
+GSM5206781	geo:GSE169471:GSM5206781	disease_ontology_term_id	MONDO:0001999	derived	ols:mondo		IPAH	True
+		organism	Homo sapiens	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5206779	geo:GSE169471:GSM5206779	disease_free_text	IPAH	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206779	!Sample_characteristics_ch1 = disease state: IPAH	True
+GSM5206779	geo:GSE169471:GSM5206779	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206779	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206780	geo:GSE169471:GSM5206780	disease_free_text	IPAH	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206780	!Sample_characteristics_ch1 = disease state: IPAH	True
+GSM5206780	geo:GSE169471:GSM5206780	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206780	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206781	geo:GSE169471:GSM5206781	disease_free_text	IPAH	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206781	!Sample_characteristics_ch1 = disease state: IPAH	True
+GSM5206781	geo:GSE169471:GSM5206781	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206781	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206782	geo:GSE169471:GSM5206782	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206782	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206782	geo:GSE169471:GSM5206782	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206782	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206783	geo:GSE169471:GSM5206783	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206783	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206783	geo:GSE169471:GSM5206783	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206783	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206784	geo:GSE169471:GSM5206784	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206784	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206784	geo:GSE169471:GSM5206784	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206784	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206785	geo:GSE169471:GSM5206785	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206785	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206785	geo:GSE169471:GSM5206785	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206785	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206786	geo:GSE169471:GSM5206786	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206786	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206786	geo:GSE169471:GSM5206786	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206786	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206787	geo:GSE169471:GSM5206787	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206787	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206787	geo:GSE169471:GSM5206787	tissue_free_text	whole lung	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206787	!Sample_characteristics_ch1 = tissue: whole lung	True
+GSM5206788	geo:GSE169471:GSM5206788	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206788	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206788	geo:GSE169471:GSM5206788	tissue_free_text	whole lung, lower lobe	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206788	!Sample_characteristics_ch1 = tissue: whole lung, lower lobe	True
+GSM5206789	geo:GSE169471:GSM5206789	disease_free_text	CONTROL	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206789	!Sample_characteristics_ch1 = disease state: CONTROL	True
+GSM5206789	geo:GSE169471:GSM5206789	tissue_free_text	whole lung, upper lobe	file	raw/fp-318f60ed907a/GSE169471_family.soft.gz	GSM5206789	!Sample_characteristics_ch1 = tissue: whole lung, upper lobe	True

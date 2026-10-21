@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7041480	geo:GSE225212:GSM7041480	sex_ontology_term_id	PATO:0000383	derived	sex_map		f	True
+GSM7041481	geo:GSE225212:GSM7041481	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+GSM7041482	geo:GSE225212:GSM7041482	sex_ontology_term_id	PATO:0000384	derived	sex_map		m	True
+		organism	Homo sapiens	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7041480	geo:GSE225212:GSM7041480	sex	f	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041480	!Sample_characteristics_ch1 = Sex: f	True
+GSM7041480	geo:GSE225212:GSM7041480	disease_free_text	-	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041480	!Sample_characteristics_ch1 = disease state: -	True
+GSM7041480	geo:GSE225212:GSM7041480	tissue_free_text	bone metastasis	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041480	!Sample_characteristics_ch1 = tissue: bone metastasis	True
+GSM7041481	geo:GSE225212:GSM7041481	sex	m	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041481	!Sample_characteristics_ch1 = Sex: m	True
+GSM7041481	geo:GSE225212:GSM7041481	disease_free_text	-	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041481	!Sample_characteristics_ch1 = disease state: -	True
+GSM7041481	geo:GSE225212:GSM7041481	tissue_free_text	bone metastasis	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041481	!Sample_characteristics_ch1 = tissue: bone metastasis	True
+GSM7041482	geo:GSE225212:GSM7041482	sex	m	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041482	!Sample_characteristics_ch1 = Sex: m	True
+GSM7041482	geo:GSE225212:GSM7041482	disease_free_text	-	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041482	!Sample_characteristics_ch1 = disease state: -	True
+GSM7041482	geo:GSE225212:GSM7041482	tissue_free_text	bone metastasis	file	raw/fp-7d1f61f70ee3/GSE225212_family.soft.gz	GSM7041482	!Sample_characteristics_ch1 = tissue: bone metastasis	True

@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6390480	geo:GSE209748:GSM6390480	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM6390481	geo:GSE209748:GSM6390481	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-46f48d86aa8f/GSE209748_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6390480	geo:GSE209748:GSM6390480	tissue_free_text	Lung	file	raw/fp-46f48d86aa8f/GSE209748_family.soft.gz	GSM6390480	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM6390480	geo:GSE209748:GSM6390480	treatment	Fresh	file	raw/fp-46f48d86aa8f/GSE209748_family.soft.gz	GSM6390480	!Sample_characteristics_ch1 = treatment: Fresh	True
+GSM6390481	geo:GSE209748:GSM6390481	tissue_free_text	Lung	file	raw/fp-46f48d86aa8f/GSE209748_family.soft.gz	GSM6390481	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM6390481	geo:GSE209748:GSM6390481	treatment	Frozen	file	raw/fp-46f48d86aa8f/GSE209748_family.soft.gz	GSM6390481	!Sample_characteristics_ch1 = treatment: Frozen	True

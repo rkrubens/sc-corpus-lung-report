@@ -1,0 +1,272 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+PT1_CTC	geo:GSE198291:PT1_CTC	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT1_MTP	geo:GSE198291:PT1_MTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT1_MTT	geo:GSE198291:PT1_MTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT1_PTP	geo:GSE198291:PT1_PTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT1_PTT	geo:GSE198291:PT1_PTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT2_PTT	geo:GSE198291:PT2_PTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT3_PTT	geo:GSE198291:PT3_PTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT4_MTP	geo:GSE198291:PT4_MTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT4_MTT	geo:GSE198291:PT4_MTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT4_PTP	geo:GSE198291:PT4_PTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT4_PTT	geo:GSE198291:PT4_PTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT6_MTP	geo:GSE198291:PT6_MTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT6_MTT	geo:GSE198291:PT6_MTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT7_MTP	geo:GSE198291:PT7_MTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT7_MTT	geo:GSE198291:PT7_MTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT8_MTT	geo:GSE198291:PT8_MTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT9_MTP	geo:GSE198291:PT9_MTP	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT9_MTT	geo:GSE198291:PT9_MTT	donor_id	<column patient>	column	work/fp-d527c52e9aca/cells_reconciled.csv/patient			True
+PT1_CTC	geo:GSE198291:PT1_CTC	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_MTP	geo:GSE198291:PT1_MTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_MTT	geo:GSE198291:PT1_MTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_PTP	geo:GSE198291:PT1_PTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_PTT	geo:GSE198291:PT1_PTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT2_PTT	geo:GSE198291:PT2_PTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT3_PTT	geo:GSE198291:PT3_PTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_MTP	geo:GSE198291:PT4_MTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_MTT	geo:GSE198291:PT4_MTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_PTP	geo:GSE198291:PT4_PTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_PTT	geo:GSE198291:PT4_PTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT6_MTP	geo:GSE198291:PT6_MTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT6_MTT	geo:GSE198291:PT6_MTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT7_MTP	geo:GSE198291:PT7_MTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT7_MTT	geo:GSE198291:PT7_MTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT8_MTT	geo:GSE198291:PT8_MTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT9_MTP	geo:GSE198291:PT9_MTP	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT9_MTT	geo:GSE198291:PT9_MTT	tissue_free_text	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_CTC	geo:GSE198291:PT1_CTC	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_MTP	geo:GSE198291:PT1_MTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_MTT	geo:GSE198291:PT1_MTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_PTP	geo:GSE198291:PT1_PTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_PTT	geo:GSE198291:PT1_PTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT2_PTT	geo:GSE198291:PT2_PTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT3_PTT	geo:GSE198291:PT3_PTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_MTP	geo:GSE198291:PT4_MTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_MTT	geo:GSE198291:PT4_MTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_PTP	geo:GSE198291:PT4_PTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_PTT	geo:GSE198291:PT4_PTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT6_MTP	geo:GSE198291:PT6_MTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT6_MTT	geo:GSE198291:PT6_MTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT7_MTP	geo:GSE198291:PT7_MTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT7_MTT	geo:GSE198291:PT7_MTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT8_MTT	geo:GSE198291:PT8_MTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT9_MTP	geo:GSE198291:PT9_MTP	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT9_MTT	geo:GSE198291:PT9_MTT	tissue_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_CTC	geo:GSE198291:PT1_CTC	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_MTP	geo:GSE198291:PT1_MTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_MTT	geo:GSE198291:PT1_MTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_PTP	geo:GSE198291:PT1_PTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_PTT	geo:GSE198291:PT1_PTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT2_PTT	geo:GSE198291:PT2_PTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT3_PTT	geo:GSE198291:PT3_PTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_MTP	geo:GSE198291:PT4_MTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_MTT	geo:GSE198291:PT4_MTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_PTP	geo:GSE198291:PT4_PTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT4_PTT	geo:GSE198291:PT4_PTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT6_MTP	geo:GSE198291:PT6_MTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT6_MTT	geo:GSE198291:PT6_MTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT7_MTP	geo:GSE198291:PT7_MTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT7_MTT	geo:GSE198291:PT7_MTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT8_MTT	geo:GSE198291:PT8_MTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT9_MTP	geo:GSE198291:PT9_MTP	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT9_MTT	geo:GSE198291:PT9_MTT	disease_ontology_term_id	<column site_code>	column	work/fp-d527c52e9aca/cells_reconciled.csv/site_code			True
+PT1_CTC	geo:GSE198291:PT1_CTC	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT1_MTP	geo:GSE198291:PT1_MTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT1_MTT	geo:GSE198291:PT1_MTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT1_PTP	geo:GSE198291:PT1_PTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT1_PTT	geo:GSE198291:PT1_PTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT2_PTT	geo:GSE198291:PT2_PTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT3_PTT	geo:GSE198291:PT3_PTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT4_MTP	geo:GSE198291:PT4_MTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT4_MTT	geo:GSE198291:PT4_MTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT4_PTP	geo:GSE198291:PT4_PTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT4_PTT	geo:GSE198291:PT4_PTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT6_MTP	geo:GSE198291:PT6_MTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT6_MTT	geo:GSE198291:PT6_MTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT7_MTP	geo:GSE198291:PT7_MTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT7_MTT	geo:GSE198291:PT7_MTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT8_MTT	geo:GSE198291:PT8_MTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT9_MTP	geo:GSE198291:PT9_MTP	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+PT9_MTT	geo:GSE198291:PT9_MTT	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+		organism	Homo sapiens	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+PT1_CTC	geo:GSE198291:PT1_CTC	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_MTP	geo:GSE198291:PT1_MTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_MTT	geo:GSE198291:PT1_MTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_PTP	geo:GSE198291:PT1_PTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_PTT	geo:GSE198291:PT1_PTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT2_PTT	geo:GSE198291:PT2_PTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT3_PTT	geo:GSE198291:PT3_PTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_MTP	geo:GSE198291:PT4_MTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_MTT	geo:GSE198291:PT4_MTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_PTP	geo:GSE198291:PT4_PTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_PTT	geo:GSE198291:PT4_PTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT6_MTP	geo:GSE198291:PT6_MTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT6_MTT	geo:GSE198291:PT6_MTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT7_MTP	geo:GSE198291:PT7_MTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT7_MTT	geo:GSE198291:PT7_MTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT8_MTT	geo:GSE198291:PT8_MTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT9_MTP	geo:GSE198291:PT9_MTP	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT9_MTT	geo:GSE198291:PT9_MTT	tissue_free_text	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_CTC	geo:GSE198291:PT1_CTC	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_MTP	geo:GSE198291:PT1_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_MTT	geo:GSE198291:PT1_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_PTP	geo:GSE198291:PT1_PTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_PTT	geo:GSE198291:PT1_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT2_PTT	geo:GSE198291:PT2_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT3_PTT	geo:GSE198291:PT3_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_MTP	geo:GSE198291:PT4_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_MTT	geo:GSE198291:PT4_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_PTP	geo:GSE198291:PT4_PTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_PTT	geo:GSE198291:PT4_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT6_MTP	geo:GSE198291:PT6_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT6_MTT	geo:GSE198291:PT6_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT7_MTP	geo:GSE198291:PT7_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT7_MTT	geo:GSE198291:PT7_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT8_MTT	geo:GSE198291:PT8_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT9_MTP	geo:GSE198291:PT9_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT9_MTT	geo:GSE198291:PT9_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_CTC	geo:GSE198291:PT1_CTC	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT1_MTP	geo:GSE198291:PT1_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT1_MTT	geo:GSE198291:PT1_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT1_PTP	geo:GSE198291:PT1_PTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT1_PTT	geo:GSE198291:PT1_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT2_PTT	geo:GSE198291:PT2_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT3_PTT	geo:GSE198291:PT3_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT4_MTP	geo:GSE198291:PT4_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT4_MTT	geo:GSE198291:PT4_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT4_PTP	geo:GSE198291:PT4_PTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT4_PTT	geo:GSE198291:PT4_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT6_MTP	geo:GSE198291:PT6_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT6_MTT	geo:GSE198291:PT6_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT7_MTP	geo:GSE198291:PT7_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT7_MTT	geo:GSE198291:PT7_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT8_MTT	geo:GSE198291:PT8_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT9_MTP	geo:GSE198291:PT9_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT9_MTT	geo:GSE198291:PT9_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Brain samples were collected from Department of Neurosurgery Huashan Hospital during operation	True
+PT1_CTC	geo:GSE198291:PT1_CTC	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT1_MTP	geo:GSE198291:PT1_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT1_MTT	geo:GSE198291:PT1_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT1_PTP	geo:GSE198291:PT1_PTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT1_PTT	geo:GSE198291:PT1_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT2_PTT	geo:GSE198291:PT2_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT3_PTT	geo:GSE198291:PT3_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT4_MTP	geo:GSE198291:PT4_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT4_MTT	geo:GSE198291:PT4_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT4_PTP	geo:GSE198291:PT4_PTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT4_PTT	geo:GSE198291:PT4_PTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT6_MTP	geo:GSE198291:PT6_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT6_MTT	geo:GSE198291:PT6_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT7_MTP	geo:GSE198291:PT7_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT7_MTT	geo:GSE198291:PT7_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT8_MTT	geo:GSE198291:PT8_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT9_MTP	geo:GSE198291:PT9_MTP	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT9_MTT	geo:GSE198291:PT9_MTT	tissue_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		while primary LUAD tissues and blood were taken from Department of Lung Cancer Shanghai Chest Hospital through biopsy	True
+PT1_CTC	geo:GSE198291:PT1_CTC	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_MTP	geo:GSE198291:PT1_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_MTT	geo:GSE198291:PT1_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_PTP	geo:GSE198291:PT1_PTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_PTT	geo:GSE198291:PT1_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT2_PTT	geo:GSE198291:PT2_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT3_PTT	geo:GSE198291:PT3_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_MTP	geo:GSE198291:PT4_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_MTT	geo:GSE198291:PT4_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_PTP	geo:GSE198291:PT4_PTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT4_PTT	geo:GSE198291:PT4_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT6_MTP	geo:GSE198291:PT6_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT6_MTT	geo:GSE198291:PT6_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT7_MTP	geo:GSE198291:PT7_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT7_MTT	geo:GSE198291:PT7_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT8_MTT	geo:GSE198291:PT8_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT9_MTP	geo:GSE198291:PT9_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT9_MTT	geo:GSE198291:PT9_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		primary tumor tissue (PTT), primary para-tumor tissue (PTP), metastatic tumor tissue (MTT), para-metastatic tumor normal brain tissue (MTP), and circulating tumor cell (CTCs)	True
+PT1_CTC	geo:GSE198291:PT1_CTC	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT1_MTP	geo:GSE198291:PT1_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT1_MTT	geo:GSE198291:PT1_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT1_PTP	geo:GSE198291:PT1_PTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT1_PTT	geo:GSE198291:PT1_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT2_PTT	geo:GSE198291:PT2_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT3_PTT	geo:GSE198291:PT3_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT4_MTP	geo:GSE198291:PT4_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT4_MTT	geo:GSE198291:PT4_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT4_PTP	geo:GSE198291:PT4_PTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT4_PTT	geo:GSE198291:PT4_PTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT6_MTP	geo:GSE198291:PT6_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT6_MTT	geo:GSE198291:PT6_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT7_MTP	geo:GSE198291:PT7_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT7_MTT	geo:GSE198291:PT7_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT8_MTT	geo:GSE198291:PT8_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT9_MTP	geo:GSE198291:PT9_MTP	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT9_MTT	geo:GSE198291:PT9_MTT	disease_ontology_term_id	<map of column site_code>	file	evidence/PMC10195834.txt		Table 1 Samples from nine LUAD patients.	True
+PT1_CTC	geo:GSE198291:PT1_CTC	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT1_MTP	geo:GSE198291:PT1_MTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT1_MTT	geo:GSE198291:PT1_MTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT1_PTP	geo:GSE198291:PT1_PTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT1_PTT	geo:GSE198291:PT1_PTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT2_PTT	geo:GSE198291:PT2_PTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT3_PTT	geo:GSE198291:PT3_PTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT4_MTP	geo:GSE198291:PT4_MTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT4_MTT	geo:GSE198291:PT4_MTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT4_PTP	geo:GSE198291:PT4_PTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT4_PTT	geo:GSE198291:PT4_PTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT6_MTP	geo:GSE198291:PT6_MTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT6_MTT	geo:GSE198291:PT6_MTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT7_MTP	geo:GSE198291:PT7_MTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT7_MTT	geo:GSE198291:PT7_MTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT8_MTT	geo:GSE198291:PT8_MTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT9_MTP	geo:GSE198291:PT9_MTP	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT9_MTT	geo:GSE198291:PT9_MTT	treatment_status	untreated	file	evidence/PMC10195834.txt		The patients were not treated previously by radio therapy, chemotherapy or targeted therapy.	True
+PT1_CTC	geo:GSE198291:PT1_CTC	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT1_MTP	geo:GSE198291:PT1_MTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT1_MTT	geo:GSE198291:PT1_MTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT1_PTP	geo:GSE198291:PT1_PTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT1_PTT	geo:GSE198291:PT1_PTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT2_PTT	geo:GSE198291:PT2_PTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT3_PTT	geo:GSE198291:PT3_PTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT4_MTP	geo:GSE198291:PT4_MTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT4_MTT	geo:GSE198291:PT4_MTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT4_PTP	geo:GSE198291:PT4_PTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT4_PTT	geo:GSE198291:PT4_PTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT6_MTP	geo:GSE198291:PT6_MTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT6_MTT	geo:GSE198291:PT6_MTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT7_MTP	geo:GSE198291:PT7_MTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT7_MTT	geo:GSE198291:PT7_MTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT8_MTT	geo:GSE198291:PT8_MTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT9_MTP	geo:GSE198291:PT9_MTP	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT9_MTT	geo:GSE198291:PT9_MTT	suspension_type	cell	file	evidence/PMC10195834.txt		Single cells from tissue were manually picked under fluorescent microscopy using mouth pipette.	True
+PT1_CTC	geo:GSE198291:PT1_CTC	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT1_MTP	geo:GSE198291:PT1_MTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT1_MTT	geo:GSE198291:PT1_MTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT1_PTP	geo:GSE198291:PT1_PTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT1_PTT	geo:GSE198291:PT1_PTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT2_PTT	geo:GSE198291:PT2_PTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT3_PTT	geo:GSE198291:PT3_PTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT4_MTP	geo:GSE198291:PT4_MTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT4_MTT	geo:GSE198291:PT4_MTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT4_PTP	geo:GSE198291:PT4_PTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT4_PTT	geo:GSE198291:PT4_PTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT6_MTP	geo:GSE198291:PT6_MTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT6_MTT	geo:GSE198291:PT6_MTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT7_MTP	geo:GSE198291:PT7_MTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT7_MTT	geo:GSE198291:PT7_MTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT8_MTT	geo:GSE198291:PT8_MTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT9_MTP	geo:GSE198291:PT9_MTP	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT9_MTT	geo:GSE198291:PT9_MTT	assay	Smart-seq2	file	evidence/PMC10195834.txt		Libraries of isolated single cells were then prepared as per Smart-seq2 protocol	True
+PT1_CTC	geo:GSE198291:PT1_CTC	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT1_MTP	geo:GSE198291:PT1_MTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT1_MTT	geo:GSE198291:PT1_MTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT1_PTP	geo:GSE198291:PT1_PTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT1_PTT	geo:GSE198291:PT1_PTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT2_PTT	geo:GSE198291:PT2_PTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT3_PTT	geo:GSE198291:PT3_PTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT4_MTP	geo:GSE198291:PT4_MTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT4_MTT	geo:GSE198291:PT4_MTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT4_PTP	geo:GSE198291:PT4_PTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT4_PTT	geo:GSE198291:PT4_PTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT6_MTP	geo:GSE198291:PT6_MTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT6_MTT	geo:GSE198291:PT6_MTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT7_MTP	geo:GSE198291:PT7_MTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT7_MTT	geo:GSE198291:PT7_MTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT8_MTT	geo:GSE198291:PT8_MTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT9_MTP	geo:GSE198291:PT9_MTP	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True
+PT9_MTT	geo:GSE198291:PT9_MTT	gene_annotation_version	hg19	file	raw/fp-d527c52e9aca/GSE198291_family.soft.gz		Assembly: hg19	True

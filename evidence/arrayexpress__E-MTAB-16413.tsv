@@ -1,0 +1,35 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	development_stage_ontology_term_id	HsapDv:0000208	derived	age_in_years:'82-year-old stage':ols:hsapdv		82	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	development_stage_ontology_term_id	HsapDv:0000169	derived	age_in_years:'75-year-old stage':ols:hsapdv		75	True
+		organism	Homo sapiens	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC002 Homo sapiens 82 year	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	donor_id	MGHSCLC002	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC002	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	age	82	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC002 Homo sapiens 82 year	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	sex	male	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		male blood MGHSCLC002	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	tissue_free_text	blood	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC002	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC002	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	disease_free_text	small cell lung carcinoma	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC002 blood cell small cell lung carcinoma	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	disease_ontology_term_id	MONDO:0008433	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC002 blood cell small cell lung carcinoma	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	suspension_type	cell	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		small cell lung carcinoma cell	True
+MGHSCLC002	arrayexpress:E-MTAB-16413:MGHSCLC002	cell_enrichment	circulating tumor cells enriched with CTC-iChip and magnetic depletion of RBCs	file	raw/fp-664313e13169/E-MTAB-16413.idf.txt		CTCs enriched from the blood of three SCLC patients prior or post tarlatamab treatment using the CTC-iChip followed by magnetic depletion of RBCs	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	donor_id	MGHSCLC036	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC036	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	age	49	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC036 Homo sapiens 49 year	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	sex	male	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		male blood MGHSCLC036	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	tissue_free_text	blood	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC036	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC036	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	disease_free_text	small cell lung carcinoma	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC036 blood cell small cell lung carcinoma	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	disease_ontology_term_id	MONDO:0008433	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC036 blood cell small cell lung carcinoma	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	suspension_type	cell	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		small cell lung carcinoma cell	True
+MGHSCLC036	arrayexpress:E-MTAB-16413:MGHSCLC036	cell_enrichment	circulating tumor cells enriched with CTC-iChip and magnetic depletion of RBCs	file	raw/fp-664313e13169/E-MTAB-16413.idf.txt		CTCs enriched from the blood of three SCLC patients prior or post tarlatamab treatment using the CTC-iChip followed by magnetic depletion of RBCs	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	donor_id	MGHSCLC037	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC037	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	age	75	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC037 Homo sapiens 75 year	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	sex	female	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		female blood MGHSCLC037	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	tissue_free_text	blood	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC037	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	tissue_ontology_term_id	UBERON:0000178	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		blood MGHSCLC037	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	disease_free_text	small cell lung carcinoma	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC037 blood cell small cell lung carcinoma	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	disease_ontology_term_id	MONDO:0008433	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		MGHSCLC037 blood cell small cell lung carcinoma	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	suspension_type	cell	file	raw/fp-664313e13169/E-MTAB-16413.sdrf.txt		small cell lung carcinoma cell	True
+MGHSCLC037	arrayexpress:E-MTAB-16413:MGHSCLC037	cell_enrichment	circulating tumor cells enriched with CTC-iChip and magnetic depletion of RBCs	file	raw/fp-664313e13169/E-MTAB-16413.idf.txt		CTCs enriched from the blood of three SCLC patients prior or post tarlatamab treatment using the CTC-iChip followed by magnetic depletion of RBCs	True

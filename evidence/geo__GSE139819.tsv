@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4143260	geo:GSE139819:GSM4143260	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM4143261	geo:GSE139819:GSM4143261	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM4143262	geo:GSE139819:GSM4143262	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM4143263	geo:GSE139819:GSM4143263	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+		organism	Homo sapiens	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4143260	geo:GSE139819:GSM4143260	age	70	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143260	!Sample_characteristics_ch1 = age: 70	True
+GSM4143260	geo:GSE139819:GSM4143260	disease_free_text	LAM	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143260	!Sample_characteristics_ch1 = disease: LAM	True
+GSM4143261	geo:GSE139819:GSM4143261	age	70	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143261	!Sample_characteristics_ch1 = age: 70	True
+GSM4143261	geo:GSE139819:GSM4143261	disease_free_text	LAM	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143261	!Sample_characteristics_ch1 = disease: LAM	True
+GSM4143262	geo:GSE139819:GSM4143262	age	70	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143262	!Sample_characteristics_ch1 = age: 70	True
+GSM4143262	geo:GSE139819:GSM4143262	disease_free_text	Healthy	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143262	!Sample_characteristics_ch1 = disease: Healthy	True
+GSM4143263	geo:GSE139819:GSM4143263	age	70	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143263	!Sample_characteristics_ch1 = age: 70	True
+GSM4143263	geo:GSE139819:GSM4143263	disease_free_text	Healthy	file	raw/fp-d3874c2d511b/GSE139819_family.soft.gz	GSM4143263	!Sample_characteristics_ch1 = disease: Healthy	True

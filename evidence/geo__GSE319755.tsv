@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9525785	geo:GSE319755:GSM9525785	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9525785	geo:GSE319755:GSM9525785	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM9525785	geo:GSE319755:GSM9525785	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM9525786	geo:GSE319755:GSM9525786	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9525786	geo:GSE319755:GSM9525786	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM9525786	geo:GSE319755:GSM9525786	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM9525787	geo:GSE319755:GSM9525787	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9525787	geo:GSE319755:GSM9525787	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM9525787	geo:GSE319755:GSM9525787	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+		organism	Homo sapiens	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9525785	geo:GSE319755:GSM9525785	sex	male	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525785	!Sample_characteristics_ch1 = Sex: male	True
+GSM9525785	geo:GSE319755:GSM9525785	age	69	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525785	!Sample_characteristics_ch1 = age: 69	True
+GSM9525785	geo:GSE319755:GSM9525785	disease_free_text	NSCLC	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525785	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM9525785	geo:GSE319755:GSM9525785	tissue_free_text	lung adenocarcinoma	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525785	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9525785	geo:GSE319755:GSM9525785	treatment	none	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525785	!Sample_characteristics_ch1 = treatment: none	True
+GSM9525786	geo:GSE319755:GSM9525786	sex	male	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525786	!Sample_characteristics_ch1 = Sex: male	True
+GSM9525786	geo:GSE319755:GSM9525786	age	69	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525786	!Sample_characteristics_ch1 = age: 69	True
+GSM9525786	geo:GSE319755:GSM9525786	disease_free_text	NSCLC	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525786	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM9525786	geo:GSE319755:GSM9525786	tissue_free_text	adjacent lung tissue	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525786	!Sample_characteristics_ch1 = tissue: adjacent lung tissue	True
+GSM9525786	geo:GSE319755:GSM9525786	treatment	none	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525786	!Sample_characteristics_ch1 = treatment: none	True
+GSM9525787	geo:GSE319755:GSM9525787	sex	male	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525787	!Sample_characteristics_ch1 = Sex: male	True
+GSM9525787	geo:GSE319755:GSM9525787	age	69	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525787	!Sample_characteristics_ch1 = age: 69	True
+GSM9525787	geo:GSE319755:GSM9525787	disease_free_text	NSCLC	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525787	!Sample_characteristics_ch1 = disease: NSCLC	True
+GSM9525787	geo:GSE319755:GSM9525787	tissue_free_text	margin at lung adenocacinoma	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525787	!Sample_characteristics_ch1 = tissue: margin at lung adenocacinoma	True
+GSM9525787	geo:GSE319755:GSM9525787	treatment	none	file	raw/fp-33d71ba1c000/GSE319755_family.soft.gz	GSM9525787	!Sample_characteristics_ch1 = treatment: none	True

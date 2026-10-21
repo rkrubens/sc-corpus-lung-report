@@ -1,0 +1,227 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	donor_id	<column patient_id>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/patient_id			True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	disease_free_text	<column health_status>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/health_status			True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	assay_ontology_term_id	EFO:0008722	derived	ols:efo		Drop-seq	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	author_cell_type	<column cell_type>	column	raw/fp-9f34f37b500e/munich_cohort_human_dataset.h5ad::obs/cell_type			True
+		organism	Homo sapiens	file	raw/fp-9f34f37b500e/portal_metadata.json		"""genusSpecies"": [ ⏎         ""Homo sapiens"""	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	disease_free_text	<map of column health_status>	file	evidence/PMC8033531.txt		end‐stage lung fibrosis tissues from three ILD patients (IPF n = 2, EAA n = 1) and non‐fibrotic control tissues from 11 non‐lung disease patients	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	tissue_free_text	lung	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	tissue_type	tissue	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	suspension_type	cell	file	evidence/PMC8033531.txt		whole lung parenchyma single‐cell suspensions	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	development_stage	adult stage	file	raw/fp-9f34f37b500e/portal_metadata.json		"""human adult stage"""	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	assay	Drop-seq	file	evidence/PMC8033531.txt		Single‐cell sequencing using Drop‐seq	True
+muc10380	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10380	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc10381	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc10381	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc3843	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc3843	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc4658	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4658	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc4659	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc4659	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc5103	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5103	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc5105	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5105	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc5212	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5212	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc5213	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5213	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc5288	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc5288	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc8257	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8257	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc8258	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc8258	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc9826	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9826	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc9832	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9832	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True
+muc9833	hca:2f676143-80c2-4bc6-b7b4-2613fe0fadf0:muc9833	sample_preservation	fresh	file	evidence/PMC8033531.txt		lung tissue for single‐cell analysis was freshly obtained after lung transplantation	True

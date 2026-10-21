@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+geomx_target_counts	geo:GSE292098:geomx_target_counts	response	<column BOR>	column	work/fp-9ca935185f54/reconciled/aoi_annotation.tsv/BOR			True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	sex_ontology_term_id	<column Sex>	column	work/fp-9ca935185f54/reconciled/aoi_annotation.tsv/Sex			True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+		organism	Homo sapiens	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	disease_free_text	non-small cell lung cancer	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		all consisting of advanced NSCLC tissue samples	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		all consisting of advanced NSCLC tissue samples	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	tissue_free_text	Lung Cancer	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung Cancer	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	tissue_type	tissue	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung Cancer	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	suspension_type	na	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		TMA slides were processed using the Nanostring GeoMx DSP manual slide preparation	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	sample_preservation	FFPE	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		Antigen retrieval of the FFPE tissue was performed	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	treatment	immunotherapy	file	raw/fp-9ca935185f54/GSE292098_family.soft.gz		!Sample_characteristics_ch1 = treatment: immunotherapy	True
+geomx_target_counts	geo:GSE292098:geomx_target_counts	sex	<map of column Sex>	file	work/fp-9ca935185f54/reconciled/aoi_annotation.tsv		Female	True

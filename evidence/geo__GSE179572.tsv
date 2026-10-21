@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5420749	geo:GSE179572:GSM5420749	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM5420751	geo:GSE179572:GSM5420751	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM5420754	geo:GSE179572:GSM5420754	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-d275c11eed5b/GSE179572_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5420749	geo:GSE179572:GSM5420749	disease_free_text	lung adenocarcinoma	file	raw/fp-d275c11eed5b/GSE179572_family.soft.gz	GSM5420749	!Sample_characteristics_ch1 = primary tumor: lung adenocarcinoma	True
+GSM5420751	geo:GSE179572:GSM5420751	disease_free_text	lung adenocarcinoma	file	raw/fp-d275c11eed5b/GSE179572_family.soft.gz	GSM5420751	!Sample_characteristics_ch1 = primary tumor: lung adenocarcinoma	True
+GSM5420754	geo:GSE179572:GSM5420754	disease_free_text	lung adenocarcinoma	file	raw/fp-d275c11eed5b/GSE179572_family.soft.gz	GSM5420754	!Sample_characteristics_ch1 = primary tumor: lung adenocarcinoma	True

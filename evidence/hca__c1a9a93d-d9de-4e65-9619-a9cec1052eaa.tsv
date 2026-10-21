@@ -1,0 +1,12 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	development_stage_ontology_term_id	HsapDv:0000258	derived	ols:hsapdv		adult stage	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+		organism	Homo sapiens	file	evidence/azul_file_hits.json		"""genusSpecies"": [ ""Homo sapiens"" ]"	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	tissue_free_text	lung	file	evidence/azul_file_hits.json		"""organ"": [ ""lung"" ]"	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	tissue_type	tissue	file	evidence/azul_file_hits.json		"""source"": [ ""specimen_from_organism"" ]"	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	disease_free_text	pulmonary fibrosis	file	evidence/azul_file_hits.json		"""disease"": [ ""pulmonary fibrosis"" ]"	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	development_stage	adult stage	file	evidence/azul_file_hits.json		"""developmentStage"": [ ""human adult stage"" ]"	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	assay	10x 3' v2	file	evidence/azul_file_hits.json		"""libraryConstructionApproach"": [ ""10X 3' v2 sequencing"" ]"	True
+VUILD53	hca:c1a9a93d-d9de-4e65-9619-a9cec1052eaa:VUILD53	suspension_type	cell	file	evidence/azul_file_hits.json		"""nucleicAcidSource"": [ ""single cell"" ]"	True

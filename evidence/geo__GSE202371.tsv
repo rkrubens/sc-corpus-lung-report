@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6112137	geo:GSE202371:GSM6112137	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112138	geo:GSE202371:GSM6112138	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112139	geo:GSE202371:GSM6112139	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112140	geo:GSE202371:GSM6112140	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112141	geo:GSE202371:GSM6112141	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112142	geo:GSE202371:GSM6112142	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112143	geo:GSE202371:GSM6112143	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112144	geo:GSE202371:GSM6112144	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112145	geo:GSE202371:GSM6112145	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+GSM6112146	geo:GSE202371:GSM6112146	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		Lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6112137	geo:GSE202371:GSM6112137	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112137	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112138	geo:GSE202371:GSM6112138	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112138	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112139	geo:GSE202371:GSM6112139	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112139	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112140	geo:GSE202371:GSM6112140	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112140	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112141	geo:GSE202371:GSM6112141	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112141	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112142	geo:GSE202371:GSM6112142	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112142	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112143	geo:GSE202371:GSM6112143	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112143	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112144	geo:GSE202371:GSM6112144	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112144	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112145	geo:GSE202371:GSM6112145	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112145	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True
+GSM6112146	geo:GSE202371:GSM6112146	disease_free_text	Lung adenocarcinoma	file	raw/fp-9dde06bbd3b7/GSE202371_family.soft.gz	GSM6112146	!Sample_characteristics_ch1 = diagnosis: Lung adenocarcinoma	True

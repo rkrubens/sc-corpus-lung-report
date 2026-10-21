@@ -1,0 +1,18 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9066344	geo:GSE300685:GSM9066344	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066345	geo:GSE300685:GSM9066345	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066346	geo:GSE300685:GSM9066346	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066347	geo:GSE300685:GSM9066347	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066348	geo:GSE300685:GSM9066348	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066349	geo:GSE300685:GSM9066349	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066350	geo:GSE300685:GSM9066350	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM9066351	geo:GSE300685:GSM9066351	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-f42a53875101/GSE300685_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9066344	geo:GSE300685:GSM9066344	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066344	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066345	geo:GSE300685:GSM9066345	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066345	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066346	geo:GSE300685:GSM9066346	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066346	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066347	geo:GSE300685:GSM9066347	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066347	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066348	geo:GSE300685:GSM9066348	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066348	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066349	geo:GSE300685:GSM9066349	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066349	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066350	geo:GSE300685:GSM9066350	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066350	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9066351	geo:GSE300685:GSM9066351	tissue_free_text	Lung	file	raw/fp-f42a53875101/GSE300685_family.soft.gz	GSM9066351	!Sample_characteristics_ch1 = tissue: Lung	True

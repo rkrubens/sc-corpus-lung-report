@@ -1,0 +1,59 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4906352	geo:GSE161382:GSM4906352	donor_id	<column donor>	column	work/fp-b61824575d42/cell_table.tsv.gz/donor			True
+GSM4906353	geo:GSE161382:GSM4906353	donor_id	<column donor>	column	work/fp-b61824575d42/cell_table.tsv.gz/donor			True
+GSM4906354	geo:GSE161382:GSM4906354	donor_id	<column donor>	column	work/fp-b61824575d42/cell_table.tsv.gz/donor			True
+GSM4906352	geo:GSE161382:GSM4906352	development_stage_ontology_term_id	<column age_years>	column	work/fp-b61824575d42/cell_table.tsv.gz/age_years			True
+GSM4906353	geo:GSE161382:GSM4906353	development_stage_ontology_term_id	<column age_years>	column	work/fp-b61824575d42/cell_table.tsv.gz/age_years			True
+GSM4906354	geo:GSE161382:GSM4906354	development_stage_ontology_term_id	<column age_years>	column	work/fp-b61824575d42/cell_table.tsv.gz/age_years			True
+GSM4906352	geo:GSE161382:GSM4906352	sex_ontology_term_id	<column sex>	column	work/fp-b61824575d42/cell_table.tsv.gz/sex			True
+GSM4906353	geo:GSE161382:GSM4906353	sex_ontology_term_id	<column sex>	column	work/fp-b61824575d42/cell_table.tsv.gz/sex			True
+GSM4906354	geo:GSE161382:GSM4906354	sex_ontology_term_id	<column sex>	column	work/fp-b61824575d42/cell_table.tsv.gz/sex			True
+GSM4906352	geo:GSE161382:GSM4906352	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4906353	geo:GSE161382:GSM4906353	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4906354	geo:GSE161382:GSM4906354	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4906352	geo:GSE161382:GSM4906352	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4906353	geo:GSE161382:GSM4906353	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4906354	geo:GSE161382:GSM4906354	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4906352	geo:GSE161382:GSM4906352	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4906353	geo:GSE161382:GSM4906353	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4906354	geo:GSE161382:GSM4906354	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4906352	geo:GSE161382:GSM4906352	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31	True
+GSM4906353	geo:GSE161382:GSM4906353	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31	True
+GSM4906354	geo:GSE161382:GSM4906354	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31	True
+GSM4906352	geo:GSE161382:GSM4906352	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM4906353	geo:GSE161382:GSM4906353	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM4906354	geo:GSE161382:GSM4906354	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM4906352	geo:GSE161382:GSM4906352	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM4906353	geo:GSE161382:GSM4906353	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM4906354	geo:GSE161382:GSM4906354	development_stage_ontology_term_id	HsapDv:0000127	derived	age_in_years:'33-year-old stage':ols:hsapdv		33	True
+GSM4906352	geo:GSE161382:GSM4906352	author_cell_type	<column celltype>	column	work/fp-b61824575d42/cell_table.tsv.gz/celltype			True
+GSM4906353	geo:GSE161382:GSM4906353	author_cell_type	<column celltype>	column	work/fp-b61824575d42/cell_table.tsv.gz/celltype			True
+GSM4906354	geo:GSE161382:GSM4906354	author_cell_type	<column celltype>	column	work/fp-b61824575d42/cell_table.tsv.gz/celltype			True
+		organism	Homo sapiens	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4906352	geo:GSE161382:GSM4906352	sex	<map of column sex>	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_characteristics_ch1 = Sex: M	True
+GSM4906353	geo:GSE161382:GSM4906353	sex	<map of column sex>	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_characteristics_ch1 = Sex: M	True
+GSM4906354	geo:GSE161382:GSM4906354	sex	<map of column sex>	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_characteristics_ch1 = Sex: M	True
+GSM4906352	geo:GSE161382:GSM4906352	sex	<map of column sex>	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_characteristics_ch1 = Sex: F	True
+GSM4906353	geo:GSE161382:GSM4906353	sex	<map of column sex>	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_characteristics_ch1 = Sex: F	True
+GSM4906354	geo:GSE161382:GSM4906354	sex	<map of column sex>	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_characteristics_ch1 = Sex: F	True
+GSM4906352	geo:GSE161382:GSM4906352	disease_ontology_term_id	PATO:0000461	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		from healthy donors of ~30 weeks, ~3 years and ~30 years of age	True
+GSM4906353	geo:GSE161382:GSM4906353	disease_ontology_term_id	PATO:0000461	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		from healthy donors of ~30 weeks, ~3 years and ~30 years of age	True
+GSM4906354	geo:GSE161382:GSM4906354	disease_ontology_term_id	PATO:0000461	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		from healthy donors of ~30 weeks, ~3 years and ~30 years of age	True
+GSM4906352	geo:GSE161382:GSM4906352	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		small airway region of right middle lobe (RML) lung tissue	True
+GSM4906353	geo:GSE161382:GSM4906353	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		small airway region of right middle lobe (RML) lung tissue	True
+GSM4906354	geo:GSE161382:GSM4906354	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		small airway region of right middle lobe (RML) lung tissue	True
+GSM4906352	geo:GSE161382:GSM4906352	tissue_free_text	Biopsy from small airway	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_source_name_ch1 = Biopsy from small airway	True
+GSM4906353	geo:GSE161382:GSM4906353	tissue_free_text	Biopsy from small airway	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_source_name_ch1 = Biopsy from small airway	True
+GSM4906354	geo:GSE161382:GSM4906354	tissue_free_text	Biopsy from small airway	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		!Sample_source_name_ch1 = Biopsy from small airway	True
+GSM4906352	geo:GSE161382:GSM4906352	tissue_type	tissue	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		small airway region of right middle lobe (RML) lung tissue	True
+GSM4906353	geo:GSE161382:GSM4906353	tissue_type	tissue	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		small airway region of right middle lobe (RML) lung tissue	True
+GSM4906354	geo:GSE161382:GSM4906354	tissue_type	tissue	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		small airway region of right middle lobe (RML) lung tissue	True
+GSM4906352	geo:GSE161382:GSM4906352	suspension_type	nucleus	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		Nuclei were isolated from individual biopsies	True
+GSM4906353	geo:GSE161382:GSM4906353	suspension_type	nucleus	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		Nuclei were isolated from individual biopsies	True
+GSM4906354	geo:GSE161382:GSM4906354	suspension_type	nucleus	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		Nuclei were isolated from individual biopsies	True
+GSM4906352	geo:GSE161382:GSM4906352	sample_preservation	flash frozen	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		flash frozen biopsies from equivalent small airway regions of the lung were used	True
+GSM4906353	geo:GSE161382:GSM4906353	sample_preservation	flash frozen	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		flash frozen biopsies from equivalent small airway regions of the lung were used	True
+GSM4906354	geo:GSE161382:GSM4906354	sample_preservation	flash frozen	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		flash frozen biopsies from equivalent small airway regions of the lung were used	True
+GSM4906352	geo:GSE161382:GSM4906352	assay	10x 3' v3	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		Droplet-based Chromium Single Cell 3’ solution (10x Genomics, v3 chemistry)	True
+GSM4906353	geo:GSE161382:GSM4906353	assay	10x 3' v3	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		Droplet-based Chromium Single Cell 3’ solution (10x Genomics, v3 chemistry)	True
+GSM4906354	geo:GSE161382:GSM4906354	assay	10x 3' v3	file	raw/fp-b61824575d42/GSE161382_family.soft.gz		Droplet-based Chromium Single Cell 3’ solution (10x Genomics, v3 chemistry)	True

@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9945415	geo:GSE343063:GSM9945415	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9945416	geo:GSE343063:GSM9945416	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9945417	geo:GSE343063:GSM9945417	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9945418	geo:GSE343063:GSM9945418	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9945419	geo:GSE343063:GSM9945419	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9945420	geo:GSE343063:GSM9945420	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9945415	geo:GSE343063:GSM9945415	tissue_free_text	lung	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945415	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9945415	geo:GSE343063:GSM9945415	treatment	None (treatment-naïve)	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945415	!Sample_characteristics_ch1 = treatment: None (treatment-naïve)	True
+GSM9945416	geo:GSE343063:GSM9945416	tissue_free_text	lung	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945416	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9945416	geo:GSE343063:GSM9945416	treatment	None (treatment-naïve)	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945416	!Sample_characteristics_ch1 = treatment: None (treatment-naïve)	True
+GSM9945417	geo:GSE343063:GSM9945417	tissue_free_text	lung	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945417	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9945417	geo:GSE343063:GSM9945417	treatment	None (treatment-naïve)	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945417	!Sample_characteristics_ch1 = treatment: None (treatment-naïve)	True
+GSM9945418	geo:GSE343063:GSM9945418	tissue_free_text	lung	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945418	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9945418	geo:GSE343063:GSM9945418	treatment	None (treatment-naïve)	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945418	!Sample_characteristics_ch1 = treatment: None (treatment-naïve)	True
+GSM9945419	geo:GSE343063:GSM9945419	tissue_free_text	lung	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945419	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9945419	geo:GSE343063:GSM9945419	treatment	None (treatment-naïve)	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945419	!Sample_characteristics_ch1 = treatment: None (treatment-naïve)	True
+GSM9945420	geo:GSE343063:GSM9945420	tissue_free_text	lung	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945420	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9945420	geo:GSE343063:GSM9945420	treatment	None (treatment-naïve)	file	raw/fp-eb283ee57bab/GSE343063_family.soft.gz	GSM9945420	!Sample_characteristics_ch1 = treatment: None (treatment-naïve)	True

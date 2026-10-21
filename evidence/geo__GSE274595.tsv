@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8453374	geo:GSE274595:GSM8453374	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453375	geo:GSE274595:GSM8453375	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453376	geo:GSE274595:GSM8453376	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453377	geo:GSE274595:GSM8453377	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453378	geo:GSE274595:GSM8453378	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453379	geo:GSE274595:GSM8453379	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453380	geo:GSE274595:GSM8453380	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+GSM8453381	geo:GSE274595:GSM8453381	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+		organism	Homo sapiens	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8453374	geo:GSE274595:GSM8453374	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453374	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453374	geo:GSE274595:GSM8453374	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453374	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453375	geo:GSE274595:GSM8453375	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453375	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453375	geo:GSE274595:GSM8453375	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453375	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453376	geo:GSE274595:GSM8453376	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453376	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453376	geo:GSE274595:GSM8453376	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453376	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453377	geo:GSE274595:GSM8453377	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453377	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453377	geo:GSE274595:GSM8453377	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453377	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453378	geo:GSE274595:GSM8453378	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453378	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453378	geo:GSE274595:GSM8453378	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453378	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453379	geo:GSE274595:GSM8453379	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453379	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453379	geo:GSE274595:GSM8453379	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453379	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453380	geo:GSE274595:GSM8453380	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453380	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453380	geo:GSE274595:GSM8453380	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453380	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True
+GSM8453381	geo:GSE274595:GSM8453381	tissue_free_text	resected lung tumor tissue	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453381	!Sample_characteristics_ch1 = tissue: resected lung tumor tissue	True
+GSM8453381	geo:GSE274595:GSM8453381	disease_free_text	NSCLC	file	raw/fp-a878aeb61e2b/GSE274595_family.soft.gz	GSM8453381	!Sample_characteristics_ch1 = patient diagnosis: NSCLC	True

@@ -1,0 +1,291 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+SAM24429211	geo:GSE322959:SAM24429211	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429967	geo:GSE322959:SAM24429967	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429968	geo:GSE322959:SAM24429968	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429969	geo:GSE322959:SAM24429969	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24434754	geo:GSE322959:SAM24434754	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24438944	geo:GSE322959:SAM24438944	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24439425	geo:GSE322959:SAM24439425	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24439426	geo:GSE322959:SAM24439426	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24439427	geo:GSE322959:SAM24439427	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444433	geo:GSE322959:SAM24444433	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444434	geo:GSE322959:SAM24444434	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444435	geo:GSE322959:SAM24444435	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444436	geo:GSE322959:SAM24444436	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463982	geo:GSE322959:SAM24463982	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463983	geo:GSE322959:SAM24463983	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463984	geo:GSE322959:SAM24463984	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463985	geo:GSE322959:SAM24463985	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463986	geo:GSE322959:SAM24463986	disease_ontology_term_id	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429211	geo:GSE322959:SAM24429211	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429967	geo:GSE322959:SAM24429967	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429968	geo:GSE322959:SAM24429968	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429969	geo:GSE322959:SAM24429969	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24434754	geo:GSE322959:SAM24434754	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24438944	geo:GSE322959:SAM24438944	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24439425	geo:GSE322959:SAM24439425	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24439426	geo:GSE322959:SAM24439426	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24439427	geo:GSE322959:SAM24439427	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444433	geo:GSE322959:SAM24444433	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444434	geo:GSE322959:SAM24444434	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444435	geo:GSE322959:SAM24444435	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24444436	geo:GSE322959:SAM24444436	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463982	geo:GSE322959:SAM24463982	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463983	geo:GSE322959:SAM24463983	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463984	geo:GSE322959:SAM24463984	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463985	geo:GSE322959:SAM24463985	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24463986	geo:GSE322959:SAM24463986	disease_free_text	<column Tissue.Diagnosis>	column	work/GSE322959_cells_reconciled.tsv.gz/Tissue.Diagnosis			True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_type	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429211	geo:GSE322959:SAM24429211	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429967	geo:GSE322959:SAM24429967	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429968	geo:GSE322959:SAM24429968	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429969	geo:GSE322959:SAM24429969	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24434754	geo:GSE322959:SAM24434754	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24438944	geo:GSE322959:SAM24438944	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24439425	geo:GSE322959:SAM24439425	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24439426	geo:GSE322959:SAM24439426	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24439427	geo:GSE322959:SAM24439427	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444433	geo:GSE322959:SAM24444433	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444434	geo:GSE322959:SAM24444434	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444435	geo:GSE322959:SAM24444435	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24444436	geo:GSE322959:SAM24444436	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463982	geo:GSE322959:SAM24463982	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463983	geo:GSE322959:SAM24463983	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463984	geo:GSE322959:SAM24463984	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463985	geo:GSE322959:SAM24463985	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24463986	geo:GSE322959:SAM24463986	treatment	<column Treatment.Group.Name>	column	work/GSE322959_cells_reconciled.tsv.gz/Treatment.Group.Name			True
+SAM24429211	geo:GSE322959:SAM24429211	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24429967	geo:GSE322959:SAM24429967	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24429968	geo:GSE322959:SAM24429968	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24429969	geo:GSE322959:SAM24429969	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24434754	geo:GSE322959:SAM24434754	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24438944	geo:GSE322959:SAM24438944	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24439425	geo:GSE322959:SAM24439425	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24439426	geo:GSE322959:SAM24439426	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24439427	geo:GSE322959:SAM24439427	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24444433	geo:GSE322959:SAM24444433	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24444434	geo:GSE322959:SAM24444434	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24444435	geo:GSE322959:SAM24444435	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24444436	geo:GSE322959:SAM24444436	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24463982	geo:GSE322959:SAM24463982	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24463983	geo:GSE322959:SAM24463983	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24463984	geo:GSE322959:SAM24463984	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24463985	geo:GSE322959:SAM24463985	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+SAM24463986	geo:GSE322959:SAM24463986	author_cell_type	<column refined_updated_celltype>	column	work/GSE322959_cells_reconciled.tsv.gz/refined_updated_celltype			True
+		organism	Homo sapiens	file	raw/fp-7415cdd45201/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+		organism	Homo sapiens	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+SAM24429211	geo:GSE322959:SAM24429211	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24429967	geo:GSE322959:SAM24429967	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24429968	geo:GSE322959:SAM24429968	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24429969	geo:GSE322959:SAM24429969	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24434754	geo:GSE322959:SAM24434754	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24438944	geo:GSE322959:SAM24438944	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24439425	geo:GSE322959:SAM24439425	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24439426	geo:GSE322959:SAM24439426	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24439427	geo:GSE322959:SAM24439427	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24444433	geo:GSE322959:SAM24444433	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24444434	geo:GSE322959:SAM24444434	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24444435	geo:GSE322959:SAM24444435	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24444436	geo:GSE322959:SAM24444436	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24463982	geo:GSE322959:SAM24463982	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24463983	geo:GSE322959:SAM24463983	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24463984	geo:GSE322959:SAM24463984	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24463985	geo:GSE322959:SAM24463985	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24463986	geo:GSE322959:SAM24463986	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Human IPF Primary AT2 cells	True
+SAM24429211	geo:GSE322959:SAM24429211	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24429967	geo:GSE322959:SAM24429967	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24429968	geo:GSE322959:SAM24429968	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24429969	geo:GSE322959:SAM24429969	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24434754	geo:GSE322959:SAM24434754	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24438944	geo:GSE322959:SAM24438944	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24439425	geo:GSE322959:SAM24439425	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24439426	geo:GSE322959:SAM24439426	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24439427	geo:GSE322959:SAM24439427	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24444433	geo:GSE322959:SAM24444433	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24444434	geo:GSE322959:SAM24444434	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24444435	geo:GSE322959:SAM24444435	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24444436	geo:GSE322959:SAM24444436	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24463982	geo:GSE322959:SAM24463982	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24463983	geo:GSE322959:SAM24463983	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24463984	geo:GSE322959:SAM24463984	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24463985	geo:GSE322959:SAM24463985	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24463986	geo:GSE322959:SAM24463986	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		AT2 cells isolated from normal donor lungs or IPF patients	True
+SAM24429211	geo:GSE322959:SAM24429211	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24429967	geo:GSE322959:SAM24429967	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24429968	geo:GSE322959:SAM24429968	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24429969	geo:GSE322959:SAM24429969	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24434754	geo:GSE322959:SAM24434754	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24438944	geo:GSE322959:SAM24438944	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24439425	geo:GSE322959:SAM24439425	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24439426	geo:GSE322959:SAM24439426	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24439427	geo:GSE322959:SAM24439427	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24444433	geo:GSE322959:SAM24444433	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24444434	geo:GSE322959:SAM24444434	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24444435	geo:GSE322959:SAM24444435	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24444436	geo:GSE322959:SAM24444436	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24463982	geo:GSE322959:SAM24463982	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24463983	geo:GSE322959:SAM24463983	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24463984	geo:GSE322959:SAM24463984	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24463985	geo:GSE322959:SAM24463985	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24463986	geo:GSE322959:SAM24463986	disease_ontology_term_id	<map of column Tissue.Diagnosis>	file	work/GSE322959_cells_reconciled.tsv.gz		Normal ATIIs and fibroblasts	True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_free_text	Lung	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells D0	True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_type	<map of column Treatment.Group.Name>	file	work/GSE322959_cells_reconciled.tsv.gz		Epithelial cells + fibroblasts D15	True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		embedded in Growth Factor Reduced Matrigel	True
+SAM24429211	geo:GSE322959:SAM24429211	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24429967	geo:GSE322959:SAM24429967	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24429968	geo:GSE322959:SAM24429968	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24429969	geo:GSE322959:SAM24429969	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24434754	geo:GSE322959:SAM24434754	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24438944	geo:GSE322959:SAM24438944	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24439425	geo:GSE322959:SAM24439425	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24439426	geo:GSE322959:SAM24439426	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24439427	geo:GSE322959:SAM24439427	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24444433	geo:GSE322959:SAM24444433	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24444434	geo:GSE322959:SAM24444434	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24444435	geo:GSE322959:SAM24444435	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24444436	geo:GSE322959:SAM24444436	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24463982	geo:GSE322959:SAM24463982	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24463983	geo:GSE322959:SAM24463983	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24463984	geo:GSE322959:SAM24463984	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24463985	geo:GSE322959:SAM24463985	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24463986	geo:GSE322959:SAM24463986	tissue_type	<map of column Treatment.Group.Name>	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		We addressed this question by evaluating colony formation and growth of human AT2 cells co-cultured with fibroblasts in organoid culture	True
+SAM24429211	geo:GSE322959:SAM24429211	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24429967	geo:GSE322959:SAM24429967	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24429968	geo:GSE322959:SAM24429968	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24429969	geo:GSE322959:SAM24429969	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24434754	geo:GSE322959:SAM24434754	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24438944	geo:GSE322959:SAM24438944	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24439425	geo:GSE322959:SAM24439425	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24439426	geo:GSE322959:SAM24439426	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24439427	geo:GSE322959:SAM24439427	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24444433	geo:GSE322959:SAM24444433	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24444434	geo:GSE322959:SAM24444434	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24444435	geo:GSE322959:SAM24444435	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24444436	geo:GSE322959:SAM24444436	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24463982	geo:GSE322959:SAM24463982	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24463983	geo:GSE322959:SAM24463983	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24463984	geo:GSE322959:SAM24463984	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24463985	geo:GSE322959:SAM24463985	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24463986	geo:GSE322959:SAM24463986	suspension_type	cell	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		dissociated into single cells by TrypLE enzyme	True
+SAM24429211	geo:GSE322959:SAM24429211	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24429967	geo:GSE322959:SAM24429967	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24429968	geo:GSE322959:SAM24429968	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24429969	geo:GSE322959:SAM24429969	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24434754	geo:GSE322959:SAM24434754	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24438944	geo:GSE322959:SAM24438944	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24439425	geo:GSE322959:SAM24439425	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24439426	geo:GSE322959:SAM24439426	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24439427	geo:GSE322959:SAM24439427	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24444433	geo:GSE322959:SAM24444433	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24444434	geo:GSE322959:SAM24444434	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24444435	geo:GSE322959:SAM24444435	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24444436	geo:GSE322959:SAM24444436	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24463982	geo:GSE322959:SAM24463982	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24463983	geo:GSE322959:SAM24463983	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24463984	geo:GSE322959:SAM24463984	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24463985	geo:GSE322959:SAM24463985	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True
+SAM24463986	geo:GSE322959:SAM24463986	cell_enrichment	AT2 cells	file	raw/fp-7415cdd45201/GSE322959_family.soft.gz		5000 AT2 cells isolated from normal or IPF lungs	True

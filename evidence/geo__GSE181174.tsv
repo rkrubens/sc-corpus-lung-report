@@ -1,0 +1,4 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-533810742e70/GSE181174_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5492051	geo:GSE181174:GSM5492051	tissue_free_text	bronchoalveolar lavage	file	raw/fp-533810742e70/GSE181174_family.soft.gz	GSM5492051	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True
+GSM5492052	geo:GSE181174:GSM5492052	tissue_free_text	bronchoalveolar lavage	file	raw/fp-533810742e70/GSE181174_family.soft.gz	GSM5492052	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage	True

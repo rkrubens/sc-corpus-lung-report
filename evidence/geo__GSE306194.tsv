@@ -1,0 +1,92 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9194598	geo:GSE306194:GSM9194598	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194599	geo:GSE306194:GSM9194599	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194600	geo:GSE306194:GSM9194600	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194601	geo:GSE306194:GSM9194601	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194602	geo:GSE306194:GSM9194602	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194603	geo:GSE306194:GSM9194603	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194604	geo:GSE306194:GSM9194604	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194605	geo:GSE306194:GSM9194605	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194606	geo:GSE306194:GSM9194606	donor_id	<column donor>	column	work/cell_table.tsv/donor			True
+GSM9194598	geo:GSE306194:GSM9194598	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194599	geo:GSE306194:GSM9194599	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194600	geo:GSE306194:GSM9194600	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194601	geo:GSE306194:GSM9194601	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194602	geo:GSE306194:GSM9194602	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194603	geo:GSE306194:GSM9194603	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194604	geo:GSE306194:GSM9194604	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194605	geo:GSE306194:GSM9194605	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+GSM9194606	geo:GSE306194:GSM9194606	tissue_type	<column group>	column	work/cell_table.tsv/group			True
+		organism	Homo sapiens	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9194598	geo:GSE306194:GSM9194598	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194599	geo:GSE306194:GSM9194599	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194600	geo:GSE306194:GSM9194600	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194601	geo:GSE306194:GSM9194601	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194602	geo:GSE306194:GSM9194602	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194603	geo:GSE306194:GSM9194603	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194604	geo:GSE306194:GSM9194604	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194605	geo:GSE306194:GSM9194605	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194606	geo:GSE306194:GSM9194606	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = tissue: Human lung	True
+GSM9194598	geo:GSE306194:GSM9194598	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194599	geo:GSE306194:GSM9194599	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194600	geo:GSE306194:GSM9194600	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194601	geo:GSE306194:GSM9194601	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194602	geo:GSE306194:GSM9194602	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194603	geo:GSE306194:GSM9194603	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194604	geo:GSE306194:GSM9194604	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194605	geo:GSE306194:GSM9194605	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194606	geo:GSE306194:GSM9194606	tissue_free_text	Human lung	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_source_name_ch1 = Human lung	True
+GSM9194598	geo:GSE306194:GSM9194598	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194599	geo:GSE306194:GSM9194599	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194600	geo:GSE306194:GSM9194600	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194601	geo:GSE306194:GSM9194601	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194602	geo:GSE306194:GSM9194602	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194603	geo:GSE306194:GSM9194603	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194604	geo:GSE306194:GSM9194604	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194605	geo:GSE306194:GSM9194605	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194606	geo:GSE306194:GSM9194606	tissue_type	<map of column group>	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Alveolar type 2 cells were isolated from human lung tissue and expanded for 3 passages. Isolated cells (uncultured, UC, or isoAT2), passage 0, and passage 2 cells from 3 donors were analyzed using scRNA-seq.	True
+GSM9194598	geo:GSE306194:GSM9194598	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194599	geo:GSE306194:GSM9194599	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194600	geo:GSE306194:GSM9194600	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194601	geo:GSE306194:GSM9194601	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194602	geo:GSE306194:GSM9194602	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194603	geo:GSE306194:GSM9194603	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194604	geo:GSE306194:GSM9194604	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194605	geo:GSE306194:GSM9194605	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194606	geo:GSE306194:GSM9194606	suspension_type	cell	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		Single cells were captured and 3' single cell gene expression libraries were constructed	True
+GSM9194598	geo:GSE306194:GSM9194598	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194599	geo:GSE306194:GSM9194599	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194600	geo:GSE306194:GSM9194600	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194601	geo:GSE306194:GSM9194601	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194602	geo:GSE306194:GSM9194602	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194603	geo:GSE306194:GSM9194603	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194604	geo:GSE306194:GSM9194604	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194605	geo:GSE306194:GSM9194605	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194606	geo:GSE306194:GSM9194606	cell_enrichment	Alveolar epithelial type 2	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_characteristics_ch1 = cell type: Alveolar epithelial type 2	True
+GSM9194598	geo:GSE306194:GSM9194598	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194599	geo:GSE306194:GSM9194599	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194600	geo:GSE306194:GSM9194600	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194601	geo:GSE306194:GSM9194601	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194602	geo:GSE306194:GSM9194602	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194603	geo:GSE306194:GSM9194603	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194604	geo:GSE306194:GSM9194604	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194605	geo:GSE306194:GSM9194605	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194606	geo:GSE306194:GSM9194606	gene_annotation_version	GRCh38-2024-A	file	raw/fp-e8359efd8ee5/GSE306194_family.soft.gz		!Sample_data_processing = Assembly: GRCh38-2024-A	True
+GSM9194598	geo:GSE306194:GSM9194598	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194599	geo:GSE306194:GSM9194599	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194600	geo:GSE306194:GSM9194600	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194601	geo:GSE306194:GSM9194601	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194602	geo:GSE306194:GSM9194602	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194603	geo:GSE306194:GSM9194603	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194604	geo:GSE306194:GSM9194604	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194605	geo:GSE306194:GSM9194605	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194606	geo:GSE306194:GSM9194606	disease_free_text	donor lung with no history or current diagnosis of lung disease (donor acceptance criteria, lungs declined for transplant)	file	evidence/PMC13221229.txt		without history or current diagnosis of lung disease	True
+GSM9194598	geo:GSE306194:GSM9194598	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194599	geo:GSE306194:GSM9194599	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194600	geo:GSE306194:GSM9194600	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194601	geo:GSE306194:GSM9194601	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194602	geo:GSE306194:GSM9194602	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194603	geo:GSE306194:GSM9194603	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194604	geo:GSE306194:GSM9194604	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194605	geo:GSE306194:GSM9194605	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True
+GSM9194606	geo:GSE306194:GSM9194606	sample_collection_method	lungs declined for transplant	file	evidence/PMC13221229.txt		Human lung tissues declined for transplant were used herein	True

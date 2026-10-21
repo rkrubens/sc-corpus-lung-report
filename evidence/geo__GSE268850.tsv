@@ -1,0 +1,68 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	!Sample_organism_ch1 = Homo sapiens	True
+GSM8301108	geo:GSE268850:GSM8301108	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301108	geo:GSE268850:GSM8301108	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301108	geo:GSE268850:GSM8301108	disease_free_text	healthy lung	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	!Sample_characteristics_ch1 = genotype: Healthy Lung	True
+GSM8301108	geo:GSE268850:GSM8301108	disease_ontology_term_id	PATO:0000461	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	!Sample_characteristics_ch1 = genotype: Healthy Lung	True
+GSM8301108	geo:GSE268850:GSM8301108	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	PFA (4%) fixed, paraffin embedded	True
+GSM8301108	geo:GSE268850:GSM8301108	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301108	PFA (4%) fixed, paraffin embedded	True
+GSM8301109	geo:GSE268850:GSM8301109	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301109	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301109	geo:GSE268850:GSM8301109	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301109	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301109	geo:GSE268850:GSM8301109	disease_free_text	healthy lung	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301109	!Sample_characteristics_ch1 = genotype: Healthy Lung	True
+GSM8301109	geo:GSE268850:GSM8301109	disease_ontology_term_id	PATO:0000461	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301109	!Sample_characteristics_ch1 = genotype: Healthy Lung	True
+GSM8301109	geo:GSE268850:GSM8301109	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301109	PFA (4%) fixed, paraffin embedded	True
+GSM8301109	geo:GSE268850:GSM8301109	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301109	PFA (4%) fixed, paraffin embedded	True
+GSM8301110	geo:GSE268850:GSM8301110	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301110	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301110	geo:GSE268850:GSM8301110	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301110	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301110	geo:GSE268850:GSM8301110	disease_free_text	healthy lung	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301110	!Sample_characteristics_ch1 = genotype: Healthy Lung	True
+GSM8301110	geo:GSE268850:GSM8301110	disease_ontology_term_id	PATO:0000461	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301110	!Sample_characteristics_ch1 = genotype: Healthy Lung	True
+GSM8301110	geo:GSE268850:GSM8301110	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301110	PFA (4%) fixed, paraffin embedded	True
+GSM8301110	geo:GSE268850:GSM8301110	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301110	PFA (4%) fixed, paraffin embedded	True
+GSM8301111	geo:GSE268850:GSM8301111	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301111	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301111	geo:GSE268850:GSM8301111	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301111	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301111	geo:GSE268850:GSM8301111	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301111	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301111	geo:GSE268850:GSM8301111	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301111	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301111	geo:GSE268850:GSM8301111	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301111	PFA (4%) fixed, paraffin embedded	True
+GSM8301111	geo:GSE268850:GSM8301111	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301111	PFA (4%) fixed, paraffin embedded	True
+GSM8301112	geo:GSE268850:GSM8301112	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301112	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301112	geo:GSE268850:GSM8301112	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301112	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301112	geo:GSE268850:GSM8301112	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301112	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301112	geo:GSE268850:GSM8301112	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301112	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301112	geo:GSE268850:GSM8301112	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301112	PFA (4%) fixed, paraffin embedded	True
+GSM8301112	geo:GSE268850:GSM8301112	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301112	PFA (4%) fixed, paraffin embedded	True
+GSM8301113	geo:GSE268850:GSM8301113	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301113	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301113	geo:GSE268850:GSM8301113	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301113	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301113	geo:GSE268850:GSM8301113	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301113	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301113	geo:GSE268850:GSM8301113	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301113	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301113	geo:GSE268850:GSM8301113	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301113	PFA (4%) fixed, paraffin embedded	True
+GSM8301113	geo:GSE268850:GSM8301113	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301113	PFA (4%) fixed, paraffin embedded	True
+GSM8301114	geo:GSE268850:GSM8301114	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301114	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301114	geo:GSE268850:GSM8301114	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301114	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301114	geo:GSE268850:GSM8301114	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301114	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301114	geo:GSE268850:GSM8301114	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301114	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301114	geo:GSE268850:GSM8301114	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301114	PFA (4%) fixed, paraffin embedded	True
+GSM8301114	geo:GSE268850:GSM8301114	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301114	PFA (4%) fixed, paraffin embedded	True
+GSM8301115	geo:GSE268850:GSM8301115	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301115	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301115	geo:GSE268850:GSM8301115	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301115	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301115	geo:GSE268850:GSM8301115	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301115	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301115	geo:GSE268850:GSM8301115	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301115	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301115	geo:GSE268850:GSM8301115	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301115	PFA (4%) fixed, paraffin embedded	True
+GSM8301115	geo:GSE268850:GSM8301115	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301115	PFA (4%) fixed, paraffin embedded	True
+GSM8301116	geo:GSE268850:GSM8301116	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301116	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301116	geo:GSE268850:GSM8301116	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301116	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301116	geo:GSE268850:GSM8301116	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301116	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301116	geo:GSE268850:GSM8301116	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301116	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301116	geo:GSE268850:GSM8301116	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301116	PFA (4%) fixed, paraffin embedded	True
+GSM8301116	geo:GSE268850:GSM8301116	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301116	PFA (4%) fixed, paraffin embedded	True
+GSM8301117	geo:GSE268850:GSM8301117	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301117	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301117	geo:GSE268850:GSM8301117	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301117	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301117	geo:GSE268850:GSM8301117	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301117	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301117	geo:GSE268850:GSM8301117	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301117	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301117	geo:GSE268850:GSM8301117	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301117	PFA (4%) fixed, paraffin embedded	True
+GSM8301117	geo:GSE268850:GSM8301117	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301117	PFA (4%) fixed, paraffin embedded	True
+GSM8301118	geo:GSE268850:GSM8301118	tissue_free_text	Lung distal bronchiole	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301118	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301118	geo:GSE268850:GSM8301118	tissue_ontology_term_id	UBERON:0002186	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301118	!Sample_characteristics_ch1 = tissue: Lung distal bronchiole	True
+GSM8301118	geo:GSE268850:GSM8301118	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301118	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301118	geo:GSE268850:GSM8301118	disease_ontology_term_id	MONDO:0800504	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301118	!Sample_characteristics_ch1 = genotype: Idiopathic pulmonary fibrosis lung	True
+GSM8301118	geo:GSE268850:GSM8301118	sample_preservation	PFA-fixed, paraffin-embedded	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301118	PFA (4%) fixed, paraffin embedded	True
+GSM8301118	geo:GSE268850:GSM8301118	suspension_type	na	file	raw/fp-5fd732126cd3/GSE268850_family.soft.gz	GSM8301118	PFA (4%) fixed, paraffin embedded	True

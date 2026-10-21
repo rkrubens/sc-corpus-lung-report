@@ -1,0 +1,9 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+		organism	Homo sapiens	file	raw/fp-072c1f08859a/GSE174743_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	tissue_free_text	NSCLC tumor	file	raw/fp-072c1f08859a/GSE174743_family.soft.gz		!Sample_source_name_ch1 = NSCLC tumor	True
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	tissue_ontology_term_id	lung	file	evidence/PMC8770643.txt		Using lung tumors, we create a dataset for benchmarking deconvolution methods	True
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	disease_free_text	non-small cell lung carcinoma	file	raw/fp-072c1f08859a/GSE174743_family.soft.gz		Five NSCLC tumors were profiled with the GeoMx Cancer Transcriptome Atlas RNA assay.	True
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-072c1f08859a/GSE174743_family.soft.gz		Five NSCLC tumors were profiled with the GeoMx Cancer Transcriptome Atlas RNA assay.	True
+GSE174743_5tumors	geo:GSE174743:GSE174743_5tumors	suspension_type	na	file	raw/fp-072c1f08859a/GSE174743_family.soft.gz		20-24 ROIs were chosen from each tissue, and tumor (PanCK+) and microenvironment (PanCK-) AOIs were collected from each ROI.	True

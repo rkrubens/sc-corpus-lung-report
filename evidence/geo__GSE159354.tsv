@@ -1,0 +1,166 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4827158	geo:GSE159354:GSM4827158	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827158	geo:GSE159354:GSM4827158	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827159	geo:GSE159354:GSM4827159	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827159	geo:GSE159354:GSM4827159	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827160	geo:GSE159354:GSM4827160	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827160	geo:GSE159354:GSM4827160	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827161	geo:GSE159354:GSM4827161	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827161	geo:GSE159354:GSM4827161	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827162	geo:GSE159354:GSM4827162	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827162	geo:GSE159354:GSM4827162	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827163	geo:GSE159354:GSM4827163	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827164	geo:GSE159354:GSM4827164	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827165	geo:GSE159354:GSM4827165	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827166	geo:GSE159354:GSM4827166	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827167	geo:GSE159354:GSM4827167	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827168	geo:GSE159354:GSM4827168	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827169	geo:GSE159354:GSM4827169	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827170	geo:GSE159354:GSM4827170	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827171	geo:GSE159354:GSM4827171	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827172	geo:GSE159354:GSM4827172	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827173	geo:GSE159354:GSM4827173	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827174	geo:GSE159354:GSM4827174	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827175	geo:GSE159354:GSM4827175	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827176	geo:GSE159354:GSM4827176	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827177	geo:GSE159354:GSM4827177	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827178	geo:GSE159354:GSM4827178	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827179	geo:GSE159354:GSM4827179	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827180	geo:GSE159354:GSM4827180	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827181	geo:GSE159354:GSM4827181	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827182	geo:GSE159354:GSM4827182	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827183	geo:GSE159354:GSM4827183	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827184	geo:GSE159354:GSM4827184	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827185	geo:GSE159354:GSM4827185	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827186	geo:GSE159354:GSM4827186	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827186	geo:GSE159354:GSM4827186	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827187	geo:GSE159354:GSM4827187	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827187	geo:GSE159354:GSM4827187	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827188	geo:GSE159354:GSM4827188	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827188	geo:GSE159354:GSM4827188	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827189	geo:GSE159354:GSM4827189	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827189	geo:GSE159354:GSM4827189	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827190	geo:GSE159354:GSM4827190	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827190	geo:GSE159354:GSM4827190	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827191	geo:GSE159354:GSM4827191	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827191	geo:GSE159354:GSM4827191	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827192	geo:GSE159354:GSM4827192	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827192	geo:GSE159354:GSM4827192	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827193	geo:GSE159354:GSM4827193	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827193	geo:GSE159354:GSM4827193	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827194	geo:GSE159354:GSM4827194	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827194	geo:GSE159354:GSM4827194	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827195	geo:GSE159354:GSM4827195	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827195	geo:GSE159354:GSM4827195	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827196	geo:GSE159354:GSM4827196	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827197	geo:GSE159354:GSM4827197	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827198	geo:GSE159354:GSM4827198	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827199	geo:GSE159354:GSM4827199	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827200	geo:GSE159354:GSM4827200	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827201	geo:GSE159354:GSM4827201	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827201	geo:GSE159354:GSM4827201	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827202	geo:GSE159354:GSM4827202	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827202	geo:GSE159354:GSM4827202	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827203	geo:GSE159354:GSM4827203	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827203	geo:GSE159354:GSM4827203	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827204	geo:GSE159354:GSM4827204	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827204	geo:GSE159354:GSM4827204	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM4827205	geo:GSE159354:GSM4827205	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM4827205	geo:GSE159354:GSM4827205	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+		organism	Homo sapiens	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4827158	geo:GSE159354:GSM4827158	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827158	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827158	geo:GSE159354:GSM4827158	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827158	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827159	geo:GSE159354:GSM4827159	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827159	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827159	geo:GSE159354:GSM4827159	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827159	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827160	geo:GSE159354:GSM4827160	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827160	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827160	geo:GSE159354:GSM4827160	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827160	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827161	geo:GSE159354:GSM4827161	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827161	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827161	geo:GSE159354:GSM4827161	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827161	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827162	geo:GSE159354:GSM4827162	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827162	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827162	geo:GSE159354:GSM4827162	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827162	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827163	geo:GSE159354:GSM4827163	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827163	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827163	geo:GSE159354:GSM4827163	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827163	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827164	geo:GSE159354:GSM4827164	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827164	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827164	geo:GSE159354:GSM4827164	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827164	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827165	geo:GSE159354:GSM4827165	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827165	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827165	geo:GSE159354:GSM4827165	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827165	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827166	geo:GSE159354:GSM4827166	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827166	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827166	geo:GSE159354:GSM4827166	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827166	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827167	geo:GSE159354:GSM4827167	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827167	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827167	geo:GSE159354:GSM4827167	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827167	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827168	geo:GSE159354:GSM4827168	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827168	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827168	geo:GSE159354:GSM4827168	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827168	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827169	geo:GSE159354:GSM4827169	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827169	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827169	geo:GSE159354:GSM4827169	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827169	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827170	geo:GSE159354:GSM4827170	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827170	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827170	geo:GSE159354:GSM4827170	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827170	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827171	geo:GSE159354:GSM4827171	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827171	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827171	geo:GSE159354:GSM4827171	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827171	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827172	geo:GSE159354:GSM4827172	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827172	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827172	geo:GSE159354:GSM4827172	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827172	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827173	geo:GSE159354:GSM4827173	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827173	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827173	geo:GSE159354:GSM4827173	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827173	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827174	geo:GSE159354:GSM4827174	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827174	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827174	geo:GSE159354:GSM4827174	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827174	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827175	geo:GSE159354:GSM4827175	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827175	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827175	geo:GSE159354:GSM4827175	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827175	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827176	geo:GSE159354:GSM4827176	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827176	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827176	geo:GSE159354:GSM4827176	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827176	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827177	geo:GSE159354:GSM4827177	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827177	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827177	geo:GSE159354:GSM4827177	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827177	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827178	geo:GSE159354:GSM4827178	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827178	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827178	geo:GSE159354:GSM4827178	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827178	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827179	geo:GSE159354:GSM4827179	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827179	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827179	geo:GSE159354:GSM4827179	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827179	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827180	geo:GSE159354:GSM4827180	disease_free_text	SSc-ILD	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827180	!Sample_characteristics_ch1 = disease: SSc-ILD	True
+GSM4827180	geo:GSE159354:GSM4827180	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827180	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827181	geo:GSE159354:GSM4827181	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827181	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827181	geo:GSE159354:GSM4827181	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827181	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827182	geo:GSE159354:GSM4827182	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827182	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827182	geo:GSE159354:GSM4827182	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827182	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827183	geo:GSE159354:GSM4827183	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827183	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827183	geo:GSE159354:GSM4827183	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827183	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827184	geo:GSE159354:GSM4827184	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827184	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827184	geo:GSE159354:GSM4827184	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827184	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827185	geo:GSE159354:GSM4827185	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827185	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827185	geo:GSE159354:GSM4827185	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827185	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827186	geo:GSE159354:GSM4827186	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827186	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827186	geo:GSE159354:GSM4827186	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827186	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827187	geo:GSE159354:GSM4827187	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827187	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827187	geo:GSE159354:GSM4827187	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827187	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827188	geo:GSE159354:GSM4827188	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827188	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827188	geo:GSE159354:GSM4827188	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827188	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827189	geo:GSE159354:GSM4827189	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827189	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827189	geo:GSE159354:GSM4827189	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827189	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827190	geo:GSE159354:GSM4827190	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827190	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827190	geo:GSE159354:GSM4827190	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827190	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827191	geo:GSE159354:GSM4827191	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827191	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827191	geo:GSE159354:GSM4827191	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827191	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827192	geo:GSE159354:GSM4827192	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827192	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827192	geo:GSE159354:GSM4827192	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827192	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827193	geo:GSE159354:GSM4827193	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827193	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827193	geo:GSE159354:GSM4827193	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827193	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827194	geo:GSE159354:GSM4827194	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827194	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827194	geo:GSE159354:GSM4827194	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827194	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827195	geo:GSE159354:GSM4827195	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827195	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827195	geo:GSE159354:GSM4827195	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827195	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827196	geo:GSE159354:GSM4827196	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827196	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827196	geo:GSE159354:GSM4827196	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827196	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827197	geo:GSE159354:GSM4827197	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827197	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827197	geo:GSE159354:GSM4827197	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827197	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827198	geo:GSE159354:GSM4827198	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827198	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827198	geo:GSE159354:GSM4827198	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827198	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827199	geo:GSE159354:GSM4827199	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827199	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827199	geo:GSE159354:GSM4827199	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827199	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827200	geo:GSE159354:GSM4827200	disease_free_text	Control	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827200	!Sample_characteristics_ch1 = disease: Control	True
+GSM4827200	geo:GSE159354:GSM4827200	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827200	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827201	geo:GSE159354:GSM4827201	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827201	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827201	geo:GSE159354:GSM4827201	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827201	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827202	geo:GSE159354:GSM4827202	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827202	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827202	geo:GSE159354:GSM4827202	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827202	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827203	geo:GSE159354:GSM4827203	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827203	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827203	geo:GSE159354:GSM4827203	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827203	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827204	geo:GSE159354:GSM4827204	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827204	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827204	geo:GSE159354:GSM4827204	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827204	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4827205	geo:GSE159354:GSM4827205	disease_free_text	IPF	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827205	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4827205	geo:GSE159354:GSM4827205	tissue_free_text	lung	file	raw/fp-1152e3ce4c3d/GSE159354_family.soft.gz	GSM4827205	!Sample_characteristics_ch1 = tissue: lung	True

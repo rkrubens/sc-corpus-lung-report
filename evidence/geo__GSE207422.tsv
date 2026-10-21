@@ -1,0 +1,422 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6287372	geo:GSE207422:GSM6287372	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287373	geo:GSE207422:GSM6287373	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287374	geo:GSE207422:GSM6287374	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287375	geo:GSE207422:GSM6287375	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287376	geo:GSE207422:GSM6287376	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287377	geo:GSE207422:GSM6287377	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287378	geo:GSE207422:GSM6287378	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287379	geo:GSE207422:GSM6287379	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287380	geo:GSE207422:GSM6287380	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287381	geo:GSE207422:GSM6287381	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287382	geo:GSE207422:GSM6287382	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287383	geo:GSE207422:GSM6287383	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287384	geo:GSE207422:GSM6287384	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287385	geo:GSE207422:GSM6287385	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287386	geo:GSE207422:GSM6287386	donor_id	<column donor_id>	column	work/cell_table.tsv.gz/donor_id			True
+GSM6287372	geo:GSE207422:GSM6287372	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287373	geo:GSE207422:GSM6287373	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287374	geo:GSE207422:GSM6287374	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287375	geo:GSE207422:GSM6287375	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287376	geo:GSE207422:GSM6287376	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287377	geo:GSE207422:GSM6287377	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287378	geo:GSE207422:GSM6287378	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287379	geo:GSE207422:GSM6287379	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287380	geo:GSE207422:GSM6287380	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287381	geo:GSE207422:GSM6287381	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287382	geo:GSE207422:GSM6287382	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287383	geo:GSE207422:GSM6287383	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287384	geo:GSE207422:GSM6287384	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287385	geo:GSE207422:GSM6287385	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287386	geo:GSE207422:GSM6287386	sex_ontology_term_id	<column sex>	column	work/cell_table.tsv.gz/sex			True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	<column age>	column	work/cell_table.tsv.gz/age			True
+GSM6287372	geo:GSE207422:GSM6287372	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287373	geo:GSE207422:GSM6287373	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287374	geo:GSE207422:GSM6287374	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287375	geo:GSE207422:GSM6287375	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287376	geo:GSE207422:GSM6287376	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287377	geo:GSE207422:GSM6287377	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287378	geo:GSE207422:GSM6287378	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287379	geo:GSE207422:GSM6287379	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287380	geo:GSE207422:GSM6287380	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287381	geo:GSE207422:GSM6287381	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287382	geo:GSE207422:GSM6287382	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287383	geo:GSE207422:GSM6287383	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287384	geo:GSE207422:GSM6287384	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287385	geo:GSE207422:GSM6287385	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287386	geo:GSE207422:GSM6287386	disease_stage	<column disease_stage>	column	work/cell_table.tsv.gz/disease_stage			True
+GSM6287372	geo:GSE207422:GSM6287372	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287373	geo:GSE207422:GSM6287373	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287374	geo:GSE207422:GSM6287374	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287375	geo:GSE207422:GSM6287375	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287376	geo:GSE207422:GSM6287376	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287377	geo:GSE207422:GSM6287377	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287378	geo:GSE207422:GSM6287378	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287379	geo:GSE207422:GSM6287379	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287380	geo:GSE207422:GSM6287380	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287381	geo:GSE207422:GSM6287381	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287382	geo:GSE207422:GSM6287382	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287383	geo:GSE207422:GSM6287383	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287384	geo:GSE207422:GSM6287384	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287385	geo:GSE207422:GSM6287385	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287386	geo:GSE207422:GSM6287386	timepoint	<column timepoint>	column	work/cell_table.tsv.gz/timepoint			True
+GSM6287372	geo:GSE207422:GSM6287372	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287373	geo:GSE207422:GSM6287373	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287374	geo:GSE207422:GSM6287374	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287375	geo:GSE207422:GSM6287375	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287376	geo:GSE207422:GSM6287376	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287377	geo:GSE207422:GSM6287377	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287378	geo:GSE207422:GSM6287378	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287379	geo:GSE207422:GSM6287379	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287380	geo:GSE207422:GSM6287380	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287381	geo:GSE207422:GSM6287381	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287382	geo:GSE207422:GSM6287382	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287383	geo:GSE207422:GSM6287383	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287384	geo:GSE207422:GSM6287384	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287385	geo:GSE207422:GSM6287385	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287386	geo:GSE207422:GSM6287386	response	<column response>	column	work/cell_table.tsv.gz/response			True
+GSM6287372	geo:GSE207422:GSM6287372	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287373	geo:GSE207422:GSM6287373	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287374	geo:GSE207422:GSM6287374	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287375	geo:GSE207422:GSM6287375	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287376	geo:GSE207422:GSM6287376	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287377	geo:GSE207422:GSM6287377	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287378	geo:GSE207422:GSM6287378	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287379	geo:GSE207422:GSM6287379	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287380	geo:GSE207422:GSM6287380	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287381	geo:GSE207422:GSM6287381	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287382	geo:GSE207422:GSM6287382	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287383	geo:GSE207422:GSM6287383	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287384	geo:GSE207422:GSM6287384	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287385	geo:GSE207422:GSM6287385	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287386	geo:GSE207422:GSM6287386	treatment_status	<column treatment_status>	column	work/cell_table.tsv.gz/treatment_status			True
+GSM6287372	geo:GSE207422:GSM6287372	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287373	geo:GSE207422:GSM6287373	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287374	geo:GSE207422:GSM6287374	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287375	geo:GSE207422:GSM6287375	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287376	geo:GSE207422:GSM6287376	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287377	geo:GSE207422:GSM6287377	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287378	geo:GSE207422:GSM6287378	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287379	geo:GSE207422:GSM6287379	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287380	geo:GSE207422:GSM6287380	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287381	geo:GSE207422:GSM6287381	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287382	geo:GSE207422:GSM6287382	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287383	geo:GSE207422:GSM6287383	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287384	geo:GSE207422:GSM6287384	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287385	geo:GSE207422:GSM6287385	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287386	geo:GSE207422:GSM6287386	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM6287372	geo:GSE207422:GSM6287372	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287373	geo:GSE207422:GSM6287373	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287374	geo:GSE207422:GSM6287374	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287375	geo:GSE207422:GSM6287375	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287376	geo:GSE207422:GSM6287376	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287377	geo:GSE207422:GSM6287377	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287378	geo:GSE207422:GSM6287378	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287379	geo:GSE207422:GSM6287379	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287380	geo:GSE207422:GSM6287380	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287381	geo:GSE207422:GSM6287381	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287382	geo:GSE207422:GSM6287382	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287383	geo:GSE207422:GSM6287383	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287384	geo:GSE207422:GSM6287384	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287385	geo:GSE207422:GSM6287385	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287386	geo:GSE207422:GSM6287386	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+GSM6287372	geo:GSE207422:GSM6287372	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287373	geo:GSE207422:GSM6287373	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287374	geo:GSE207422:GSM6287374	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287375	geo:GSE207422:GSM6287375	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287376	geo:GSE207422:GSM6287376	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287377	geo:GSE207422:GSM6287377	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287378	geo:GSE207422:GSM6287378	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287379	geo:GSE207422:GSM6287379	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287380	geo:GSE207422:GSM6287380	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287381	geo:GSE207422:GSM6287381	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287382	geo:GSE207422:GSM6287382	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287383	geo:GSE207422:GSM6287383	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287384	geo:GSE207422:GSM6287384	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287385	geo:GSE207422:GSM6287385	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287386	geo:GSE207422:GSM6287386	development_stage_ontology_term_id	HsapDv:0000149	derived	age_in_years:'55-year-old stage':ols:hsapdv		55	True
+GSM6287372	geo:GSE207422:GSM6287372	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287373	geo:GSE207422:GSM6287373	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287374	geo:GSE207422:GSM6287374	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287375	geo:GSE207422:GSM6287375	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287376	geo:GSE207422:GSM6287376	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287377	geo:GSE207422:GSM6287377	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287378	geo:GSE207422:GSM6287378	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287379	geo:GSE207422:GSM6287379	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287380	geo:GSE207422:GSM6287380	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287381	geo:GSE207422:GSM6287381	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287382	geo:GSE207422:GSM6287382	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287383	geo:GSE207422:GSM6287383	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287384	geo:GSE207422:GSM6287384	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287385	geo:GSE207422:GSM6287385	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6287386	geo:GSE207422:GSM6287386	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6287372	geo:GSE207422:GSM6287372	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287373	geo:GSE207422:GSM6287373	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287374	geo:GSE207422:GSM6287374	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287375	geo:GSE207422:GSM6287375	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287376	geo:GSE207422:GSM6287376	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287377	geo:GSE207422:GSM6287377	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287378	geo:GSE207422:GSM6287378	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287379	geo:GSE207422:GSM6287379	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287380	geo:GSE207422:GSM6287380	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287381	geo:GSE207422:GSM6287381	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287382	geo:GSE207422:GSM6287382	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287383	geo:GSE207422:GSM6287383	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287384	geo:GSE207422:GSM6287384	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287385	geo:GSE207422:GSM6287385	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287386	geo:GSE207422:GSM6287386	tissue_free_text	lung	file	evidence/PMC9985263.txt		We obtained the primary tumor tissue by percutaneous pulmonary biopsy	True
+GSM6287372	geo:GSE207422:GSM6287372	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287373	geo:GSE207422:GSM6287373	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287374	geo:GSE207422:GSM6287374	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287375	geo:GSE207422:GSM6287375	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287376	geo:GSE207422:GSM6287376	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287377	geo:GSE207422:GSM6287377	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287378	geo:GSE207422:GSM6287378	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287379	geo:GSE207422:GSM6287379	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287380	geo:GSE207422:GSM6287380	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287381	geo:GSE207422:GSM6287381	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287382	geo:GSE207422:GSM6287382	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287383	geo:GSE207422:GSM6287383	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287384	geo:GSE207422:GSM6287384	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287385	geo:GSE207422:GSM6287385	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287386	geo:GSE207422:GSM6287386	suspension_type	cell	file	evidence/PMC9985263.txt		The fresh tissues were rapidly digested to a single-cell suspension	True
+GSM6287372	geo:GSE207422:GSM6287372	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287373	geo:GSE207422:GSM6287373	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287374	geo:GSE207422:GSM6287374	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287375	geo:GSE207422:GSM6287375	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287376	geo:GSE207422:GSM6287376	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287377	geo:GSE207422:GSM6287377	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287378	geo:GSE207422:GSM6287378	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287379	geo:GSE207422:GSM6287379	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287380	geo:GSE207422:GSM6287380	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287381	geo:GSE207422:GSM6287381	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287382	geo:GSE207422:GSM6287382	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287383	geo:GSE207422:GSM6287383	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287384	geo:GSE207422:GSM6287384	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287385	geo:GSE207422:GSM6287385	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287386	geo:GSE207422:GSM6287386	sample_preservation	fresh	file	evidence/PMC9985263.txt		Fresh samples from biopsy or surgery were isolated and transported rapidly to the research facility	True
+GSM6287372	geo:GSE207422:GSM6287372	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287373	geo:GSE207422:GSM6287373	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287374	geo:GSE207422:GSM6287374	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287375	geo:GSE207422:GSM6287375	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287376	geo:GSE207422:GSM6287376	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287377	geo:GSE207422:GSM6287377	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287378	geo:GSE207422:GSM6287378	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287379	geo:GSE207422:GSM6287379	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287380	geo:GSE207422:GSM6287380	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287381	geo:GSE207422:GSM6287381	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287382	geo:GSE207422:GSM6287382	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287383	geo:GSE207422:GSM6287383	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287384	geo:GSE207422:GSM6287384	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287385	geo:GSE207422:GSM6287385	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287386	geo:GSE207422:GSM6287386	disease_free_text	non-small cell lung cancer (NSCLC)	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287372	geo:GSE207422:GSM6287372	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287373	geo:GSE207422:GSM6287373	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287374	geo:GSE207422:GSM6287374	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287375	geo:GSE207422:GSM6287375	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287376	geo:GSE207422:GSM6287376	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287377	geo:GSE207422:GSM6287377	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287378	geo:GSE207422:GSM6287378	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287379	geo:GSE207422:GSM6287379	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287380	geo:GSE207422:GSM6287380	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287381	geo:GSE207422:GSM6287381	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287382	geo:GSE207422:GSM6287382	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287383	geo:GSE207422:GSM6287383	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287384	geo:GSE207422:GSM6287384	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287385	geo:GSE207422:GSM6287385	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287386	geo:GSE207422:GSM6287386	treatment	Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_treatment_protocol_ch1 = Patients received 2 cycles of PD-1 antibody + chemotherapy before surgery	True
+GSM6287372	geo:GSE207422:GSM6287372	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287373	geo:GSE207422:GSM6287373	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287374	geo:GSE207422:GSM6287374	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287375	geo:GSE207422:GSM6287375	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287376	geo:GSE207422:GSM6287376	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287377	geo:GSE207422:GSM6287377	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287378	geo:GSE207422:GSM6287378	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287379	geo:GSE207422:GSM6287379	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287380	geo:GSE207422:GSM6287380	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287381	geo:GSE207422:GSM6287381	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287382	geo:GSE207422:GSM6287382	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287383	geo:GSE207422:GSM6287383	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287384	geo:GSE207422:GSM6287384	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287385	geo:GSE207422:GSM6287385	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True
+GSM6287386	geo:GSE207422:GSM6287386	disease_ontology_term_id	MONDO:0005233	file	raw/fp-43381bc4bf7f/GSE207422_family.soft.gz		!Sample_source_name_ch1 = non-small cell lung cancer (NSCLC)	True

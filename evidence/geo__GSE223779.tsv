@@ -1,0 +1,74 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6995249	geo:GSE223779:GSM6995249	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6995249	geo:GSE223779:GSM6995249	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		Non-small cell lung cancer	True
+GSM6995250	geo:GSE223779:GSM6995250	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6995250	geo:GSE223779:GSM6995250	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		Non-small cell lung cancer	True
+GSM6995251	geo:GSE223779:GSM6995251	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM6995251	geo:GSE223779:GSM6995251	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		Non-small cell lung cancer	True
+GSM6995252	geo:GSE223779:GSM6995252	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6995252	geo:GSE223779:GSM6995252	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		Non-small cell lung cancer	True
+GSM6995253	geo:GSE223779:GSM6995253	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6995253	geo:GSE223779:GSM6995253	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		Non-small cell lung cancer	True
+GSM6995254	geo:GSE223779:GSM6995254	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM6995254	geo:GSE223779:GSM6995254	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		Non-small cell lung cancer	True
+		organism	Homo sapiens	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_organism_ch1 = Homo sapiens	True
+GSM6995249	geo:GSE223779:GSM6995249	sex	male	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6995249	geo:GSE223779:GSM6995249	disease_free_text	Non-small cell lung cancer	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_characteristics_ch1 = disease: Non-small cell lung cancer	True
+GSM6995249	geo:GSE223779:GSM6995249	disease_stage	IIA	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_characteristics_ch1 = Stage: IIA	True
+GSM6995249	geo:GSE223779:GSM6995249	tissue_free_text	Resected primary tumor	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_characteristics_ch1 = treatment: Resected primary tumor	True
+GSM6995249	geo:GSE223779:GSM6995249	tissue_type	organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_characteristics_ch1 = cell line: Tumor organoid	True
+GSM6995249	geo:GSE223779:GSM6995249	suspension_type	cell	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	The prepared cell suspension is coated with a bead	True
+GSM6995249	geo:GSE223779:GSM6995249	response	TKI sensitive	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	!Sample_title = Tumor organoid, TKI sensitive [TS485TOS]	True
+GSM6995249	geo:GSE223779:GSM6995249	treatment	none (TKI-sensitive organoids cultured in usual condition)	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	TKI sensitive tumor organoids TS485TOS and FA34OS were cultured in usual condition	True
+GSM6995249	geo:GSE223779:GSM6995249	treatment_status	untreated organoid culture	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995249	TKI sensitive tumor organoids TS485TOS and FA34OS were cultured in usual condition	True
+GSM6995249	geo:GSE223779:GSM6995249	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10397560.txt		lung cancer organoids (LCOs) (TS485T‐organoids (O) derived from a resected primary tumor	True
+GSM6995250	geo:GSE223779:GSM6995250	sex	male	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6995250	geo:GSE223779:GSM6995250	disease_free_text	Non-small cell lung cancer	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	!Sample_characteristics_ch1 = disease: Non-small cell lung cancer	True
+GSM6995250	geo:GSE223779:GSM6995250	disease_stage	IIA	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	!Sample_characteristics_ch1 = Stage: IIA	True
+GSM6995250	geo:GSE223779:GSM6995250	tissue_free_text	Resected primary tumor	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	!Sample_characteristics_ch1 = treatment: Resected primary tumor	True
+GSM6995250	geo:GSE223779:GSM6995250	tissue_type	organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	!Sample_characteristics_ch1 = cell line: Tumor organoid	True
+GSM6995250	geo:GSE223779:GSM6995250	suspension_type	cell	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	The prepared cell suspension is coated with a bead	True
+GSM6995250	geo:GSE223779:GSM6995250	response	crizotinib resistant	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	!Sample_title = Tumor organoid, crizotinib resistant [TS485TOC]	True
+GSM6995250	geo:GSE223779:GSM6995250	treatment	crizotinib (ALK-TKI exposure of the organoid)	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	Crizotinib treatment for TS485TOC and FA34OC	True
+GSM6995250	geo:GSE223779:GSM6995250	treatment_status	TKI-treated organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995250	Crizotinib treatment for TS485TOC and FA34OC	True
+GSM6995250	geo:GSE223779:GSM6995250	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10397560.txt		lung cancer organoids (LCOs) (TS485T‐organoids (O) derived from a resected primary tumor	True
+GSM6995251	geo:GSE223779:GSM6995251	sex	male	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	!Sample_characteristics_ch1 = Sex: Male	True
+GSM6995251	geo:GSE223779:GSM6995251	disease_free_text	Non-small cell lung cancer	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	!Sample_characteristics_ch1 = disease: Non-small cell lung cancer	True
+GSM6995251	geo:GSE223779:GSM6995251	disease_stage	IIA	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	!Sample_characteristics_ch1 = Stage: IIA	True
+GSM6995251	geo:GSE223779:GSM6995251	tissue_free_text	Resected primary tumor	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	!Sample_characteristics_ch1 = treatment: Resected primary tumor	True
+GSM6995251	geo:GSE223779:GSM6995251	tissue_type	organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	!Sample_characteristics_ch1 = cell line: Tumor organoid	True
+GSM6995251	geo:GSE223779:GSM6995251	suspension_type	cell	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	The prepared cell suspension is coated with a bead	True
+GSM6995251	geo:GSE223779:GSM6995251	response	alectinib resistant	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	!Sample_title = Tumor organoid, alectinib resistant [TS485TOA]	True
+GSM6995251	geo:GSE223779:GSM6995251	treatment	alectinib (ALK-TKI exposure of the organoid)	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	Alectinib treatment for TS485TOA and FA34OA	True
+GSM6995251	geo:GSE223779:GSM6995251	treatment_status	TKI-treated organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995251	Alectinib treatment for TS485TOA and FA34OA	True
+GSM6995251	geo:GSE223779:GSM6995251	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10397560.txt		lung cancer organoids (LCOs) (TS485T‐organoids (O) derived from a resected primary tumor	True
+GSM6995252	geo:GSE223779:GSM6995252	sex	female	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6995252	geo:GSE223779:GSM6995252	disease_free_text	Non-small cell lung cancer	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_characteristics_ch1 = disease: Non-small cell lung cancer	True
+GSM6995252	geo:GSE223779:GSM6995252	disease_stage	IV	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_characteristics_ch1 = Stage: IV	True
+GSM6995252	geo:GSE223779:GSM6995252	tissue_free_text	Metastatic pleural effusion	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_characteristics_ch1 = treatment: Metastatic pleural effusion	True
+GSM6995252	geo:GSE223779:GSM6995252	tissue_type	organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_characteristics_ch1 = cell line: Tumor organoid	True
+GSM6995252	geo:GSE223779:GSM6995252	suspension_type	cell	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	The prepared cell suspension is coated with a bead	True
+GSM6995252	geo:GSE223779:GSM6995252	response	TKI sensitive	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_title = Tumor organoid, TKI sensitive [FA34OS]	True
+GSM6995252	geo:GSE223779:GSM6995252	treatment	none (TKI-sensitive organoids cultured in usual condition)	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	TKI sensitive tumor organoids TS485TOS and FA34OS were cultured in usual condition	True
+GSM6995252	geo:GSE223779:GSM6995252	treatment_status	untreated organoid culture	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	TKI sensitive tumor organoids TS485TOS and FA34OS were cultured in usual condition	True
+GSM6995252	geo:GSE223779:GSM6995252	tissue_ontology_term_id	UBERON:0000175	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995252	!Sample_characteristics_ch1 = treatment: Metastatic pleural effusion	True
+GSM6995253	geo:GSE223779:GSM6995253	sex	female	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6995253	geo:GSE223779:GSM6995253	disease_free_text	Non-small cell lung cancer	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_characteristics_ch1 = disease: Non-small cell lung cancer	True
+GSM6995253	geo:GSE223779:GSM6995253	disease_stage	IV	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_characteristics_ch1 = Stage: IV	True
+GSM6995253	geo:GSE223779:GSM6995253	tissue_free_text	Metastatic pleural effusion	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_characteristics_ch1 = treatment: Metastatic pleural effusion	True
+GSM6995253	geo:GSE223779:GSM6995253	tissue_type	organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_characteristics_ch1 = cell line: Tumor organoid	True
+GSM6995253	geo:GSE223779:GSM6995253	suspension_type	cell	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	The prepared cell suspension is coated with a bead	True
+GSM6995253	geo:GSE223779:GSM6995253	response	crizotinib resistant	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_title = Tumor organoid, crizotinib resistant [FA34OC]	True
+GSM6995253	geo:GSE223779:GSM6995253	treatment	crizotinib (ALK-TKI exposure of the organoid)	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	Crizotinib treatment for TS485TOC and FA34OC	True
+GSM6995253	geo:GSE223779:GSM6995253	treatment_status	TKI-treated organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	Crizotinib treatment for TS485TOC and FA34OC	True
+GSM6995253	geo:GSE223779:GSM6995253	tissue_ontology_term_id	UBERON:0000175	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995253	!Sample_characteristics_ch1 = treatment: Metastatic pleural effusion	True
+GSM6995254	geo:GSE223779:GSM6995254	sex	female	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_characteristics_ch1 = Sex: Female	True
+GSM6995254	geo:GSE223779:GSM6995254	disease_free_text	Non-small cell lung cancer	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_characteristics_ch1 = disease: Non-small cell lung cancer	True
+GSM6995254	geo:GSE223779:GSM6995254	disease_stage	IV	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_characteristics_ch1 = Stage: IV	True
+GSM6995254	geo:GSE223779:GSM6995254	tissue_free_text	Metastatic pleural effusion	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_characteristics_ch1 = treatment: Metastatic pleural effusion	True
+GSM6995254	geo:GSE223779:GSM6995254	tissue_type	organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_characteristics_ch1 = cell line: Tumor organoid	True
+GSM6995254	geo:GSE223779:GSM6995254	suspension_type	cell	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	The prepared cell suspension is coated with a bead	True
+GSM6995254	geo:GSE223779:GSM6995254	response	alectinib resistant	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_title = Tumor organoid, alectinib resistant [FA34OA]	True
+GSM6995254	geo:GSE223779:GSM6995254	treatment	alectinib (ALK-TKI exposure of the organoid)	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	Alectinib treatment for TS485TOA and FA34OA	True
+GSM6995254	geo:GSE223779:GSM6995254	treatment_status	TKI-treated organoid	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	Alectinib treatment for TS485TOA and FA34OA	True
+GSM6995254	geo:GSE223779:GSM6995254	tissue_ontology_term_id	UBERON:0000175	file	raw/fp-d675ad4eac3d/GSE223779_family.soft.gz	GSM6995254	!Sample_characteristics_ch1 = treatment: Metastatic pleural effusion	True

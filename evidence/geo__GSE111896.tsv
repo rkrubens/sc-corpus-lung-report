@@ -1,0 +1,122 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	tissue_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-TRM	geo:GSE111896:Lung-TRM	tissue_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	tissue_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	tissue_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	tissue_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	tissue_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	disease_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-TRM	geo:GSE111896:Lung-TRM	disease_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	disease_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	disease_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	disease_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	disease_free_text	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	disease_ontology_term_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-TRM	geo:GSE111896:Lung-TRM	disease_ontology_term_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	disease_ontology_term_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	disease_ontology_term_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	disease_ontology_term_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	disease_ontology_term_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	donor_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-TRM	geo:GSE111896:Lung-TRM	donor_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	donor_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	donor_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	donor_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	donor_id	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	cell_enrichment	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-TRM	geo:GSE111896:Lung-TRM	cell_enrichment	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	cell_enrichment	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	cell_enrichment	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	cell_enrichment	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	cell_enrichment	<column sample>	column	raw/fp-86fbbfc514c6/GSE111896_Clarke_SC-10X_annotation.txt.gz/sample			True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+Lung-TRM	geo:GSE111896:Lung-TRM	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+		organism	Homo sapiens	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Tumor	True
+Lung-TRM	geo:GSE111896:Lung-TRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Tumor	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Tumor	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Tumor	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Tumor	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Tumor	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Human Lung	True
+Lung-TRM	geo:GSE111896:Lung-TRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Human Lung	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Human Lung	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Human Lung	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Human Lung	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	tissue_free_text	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_source_name_ch1 = Human Lung	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC6719422.txt		CTLs isolated from lung tumor and adjacent uninvolved lung tissue samples	True
+Lung-TRM	geo:GSE111896:Lung-TRM	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC6719422.txt		CTLs isolated from lung tumor and adjacent uninvolved lung tissue samples	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC6719422.txt		CTLs isolated from lung tumor and adjacent uninvolved lung tissue samples	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC6719422.txt		CTLs isolated from lung tumor and adjacent uninvolved lung tissue samples	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC6719422.txt		CTLs isolated from lung tumor and adjacent uninvolved lung tissue samples	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC6719422.txt		CTLs isolated from lung tumor and adjacent uninvolved lung tissue samples	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	disease_free_text	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+Lung-TRM	geo:GSE111896:Lung-TRM	disease_free_text	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	disease_free_text	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	disease_free_text	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	disease_free_text	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	disease_free_text	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	disease_ontology_term_id	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+Lung-TRM	geo:GSE111896:Lung-TRM	disease_ontology_term_id	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	disease_ontology_term_id	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	disease_ontology_term_id	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	disease_ontology_term_id	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	disease_ontology_term_id	<map of column sample>	file	evidence/PMC6719422.txt		CD103 + and CD103 − CTLs isolated from tumor and matched adjacent normal lung tissue from an additional 12 patients with early-stage lung cancer	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	donor_id	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = subject #: Pool of 6 donors	True
+Lung-TRM	geo:GSE111896:Lung-TRM	donor_id	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = subject #: Pool of 6 donors	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	donor_id	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = subject #: Pool of 6 donors	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	donor_id	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = subject #: Pool of 6 donors	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	donor_id	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = subject #: Pool of 6 donors	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	donor_id	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = subject #: Pool of 6 donors	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103+	True
+Lung-TRM	geo:GSE111896:Lung-TRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103+	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103+	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103+	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103+	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103+	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103-	True
+Lung-TRM	geo:GSE111896:Lung-TRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103-	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103-	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103-	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103-	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	cell_enrichment	<map of column sample>	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_characteristics_ch1 = cell type surface markers: CD14-CD19-CD20-CD45+CD3+CD4-CD56-CD8+CD103-	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	disease_stage	early-stage lung cancer	file	evidence/PMC6719422.txt		from an additional 12 patients with early-stage lung cancer	True
+Lung-TRM	geo:GSE111896:Lung-TRM	disease_stage	early-stage lung cancer	file	evidence/PMC6719422.txt		from an additional 12 patients with early-stage lung cancer	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	disease_stage	early-stage lung cancer	file	evidence/PMC6719422.txt		from an additional 12 patients with early-stage lung cancer	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	disease_stage	early-stage lung cancer	file	evidence/PMC6719422.txt		from an additional 12 patients with early-stage lung cancer	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	disease_stage	early-stage lung cancer	file	evidence/PMC6719422.txt		from an additional 12 patients with early-stage lung cancer	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	disease_stage	early-stage lung cancer	file	evidence/PMC6719422.txt		from an additional 12 patients with early-stage lung cancer	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	sample_collection_method	surgical resection	file	evidence/PMC6719422.txt		Freshly resected tumor tissue and, where available, matched adjacent nontumor tissue was obtained from lung cancer patients following surgical resection	True
+Lung-TRM	geo:GSE111896:Lung-TRM	sample_collection_method	surgical resection	file	evidence/PMC6719422.txt		Freshly resected tumor tissue and, where available, matched adjacent nontumor tissue was obtained from lung cancer patients following surgical resection	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	sample_collection_method	surgical resection	file	evidence/PMC6719422.txt		Freshly resected tumor tissue and, where available, matched adjacent nontumor tissue was obtained from lung cancer patients following surgical resection	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	sample_collection_method	surgical resection	file	evidence/PMC6719422.txt		Freshly resected tumor tissue and, where available, matched adjacent nontumor tissue was obtained from lung cancer patients following surgical resection	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	sample_collection_method	surgical resection	file	evidence/PMC6719422.txt		Freshly resected tumor tissue and, where available, matched adjacent nontumor tissue was obtained from lung cancer patients following surgical resection	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	sample_collection_method	surgical resection	file	evidence/PMC6719422.txt		Freshly resected tumor tissue and, where available, matched adjacent nontumor tissue was obtained from lung cancer patients following surgical resection	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	tissue_type	tissue	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		CD8 cell types were isolated from human tissue and directly sorted by Flow cytometry	True
+Lung-TRM	geo:GSE111896:Lung-TRM	tissue_type	tissue	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		CD8 cell types were isolated from human tissue and directly sorted by Flow cytometry	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	tissue_type	tissue	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		CD8 cell types were isolated from human tissue and directly sorted by Flow cytometry	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	tissue_type	tissue	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		CD8 cell types were isolated from human tissue and directly sorted by Flow cytometry	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	tissue_type	tissue	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		CD8 cell types were isolated from human tissue and directly sorted by Flow cytometry	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	tissue_type	tissue	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		CD8 cell types were isolated from human tissue and directly sorted by Flow cytometry	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	suspension_type	cell	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Single-cell RNA-seq using 10X genomics platform was performed using Chromium	True
+Lung-TRM	geo:GSE111896:Lung-TRM	suspension_type	cell	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Single-cell RNA-seq using 10X genomics platform was performed using Chromium	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	suspension_type	cell	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Single-cell RNA-seq using 10X genomics platform was performed using Chromium	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	suspension_type	cell	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Single-cell RNA-seq using 10X genomics platform was performed using Chromium	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	suspension_type	cell	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Single-cell RNA-seq using 10X genomics platform was performed using Chromium	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	suspension_type	cell	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Single-cell RNA-seq using 10X genomics platform was performed using Chromium	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	assay	10x 3' v2	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Chromium™ Single Cell 3' v2 Reagent Kits	True
+Lung-TRM	geo:GSE111896:Lung-TRM	assay	10x 3' v2	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Chromium™ Single Cell 3' v2 Reagent Kits	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	assay	10x 3' v2	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Chromium™ Single Cell 3' v2 Reagent Kits	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	assay	10x 3' v2	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Chromium™ Single Cell 3' v2 Reagent Kits	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	assay	10x 3' v2	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Chromium™ Single Cell 3' v2 Reagent Kits	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	assay	10x 3' v2	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		Chromium™ Single Cell 3' v2 Reagent Kits	True
+Lung-NONTRM	geo:GSE111896:Lung-NONTRM	gene_annotation_version	hg19	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+Lung-TRM	geo:GSE111896:Lung-TRM	gene_annotation_version	hg19	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+TIL-2-NON-TRM	geo:GSE111896:TIL-2-NON-TRM	gene_annotation_version	hg19	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+TIL-2-TRMPos	geo:GSE111896:TIL-2-TRMPos	gene_annotation_version	hg19	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+TIL_1_NON-TRM	geo:GSE111896:TIL_1_NON-TRM	gene_annotation_version	hg19	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True
+TIL_1_TRMPos	geo:GSE111896:TIL_1_TRMPos	gene_annotation_version	hg19	file	raw/fp-86fbbfc514c6/GSE111896_family.soft.gz		!Sample_data_processing = Genome_build: hg19	True

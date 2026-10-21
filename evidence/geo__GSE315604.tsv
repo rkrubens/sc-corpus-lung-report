@@ -1,0 +1,4 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-f0fd59fcbca3/GSE315604_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9433269	geo:GSE315604:GSM9433269	tissue_free_text	bronchoalveolar lavage fluid (BALF)	file	raw/fp-f0fd59fcbca3/GSE315604_family.soft.gz	GSM9433269	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid (BALF)	True
+GSM9433270	geo:GSE315604:GSM9433270	tissue_free_text	bronchoalveolar lavage fluid (BALF)	file	raw/fp-f0fd59fcbca3/GSE315604_family.soft.gz	GSM9433270	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid (BALF)	True

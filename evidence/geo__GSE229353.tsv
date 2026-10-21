@@ -1,0 +1,50 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7159183	geo:GSE229353:GSM7159183	disease_free_text	SCC	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159183	!Sample_characteristics_ch1 = pathology: SCC	True
+GSM7159183	geo:GSE229353:GSM7159183	tissue_free_text	cancer tumor tissues	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159183	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM7159183	geo:GSE229353:GSM7159183	treatment	Chemo	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159183	!Sample_characteristics_ch1 = treatment: Chemo	True
+GSM7159183	geo:GSE229353:GSM7159183	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159183	geo:GSE229353:GSM7159183	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159183	geo:GSE229353:GSM7159183	cell_enrichment	CD45+ immune cells	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159183	!Sample_characteristics_ch1 = cell type: CD45+ immune cells	True
+GSM7159183	geo:GSE229353:GSM7159183	sample_preservation	fresh	file	evidence/PMC10213055.txt		Surgically resected fresh tumor tissue from six patients treated with two cycles of NAPC	True
+GSM7159183	geo:GSE229353:GSM7159183	suspension_type	cell	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159183	!Sample_library_source = transcriptomic single cell	True
+GSM7159184	geo:GSE229353:GSM7159184	disease_free_text	SCC	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159184	!Sample_characteristics_ch1 = pathology: SCC	True
+GSM7159184	geo:GSE229353:GSM7159184	tissue_free_text	cancer tumor tissues	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159184	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM7159184	geo:GSE229353:GSM7159184	treatment	anti-PD1+Chemo	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159184	!Sample_characteristics_ch1 = treatment: anti-PD1+Chemo	True
+GSM7159184	geo:GSE229353:GSM7159184	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159184	geo:GSE229353:GSM7159184	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159184	geo:GSE229353:GSM7159184	cell_enrichment	CD45+ immune cells	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159184	!Sample_characteristics_ch1 = cell type: CD45+ immune cells	True
+GSM7159184	geo:GSE229353:GSM7159184	sample_preservation	fresh	file	evidence/PMC10213055.txt		Surgically resected fresh tumor tissue from six patients treated with two cycles of NAPC	True
+GSM7159184	geo:GSE229353:GSM7159184	suspension_type	cell	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159184	!Sample_library_source = transcriptomic single cell	True
+GSM7159186	geo:GSE229353:GSM7159186	disease_free_text	AD	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159186	!Sample_characteristics_ch1 = pathology: AD	True
+GSM7159186	geo:GSE229353:GSM7159186	tissue_free_text	cancer tumor tissues	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159186	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM7159186	geo:GSE229353:GSM7159186	treatment	anti-PD1+Chemo	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159186	!Sample_characteristics_ch1 = treatment: anti-PD1+Chemo	True
+GSM7159186	geo:GSE229353:GSM7159186	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159186	geo:GSE229353:GSM7159186	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159186	geo:GSE229353:GSM7159186	cell_enrichment	CD45+ immune cells	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159186	!Sample_characteristics_ch1 = cell type: CD45+ immune cells	True
+GSM7159186	geo:GSE229353:GSM7159186	sample_preservation	fresh	file	evidence/PMC10213055.txt		Surgically resected fresh tumor tissue from six patients treated with two cycles of NAPC	True
+GSM7159186	geo:GSE229353:GSM7159186	suspension_type	cell	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159186	!Sample_library_source = transcriptomic single cell	True
+GSM7159187	geo:GSE229353:GSM7159187	disease_free_text	SCC	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159187	!Sample_characteristics_ch1 = pathology: SCC	True
+GSM7159187	geo:GSE229353:GSM7159187	tissue_free_text	cancer tumor tissues	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159187	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM7159187	geo:GSE229353:GSM7159187	treatment	anti-PD1+Chemo	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159187	!Sample_characteristics_ch1 = treatment: anti-PD1+Chemo	True
+GSM7159187	geo:GSE229353:GSM7159187	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159187	geo:GSE229353:GSM7159187	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159187	geo:GSE229353:GSM7159187	cell_enrichment	CD45+ immune cells	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159187	!Sample_characteristics_ch1 = cell type: CD45+ immune cells	True
+GSM7159187	geo:GSE229353:GSM7159187	sample_preservation	fresh	file	evidence/PMC10213055.txt		Surgically resected fresh tumor tissue from six patients treated with two cycles of NAPC	True
+GSM7159187	geo:GSE229353:GSM7159187	suspension_type	cell	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159187	!Sample_library_source = transcriptomic single cell	True
+GSM7159188	geo:GSE229353:GSM7159188	disease_free_text	SCC	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159188	!Sample_characteristics_ch1 = pathology: SCC	True
+GSM7159188	geo:GSE229353:GSM7159188	tissue_free_text	cancer tumor tissues	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159188	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM7159188	geo:GSE229353:GSM7159188	treatment	anti-PD1+Chemo	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159188	!Sample_characteristics_ch1 = treatment: anti-PD1+Chemo	True
+GSM7159188	geo:GSE229353:GSM7159188	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159188	geo:GSE229353:GSM7159188	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159188	geo:GSE229353:GSM7159188	cell_enrichment	CD45+ immune cells	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159188	!Sample_characteristics_ch1 = cell type: CD45+ immune cells	True
+GSM7159188	geo:GSE229353:GSM7159188	sample_preservation	fresh	file	evidence/PMC10213055.txt		Surgically resected fresh tumor tissue from six patients treated with two cycles of NAPC	True
+GSM7159188	geo:GSE229353:GSM7159188	suspension_type	cell	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159188	!Sample_library_source = transcriptomic single cell	True
+GSM7159189	geo:GSE229353:GSM7159189	disease_free_text	AD	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159189	!Sample_characteristics_ch1 = pathology: AD	True
+GSM7159189	geo:GSE229353:GSM7159189	tissue_free_text	cancer tumor tissues	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159189	!Sample_characteristics_ch1 = tissue: cancer tumor tissues	True
+GSM7159189	geo:GSE229353:GSM7159189	treatment	anti-PD1+Chemo	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159189	!Sample_characteristics_ch1 = treatment: anti-PD1+Chemo	True
+GSM7159189	geo:GSE229353:GSM7159189	disease_ontology_term_id	MONDO:0005233	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159189	geo:GSE229353:GSM7159189	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC10213055.txt		CD45 + immune cells isolated from surgically resected fresh tumors of seven NSCLC patients	True
+GSM7159189	geo:GSE229353:GSM7159189	cell_enrichment	CD45+ immune cells	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159189	!Sample_characteristics_ch1 = cell type: CD45+ immune cells	True
+GSM7159189	geo:GSE229353:GSM7159189	sample_preservation	fresh	file	evidence/PMC10213055.txt		Surgically resected fresh tumor tissue from six patients treated with two cycles of NAPC	True
+GSM7159189	geo:GSE229353:GSM7159189	suspension_type	cell	file	raw/fp-1b6fe8bfb646/GSE229353_family.soft.gz	GSM7159189	!Sample_library_source = transcriptomic single cell	True

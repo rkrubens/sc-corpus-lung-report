@@ -1,0 +1,114 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8885793	geo:GSE293580:GSM8885793	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885793	geo:GSE293580:GSM8885793	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885793_cell_metadata.tsv.gz/Cluster			True
+GSM8885794	geo:GSE293580:GSM8885794	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885794	geo:GSE293580:GSM8885794	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885794_cell_metadata.tsv.gz/Cluster			True
+GSM8885795	geo:GSE293580:GSM8885795	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885795	geo:GSE293580:GSM8885795	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885795_cell_metadata.tsv.gz/Cluster			True
+GSM8885796	geo:GSE293580:GSM8885796	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885796	geo:GSE293580:GSM8885796	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885796_cell_metadata.tsv.gz/Cluster			True
+GSM8885797	geo:GSE293580:GSM8885797	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885797	geo:GSE293580:GSM8885797	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885797_cell_metadata.tsv.gz/Cluster			True
+GSM8885798	geo:GSE293580:GSM8885798	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885798	geo:GSE293580:GSM8885798	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885798_cell_metadata.tsv.gz/Cluster			True
+GSM8885799	geo:GSE293580:GSM8885799	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885799	geo:GSE293580:GSM8885799	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885799_cell_metadata.tsv.gz/Cluster			True
+GSM8885800	geo:GSE293580:GSM8885800	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885800	geo:GSE293580:GSM8885800	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885800_cell_metadata.tsv.gz/Cluster			True
+GSM8885801	geo:GSE293580:GSM8885801	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885801	geo:GSE293580:GSM8885801	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885801_cell_metadata.tsv.gz/Cluster			True
+GSM8885802	geo:GSE293580:GSM8885802	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885802	geo:GSE293580:GSM8885802	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885802_cell_metadata.tsv.gz/Cluster			True
+GSM8885803	geo:GSE293580:GSM8885803	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885803	geo:GSE293580:GSM8885803	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885803_cell_metadata.tsv.gz/Cluster			True
+GSM8885804	geo:GSE293580:GSM8885804	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8885804	geo:GSE293580:GSM8885804	author_cell_type	<column Cluster>	column	work/fp-4c7e8b594399/GSE293580_reconciled/GSM8885804_cell_metadata.tsv.gz/Cluster			True
+		organism	Homo sapiens	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8885793	geo:GSE293580:GSM8885793	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885793	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885793	geo:GSE293580:GSM8885793	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885793	Tissue samples were collected at the time of lung transplantation	True
+GSM8885793	geo:GSE293580:GSM8885793	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885793	Single cells were isolated following manufacturer	True
+GSM8885793	geo:GSE293580:GSM8885793	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885793	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885793	geo:GSE293580:GSM8885793	disease_free_text	Failed Donor	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885793	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885793	geo:GSE293580:GSM8885793	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885793	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885793	geo:GSE293580:GSM8885793	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		four failed donor specimens judged suitable to serve as healthy controls	True
+GSM8885794	geo:GSE293580:GSM8885794	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885794	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885794	geo:GSE293580:GSM8885794	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885794	Tissue samples were collected at the time of lung transplantation	True
+GSM8885794	geo:GSE293580:GSM8885794	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885794	Single cells were isolated following manufacturer	True
+GSM8885794	geo:GSE293580:GSM8885794	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885794	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885794	geo:GSE293580:GSM8885794	disease_free_text	Failed Donor	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885794	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885794	geo:GSE293580:GSM8885794	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885794	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885794	geo:GSE293580:GSM8885794	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		four failed donor specimens judged suitable to serve as healthy controls	True
+GSM8885795	geo:GSE293580:GSM8885795	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885795	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885795	geo:GSE293580:GSM8885795	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885795	Tissue samples were collected at the time of lung transplantation	True
+GSM8885795	geo:GSE293580:GSM8885795	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885795	Single cells were isolated following manufacturer	True
+GSM8885795	geo:GSE293580:GSM8885795	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885795	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885795	geo:GSE293580:GSM8885795	disease_free_text	Failed Donor	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885795	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885795	geo:GSE293580:GSM8885795	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885795	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885795	geo:GSE293580:GSM8885795	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		four failed donor specimens judged suitable to serve as healthy controls	True
+GSM8885796	geo:GSE293580:GSM8885796	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885796	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885796	geo:GSE293580:GSM8885796	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885796	Tissue samples were collected at the time of lung transplantation	True
+GSM8885796	geo:GSE293580:GSM8885796	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885796	Single cells were isolated following manufacturer	True
+GSM8885796	geo:GSE293580:GSM8885796	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885796	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885796	geo:GSE293580:GSM8885796	disease_free_text	Failed Donor	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885796	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885796	geo:GSE293580:GSM8885796	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885796	!Sample_characteristics_ch1 = sample condition: Failed Donor	True
+GSM8885796	geo:GSE293580:GSM8885796	disease_ontology_term_id	PATO:0000461	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		four failed donor specimens judged suitable to serve as healthy controls	True
+GSM8885797	geo:GSE293580:GSM8885797	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885797	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885797	geo:GSE293580:GSM8885797	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885797	Tissue samples were collected at the time of lung transplantation	True
+GSM8885797	geo:GSE293580:GSM8885797	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885797	Single cells were isolated following manufacturer	True
+GSM8885797	geo:GSE293580:GSM8885797	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885797	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885797	geo:GSE293580:GSM8885797	disease_free_text	SSc-PAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885797	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885797	geo:GSE293580:GSM8885797	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885797	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885797	geo:GSE293580:GSM8885797	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		PAH related to systemic sclerosis (SSc-PAH)	True
+GSM8885797	geo:GSE293580:GSM8885797	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		Pulmonary arterial hypertension (PAH) is characterized by progressive cellular	True
+GSM8885798	geo:GSE293580:GSM8885798	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885798	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885798	geo:GSE293580:GSM8885798	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885798	Tissue samples were collected at the time of lung transplantation	True
+GSM8885798	geo:GSE293580:GSM8885798	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885798	Single cells were isolated following manufacturer	True
+GSM8885798	geo:GSE293580:GSM8885798	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885798	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885798	geo:GSE293580:GSM8885798	disease_free_text	SSc-PAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885798	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885798	geo:GSE293580:GSM8885798	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885798	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885798	geo:GSE293580:GSM8885798	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		PAH related to systemic sclerosis (SSc-PAH)	True
+GSM8885798	geo:GSE293580:GSM8885798	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		Pulmonary arterial hypertension (PAH) is characterized by progressive cellular	True
+GSM8885799	geo:GSE293580:GSM8885799	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885799	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885799	geo:GSE293580:GSM8885799	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885799	Tissue samples were collected at the time of lung transplantation	True
+GSM8885799	geo:GSE293580:GSM8885799	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885799	Single cells were isolated following manufacturer	True
+GSM8885799	geo:GSE293580:GSM8885799	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885799	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885799	geo:GSE293580:GSM8885799	disease_free_text	SSc-PAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885799	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885799	geo:GSE293580:GSM8885799	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885799	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885799	geo:GSE293580:GSM8885799	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		PAH related to systemic sclerosis (SSc-PAH)	True
+GSM8885799	geo:GSE293580:GSM8885799	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		Pulmonary arterial hypertension (PAH) is characterized by progressive cellular	True
+GSM8885800	geo:GSE293580:GSM8885800	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885800	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885800	geo:GSE293580:GSM8885800	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885800	Tissue samples were collected at the time of lung transplantation	True
+GSM8885800	geo:GSE293580:GSM8885800	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885800	Single cells were isolated following manufacturer	True
+GSM8885800	geo:GSE293580:GSM8885800	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885800	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885800	geo:GSE293580:GSM8885800	disease_free_text	SSc-PAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885800	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885800	geo:GSE293580:GSM8885800	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885800	!Sample_characteristics_ch1 = sample condition: SSc-PAH	True
+GSM8885800	geo:GSE293580:GSM8885800	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		PAH related to systemic sclerosis (SSc-PAH)	True
+GSM8885800	geo:GSE293580:GSM8885800	disease_ontology_term_id	MONDO:0015924	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		Pulmonary arterial hypertension (PAH) is characterized by progressive cellular	True
+GSM8885801	geo:GSE293580:GSM8885801	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885801	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885801	geo:GSE293580:GSM8885801	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885801	Tissue samples were collected at the time of lung transplantation	True
+GSM8885801	geo:GSE293580:GSM8885801	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885801	Single cells were isolated following manufacturer	True
+GSM8885801	geo:GSE293580:GSM8885801	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885801	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885801	geo:GSE293580:GSM8885801	disease_free_text	IPAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885801	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885801	geo:GSE293580:GSM8885801	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885801	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885801	geo:GSE293580:GSM8885801	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		idiopathic PAH (IPAH)	True
+GSM8885802	geo:GSE293580:GSM8885802	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885802	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885802	geo:GSE293580:GSM8885802	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885802	Tissue samples were collected at the time of lung transplantation	True
+GSM8885802	geo:GSE293580:GSM8885802	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885802	Single cells were isolated following manufacturer	True
+GSM8885802	geo:GSE293580:GSM8885802	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885802	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885802	geo:GSE293580:GSM8885802	disease_free_text	IPAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885802	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885802	geo:GSE293580:GSM8885802	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885802	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885802	geo:GSE293580:GSM8885802	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		idiopathic PAH (IPAH)	True
+GSM8885803	geo:GSE293580:GSM8885803	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885803	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885803	geo:GSE293580:GSM8885803	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885803	Tissue samples were collected at the time of lung transplantation	True
+GSM8885803	geo:GSE293580:GSM8885803	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885803	Single cells were isolated following manufacturer	True
+GSM8885803	geo:GSE293580:GSM8885803	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885803	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885803	geo:GSE293580:GSM8885803	disease_free_text	IPAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885803	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885803	geo:GSE293580:GSM8885803	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885803	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885803	geo:GSE293580:GSM8885803	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		idiopathic PAH (IPAH)	True
+GSM8885804	geo:GSE293580:GSM8885804	tissue_free_text	Lung	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885804	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8885804	geo:GSE293580:GSM8885804	tissue_type	tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885804	Tissue samples were collected at the time of lung transplantation	True
+GSM8885804	geo:GSE293580:GSM8885804	suspension_type	cell	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885804	Single cells were isolated following manufacturer	True
+GSM8885804	geo:GSE293580:GSM8885804	sample_preservation	formalin-fixed paraffin-embedded (FFPE) tissue	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885804	immediately fixed in 10% neutral buffered formalin (NBF). Tissue was then paraffin-embedded	True
+GSM8885804	geo:GSE293580:GSM8885804	disease_free_text	IPAH	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885804	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885804	geo:GSE293580:GSM8885804	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz	GSM8885804	!Sample_characteristics_ch1 = sample condition: IPAH	True
+GSM8885804	geo:GSE293580:GSM8885804	disease_ontology_term_id	MONDO:0001999	file	raw/fp-4c7e8b594399/GSE293580_family.soft.gz		idiopathic PAH (IPAH)	True

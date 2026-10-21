@@ -1,0 +1,100 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9226647	geo:GSE302356:GSM9226647	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9226649	geo:GSE302356:GSM9226649	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9102552	geo:GSE302356:GSM9102552	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9102553	geo:GSE302356:GSM9102553	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9226654	geo:GSE302356:GSM9226654	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9226656	geo:GSE302356:GSM9226656	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9226655	geo:GSE302356:GSM9226655	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+		organism	Homo sapiens	file	raw/fp-e103ef5f3c86/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM9226647	geo:GSE302356:GSM9226647	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	tissue: Lung	True
+GSM9226647	geo:GSE302356:GSM9226647	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	tissue: Lung	True
+GSM9226647	geo:GSE302356:GSM9226647	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	tissue: Lung	True
+GSM9226647	geo:GSE302356:GSM9226647	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	Assembly: GRCh38	True
+GSM9226647	geo:GSE302356:GSM9226647	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	Frozen tissue (30 mg) from LAM lungs	True
+GSM9226647	geo:GSE302356:GSM9226647	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	Frozen tissue (30 mg) from LAM lungs	True
+GSM9226647	geo:GSE302356:GSM9226647	suspension_type	nucleus	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	Nuclei were sorted using Sony SH800	True
+GSM9226647	geo:GSE302356:GSM9226647	sample_preservation	frozen	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	Frozen tissue (30 mg) from LAM lungs	True
+GSM9226649	geo:GSE302356:GSM9226649	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	tissue: Lung	True
+GSM9226649	geo:GSE302356:GSM9226649	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	tissue: Lung	True
+GSM9226649	geo:GSE302356:GSM9226649	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	tissue: Lung	True
+GSM9226649	geo:GSE302356:GSM9226649	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	Assembly: GRCh38	True
+GSM9226649	geo:GSE302356:GSM9226649	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	Frozen tissue (30 mg) from LAM lungs	True
+GSM9226649	geo:GSE302356:GSM9226649	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	Frozen tissue (30 mg) from LAM lungs	True
+GSM9226649	geo:GSE302356:GSM9226649	suspension_type	nucleus	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	Nuclei were sorted using Sony SH800	True
+GSM9226649	geo:GSE302356:GSM9226649	sample_preservation	frozen	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	Frozen tissue (30 mg) from LAM lungs	True
+GSM9102552	geo:GSE302356:GSM9102552	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102552	tissue: Lung	True
+GSM9102552	geo:GSE302356:GSM9102552	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102552	tissue: Lung	True
+GSM9102552	geo:GSE302356:GSM9102552	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102552	tissue: Lung	True
+GSM9102552	geo:GSE302356:GSM9102552	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102552	Assembly: GRCh38	True
+GSM9102552	geo:GSE302356:GSM9102552	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102552	!Sample_title = LAM3 (scRNA-seq)	True
+GSM9102552	geo:GSE302356:GSM9102552	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9102552	geo:GSE302356:GSM9102552	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102552	!Sample_title = LAM3 (scRNA-seq)	True
+GSM9102552	geo:GSE302356:GSM9102552	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9102553	geo:GSE302356:GSM9102553	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102553	tissue: Lung	True
+GSM9102553	geo:GSE302356:GSM9102553	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102553	tissue: Lung	True
+GSM9102553	geo:GSE302356:GSM9102553	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102553	tissue: Lung	True
+GSM9102553	geo:GSE302356:GSM9102553	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102553	Assembly: GRCh38	True
+GSM9102553	geo:GSE302356:GSM9102553	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102553	!Sample_title = LAM4 (scRNA-seq)	True
+GSM9102553	geo:GSE302356:GSM9102553	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9102553	geo:GSE302356:GSM9102553	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9102553	!Sample_title = LAM4 (scRNA-seq)	True
+GSM9102553	geo:GSE302356:GSM9102553	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226654	geo:GSE302356:GSM9226654	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	tissue: Lung	True
+GSM9226654	geo:GSE302356:GSM9226654	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	tissue: Lung	True
+GSM9226654	geo:GSE302356:GSM9226654	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	tissue: Lung	True
+GSM9226654	geo:GSE302356:GSM9226654	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	Assembly: GRCh38	True
+GSM9226654	geo:GSE302356:GSM9226654	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	Tissue was collected by The National Disease Research Interchange (NDRI) from 4 donors with lymphangioleiomyomatosis lungs	True
+GSM9226654	geo:GSE302356:GSM9226654	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	Tissue was collected by The National Disease Research Interchange (NDRI) from 4 donors with lymphangioleiomyomatosis lungs	True
+GSM9226654	geo:GSE302356:GSM9226654	suspension_type	na	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	10x Visium and Xenium ST experiments were performed	True
+GSM9226654	geo:GSE302356:GSM9226654	sample_preservation	FFPE	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226654	fixed for 24 h in 10% neutral buffered formalin and processed into wax (FFPE)	True
+GSM9226656	geo:GSE302356:GSM9226656	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	tissue: Lung	True
+GSM9226656	geo:GSE302356:GSM9226656	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	tissue: Lung	True
+GSM9226656	geo:GSE302356:GSM9226656	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	tissue: Lung	True
+GSM9226656	geo:GSE302356:GSM9226656	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	Assembly: GRCh38	True
+GSM9226656	geo:GSE302356:GSM9226656	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	Tissue was collected by The National Disease Research Interchange (NDRI) from 4 donors with lymphangioleiomyomatosis lungs	True
+GSM9226656	geo:GSE302356:GSM9226656	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	Tissue was collected by The National Disease Research Interchange (NDRI) from 4 donors with lymphangioleiomyomatosis lungs	True
+GSM9226656	geo:GSE302356:GSM9226656	suspension_type	na	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	10x Visium and Xenium ST experiments were performed	True
+GSM9226656	geo:GSE302356:GSM9226656	sample_preservation	FFPE	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226656	fixed for 24 h in 10% neutral buffered formalin and processed into wax (FFPE)	True
+GSM9226655	geo:GSE302356:GSM9226655	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	tissue: Lung	True
+GSM9226655	geo:GSE302356:GSM9226655	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	tissue: Lung	True
+GSM9226655	geo:GSE302356:GSM9226655	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	tissue: Lung	True
+GSM9226655	geo:GSE302356:GSM9226655	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	Assembly: GRCh38	True
+GSM9226655	geo:GSE302356:GSM9226655	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	Tissue was collected by The National Disease Research Interchange (NDRI) from 4 donors with lymphangioleiomyomatosis lungs	True
+GSM9226655	geo:GSE302356:GSM9226655	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	Tissue was collected by The National Disease Research Interchange (NDRI) from 4 donors with lymphangioleiomyomatosis lungs	True
+GSM9226655	geo:GSE302356:GSM9226655	suspension_type	na	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	10x Visium and Xenium ST experiments were performed	True
+GSM9226655	geo:GSE302356:GSM9226655	sample_preservation	FFPE	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226655	fixed for 24 h in 10% neutral buffered formalin and processed into wax (FFPE)	True
+GSM9226651	geo:GSE302356:GSM9226651	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	tissue: Lung	True
+GSM9226651	geo:GSE302356:GSM9226651	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	tissue: Lung	True
+GSM9226651	geo:GSE302356:GSM9226651	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	tissue: Lung	True
+GSM9226651	geo:GSE302356:GSM9226651	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	Assembly: GRCh38	True
+GSM9226651	geo:GSE302356:GSM9226651	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	!Sample_title = LAM14 [scATAC-seq]	True
+GSM9226651	geo:GSE302356:GSM9226651	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226651	geo:GSE302356:GSM9226651	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	!Sample_title = LAM14 [scATAC-seq]	True
+GSM9226651	geo:GSE302356:GSM9226651	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226651	geo:GSE302356:GSM9226651	suspension_type	nucleus	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	Determine the nuclei concentration and submit for snATAC-Seq	True
+GSM9226652	geo:GSE302356:GSM9226652	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	tissue: Lung	True
+GSM9226652	geo:GSE302356:GSM9226652	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	tissue: Lung	True
+GSM9226652	geo:GSE302356:GSM9226652	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	tissue: Lung	True
+GSM9226652	geo:GSE302356:GSM9226652	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	Assembly: GRCh38	True
+GSM9226652	geo:GSE302356:GSM9226652	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	!Sample_title = LAM15 [scATAC-seq]	True
+GSM9226652	geo:GSE302356:GSM9226652	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226652	geo:GSE302356:GSM9226652	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	!Sample_title = LAM15 [scATAC-seq]	True
+GSM9226652	geo:GSE302356:GSM9226652	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226652	geo:GSE302356:GSM9226652	suspension_type	nucleus	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	Determine the nuclei concentration and submit for snATAC-Seq	True
+GSM9226653	geo:GSE302356:GSM9226653	tissue_free_text	Lung	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	tissue: Lung	True
+GSM9226653	geo:GSE302356:GSM9226653	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	tissue: Lung	True
+GSM9226653	geo:GSE302356:GSM9226653	tissue_type	tissue	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	tissue: Lung	True
+GSM9226653	geo:GSE302356:GSM9226653	gene_annotation_version	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	Assembly: GRCh38	True
+GSM9226653	geo:GSE302356:GSM9226653	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	!Sample_title = LAM16 [scATAC-seq]	True
+GSM9226653	geo:GSE302356:GSM9226653	disease_ontology_term_id	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226653	geo:GSE302356:GSM9226653	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	!Sample_title = LAM16 [scATAC-seq]	True
+GSM9226653	geo:GSE302356:GSM9226653	disease_free_text	lymphangioleiomyomatosis	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz		Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis	True
+GSM9226653	geo:GSE302356:GSM9226653	suspension_type	nucleus	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	Determine the nuclei concentration and submit for snATAC-Seq	True
+GSM9226647	geo:GSE302356:GSM9226647	atac.genome_assembly	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226647	Assembly: GRCh38	True
+GSM9226649	geo:GSE302356:GSM9226649	atac.genome_assembly	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226649	Assembly: GRCh38	True
+GSM9226651	geo:GSE302356:GSM9226651	atac.genome_assembly	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226651	Assembly: GRCh38	True
+GSM9226652	geo:GSE302356:GSM9226652	atac.genome_assembly	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226652	Assembly: GRCh38	True
+GSM9226653	geo:GSE302356:GSM9226653	atac.genome_assembly	GRCh38	file	raw/fp-e103ef5f3c86/GSE302356_family.soft.gz	GSM9226653	Assembly: GRCh38	True
+GSM9226651	geo:GSE302356:GSM9226651	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9226652	geo:GSE302356:GSM9226652	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True
+GSM9226653	geo:GSE302356:GSM9226653	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		lymphangioleiomyomatosis	True

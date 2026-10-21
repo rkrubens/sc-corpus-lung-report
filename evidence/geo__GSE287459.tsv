@@ -1,0 +1,7 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8746067	geo:GSE287459:GSM8746067	disease_ontology_term_id	MONDO:0011705	derived	ols:mondo		pulmonary lymphangioleiomyomatosis	True
+		organism	Homo sapiens	file	raw/fp-57a6a8e5ec6f/GSE287459_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8746067	geo:GSE287459:GSM8746067	tissue_free_text	pulmonary LAM	file	raw/fp-57a6a8e5ec6f/GSE287459_family.soft.gz	GSM8746067	!Sample_characteristics_ch1 = tissue: pulmonary LAM	True
+GSM8746067	geo:GSE287459:GSM8746067	disease_free_text	pulmonary lymphangioleiomyomatosis	file	raw/fp-57a6a8e5ec6f/GSE287459_family.soft.gz		!Series_title = Modulation of infiltrating CD206-positive macrophages restricts progression of pulmonary lymphangioleiomyomatosis (LAM)	True
+GSM8746067	geo:GSE287459:GSM8746067	sample_preservation	formalin-fixed paraffin-embedded (FFPE)	file	raw/fp-57a6a8e5ec6f/GSE287459_family.soft.gz	GSM8746067	!Sample_extract_protocol_ch1 = Human LAM tissues were fixed with formalin and embedded with paraffin and 5 𝞵m section were cut with paraffin sectioning machine.	True
+GSM8746067	geo:GSE287459:GSM8746067	suspension_type	na	file	raw/fp-57a6a8e5ec6f/GSE287459_family.soft.gz	GSM8746067	!Sample_extract_protocol_ch1 = Spatial transcriptome sequencing libraries were prepared with 10x Genomics Visium Spatial Gene Expression Reagent kit FFPE v2 according to the manufacturer's instructions.	True

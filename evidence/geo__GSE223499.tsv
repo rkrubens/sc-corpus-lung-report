@@ -1,0 +1,506 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6957590	geo:GSE223499:GSM6957590	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957590	geo:GSE223499:GSM6957590	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957590	geo:GSE223499:GSM6957590	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957591	geo:GSE223499:GSM6957591	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957591	geo:GSE223499:GSM6957591	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957591	geo:GSE223499:GSM6957591	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957592	geo:GSE223499:GSM6957592	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957592	geo:GSE223499:GSM6957592	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957592	geo:GSE223499:GSM6957592	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957593	geo:GSE223499:GSM6957593	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957593	geo:GSE223499:GSM6957593	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957593	geo:GSE223499:GSM6957593	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957594	geo:GSE223499:GSM6957594	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957594	geo:GSE223499:GSM6957594	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957594	geo:GSE223499:GSM6957594	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957595	geo:GSE223499:GSM6957595	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957595	geo:GSE223499:GSM6957595	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957595	geo:GSE223499:GSM6957595	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957596	geo:GSE223499:GSM6957596	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957596	geo:GSE223499:GSM6957596	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957596	geo:GSE223499:GSM6957596	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957597	geo:GSE223499:GSM6957597	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957597	geo:GSE223499:GSM6957597	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957597	geo:GSE223499:GSM6957597	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957598	geo:GSE223499:GSM6957598	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957598	geo:GSE223499:GSM6957598	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957598	geo:GSE223499:GSM6957598	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957599	geo:GSE223499:GSM6957599	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957599	geo:GSE223499:GSM6957599	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957599	geo:GSE223499:GSM6957599	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957600	geo:GSE223499:GSM6957600	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957600	geo:GSE223499:GSM6957600	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957600	geo:GSE223499:GSM6957600	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957601	geo:GSE223499:GSM6957601	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957601	geo:GSE223499:GSM6957601	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957601	geo:GSE223499:GSM6957601	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957602	geo:GSE223499:GSM6957602	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957602	geo:GSE223499:GSM6957602	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957602	geo:GSE223499:GSM6957602	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957603	geo:GSE223499:GSM6957603	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957603	geo:GSE223499:GSM6957603	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957603	geo:GSE223499:GSM6957603	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957604	geo:GSE223499:GSM6957604	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957604	geo:GSE223499:GSM6957604	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957604	geo:GSE223499:GSM6957604	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957605	geo:GSE223499:GSM6957605	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957605	geo:GSE223499:GSM6957605	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957605	geo:GSE223499:GSM6957605	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957606	geo:GSE223499:GSM6957606	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957606	geo:GSE223499:GSM6957606	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957606	geo:GSE223499:GSM6957606	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957607	geo:GSE223499:GSM6957607	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957607	geo:GSE223499:GSM6957607	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957607	geo:GSE223499:GSM6957607	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957608	geo:GSE223499:GSM6957608	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957608	geo:GSE223499:GSM6957608	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957608	geo:GSE223499:GSM6957608	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957609	geo:GSE223499:GSM6957609	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957609	geo:GSE223499:GSM6957609	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957609	geo:GSE223499:GSM6957609	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957610	geo:GSE223499:GSM6957610	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957610	geo:GSE223499:GSM6957610	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957610	geo:GSE223499:GSM6957610	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957611	geo:GSE223499:GSM6957611	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957611	geo:GSE223499:GSM6957611	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957611	geo:GSE223499:GSM6957611	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957612	geo:GSE223499:GSM6957612	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957612	geo:GSE223499:GSM6957612	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957612	geo:GSE223499:GSM6957612	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957613	geo:GSE223499:GSM6957613	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957613	geo:GSE223499:GSM6957613	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957613	geo:GSE223499:GSM6957613	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957614	geo:GSE223499:GSM6957614	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957614	geo:GSE223499:GSM6957614	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957614	geo:GSE223499:GSM6957614	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957615	geo:GSE223499:GSM6957615	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957615	geo:GSE223499:GSM6957615	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957615	geo:GSE223499:GSM6957615	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957616	geo:GSE223499:GSM6957616	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957616	geo:GSE223499:GSM6957616	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957616	geo:GSE223499:GSM6957616	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957617	geo:GSE223499:GSM6957617	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957617	geo:GSE223499:GSM6957617	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957617	geo:GSE223499:GSM6957617	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957618	geo:GSE223499:GSM6957618	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957618	geo:GSE223499:GSM6957618	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957618	geo:GSE223499:GSM6957618	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957619	geo:GSE223499:GSM6957619	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957619	geo:GSE223499:GSM6957619	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957619	geo:GSE223499:GSM6957619	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957620	geo:GSE223499:GSM6957620	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957620	geo:GSE223499:GSM6957620	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957620	geo:GSE223499:GSM6957620	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957621	geo:GSE223499:GSM6957621	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957621	geo:GSE223499:GSM6957621	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957621	geo:GSE223499:GSM6957621	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957622	geo:GSE223499:GSM6957622	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957622	geo:GSE223499:GSM6957622	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957622	geo:GSE223499:GSM6957622	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957623	geo:GSE223499:GSM6957623	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957623	geo:GSE223499:GSM6957623	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957623	geo:GSE223499:GSM6957623	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957625	geo:GSE223499:GSM6957625	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957625	geo:GSE223499:GSM6957625	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957625	geo:GSE223499:GSM6957625	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957626	geo:GSE223499:GSM6957626	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957626	geo:GSE223499:GSM6957626	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957626	geo:GSE223499:GSM6957626	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957627	geo:GSE223499:GSM6957627	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957627	geo:GSE223499:GSM6957627	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957627	geo:GSE223499:GSM6957627	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957628	geo:GSE223499:GSM6957628	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957628	geo:GSE223499:GSM6957628	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+GSM6957628	geo:GSE223499:GSM6957628	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957629	geo:GSE223499:GSM6957629	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957629	geo:GSE223499:GSM6957629	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957629	geo:GSE223499:GSM6957629	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957630	geo:GSE223499:GSM6957630	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957630	geo:GSE223499:GSM6957630	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957630	geo:GSE223499:GSM6957630	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957631	geo:GSE223499:GSM6957631	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957631	geo:GSE223499:GSM6957631	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957631	geo:GSE223499:GSM6957631	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM6957632	geo:GSE223499:GSM6957632	assay_ontology_term_id	EFO:0030004	derived	ols:efo		10x 5' transcription profiling	True
+GSM6957632	geo:GSE223499:GSM6957632	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM6957632	geo:GSE223499:GSM6957632	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6957590	geo:GSE223499:GSM6957590	donor_id	BM_1	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957590	!Sample_characteristics_ch1 = patient id: BM_1	True
+GSM6957590	geo:GSE223499:GSM6957590	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957590	geo:GSE223499:GSM6957590	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957590	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957590	geo:GSE223499:GSM6957590	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957590	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957590	geo:GSE223499:GSM6957590	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957590	geo:GSE223499:GSM6957590	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957590	geo:GSE223499:GSM6957590	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957590	geo:GSE223499:GSM6957590	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957590	geo:GSE223499:GSM6957590	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957591	geo:GSE223499:GSM6957591	donor_id	BM_2	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957591	!Sample_characteristics_ch1 = patient id: BM_2	True
+GSM6957591	geo:GSE223499:GSM6957591	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957591	geo:GSE223499:GSM6957591	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957591	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957591	geo:GSE223499:GSM6957591	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957591	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957591	geo:GSE223499:GSM6957591	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957591	geo:GSE223499:GSM6957591	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957591	geo:GSE223499:GSM6957591	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957591	geo:GSE223499:GSM6957591	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957591	geo:GSE223499:GSM6957591	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957592	geo:GSE223499:GSM6957592	donor_id	BM_3	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957592	!Sample_characteristics_ch1 = patient id: BM_3	True
+GSM6957592	geo:GSE223499:GSM6957592	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957592	geo:GSE223499:GSM6957592	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957592	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957592	geo:GSE223499:GSM6957592	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957592	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957592	geo:GSE223499:GSM6957592	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957592	geo:GSE223499:GSM6957592	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957592	geo:GSE223499:GSM6957592	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957592	geo:GSE223499:GSM6957592	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957592	geo:GSE223499:GSM6957592	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957593	geo:GSE223499:GSM6957593	donor_id	BM_4	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957593	!Sample_characteristics_ch1 = patient id: BM_4	True
+GSM6957593	geo:GSE223499:GSM6957593	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957593	geo:GSE223499:GSM6957593	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957593	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957593	geo:GSE223499:GSM6957593	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957593	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957593	geo:GSE223499:GSM6957593	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957593	geo:GSE223499:GSM6957593	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957593	geo:GSE223499:GSM6957593	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957593	geo:GSE223499:GSM6957593	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957593	geo:GSE223499:GSM6957593	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957594	geo:GSE223499:GSM6957594	donor_id	BM_5	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957594	!Sample_characteristics_ch1 = patient id: BM_5	True
+GSM6957594	geo:GSE223499:GSM6957594	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957594	geo:GSE223499:GSM6957594	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957594	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957594	geo:GSE223499:GSM6957594	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957594	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957594	geo:GSE223499:GSM6957594	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957594	geo:GSE223499:GSM6957594	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957594	geo:GSE223499:GSM6957594	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957594	geo:GSE223499:GSM6957594	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957594	geo:GSE223499:GSM6957594	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957595	geo:GSE223499:GSM6957595	donor_id	BM_6	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957595	!Sample_characteristics_ch1 = patient id: BM_6	True
+GSM6957595	geo:GSE223499:GSM6957595	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957595	geo:GSE223499:GSM6957595	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957595	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957595	geo:GSE223499:GSM6957595	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957595	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957595	geo:GSE223499:GSM6957595	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957595	geo:GSE223499:GSM6957595	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957595	geo:GSE223499:GSM6957595	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957595	geo:GSE223499:GSM6957595	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957595	geo:GSE223499:GSM6957595	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957596	geo:GSE223499:GSM6957596	donor_id	BM_7	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957596	!Sample_characteristics_ch1 = patient id: BM_7	True
+GSM6957596	geo:GSE223499:GSM6957596	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957596	geo:GSE223499:GSM6957596	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957596	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957596	geo:GSE223499:GSM6957596	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957596	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957596	geo:GSE223499:GSM6957596	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957596	geo:GSE223499:GSM6957596	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957596	geo:GSE223499:GSM6957596	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957596	geo:GSE223499:GSM6957596	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957596	geo:GSE223499:GSM6957596	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957597	geo:GSE223499:GSM6957597	donor_id	BM_8	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957597	!Sample_characteristics_ch1 = patient id: BM_8	True
+GSM6957597	geo:GSE223499:GSM6957597	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957597	geo:GSE223499:GSM6957597	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957597	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957597	geo:GSE223499:GSM6957597	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957597	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957597	geo:GSE223499:GSM6957597	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957597	geo:GSE223499:GSM6957597	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957597	geo:GSE223499:GSM6957597	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957597	geo:GSE223499:GSM6957597	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957597	geo:GSE223499:GSM6957597	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957598	geo:GSE223499:GSM6957598	donor_id	BM_9	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957598	!Sample_characteristics_ch1 = patient id: BM_9	True
+GSM6957598	geo:GSE223499:GSM6957598	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957598	geo:GSE223499:GSM6957598	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957598	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957598	geo:GSE223499:GSM6957598	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957598	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957598	geo:GSE223499:GSM6957598	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957598	geo:GSE223499:GSM6957598	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957598	geo:GSE223499:GSM6957598	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957598	geo:GSE223499:GSM6957598	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957598	geo:GSE223499:GSM6957598	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957599	geo:GSE223499:GSM6957599	donor_id	BM_10	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957599	!Sample_characteristics_ch1 = patient id: BM_10	True
+GSM6957599	geo:GSE223499:GSM6957599	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957599	geo:GSE223499:GSM6957599	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957599	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957599	geo:GSE223499:GSM6957599	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957599	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957599	geo:GSE223499:GSM6957599	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957599	geo:GSE223499:GSM6957599	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957599	geo:GSE223499:GSM6957599	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957599	geo:GSE223499:GSM6957599	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957599	geo:GSE223499:GSM6957599	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957600	geo:GSE223499:GSM6957600	donor_id	BM_11	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957600	!Sample_characteristics_ch1 = patient id: BM_11	True
+GSM6957600	geo:GSE223499:GSM6957600	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957600	geo:GSE223499:GSM6957600	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957600	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957600	geo:GSE223499:GSM6957600	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957600	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957600	geo:GSE223499:GSM6957600	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957600	geo:GSE223499:GSM6957600	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957600	geo:GSE223499:GSM6957600	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957600	geo:GSE223499:GSM6957600	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957600	geo:GSE223499:GSM6957600	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957601	geo:GSE223499:GSM6957601	donor_id	BM_12	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957601	!Sample_characteristics_ch1 = patient id: BM_12	True
+GSM6957601	geo:GSE223499:GSM6957601	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957601	geo:GSE223499:GSM6957601	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957601	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957601	geo:GSE223499:GSM6957601	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957601	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957601	geo:GSE223499:GSM6957601	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957601	geo:GSE223499:GSM6957601	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957601	geo:GSE223499:GSM6957601	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957601	geo:GSE223499:GSM6957601	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957601	geo:GSE223499:GSM6957601	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957602	geo:GSE223499:GSM6957602	donor_id	BM_13	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957602	!Sample_characteristics_ch1 = patient id: BM_13	True
+GSM6957602	geo:GSE223499:GSM6957602	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957602	geo:GSE223499:GSM6957602	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957602	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957602	geo:GSE223499:GSM6957602	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957602	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957602	geo:GSE223499:GSM6957602	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957602	geo:GSE223499:GSM6957602	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957602	geo:GSE223499:GSM6957602	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957602	geo:GSE223499:GSM6957602	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957602	geo:GSE223499:GSM6957602	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957603	geo:GSE223499:GSM6957603	donor_id	BM_14	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957603	!Sample_characteristics_ch1 = patient id: BM_14	True
+GSM6957603	geo:GSE223499:GSM6957603	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957603	geo:GSE223499:GSM6957603	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957603	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957603	geo:GSE223499:GSM6957603	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957603	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957603	geo:GSE223499:GSM6957603	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957603	geo:GSE223499:GSM6957603	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957603	geo:GSE223499:GSM6957603	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957603	geo:GSE223499:GSM6957603	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957603	geo:GSE223499:GSM6957603	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957604	geo:GSE223499:GSM6957604	donor_id	BM_15	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957604	!Sample_characteristics_ch1 = patient id: BM_15	True
+GSM6957604	geo:GSE223499:GSM6957604	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957604	geo:GSE223499:GSM6957604	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957604	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957604	geo:GSE223499:GSM6957604	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957604	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957604	geo:GSE223499:GSM6957604	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957604	geo:GSE223499:GSM6957604	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957604	geo:GSE223499:GSM6957604	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957604	geo:GSE223499:GSM6957604	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957604	geo:GSE223499:GSM6957604	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957605	geo:GSE223499:GSM6957605	donor_id	BM_16	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957605	!Sample_characteristics_ch1 = patient id: BM_16	True
+GSM6957605	geo:GSE223499:GSM6957605	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957605	geo:GSE223499:GSM6957605	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957605	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957605	geo:GSE223499:GSM6957605	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957605	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957605	geo:GSE223499:GSM6957605	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957605	geo:GSE223499:GSM6957605	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957605	geo:GSE223499:GSM6957605	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957605	geo:GSE223499:GSM6957605	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957605	geo:GSE223499:GSM6957605	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957606	geo:GSE223499:GSM6957606	donor_id	BM_17	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957606	!Sample_characteristics_ch1 = patient id: BM_17	True
+GSM6957606	geo:GSE223499:GSM6957606	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957606	geo:GSE223499:GSM6957606	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957606	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957606	geo:GSE223499:GSM6957606	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957606	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957606	geo:GSE223499:GSM6957606	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957606	geo:GSE223499:GSM6957606	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957606	geo:GSE223499:GSM6957606	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957606	geo:GSE223499:GSM6957606	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957606	geo:GSE223499:GSM6957606	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957607	geo:GSE223499:GSM6957607	donor_id	BM_18	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957607	!Sample_characteristics_ch1 = patient id: BM_18	True
+GSM6957607	geo:GSE223499:GSM6957607	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957607	geo:GSE223499:GSM6957607	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957607	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957607	geo:GSE223499:GSM6957607	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957607	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957607	geo:GSE223499:GSM6957607	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957607	geo:GSE223499:GSM6957607	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957607	geo:GSE223499:GSM6957607	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957607	geo:GSE223499:GSM6957607	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957607	geo:GSE223499:GSM6957607	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957608	geo:GSE223499:GSM6957608	donor_id	BM_19	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957608	!Sample_characteristics_ch1 = patient id: BM_19	True
+GSM6957608	geo:GSE223499:GSM6957608	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957608	geo:GSE223499:GSM6957608	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957608	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957608	geo:GSE223499:GSM6957608	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957608	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957608	geo:GSE223499:GSM6957608	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957608	geo:GSE223499:GSM6957608	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957608	geo:GSE223499:GSM6957608	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957608	geo:GSE223499:GSM6957608	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957608	geo:GSE223499:GSM6957608	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957609	geo:GSE223499:GSM6957609	donor_id	BM_20	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957609	!Sample_characteristics_ch1 = patient id: BM_20	True
+GSM6957609	geo:GSE223499:GSM6957609	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957609	geo:GSE223499:GSM6957609	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957609	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957609	geo:GSE223499:GSM6957609	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957609	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957609	geo:GSE223499:GSM6957609	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957609	geo:GSE223499:GSM6957609	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957609	geo:GSE223499:GSM6957609	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957609	geo:GSE223499:GSM6957609	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957609	geo:GSE223499:GSM6957609	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957610	geo:GSE223499:GSM6957610	donor_id	BM_21	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957610	!Sample_characteristics_ch1 = patient id: BM_21	True
+GSM6957610	geo:GSE223499:GSM6957610	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957610	geo:GSE223499:GSM6957610	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957610	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957610	geo:GSE223499:GSM6957610	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957610	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957610	geo:GSE223499:GSM6957610	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957610	geo:GSE223499:GSM6957610	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957610	geo:GSE223499:GSM6957610	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957610	geo:GSE223499:GSM6957610	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957610	geo:GSE223499:GSM6957610	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957611	geo:GSE223499:GSM6957611	donor_id	PT_1	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957611	!Sample_characteristics_ch1 = patient id: PT_1	True
+GSM6957611	geo:GSE223499:GSM6957611	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957611	geo:GSE223499:GSM6957611	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957611	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957611	geo:GSE223499:GSM6957611	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957611	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957611	geo:GSE223499:GSM6957611	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957611	geo:GSE223499:GSM6957611	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957611	geo:GSE223499:GSM6957611	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957611	geo:GSE223499:GSM6957611	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957611	geo:GSE223499:GSM6957611	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957612	geo:GSE223499:GSM6957612	donor_id	PT_2	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957612	!Sample_characteristics_ch1 = patient id: PT_2	True
+GSM6957612	geo:GSE223499:GSM6957612	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957612	geo:GSE223499:GSM6957612	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957612	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957612	geo:GSE223499:GSM6957612	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957612	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957612	geo:GSE223499:GSM6957612	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957612	geo:GSE223499:GSM6957612	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957612	geo:GSE223499:GSM6957612	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957612	geo:GSE223499:GSM6957612	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957612	geo:GSE223499:GSM6957612	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957613	geo:GSE223499:GSM6957613	donor_id	STK11mut_BM_1	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957613	!Sample_characteristics_ch1 = patient id: STK11mut_BM_1	True
+GSM6957613	geo:GSE223499:GSM6957613	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957613	geo:GSE223499:GSM6957613	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957613	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957613	geo:GSE223499:GSM6957613	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957613	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957613	geo:GSE223499:GSM6957613	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957613	geo:GSE223499:GSM6957613	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957613	geo:GSE223499:GSM6957613	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957613	geo:GSE223499:GSM6957613	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957613	geo:GSE223499:GSM6957613	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957614	geo:GSE223499:GSM6957614	donor_id	STK11mut_BM_2	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957614	!Sample_characteristics_ch1 = patient id: STK11mut_BM_2	True
+GSM6957614	geo:GSE223499:GSM6957614	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957614	geo:GSE223499:GSM6957614	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957614	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957614	geo:GSE223499:GSM6957614	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957614	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957614	geo:GSE223499:GSM6957614	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957614	geo:GSE223499:GSM6957614	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957614	geo:GSE223499:GSM6957614	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957614	geo:GSE223499:GSM6957614	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957614	geo:GSE223499:GSM6957614	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957615	geo:GSE223499:GSM6957615	donor_id	STK11mut_BM_3	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957615	!Sample_characteristics_ch1 = patient id: STK11mut_BM_3	True
+GSM6957615	geo:GSE223499:GSM6957615	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957615	geo:GSE223499:GSM6957615	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957615	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957615	geo:GSE223499:GSM6957615	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957615	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957615	geo:GSE223499:GSM6957615	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957615	geo:GSE223499:GSM6957615	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957615	geo:GSE223499:GSM6957615	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957615	geo:GSE223499:GSM6957615	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957615	geo:GSE223499:GSM6957615	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957616	geo:GSE223499:GSM6957616	donor_id	STK11mut_BM_4	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957616	!Sample_characteristics_ch1 = patient id: STK11mut_BM_4	True
+GSM6957616	geo:GSE223499:GSM6957616	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957616	geo:GSE223499:GSM6957616	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957616	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957616	geo:GSE223499:GSM6957616	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957616	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957616	geo:GSE223499:GSM6957616	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957616	geo:GSE223499:GSM6957616	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957616	geo:GSE223499:GSM6957616	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957616	geo:GSE223499:GSM6957616	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957616	geo:GSE223499:GSM6957616	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957617	geo:GSE223499:GSM6957617	donor_id	STK11mut_BM_5	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957617	!Sample_characteristics_ch1 = patient id: STK11mut_BM_5	True
+GSM6957617	geo:GSE223499:GSM6957617	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957617	geo:GSE223499:GSM6957617	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957617	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957617	geo:GSE223499:GSM6957617	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957617	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957617	geo:GSE223499:GSM6957617	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957617	geo:GSE223499:GSM6957617	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957617	geo:GSE223499:GSM6957617	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957617	geo:GSE223499:GSM6957617	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957617	geo:GSE223499:GSM6957617	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957618	geo:GSE223499:GSM6957618	donor_id	STK11mut_BM_6	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957618	!Sample_characteristics_ch1 = patient id: STK11mut_BM_6	True
+GSM6957618	geo:GSE223499:GSM6957618	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957618	geo:GSE223499:GSM6957618	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957618	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957618	geo:GSE223499:GSM6957618	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957618	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957618	geo:GSE223499:GSM6957618	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957618	geo:GSE223499:GSM6957618	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957618	geo:GSE223499:GSM6957618	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957618	geo:GSE223499:GSM6957618	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957618	geo:GSE223499:GSM6957618	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957619	geo:GSE223499:GSM6957619	donor_id	STK11mut_PT_1	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957619	!Sample_characteristics_ch1 = patient id: STK11mut_PT_1	True
+GSM6957619	geo:GSE223499:GSM6957619	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957619	geo:GSE223499:GSM6957619	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957619	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957619	geo:GSE223499:GSM6957619	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957619	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957619	geo:GSE223499:GSM6957619	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957619	geo:GSE223499:GSM6957619	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957619	geo:GSE223499:GSM6957619	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957619	geo:GSE223499:GSM6957619	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957619	geo:GSE223499:GSM6957619	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957620	geo:GSE223499:GSM6957620	donor_id	STK11mut_PT_2	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957620	!Sample_characteristics_ch1 = patient id: STK11mut_PT_2	True
+GSM6957620	geo:GSE223499:GSM6957620	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957620	geo:GSE223499:GSM6957620	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957620	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957620	geo:GSE223499:GSM6957620	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957620	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957620	geo:GSE223499:GSM6957620	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957620	geo:GSE223499:GSM6957620	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957620	geo:GSE223499:GSM6957620	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957620	geo:GSE223499:GSM6957620	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957620	geo:GSE223499:GSM6957620	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957621	geo:GSE223499:GSM6957621	donor_id	STK11mut_PT_3	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957621	!Sample_characteristics_ch1 = patient id: STK11mut_PT_3	True
+GSM6957621	geo:GSE223499:GSM6957621	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957621	geo:GSE223499:GSM6957621	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957621	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957621	geo:GSE223499:GSM6957621	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957621	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957621	geo:GSE223499:GSM6957621	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957621	geo:GSE223499:GSM6957621	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957621	geo:GSE223499:GSM6957621	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957621	geo:GSE223499:GSM6957621	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957621	geo:GSE223499:GSM6957621	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957622	geo:GSE223499:GSM6957622	donor_id	STK11mut_PT_4	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957622	!Sample_characteristics_ch1 = patient id: STK11mut_PT_4	True
+GSM6957622	geo:GSE223499:GSM6957622	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957622	geo:GSE223499:GSM6957622	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957622	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957622	geo:GSE223499:GSM6957622	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957622	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957622	geo:GSE223499:GSM6957622	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957622	geo:GSE223499:GSM6957622	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957622	geo:GSE223499:GSM6957622	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957622	geo:GSE223499:GSM6957622	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957622	geo:GSE223499:GSM6957622	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957623	geo:GSE223499:GSM6957623	donor_id	STK11mut_PT_5	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957623	!Sample_characteristics_ch1 = patient id: STK11mut_PT_5	True
+GSM6957623	geo:GSE223499:GSM6957623	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957623	geo:GSE223499:GSM6957623	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957623	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957623	geo:GSE223499:GSM6957623	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957623	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957623	geo:GSE223499:GSM6957623	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957623	geo:GSE223499:GSM6957623	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957623	geo:GSE223499:GSM6957623	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957623	geo:GSE223499:GSM6957623	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957623	geo:GSE223499:GSM6957623	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957625	geo:GSE223499:GSM6957625	donor_id	KRASmut_BM_2	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957625	!Sample_characteristics_ch1 = patient id: KRASmut_BM_2	True
+GSM6957625	geo:GSE223499:GSM6957625	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957625	geo:GSE223499:GSM6957625	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957625	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957625	geo:GSE223499:GSM6957625	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957625	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957625	geo:GSE223499:GSM6957625	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957625	geo:GSE223499:GSM6957625	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957625	geo:GSE223499:GSM6957625	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957625	geo:GSE223499:GSM6957625	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957625	geo:GSE223499:GSM6957625	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957626	geo:GSE223499:GSM6957626	donor_id	KRASmut_BM_3	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957626	!Sample_characteristics_ch1 = patient id: KRASmut_BM_3	True
+GSM6957626	geo:GSE223499:GSM6957626	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957626	geo:GSE223499:GSM6957626	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957626	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957626	geo:GSE223499:GSM6957626	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957626	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957626	geo:GSE223499:GSM6957626	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957626	geo:GSE223499:GSM6957626	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957626	geo:GSE223499:GSM6957626	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957626	geo:GSE223499:GSM6957626	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957626	geo:GSE223499:GSM6957626	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957627	geo:GSE223499:GSM6957627	donor_id	KRASmut_BM_4	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957627	!Sample_characteristics_ch1 = patient id: KRASmut_BM_4	True
+GSM6957627	geo:GSE223499:GSM6957627	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957627	geo:GSE223499:GSM6957627	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957627	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957627	geo:GSE223499:GSM6957627	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957627	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957627	geo:GSE223499:GSM6957627	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957627	geo:GSE223499:GSM6957627	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957627	geo:GSE223499:GSM6957627	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957627	geo:GSE223499:GSM6957627	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957627	geo:GSE223499:GSM6957627	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957628	geo:GSE223499:GSM6957628	donor_id	KRASmut_BM_5	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957628	!Sample_characteristics_ch1 = patient id: KRASmut_BM_5	True
+GSM6957628	geo:GSE223499:GSM6957628	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957628	geo:GSE223499:GSM6957628	tissue_free_text	brain	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957628	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957628	geo:GSE223499:GSM6957628	disease_stage	brain metastasis	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957628	!Sample_source_name_ch1 = NSCLC brain metastasis	True
+GSM6957628	geo:GSE223499:GSM6957628	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957628	geo:GSE223499:GSM6957628	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957628	geo:GSE223499:GSM6957628	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957628	geo:GSE223499:GSM6957628	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957628	geo:GSE223499:GSM6957628	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957629	geo:GSE223499:GSM6957629	donor_id	KRASmut_BM_6	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957629	!Sample_characteristics_ch1 = patient id: KRASmut_BM_6	True
+GSM6957629	geo:GSE223499:GSM6957629	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957629	geo:GSE223499:GSM6957629	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957629	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957629	geo:GSE223499:GSM6957629	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957629	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957629	geo:GSE223499:GSM6957629	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957629	geo:GSE223499:GSM6957629	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957629	geo:GSE223499:GSM6957629	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957629	geo:GSE223499:GSM6957629	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957629	geo:GSE223499:GSM6957629	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957630	geo:GSE223499:GSM6957630	donor_id	KRASmut_BM_7	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957630	!Sample_characteristics_ch1 = patient id: KRASmut_BM_7	True
+GSM6957630	geo:GSE223499:GSM6957630	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957630	geo:GSE223499:GSM6957630	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957630	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957630	geo:GSE223499:GSM6957630	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957630	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957630	geo:GSE223499:GSM6957630	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957630	geo:GSE223499:GSM6957630	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957630	geo:GSE223499:GSM6957630	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957630	geo:GSE223499:GSM6957630	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957630	geo:GSE223499:GSM6957630	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957631	geo:GSE223499:GSM6957631	donor_id	KRASmut_BM_8	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957631	!Sample_characteristics_ch1 = patient id: KRASmut_BM_8	True
+GSM6957631	geo:GSE223499:GSM6957631	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957631	geo:GSE223499:GSM6957631	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957631	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957631	geo:GSE223499:GSM6957631	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957631	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957631	geo:GSE223499:GSM6957631	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957631	geo:GSE223499:GSM6957631	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957631	geo:GSE223499:GSM6957631	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957631	geo:GSE223499:GSM6957631	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957631	geo:GSE223499:GSM6957631	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True
+GSM6957632	geo:GSE223499:GSM6957632	donor_id	KRASmut_BM_9	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957632	!Sample_characteristics_ch1 = patient id: KRASmut_BM_9	True
+GSM6957632	geo:GSE223499:GSM6957632	disease_free_text	lung adenocarcinoma	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957632	geo:GSE223499:GSM6957632	tissue_free_text	lung	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957632	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957632	geo:GSE223499:GSM6957632	disease_stage	primary tumor	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz	GSM6957632	!Sample_source_name_ch1 = NSCLC primary tumor	True
+GSM6957632	geo:GSE223499:GSM6957632	tissue_type	tissue	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957632	geo:GSE223499:GSM6957632	suspension_type	nucleus	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei RNAseq (snRNA-seq) libraries were generated	True
+GSM6957632	geo:GSE223499:GSM6957632	sample_preservation	frozen	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		Single-nuclei suspension from frozen NSCLC metastases	True
+GSM6957632	geo:GSE223499:GSM6957632	treatment_status	treatment-naive	file	evidence/PMC12323702.txt		We performed multimodal profiling of 43 treatment-naive NSCLC (LUAD) tumors, composed of 12 PTs and 31 BMs	True
+GSM6957632	geo:GSE223499:GSM6957632	assay	10x 5' transcription profiling	file	raw/fp-0b4fa0a93233/GSE223499_family.soft.gz		libraries were generated using Chromium 5' (V1.1 and V2) reagents	True

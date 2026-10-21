@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6813484	geo:GSE220743:GSM6813484	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM6813485	geo:GSE220743:GSM6813485	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+		organism	Homo sapiens	file	raw/fp-dbd1f072cc59/GSE220743_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6813484	geo:GSE220743:GSM6813484	disease_free_text	IPF	file	raw/fp-dbd1f072cc59/GSE220743_family.soft.gz	GSM6813484	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM6813484	geo:GSE220743:GSM6813484	tissue_free_text	human bronchial epithelia	file	raw/fp-dbd1f072cc59/GSE220743_family.soft.gz	GSM6813484	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True
+GSM6813485	geo:GSE220743:GSM6813485	disease_free_text	IPF	file	raw/fp-dbd1f072cc59/GSE220743_family.soft.gz	GSM6813485	!Sample_characteristics_ch1 = diagnosis: IPF	True
+GSM6813485	geo:GSE220743:GSM6813485	tissue_free_text	human bronchial epithelia	file	raw/fp-dbd1f072cc59/GSE220743_family.soft.gz	GSM6813485	!Sample_characteristics_ch1 = tissue: human bronchial epithelia	True

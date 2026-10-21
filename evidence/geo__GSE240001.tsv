@@ -1,0 +1,101 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+		organism	Homo sapiens	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11082019_LUL	geo:GSE240001:GSE240001_200107-11082019_LUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11082019_RUL	geo:GSE240001:GSE240001_200107-11082019_RUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11222019_1_RB6	geo:GSE240001:GSE240001_200107-11222019_1_RB6	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11222019_2_RUL	geo:GSE240001:GSE240001_200107-11222019_2_RUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200107-11222019_3_LUL	geo:GSE240001:GSE240001_200107-11222019_3_LUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200204_LUL	geo:GSE240001:GSE240001_200204_LUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200204_RB6	geo:GSE240001:GSE240001_200204_RB6	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200204_RUL	geo:GSE240001:GSE240001_200204_RUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200303_LUL	geo:GSE240001:GSE240001_200303_LUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200303_RB6	geo:GSE240001:GSE240001_200303_RB6	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	tissue_free_text	Endobronchial biopsies	file	raw/fp-5960f3ca1d34/GSE240001_family.soft.gz		!Sample_source_name_ch1 = Endobronchial biopsies	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	tissue_type	tissue	file	evidence/PMC10499515.txt		Bulk and single-cell RNAseq analysis of bronchial biopsies	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	sample_collection_method	bronchoscopy with biopsy	file	evidence/PMC10499515.txt		Bronchoscopy with biopsy	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	suspension_type	cell	file	evidence/PMC10499515.txt		biopsies were proteolytically digested to prepare single-cell suspensions	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	assay	10x 3' transcription profiling	file	evidence/PMC10499515.txt		Chromium Single-cell 3’ solution	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	disease_ontology_term_id	PATO:0000461	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True
+GSE240001_200303_RUL	geo:GSE240001:GSE240001_200303_RUL	disease_free_text	histologically normal bronchial biopsy (grade 1.0) from a former smoker	file	evidence/PMC10499515.txt		we restricted our analysis to histologically normal biopsies	True

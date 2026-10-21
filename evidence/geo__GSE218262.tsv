@@ -1,0 +1,6 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-dc55dad734ca/GSE218262_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6738020	geo:GSE218262:GSM6738020	tissue_free_text	Mixed_lung_brain_pleural_fluid	file	raw/fp-dc55dad734ca/GSE218262_family.soft.gz	GSM6738020	!Sample_characteristics_ch1 = tissue: Mixed_lung_brain_pleural_fluid	True
+GSM6738021	geo:GSE218262:GSM6738021	tissue_free_text	Mixed_lung_brain_pleural_fluid	file	raw/fp-dc55dad734ca/GSE218262_family.soft.gz	GSM6738021	!Sample_characteristics_ch1 = tissue: Mixed_lung_brain_pleural_fluid	True
+GSM6738022	geo:GSE218262:GSM6738022	tissue_free_text	Mixed_lung_brain_pleural_fluid	file	raw/fp-dc55dad734ca/GSE218262_family.soft.gz	GSM6738022	!Sample_characteristics_ch1 = tissue: Mixed_lung_brain_pleural_fluid	True
+GSM6738023	geo:GSE218262:GSM6738023	tissue_free_text	Mixed_lung_brain_pleural_fluid	file	raw/fp-dc55dad734ca/GSE218262_family.soft.gz	GSM6738023	!Sample_characteristics_ch1 = tissue: Mixed_lung_brain_pleural_fluid	True

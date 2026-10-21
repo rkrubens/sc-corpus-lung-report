@@ -1,0 +1,7 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-d1db52b6b0c7/GSE250385_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7978181	geo:GSE250385:GSM7978181	tissue_free_text	lung tissue of OP patient	file	raw/fp-d1db52b6b0c7/GSE250385_family.soft.gz	GSM7978181	!Sample_source_name_ch1 = lung tissue of OP patient	True
+GSM7978181	geo:GSE250385:GSM7978181	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-d1db52b6b0c7/GSE250385_family.soft.gz	GSM7978181	!Sample_source_name_ch1 = lung tissue of OP patient	True
+GSM7978181	geo:GSE250385:GSM7978181	disease_free_text	organising pneumonia (OP)	file	raw/fp-d1db52b6b0c7/GSE250385_family.soft.gz	GSM7978181	!Sample_source_name_ch1 = lung tissue of OP patient	True
+GSM7978181	geo:GSE250385:GSM7978181	disease_free_text	organising pneumonia (OP)	file	evidence/PMC11290555.txt		Organising pneumonia (OP), formerly known as bronchiolitis obliterans OP, is a pulmonary condition classified as an interstitial lung disease	True
+GSM7978181	geo:GSE250385:GSM7978181	suspension_type	na	file	raw/fp-d1db52b6b0c7/GSE250385_family.soft.gz	GSM7978181	!Sample_data_processing = Library strategy: Visium CytAssist Spatial	True

@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7476184	geo:GSE234885:GSM7476184	disease_free_text	LAM Patient	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz	GSM7476184	!Sample_characteristics_ch1 = disease: LAM Patient	True
+GSM7476184	geo:GSE234885:GSM7476184	tissue_free_text	Lung Distal Tissue	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz	GSM7476184	!Sample_characteristics_ch1 = tissue: Lung Distal Tissue	True
+GSM7476184	geo:GSE234885:GSM7476184	treatment	None	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz	GSM7476184	!Sample_characteristics_ch1 = treatment: None	True
+GSM7476185	geo:GSE234885:GSM7476185	disease_free_text	LAM Patient	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz	GSM7476185	!Sample_characteristics_ch1 = disease: LAM Patient	True
+GSM7476185	geo:GSE234885:GSM7476185	tissue_free_text	Lung Distal Tissue	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz	GSM7476185	!Sample_characteristics_ch1 = tissue: Lung Distal Tissue	True
+GSM7476185	geo:GSE234885:GSM7476185	treatment	None	file	raw/fp-9827e43c2213/GSE234885_family.soft.gz	GSM7476185	!Sample_characteristics_ch1 = treatment: None	True

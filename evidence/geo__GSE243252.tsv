@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781850	!Sample_organism_ch1 = Homo sapiens	True
+GSM7781850	geo:GSE243252:GSM7781850	tissue_type	organoid	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781850	!Sample_title = Human_organoid_veh	True
+GSM7781850	geo:GSE243252:GSM7781850	tissue_free_text	Lung	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781850	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7781850	geo:GSE243252:GSM7781850	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781850	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7781850	geo:GSE243252:GSM7781850	treatment	Vehicle	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781850	!Sample_characteristics_ch1 = treatment: Vehicle	True
+GSM7781851	geo:GSE243252:GSM7781851	tissue_type	organoid	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781851	!Sample_title = Human_organoid_pt	True
+GSM7781851	geo:GSE243252:GSM7781851	tissue_free_text	Lung	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781851	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7781851	geo:GSE243252:GSM7781851	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781851	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM7781851	geo:GSE243252:GSM7781851	treatment	PT-2385	file	raw/fp-f955b345b7be/GSE243252_family.soft.gz	GSM7781851	!Sample_characteristics_ch1 = treatment: PT-2385	True

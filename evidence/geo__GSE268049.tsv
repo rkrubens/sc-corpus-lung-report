@@ -1,0 +1,17 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8284978	geo:GSE268049:GSM8284978	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284978	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284979	geo:GSE268049:GSM8284979	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284979	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284980	geo:GSE268049:GSM8284980	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284980	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284981	geo:GSE268049:GSM8284981	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284981	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284982	geo:GSE268049:GSM8284982	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284982	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284983	geo:GSE268049:GSM8284983	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284983	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284984	geo:GSE268049:GSM8284984	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284984	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284985	geo:GSE268049:GSM8284985	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284985	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284986	geo:GSE268049:GSM8284986	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284986	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284987	geo:GSE268049:GSM8284987	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284987	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284988	geo:GSE268049:GSM8284988	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284988	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284989	geo:GSE268049:GSM8284989	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284989	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284990	geo:GSE268049:GSM8284990	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284990	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284991	geo:GSE268049:GSM8284991	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284991	!Sample_characteristics_ch1 = tissue: Lung tumor	True
+GSM8284992	geo:GSE268049:GSM8284992	tissue_free_text	Lung tumor	file	raw/fp-dca2300965ed/GSE268049_family.soft.gz	GSM8284992	!Sample_characteristics_ch1 = tissue: Lung tumor	True

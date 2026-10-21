@@ -1,0 +1,202 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM3516662	geo:GSE123902:GSM3516662	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516663	geo:GSE123902:GSM3516663	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516664	geo:GSE123902:GSM3516664	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516665	geo:GSE123902:GSM3516665	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516666	geo:GSE123902:GSM3516666	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516667	geo:GSE123902:GSM3516667	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516668	geo:GSE123902:GSM3516668	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516669	geo:GSE123902:GSM3516669	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516670	geo:GSE123902:GSM3516670	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516671	geo:GSE123902:GSM3516671	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516672	geo:GSE123902:GSM3516672	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516673	geo:GSE123902:GSM3516673	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516674	geo:GSE123902:GSM3516674	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516675	geo:GSE123902:GSM3516675	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516676	geo:GSE123902:GSM3516676	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516677	geo:GSE123902:GSM3516677	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM3516678	geo:GSE123902:GSM3516678	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+		organism	Homo sapiens	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM3516662	geo:GSE123902:GSM3516662	donor_id	LX653	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_title = MSK_LX653_PRIMARY_TUMOUR	True
+GSM3516662	geo:GSE123902:GSM3516662	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516662	geo:GSE123902:GSM3516662	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516662	geo:GSE123902:GSM3516662	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516662	geo:GSE123902:GSM3516662	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516662	geo:GSE123902:GSM3516662	disease_stage	1A	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_characteristics_ch1 = Stage: 1A	True
+GSM3516662	geo:GSE123902:GSM3516662	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516662	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516662	geo:GSE123902:GSM3516662	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516662	geo:GSE123902:GSM3516662	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516662	geo:GSE123902:GSM3516662	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516662	geo:GSE123902:GSM3516662	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516663	geo:GSE123902:GSM3516663	donor_id	LX661	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_title = MSK_LX661_PRIMARY_TUMOUR	True
+GSM3516663	geo:GSE123902:GSM3516663	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516663	geo:GSE123902:GSM3516663	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516663	geo:GSE123902:GSM3516663	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516663	geo:GSE123902:GSM3516663	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516663	geo:GSE123902:GSM3516663	disease_stage	1A	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_characteristics_ch1 = Stage: 1A	True
+GSM3516663	geo:GSE123902:GSM3516663	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516663	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516663	geo:GSE123902:GSM3516663	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516663	geo:GSE123902:GSM3516663	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516663	geo:GSE123902:GSM3516663	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516663	geo:GSE123902:GSM3516663	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516664	geo:GSE123902:GSM3516664	donor_id	LX666	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_title = MSK_LX666_METASTASIS	True
+GSM3516664	geo:GSE123902:GSM3516664	tissue_free_text	Patient primary lung adenocarcinoma metastasis to BONE	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BONE	True
+GSM3516664	geo:GSE123902:GSM3516664	tissue_ontology_term_id	UBERON:0001474	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BONE	True
+GSM3516664	geo:GSE123902:GSM3516664	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516664	geo:GSE123902:GSM3516664	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516664	geo:GSE123902:GSM3516664	disease_stage	IV	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_characteristics_ch1 = Stage: IV	True
+GSM3516664	geo:GSE123902:GSM3516664	treatment	chemotherapy: Yes	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516664	!Sample_characteristics_ch1 = chemotherapy: Yes	True
+GSM3516664	geo:GSE123902:GSM3516664	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516664	geo:GSE123902:GSM3516664	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516664	geo:GSE123902:GSM3516664	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516664	geo:GSE123902:GSM3516664	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516665	geo:GSE123902:GSM3516665	donor_id	LX675	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_title = MSK_LX675_PRIMARY_TUMOUR	True
+GSM3516665	geo:GSE123902:GSM3516665	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516665	geo:GSE123902:GSM3516665	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516665	geo:GSE123902:GSM3516665	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516665	geo:GSE123902:GSM3516665	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516665	geo:GSE123902:GSM3516665	disease_stage	IV	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_characteristics_ch1 = Stage: IV	True
+GSM3516665	geo:GSE123902:GSM3516665	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516665	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516665	geo:GSE123902:GSM3516665	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516665	geo:GSE123902:GSM3516665	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516665	geo:GSE123902:GSM3516665	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516665	geo:GSE123902:GSM3516665	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516666	geo:GSE123902:GSM3516666	donor_id	LX675	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516666	!Sample_title = MSK_LX675_NORMAL	True
+GSM3516666	geo:GSE123902:GSM3516666	tissue_free_text	Patient adjacent non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516666	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516666	geo:GSE123902:GSM3516666	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516666	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516666	geo:GSE123902:GSM3516666	disease_free_text	non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516666	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516666	geo:GSE123902:GSM3516666	disease_ontology_term_id	PATO:0000461	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516666	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516666	geo:GSE123902:GSM3516666	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516666	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516666	geo:GSE123902:GSM3516666	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516666	geo:GSE123902:GSM3516666	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516666	geo:GSE123902:GSM3516666	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516666	geo:GSE123902:GSM3516666	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516667	geo:GSE123902:GSM3516667	donor_id	LX676	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_title = MSK_LX676_PRIMARY_TUMOUR	True
+GSM3516667	geo:GSE123902:GSM3516667	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516667	geo:GSE123902:GSM3516667	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516667	geo:GSE123902:GSM3516667	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516667	geo:GSE123902:GSM3516667	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516667	geo:GSE123902:GSM3516667	disease_stage	1A	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_characteristics_ch1 = Stage: 1A	True
+GSM3516667	geo:GSE123902:GSM3516667	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516667	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516667	geo:GSE123902:GSM3516667	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516667	geo:GSE123902:GSM3516667	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516667	geo:GSE123902:GSM3516667	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516667	geo:GSE123902:GSM3516667	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516668	geo:GSE123902:GSM3516668	donor_id	LX255B	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_title = MSK_LX255B_METASTASIS	True
+GSM3516668	geo:GSE123902:GSM3516668	tissue_free_text	Patient primary lung adenocarcinoma metastasis to BRAIN	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BRAIN	True
+GSM3516668	geo:GSE123902:GSM3516668	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BRAIN	True
+GSM3516668	geo:GSE123902:GSM3516668	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516668	geo:GSE123902:GSM3516668	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516668	geo:GSE123902:GSM3516668	disease_stage	IV	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_characteristics_ch1 = Stage: IV	True
+GSM3516668	geo:GSE123902:GSM3516668	treatment	chemotherapy: Yes	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516668	!Sample_characteristics_ch1 = chemotherapy: Yes	True
+GSM3516668	geo:GSE123902:GSM3516668	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516668	geo:GSE123902:GSM3516668	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516668	geo:GSE123902:GSM3516668	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516668	geo:GSE123902:GSM3516668	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516669	geo:GSE123902:GSM3516669	donor_id	LX679	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_title = MSK_LX679_PRIMARY_TUMOUR	True
+GSM3516669	geo:GSE123902:GSM3516669	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516669	geo:GSE123902:GSM3516669	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516669	geo:GSE123902:GSM3516669	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516669	geo:GSE123902:GSM3516669	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516669	geo:GSE123902:GSM3516669	disease_stage	IIA	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_characteristics_ch1 = Stage: IIA	True
+GSM3516669	geo:GSE123902:GSM3516669	treatment	chemotherapy: Yes	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516669	!Sample_characteristics_ch1 = chemotherapy: Yes	True
+GSM3516669	geo:GSE123902:GSM3516669	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516669	geo:GSE123902:GSM3516669	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516669	geo:GSE123902:GSM3516669	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516669	geo:GSE123902:GSM3516669	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516670	geo:GSE123902:GSM3516670	donor_id	LX680	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_title = MSK_LX680_PRIMARY_TUMOUR	True
+GSM3516670	geo:GSE123902:GSM3516670	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516670	geo:GSE123902:GSM3516670	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516670	geo:GSE123902:GSM3516670	disease_free_text	Lung Adenocarcinom + Large Cell Neuroendocrine Carcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinom + Large Cell Neuroendocrine Carcinoma	True
+GSM3516670	geo:GSE123902:GSM3516670	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinom + Large Cell Neuroendocrine Carcinoma	True
+GSM3516670	geo:GSE123902:GSM3516670	disease_stage	IB	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_characteristics_ch1 = Stage: IB	True
+GSM3516670	geo:GSE123902:GSM3516670	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516670	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516670	geo:GSE123902:GSM3516670	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516670	geo:GSE123902:GSM3516670	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516670	geo:GSE123902:GSM3516670	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516670	geo:GSE123902:GSM3516670	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516671	geo:GSE123902:GSM3516671	donor_id	LX681	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_title = MSK_LX681_METASTASIS	True
+GSM3516671	geo:GSE123902:GSM3516671	tissue_free_text	Patient primary lung adenocarcinoma metastasis to BRAIN	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BRAIN	True
+GSM3516671	geo:GSE123902:GSM3516671	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BRAIN	True
+GSM3516671	geo:GSE123902:GSM3516671	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516671	geo:GSE123902:GSM3516671	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516671	geo:GSE123902:GSM3516671	disease_stage	IV	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_characteristics_ch1 = Stage: IV	True
+GSM3516671	geo:GSE123902:GSM3516671	treatment	chemotherapy: Yes	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516671	!Sample_characteristics_ch1 = chemotherapy: Yes	True
+GSM3516671	geo:GSE123902:GSM3516671	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516671	geo:GSE123902:GSM3516671	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516671	geo:GSE123902:GSM3516671	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516671	geo:GSE123902:GSM3516671	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516672	geo:GSE123902:GSM3516672	donor_id	LX682	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_title = MSK_LX682_PRIMARY_TUMOUR	True
+GSM3516672	geo:GSE123902:GSM3516672	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516672	geo:GSE123902:GSM3516672	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516672	geo:GSE123902:GSM3516672	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516672	geo:GSE123902:GSM3516672	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516672	geo:GSE123902:GSM3516672	disease_stage	IB	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_characteristics_ch1 = Stage: IB	True
+GSM3516672	geo:GSE123902:GSM3516672	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516672	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516672	geo:GSE123902:GSM3516672	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516672	geo:GSE123902:GSM3516672	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516672	geo:GSE123902:GSM3516672	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516672	geo:GSE123902:GSM3516672	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516673	geo:GSE123902:GSM3516673	donor_id	LX682	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516673	!Sample_title = MSK_LX682_NORMAL	True
+GSM3516673	geo:GSE123902:GSM3516673	tissue_free_text	Patient adjacent non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516673	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516673	geo:GSE123902:GSM3516673	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516673	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516673	geo:GSE123902:GSM3516673	disease_free_text	non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516673	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516673	geo:GSE123902:GSM3516673	disease_ontology_term_id	PATO:0000461	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516673	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516673	geo:GSE123902:GSM3516673	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516673	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516673	geo:GSE123902:GSM3516673	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516673	geo:GSE123902:GSM3516673	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516673	geo:GSE123902:GSM3516673	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516673	geo:GSE123902:GSM3516673	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516674	geo:GSE123902:GSM3516674	donor_id	LX684	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_title = MSK_LX684_PRIMARY_TUMOUR	True
+GSM3516674	geo:GSE123902:GSM3516674	tissue_free_text	Patient primary lung adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516674	geo:GSE123902:GSM3516674	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma	True
+GSM3516674	geo:GSE123902:GSM3516674	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516674	geo:GSE123902:GSM3516674	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516674	geo:GSE123902:GSM3516674	disease_stage	IA	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_characteristics_ch1 = Stage: IA	True
+GSM3516674	geo:GSE123902:GSM3516674	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516674	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516674	geo:GSE123902:GSM3516674	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516674	geo:GSE123902:GSM3516674	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516674	geo:GSE123902:GSM3516674	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516674	geo:GSE123902:GSM3516674	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516675	geo:GSE123902:GSM3516675	donor_id	LX684	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516675	!Sample_title = MSK_LX684_NORMAL	True
+GSM3516675	geo:GSE123902:GSM3516675	tissue_free_text	Patient adjacent non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516675	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516675	geo:GSE123902:GSM3516675	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516675	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516675	geo:GSE123902:GSM3516675	disease_free_text	non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516675	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516675	geo:GSE123902:GSM3516675	disease_ontology_term_id	PATO:0000461	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516675	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516675	geo:GSE123902:GSM3516675	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516675	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516675	geo:GSE123902:GSM3516675	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516675	geo:GSE123902:GSM3516675	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516675	geo:GSE123902:GSM3516675	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516675	geo:GSE123902:GSM3516675	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516676	geo:GSE123902:GSM3516676	donor_id	LX685	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516676	!Sample_title = MSK_LX685_NORMAL	True
+GSM3516676	geo:GSE123902:GSM3516676	tissue_free_text	Patient adjacent non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516676	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516676	geo:GSE123902:GSM3516676	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516676	!Sample_characteristics_ch1 = tissue: Patient adjacent non-tumour involved lung	True
+GSM3516676	geo:GSE123902:GSM3516676	disease_free_text	non-tumour involved lung	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516676	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516676	geo:GSE123902:GSM3516676	disease_ontology_term_id	PATO:0000461	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516676	!Sample_characteristics_ch1 = diagnosis: non-tumour involved lung	True
+GSM3516676	geo:GSE123902:GSM3516676	treatment	chemotherapy: No	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516676	!Sample_characteristics_ch1 = chemotherapy: No	True
+GSM3516676	geo:GSE123902:GSM3516676	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516676	geo:GSE123902:GSM3516676	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516676	geo:GSE123902:GSM3516676	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516676	geo:GSE123902:GSM3516676	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516677	geo:GSE123902:GSM3516677	donor_id	LX699	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_title = MSK_LX699_METASTASIS	True
+GSM3516677	geo:GSE123902:GSM3516677	tissue_free_text	Patient primary lung adenocarcinoma metastasis to ADRENAL	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to ADRENAL	True
+GSM3516677	geo:GSE123902:GSM3516677	tissue_ontology_term_id	UBERON:0002369	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to ADRENAL	True
+GSM3516677	geo:GSE123902:GSM3516677	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516677	geo:GSE123902:GSM3516677	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516677	geo:GSE123902:GSM3516677	disease_stage	IV	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_characteristics_ch1 = Stage: IV	True
+GSM3516677	geo:GSE123902:GSM3516677	treatment	chemotherapy: Yes	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516677	!Sample_characteristics_ch1 = chemotherapy: Yes	True
+GSM3516677	geo:GSE123902:GSM3516677	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516677	geo:GSE123902:GSM3516677	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516677	geo:GSE123902:GSM3516677	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516677	geo:GSE123902:GSM3516677	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True
+GSM3516678	geo:GSE123902:GSM3516678	donor_id	LX701	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_title = MSK_LX701_METASTASIS	True
+GSM3516678	geo:GSE123902:GSM3516678	tissue_free_text	Patient primary lung adenocarcinoma metastasis to BRAIN	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BRAIN	True
+GSM3516678	geo:GSE123902:GSM3516678	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_characteristics_ch1 = tissue: Patient primary lung adenocarcinoma metastasis to BRAIN	True
+GSM3516678	geo:GSE123902:GSM3516678	disease_free_text	Lung Adenocarcinoma	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516678	geo:GSE123902:GSM3516678	disease_ontology_term_id	MONDO:0005061	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_characteristics_ch1 = diagnosis: Lung Adenocarcinoma	True
+GSM3516678	geo:GSE123902:GSM3516678	disease_stage	IV	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_characteristics_ch1 = Stage: IV	True
+GSM3516678	geo:GSE123902:GSM3516678	treatment	chemotherapy: Yes	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz	GSM3516678	!Sample_characteristics_ch1 = chemotherapy: Yes	True
+GSM3516678	geo:GSE123902:GSM3516678	sample_collection_method	resection surgery	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		undergoing resection surgery at Memorial Sloan Kettering Cancer Center	True
+GSM3516678	geo:GSE123902:GSM3516678	tissue_type	tissue	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		Non-involved lung, tumour tissues, and metastatic lesions were obtained from patients	True
+GSM3516678	geo:GSE123902:GSM3516678	suspension_type	cell	file	raw/fp-17cc391bd646/GSE123902_family.soft.gz		final single-cell suspensions were made in Hanks	True
+GSM3516678	geo:GSE123902:GSM3516678	assay	10x 3' v2	file	raw/fp-17cc391bd646/GSE123902_GEO_README.rtf		generated on the 10X Genomics V2 platform	True

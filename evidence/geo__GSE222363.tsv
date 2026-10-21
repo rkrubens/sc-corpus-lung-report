@@ -1,0 +1,16 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6921561	geo:GSE222363:GSM6921561	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921561	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921561	geo:GSE222363:GSM6921561	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921561	!Sample_characteristics_ch1 = agent: vehicle	True
+GSM6921562	geo:GSE222363:GSM6921562	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921562	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921562	geo:GSE222363:GSM6921562	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921562	!Sample_characteristics_ch1 = agent: vehicle	True
+GSM6921563	geo:GSE222363:GSM6921563	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921563	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921563	geo:GSE222363:GSM6921563	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921563	!Sample_characteristics_ch1 = agent: vehicle	True
+GSM6921565	geo:GSE222363:GSM6921565	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921565	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921565	geo:GSE222363:GSM6921565	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921565	!Sample_characteristics_ch1 = agent: vehicle	True
+GSM6921566	geo:GSE222363:GSM6921566	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921566	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921566	geo:GSE222363:GSM6921566	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921566	!Sample_characteristics_ch1 = agent: vehicle	True
+GSM6921571	geo:GSE222363:GSM6921571	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921571	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921571	geo:GSE222363:GSM6921571	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921571	!Sample_characteristics_ch1 = agent: vehicle	True
+GSM6921574	geo:GSE222363:GSM6921574	tissue_free_text	human airway organoid	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921574	!Sample_characteristics_ch1 = tissue: human airway organoid	True
+GSM6921574	geo:GSE222363:GSM6921574	treatment	vehicle	file	raw/fp-19bec077c9db/GSE222363_family.soft.gz	GSM6921574	!Sample_characteristics_ch1 = agent: vehicle	True

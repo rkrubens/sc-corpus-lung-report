@@ -1,0 +1,208 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167415	!Sample_organism_ch1 = Homo sapiens	True
+GSM9167415	geo:GSE305258:GSM9167415	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167415	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167415	geo:GSE305258:GSM9167415	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167415	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167415	geo:GSE305258:GSM9167415	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167415	FFPE tissue were used to make tumor micro array	True
+GSM9167415	geo:GSE305258:GSM9167415	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167415	FFPE tissue were used to make tumor micro array	True
+GSM9167415	geo:GSE305258:GSM9167415	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167415	geo:GSE305258:GSM9167415	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167416	geo:GSE305258:GSM9167416	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167416	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167416	geo:GSE305258:GSM9167416	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167416	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167416	geo:GSE305258:GSM9167416	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167416	FFPE tissue were used to make tumor micro array	True
+GSM9167416	geo:GSE305258:GSM9167416	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167416	FFPE tissue were used to make tumor micro array	True
+GSM9167416	geo:GSE305258:GSM9167416	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167416	geo:GSE305258:GSM9167416	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167417	geo:GSE305258:GSM9167417	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167417	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167417	geo:GSE305258:GSM9167417	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167417	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167417	geo:GSE305258:GSM9167417	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167417	FFPE tissue were used to make tumor micro array	True
+GSM9167417	geo:GSE305258:GSM9167417	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167417	FFPE tissue were used to make tumor micro array	True
+GSM9167417	geo:GSE305258:GSM9167417	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167417	geo:GSE305258:GSM9167417	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167418	geo:GSE305258:GSM9167418	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167418	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167418	geo:GSE305258:GSM9167418	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167418	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167418	geo:GSE305258:GSM9167418	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167418	FFPE tissue were used to make tumor micro array	True
+GSM9167418	geo:GSE305258:GSM9167418	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167418	FFPE tissue were used to make tumor micro array	True
+GSM9167418	geo:GSE305258:GSM9167418	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167418	geo:GSE305258:GSM9167418	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167419	geo:GSE305258:GSM9167419	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167419	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167419	geo:GSE305258:GSM9167419	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167419	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167419	geo:GSE305258:GSM9167419	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167419	FFPE tissue were used to make tumor micro array	True
+GSM9167419	geo:GSE305258:GSM9167419	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167419	FFPE tissue were used to make tumor micro array	True
+GSM9167419	geo:GSE305258:GSM9167419	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167419	geo:GSE305258:GSM9167419	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167420	geo:GSE305258:GSM9167420	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167420	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167420	geo:GSE305258:GSM9167420	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167420	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167420	geo:GSE305258:GSM9167420	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167420	FFPE tissue were used to make tumor micro array	True
+GSM9167420	geo:GSE305258:GSM9167420	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167420	FFPE tissue were used to make tumor micro array	True
+GSM9167420	geo:GSE305258:GSM9167420	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167420	geo:GSE305258:GSM9167420	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167421	geo:GSE305258:GSM9167421	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167421	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167421	geo:GSE305258:GSM9167421	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167421	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167421	geo:GSE305258:GSM9167421	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167421	FFPE tissue were used to make tumor micro array	True
+GSM9167421	geo:GSE305258:GSM9167421	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167421	FFPE tissue were used to make tumor micro array	True
+GSM9167421	geo:GSE305258:GSM9167421	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167421	geo:GSE305258:GSM9167421	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167422	geo:GSE305258:GSM9167422	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167422	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167422	geo:GSE305258:GSM9167422	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167422	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167422	geo:GSE305258:GSM9167422	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167422	FFPE tissue were used to make tumor micro array	True
+GSM9167422	geo:GSE305258:GSM9167422	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167422	FFPE tissue were used to make tumor micro array	True
+GSM9167422	geo:GSE305258:GSM9167422	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167422	geo:GSE305258:GSM9167422	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167423	geo:GSE305258:GSM9167423	tissue_free_text	brain	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167423	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167423	geo:GSE305258:GSM9167423	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167423	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167423	geo:GSE305258:GSM9167423	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167423	FFPE tissue were used to make tumor micro array	True
+GSM9167423	geo:GSE305258:GSM9167423	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167423	FFPE tissue were used to make tumor micro array	True
+GSM9167423	geo:GSE305258:GSM9167423	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167423	geo:GSE305258:GSM9167423	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167424	geo:GSE305258:GSM9167424	tissue_free_text	brain	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167424	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167424	geo:GSE305258:GSM9167424	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167424	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167424	geo:GSE305258:GSM9167424	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167424	FFPE tissue were used to make tumor micro array	True
+GSM9167424	geo:GSE305258:GSM9167424	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167424	FFPE tissue were used to make tumor micro array	True
+GSM9167424	geo:GSE305258:GSM9167424	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167424	geo:GSE305258:GSM9167424	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167425	geo:GSE305258:GSM9167425	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167425	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167425	geo:GSE305258:GSM9167425	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167425	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167425	geo:GSE305258:GSM9167425	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167425	FFPE tissue were used to make tumor micro array	True
+GSM9167425	geo:GSE305258:GSM9167425	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167425	FFPE tissue were used to make tumor micro array	True
+GSM9167425	geo:GSE305258:GSM9167425	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167425	geo:GSE305258:GSM9167425	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167426	geo:GSE305258:GSM9167426	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167426	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167426	geo:GSE305258:GSM9167426	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167426	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167426	geo:GSE305258:GSM9167426	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167426	FFPE tissue were used to make tumor micro array	True
+GSM9167426	geo:GSE305258:GSM9167426	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167426	FFPE tissue were used to make tumor micro array	True
+GSM9167426	geo:GSE305258:GSM9167426	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167426	geo:GSE305258:GSM9167426	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167427	geo:GSE305258:GSM9167427	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167427	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167427	geo:GSE305258:GSM9167427	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167427	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167427	geo:GSE305258:GSM9167427	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167427	FFPE tissue were used to make tumor micro array	True
+GSM9167427	geo:GSE305258:GSM9167427	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167427	FFPE tissue were used to make tumor micro array	True
+GSM9167427	geo:GSE305258:GSM9167427	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167427	geo:GSE305258:GSM9167427	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167428	geo:GSE305258:GSM9167428	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167428	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167428	geo:GSE305258:GSM9167428	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167428	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167428	geo:GSE305258:GSM9167428	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167428	FFPE tissue were used to make tumor micro array	True
+GSM9167428	geo:GSE305258:GSM9167428	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167428	FFPE tissue were used to make tumor micro array	True
+GSM9167428	geo:GSE305258:GSM9167428	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167428	geo:GSE305258:GSM9167428	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167429	geo:GSE305258:GSM9167429	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167429	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167429	geo:GSE305258:GSM9167429	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167429	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167429	geo:GSE305258:GSM9167429	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167429	FFPE tissue were used to make tumor micro array	True
+GSM9167429	geo:GSE305258:GSM9167429	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167429	FFPE tissue were used to make tumor micro array	True
+GSM9167429	geo:GSE305258:GSM9167429	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167429	geo:GSE305258:GSM9167429	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167430	geo:GSE305258:GSM9167430	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167430	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167430	geo:GSE305258:GSM9167430	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167430	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167430	geo:GSE305258:GSM9167430	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167430	FFPE tissue were used to make tumor micro array	True
+GSM9167430	geo:GSE305258:GSM9167430	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167430	FFPE tissue were used to make tumor micro array	True
+GSM9167430	geo:GSE305258:GSM9167430	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167430	geo:GSE305258:GSM9167430	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167431	geo:GSE305258:GSM9167431	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167431	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167431	geo:GSE305258:GSM9167431	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167431	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167431	geo:GSE305258:GSM9167431	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167431	FFPE tissue were used to make tumor micro array	True
+GSM9167431	geo:GSE305258:GSM9167431	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167431	FFPE tissue were used to make tumor micro array	True
+GSM9167431	geo:GSE305258:GSM9167431	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167431	geo:GSE305258:GSM9167431	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167432	geo:GSE305258:GSM9167432	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167432	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167432	geo:GSE305258:GSM9167432	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167432	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167432	geo:GSE305258:GSM9167432	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167432	FFPE tissue were used to make tumor micro array	True
+GSM9167432	geo:GSE305258:GSM9167432	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167432	FFPE tissue were used to make tumor micro array	True
+GSM9167432	geo:GSE305258:GSM9167432	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167432	geo:GSE305258:GSM9167432	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167434	geo:GSE305258:GSM9167434	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167434	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167434	geo:GSE305258:GSM9167434	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167434	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167434	geo:GSE305258:GSM9167434	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167434	FFPE tissue were used to make tumor micro array	True
+GSM9167434	geo:GSE305258:GSM9167434	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167434	FFPE tissue were used to make tumor micro array	True
+GSM9167434	geo:GSE305258:GSM9167434	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167434	geo:GSE305258:GSM9167434	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167435	geo:GSE305258:GSM9167435	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167435	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167435	geo:GSE305258:GSM9167435	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167435	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167435	geo:GSE305258:GSM9167435	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167435	FFPE tissue were used to make tumor micro array	True
+GSM9167435	geo:GSE305258:GSM9167435	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167435	FFPE tissue were used to make tumor micro array	True
+GSM9167435	geo:GSE305258:GSM9167435	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167435	geo:GSE305258:GSM9167435	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167436	geo:GSE305258:GSM9167436	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167436	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167436	geo:GSE305258:GSM9167436	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167436	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167436	geo:GSE305258:GSM9167436	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167436	FFPE tissue were used to make tumor micro array	True
+GSM9167436	geo:GSE305258:GSM9167436	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167436	FFPE tissue were used to make tumor micro array	True
+GSM9167436	geo:GSE305258:GSM9167436	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167436	geo:GSE305258:GSM9167436	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167437	geo:GSE305258:GSM9167437	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167437	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167437	geo:GSE305258:GSM9167437	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167437	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167437	geo:GSE305258:GSM9167437	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167437	FFPE tissue were used to make tumor micro array	True
+GSM9167437	geo:GSE305258:GSM9167437	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167437	FFPE tissue were used to make tumor micro array	True
+GSM9167437	geo:GSE305258:GSM9167437	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167437	geo:GSE305258:GSM9167437	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167439	geo:GSE305258:GSM9167439	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167439	!Sample_characteristics_ch1 = tissue: Lung_normal_tissue	True
+GSM9167439	geo:GSE305258:GSM9167439	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167439	!Sample_characteristics_ch1 = tissue: Lung_normal_tissue	True
+GSM9167439	geo:GSE305258:GSM9167439	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167439	FFPE tissue were used to make tumor micro array	True
+GSM9167439	geo:GSE305258:GSM9167439	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167439	FFPE tissue were used to make tumor micro array	True
+GSM9167439	geo:GSE305258:GSM9167439	disease_free_text	normal (site-matched non-tumor control)	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		alongside 3 site-matched non-tumor controls	True
+GSM9167439	geo:GSE305258:GSM9167439	disease_free_text	normal (site-matched non-tumor control)	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167439	!Sample_source_name_ch1 = Lung_normal_tissue	True
+GSM9167439	geo:GSE305258:GSM9167439	disease_ontology_term_id	PATO:0000461	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		alongside 3 site-matched non-tumor controls	True
+GSM9167439	geo:GSE305258:GSM9167439	disease_ontology_term_id	PATO:0000461	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167439	!Sample_source_name_ch1 = Lung_normal_tissue	True
+GSM9167440	geo:GSE305258:GSM9167440	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167440	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167440	geo:GSE305258:GSM9167440	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167440	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167440	geo:GSE305258:GSM9167440	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167440	FFPE tissue were used to make tumor micro array	True
+GSM9167440	geo:GSE305258:GSM9167440	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167440	FFPE tissue were used to make tumor micro array	True
+GSM9167440	geo:GSE305258:GSM9167440	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167440	geo:GSE305258:GSM9167440	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167441	geo:GSE305258:GSM9167441	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167441	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167441	geo:GSE305258:GSM9167441	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167441	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167441	geo:GSE305258:GSM9167441	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167441	FFPE tissue were used to make tumor micro array	True
+GSM9167441	geo:GSE305258:GSM9167441	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167441	FFPE tissue were used to make tumor micro array	True
+GSM9167441	geo:GSE305258:GSM9167441	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167441	geo:GSE305258:GSM9167441	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167442	geo:GSE305258:GSM9167442	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167442	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167442	geo:GSE305258:GSM9167442	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167442	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167442	geo:GSE305258:GSM9167442	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167442	FFPE tissue were used to make tumor micro array	True
+GSM9167442	geo:GSE305258:GSM9167442	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167442	FFPE tissue were used to make tumor micro array	True
+GSM9167442	geo:GSE305258:GSM9167442	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167442	geo:GSE305258:GSM9167442	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167443	geo:GSE305258:GSM9167443	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167443	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167443	geo:GSE305258:GSM9167443	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167443	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167443	geo:GSE305258:GSM9167443	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167443	FFPE tissue were used to make tumor micro array	True
+GSM9167443	geo:GSE305258:GSM9167443	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167443	FFPE tissue were used to make tumor micro array	True
+GSM9167443	geo:GSE305258:GSM9167443	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167443	geo:GSE305258:GSM9167443	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167444	geo:GSE305258:GSM9167444	tissue_free_text	lymph node	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167444	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167444	geo:GSE305258:GSM9167444	tissue_ontology_term_id	UBERON:0000029	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167444	!Sample_characteristics_ch1 = tissue: Tumor_Lymph node_Mets	True
+GSM9167444	geo:GSE305258:GSM9167444	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167444	FFPE tissue were used to make tumor micro array	True
+GSM9167444	geo:GSE305258:GSM9167444	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167444	FFPE tissue were used to make tumor micro array	True
+GSM9167444	geo:GSE305258:GSM9167444	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167444	geo:GSE305258:GSM9167444	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167445	geo:GSE305258:GSM9167445	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167445	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167445	geo:GSE305258:GSM9167445	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167445	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167445	geo:GSE305258:GSM9167445	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167445	FFPE tissue were used to make tumor micro array	True
+GSM9167445	geo:GSE305258:GSM9167445	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167445	FFPE tissue were used to make tumor micro array	True
+GSM9167445	geo:GSE305258:GSM9167445	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167445	geo:GSE305258:GSM9167445	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167446	geo:GSE305258:GSM9167446	tissue_free_text	lung	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167446	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167446	geo:GSE305258:GSM9167446	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167446	!Sample_characteristics_ch1 = tissue: Tumor_Primary_lung	True
+GSM9167446	geo:GSE305258:GSM9167446	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167446	FFPE tissue were used to make tumor micro array	True
+GSM9167446	geo:GSE305258:GSM9167446	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167446	FFPE tissue were used to make tumor micro array	True
+GSM9167446	geo:GSE305258:GSM9167446	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167446	geo:GSE305258:GSM9167446	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167447	geo:GSE305258:GSM9167447	tissue_free_text	brain	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167447	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167447	geo:GSE305258:GSM9167447	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167447	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167447	geo:GSE305258:GSM9167447	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167447	FFPE tissue were used to make tumor micro array	True
+GSM9167447	geo:GSE305258:GSM9167447	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167447	FFPE tissue were used to make tumor micro array	True
+GSM9167447	geo:GSE305258:GSM9167447	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167447	geo:GSE305258:GSM9167447	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167448	geo:GSE305258:GSM9167448	tissue_free_text	brain	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167448	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167448	geo:GSE305258:GSM9167448	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167448	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167448	geo:GSE305258:GSM9167448	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167448	FFPE tissue were used to make tumor micro array	True
+GSM9167448	geo:GSE305258:GSM9167448	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167448	FFPE tissue were used to make tumor micro array	True
+GSM9167448	geo:GSE305258:GSM9167448	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167448	geo:GSE305258:GSM9167448	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167449	geo:GSE305258:GSM9167449	tissue_free_text	brain	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167449	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167449	geo:GSE305258:GSM9167449	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167449	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167449	geo:GSE305258:GSM9167449	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167449	FFPE tissue were used to make tumor micro array	True
+GSM9167449	geo:GSE305258:GSM9167449	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167449	FFPE tissue were used to make tumor micro array	True
+GSM9167449	geo:GSE305258:GSM9167449	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167449	geo:GSE305258:GSM9167449	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167450	geo:GSE305258:GSM9167450	tissue_free_text	brain	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167450	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167450	geo:GSE305258:GSM9167450	tissue_ontology_term_id	UBERON:0000955	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167450	!Sample_characteristics_ch1 = tissue: Tumor_Brain_Mets	True
+GSM9167450	geo:GSE305258:GSM9167450	sample_preservation	FFPE	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167450	FFPE tissue were used to make tumor micro array	True
+GSM9167450	geo:GSE305258:GSM9167450	suspension_type	na	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz	GSM9167450	FFPE tissue were used to make tumor micro array	True
+GSM9167450	geo:GSE305258:GSM9167450	disease_free_text	ALK-rearranged NSCLC	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True
+GSM9167450	geo:GSE305258:GSM9167450	disease_ontology_term_id	MONDO:0005233	file	raw/fp-e5e6fc572c3d/GSE305258_family.soft.gz		Spatial Transcriptomics of Primary and Metastatic ALK-Rearranged NSCLC	True

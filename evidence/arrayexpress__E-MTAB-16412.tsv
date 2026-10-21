@@ -1,0 +1,101 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+LP19	arrayexpress:E-MTAB-16412:LP19	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+LP19	arrayexpress:E-MTAB-16412:LP19	development_stage_ontology_term_id	HsapDv:0000147	derived	age_in_years:'53-year-old stage':ols:hsapdv		53	True
+LP19	arrayexpress:E-MTAB-16412:LP19	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+LP19	arrayexpress:E-MTAB-16412:LP19	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP20	arrayexpress:E-MTAB-16412:LP20	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP20	arrayexpress:E-MTAB-16412:LP20	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+LP20	arrayexpress:E-MTAB-16412:LP20	tissue_ontology_term_id	UBERON:0002107	derived	ols:uberon		liver	True
+LP20	arrayexpress:E-MTAB-16412:LP20	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP21	arrayexpress:E-MTAB-16412:LP21	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP21	arrayexpress:E-MTAB-16412:LP21	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+LP21	arrayexpress:E-MTAB-16412:LP21	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+LP21	arrayexpress:E-MTAB-16412:LP21	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP28	arrayexpress:E-MTAB-16412:LP28	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+LP28	arrayexpress:E-MTAB-16412:LP28	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+LP28	arrayexpress:E-MTAB-16412:LP28	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP33	arrayexpress:E-MTAB-16412:LP33	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP33	arrayexpress:E-MTAB-16412:LP33	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+LP33	arrayexpress:E-MTAB-16412:LP33	tissue_ontology_term_id	UBERON:0002107	derived	ols:uberon		liver	True
+LP33	arrayexpress:E-MTAB-16412:LP33	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP34	arrayexpress:E-MTAB-16412:LP34	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP34	arrayexpress:E-MTAB-16412:LP34	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+LP34	arrayexpress:E-MTAB-16412:LP34	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+LP34	arrayexpress:E-MTAB-16412:LP34	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP35	arrayexpress:E-MTAB-16412:LP35	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP35	arrayexpress:E-MTAB-16412:LP35	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+LP35	arrayexpress:E-MTAB-16412:LP35	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+LP35	arrayexpress:E-MTAB-16412:LP35	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP71	arrayexpress:E-MTAB-16412:LP71	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP71	arrayexpress:E-MTAB-16412:LP71	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+LP71	arrayexpress:E-MTAB-16412:LP71	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+LP71	arrayexpress:E-MTAB-16412:LP71	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP85	arrayexpress:E-MTAB-16412:LP85	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP85	arrayexpress:E-MTAB-16412:LP85	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+LP85	arrayexpress:E-MTAB-16412:LP85	tissue_ontology_term_id	UBERON:0002107	derived	ols:uberon		liver	True
+LP85	arrayexpress:E-MTAB-16412:LP85	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+LP91	arrayexpress:E-MTAB-16412:LP91	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LP91	arrayexpress:E-MTAB-16412:LP91	development_stage_ontology_term_id	HsapDv:0000145	derived	age_in_years:'51-year-old stage':ols:hsapdv		51	True
+LP91	arrayexpress:E-MTAB-16412:LP91	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+LP91	arrayexpress:E-MTAB-16412:LP91	disease_ontology_term_id	MONDO:0008433	derived	ols:mondo		small cell lung carcinoma	True
+		organism	Homo sapiens	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP19 Homo sapiens 53 year	True
+LP19	arrayexpress:E-MTAB-16412:LP19	donor_id	LP19	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		male lung LP19 single cells	True
+LP19	arrayexpress:E-MTAB-16412:LP19	age	53	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP19 Homo sapiens 53 year	True
+LP19	arrayexpress:E-MTAB-16412:LP19	sex	male	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer male lung LP19	True
+LP19	arrayexpress:E-MTAB-16412:LP19	tissue_free_text	lung	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		male lung LP19	True
+LP19	arrayexpress:E-MTAB-16412:LP19	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP19 single cells from tumor small cell lung carcinoma	True
+LP19	arrayexpress:E-MTAB-16412:LP19	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP20	arrayexpress:E-MTAB-16412:LP20	donor_id	LP20	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female liver LP20 single cells	True
+LP20	arrayexpress:E-MTAB-16412:LP20	age	64	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP20 Homo sapiens 64 year	True
+LP20	arrayexpress:E-MTAB-16412:LP20	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female liver LP20	True
+LP20	arrayexpress:E-MTAB-16412:LP20	tissue_free_text	liver	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female liver LP20	True
+LP20	arrayexpress:E-MTAB-16412:LP20	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP20 single cells from tumor small cell lung carcinoma	True
+LP20	arrayexpress:E-MTAB-16412:LP20	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP21	arrayexpress:E-MTAB-16412:LP21	donor_id	LP21	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lung LP21 single cells	True
+LP21	arrayexpress:E-MTAB-16412:LP21	age	62	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP21 Homo sapiens 62 year	True
+LP21	arrayexpress:E-MTAB-16412:LP21	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female lung LP21	True
+LP21	arrayexpress:E-MTAB-16412:LP21	tissue_free_text	lung	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lung LP21	True
+LP21	arrayexpress:E-MTAB-16412:LP21	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP21 single cells from tumor small cell lung carcinoma	True
+LP21	arrayexpress:E-MTAB-16412:LP21	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP28	arrayexpress:E-MTAB-16412:LP28	donor_id	LP28	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		male soft tissue LP28 single cells	True
+LP28	arrayexpress:E-MTAB-16412:LP28	age	71	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP28 Homo sapiens 71 year	True
+LP28	arrayexpress:E-MTAB-16412:LP28	sex	male	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer male soft tissue LP28	True
+LP28	arrayexpress:E-MTAB-16412:LP28	tissue_free_text	soft tissue	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		male soft tissue LP28	True
+LP28	arrayexpress:E-MTAB-16412:LP28	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP28 single cells from tumor small cell lung carcinoma	True
+LP28	arrayexpress:E-MTAB-16412:LP28	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP33	arrayexpress:E-MTAB-16412:LP33	donor_id	LP33	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female liver LP33 single cells	True
+LP33	arrayexpress:E-MTAB-16412:LP33	age	68	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP33 Homo sapiens 68 year	True
+LP33	arrayexpress:E-MTAB-16412:LP33	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female liver LP33	True
+LP33	arrayexpress:E-MTAB-16412:LP33	tissue_free_text	liver	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female liver LP33	True
+LP33	arrayexpress:E-MTAB-16412:LP33	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP33 single cells from tumor small cell lung carcinoma	True
+LP33	arrayexpress:E-MTAB-16412:LP33	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP34	arrayexpress:E-MTAB-16412:LP34	donor_id	LP34	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lymph node LP34 single cells	True
+LP34	arrayexpress:E-MTAB-16412:LP34	age	57	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP34 Homo sapiens 57 year	True
+LP34	arrayexpress:E-MTAB-16412:LP34	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female lymph node LP34	True
+LP34	arrayexpress:E-MTAB-16412:LP34	tissue_free_text	lymph node	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lymph node LP34	True
+LP34	arrayexpress:E-MTAB-16412:LP34	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP34 single cells from tumor small cell lung carcinoma	True
+LP34	arrayexpress:E-MTAB-16412:LP34	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP35	arrayexpress:E-MTAB-16412:LP35	donor_id	LP35	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lymph node LP35 single cells	True
+LP35	arrayexpress:E-MTAB-16412:LP35	age	77	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP35 Homo sapiens 77 year	True
+LP35	arrayexpress:E-MTAB-16412:LP35	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female lymph node LP35	True
+LP35	arrayexpress:E-MTAB-16412:LP35	tissue_free_text	lymph node	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lymph node LP35	True
+LP35	arrayexpress:E-MTAB-16412:LP35	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP35 single cells from tumor small cell lung carcinoma	True
+LP35	arrayexpress:E-MTAB-16412:LP35	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP71	arrayexpress:E-MTAB-16412:LP71	donor_id	LP71	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lymph node LP71 single cells	True
+LP71	arrayexpress:E-MTAB-16412:LP71	age	67	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP71 Homo sapiens 67 year	True
+LP71	arrayexpress:E-MTAB-16412:LP71	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female lymph node LP71	True
+LP71	arrayexpress:E-MTAB-16412:LP71	tissue_free_text	lymph node	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lymph node LP71	True
+LP71	arrayexpress:E-MTAB-16412:LP71	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP71 single cells from tumor small cell lung carcinoma	True
+LP71	arrayexpress:E-MTAB-16412:LP71	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP85	arrayexpress:E-MTAB-16412:LP85	donor_id	LP85	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female liver LP85 single cells	True
+LP85	arrayexpress:E-MTAB-16412:LP85	age	68	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP85 Homo sapiens 68 year	True
+LP85	arrayexpress:E-MTAB-16412:LP85	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female liver LP85	True
+LP85	arrayexpress:E-MTAB-16412:LP85	tissue_free_text	liver	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female liver LP85	True
+LP85	arrayexpress:E-MTAB-16412:LP85	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP85 single cells from tumor small cell lung carcinoma	True
+LP85	arrayexpress:E-MTAB-16412:LP85	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True
+LP91	arrayexpress:E-MTAB-16412:LP91	donor_id	LP91	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lung LP91 single cells	True
+LP91	arrayexpress:E-MTAB-16412:LP91	age	51	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP91 Homo sapiens 51 year	True
+LP91	arrayexpress:E-MTAB-16412:LP91	sex	female	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung cancer female lung LP91	True
+LP91	arrayexpress:E-MTAB-16412:LP91	tissue_free_text	lung	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		female lung LP91	True
+LP91	arrayexpress:E-MTAB-16412:LP91	disease_free_text	small cell lung carcinoma	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		LP91 single cells from tumor small cell lung carcinoma	True
+LP91	arrayexpress:E-MTAB-16412:LP91	suspension_type	cell	file	raw/fp-a4cd038cf3b4/E-MTAB-16412.sdrf.txt		small cell lung carcinoma cell	True

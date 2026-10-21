@@ -1,0 +1,63 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+IPF36F	geo:GSE305872:IPF36F	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPF36F	geo:GSE305872:IPF36F	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+IPF36F	geo:GSE305872:IPF36F	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF36F	geo:GSE305872:IPF36F	disease_ontology_term_id	MONDO:0002771	derived	ols:mondo		pulmonary fibrosis	True
+IPF36T	geo:GSE305872:IPF36T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPF36T	geo:GSE305872:IPF36T	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+IPF36T	geo:GSE305872:IPF36T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF36T	geo:GSE305872:IPF36T	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+IPF44N	geo:GSE305872:IPF44N	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPF44N	geo:GSE305872:IPF44N	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+IPF44N	geo:GSE305872:IPF44N	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF44N	geo:GSE305872:IPF44N	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+IPF44T	geo:GSE305872:IPF44T	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+IPF44T	geo:GSE305872:IPF44T	assay_ontology_term_id	EFO:0022606	derived	ols:efo		10x gene expression flex	True
+IPF44T	geo:GSE305872:IPF44T	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+IPF44T	geo:GSE305872:IPF44T	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+		organism	Homo sapiens	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		!Series_sample_taxid = 9606	True
+		organism	Homo sapiens	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+IPF36F	geo:GSE305872:IPF36F	disease_free_text	pulmonary fibrosis	file	evidence/PMC13127482.txt		In-F [fibrosis]	True
+IPF36F	geo:GSE305872:IPF36F	disease_free_text	pulmonary fibrosis	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF36F,BC001,UIP_in_Nontumor	True
+IPF36F	geo:GSE305872:IPF36F	tissue_free_text	lung	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF36F	geo:GSE305872:IPF36F	tissue_type	tissue	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF36F	geo:GSE305872:IPF36F	sampled_site_condition	non-tumor (fibrotic, within UIP)	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF36F,BC001,UIP_in_Nontumor	True
+IPF36F	geo:GSE305872:IPF36F	sample_collection_method	surgical resection	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		treatment: surgical resection	True
+IPF36F	geo:GSE305872:IPF36F	sex	male	file	evidence/PMC13127482.txt		All were men, aged 56–79 years	True
+IPF36F	geo:GSE305872:IPF36F	suspension_type	cell	file	evidence/PMC13127482.txt		Fixed single-cell suspensions were hybridized with probe barcodes	True
+IPF36F	geo:GSE305872:IPF36F	assay	10x gene expression flex	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		Chromium Fixed RNA Profiling workflow	True
+IPF36F	geo:GSE305872:IPF36F	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	evidence/PMC13127482.txt		fresh-frozen samples (snap-frozen	True
+IPF36F	geo:GSE305872:IPF36F	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		fixed, and processed using the 10x Genomics Chromium Fixed RNA Profiling	True
+IPF36T	geo:GSE305872:IPF36T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		lung squamous cell carcinoma (LUSC) associated with idiopathic pulmonary fibrosis (IPF)	True
+IPF36T	geo:GSE305872:IPF36T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF36T,BC002,UIP_in_Tumor	True
+IPF36T	geo:GSE305872:IPF36T	tissue_free_text	lung	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF36T	geo:GSE305872:IPF36T	tissue_type	tissue	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF36T	geo:GSE305872:IPF36T	sampled_site_condition	tumor	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF36T,BC002,UIP_in_Tumor	True
+IPF36T	geo:GSE305872:IPF36T	sample_collection_method	surgical resection	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		treatment: surgical resection	True
+IPF36T	geo:GSE305872:IPF36T	sex	male	file	evidence/PMC13127482.txt		All were men, aged 56–79 years	True
+IPF36T	geo:GSE305872:IPF36T	suspension_type	cell	file	evidence/PMC13127482.txt		Fixed single-cell suspensions were hybridized with probe barcodes	True
+IPF36T	geo:GSE305872:IPF36T	assay	10x gene expression flex	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		Chromium Fixed RNA Profiling workflow	True
+IPF36T	geo:GSE305872:IPF36T	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	evidence/PMC13127482.txt		fresh-frozen samples (snap-frozen	True
+IPF36T	geo:GSE305872:IPF36T	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		fixed, and processed using the 10x Genomics Chromium Fixed RNA Profiling	True
+IPF44N	geo:GSE305872:IPF44N	disease_free_text	normal	file	evidence/PMC13127482.txt		Out-N [normal]	True
+IPF44N	geo:GSE305872:IPF44N	disease_free_text	normal	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF44N,BC003,UIP_out_Nontumor	True
+IPF44N	geo:GSE305872:IPF44N	tissue_free_text	lung	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF44N	geo:GSE305872:IPF44N	tissue_type	tissue	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF44N	geo:GSE305872:IPF44N	sampled_site_condition	non-tumor (outside UIP)	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF44N,BC003,UIP_out_Nontumor	True
+IPF44N	geo:GSE305872:IPF44N	sample_collection_method	surgical resection	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		treatment: surgical resection	True
+IPF44N	geo:GSE305872:IPF44N	sex	male	file	evidence/PMC13127482.txt		All were men, aged 56–79 years	True
+IPF44N	geo:GSE305872:IPF44N	suspension_type	cell	file	evidence/PMC13127482.txt		Fixed single-cell suspensions were hybridized with probe barcodes	True
+IPF44N	geo:GSE305872:IPF44N	assay	10x gene expression flex	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		Chromium Fixed RNA Profiling workflow	True
+IPF44N	geo:GSE305872:IPF44N	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	evidence/PMC13127482.txt		fresh-frozen samples (snap-frozen	True
+IPF44N	geo:GSE305872:IPF44N	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		fixed, and processed using the 10x Genomics Chromium Fixed RNA Profiling	True
+IPF44T	geo:GSE305872:IPF44T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		lung squamous cell carcinoma (LUSC) associated with idiopathic pulmonary fibrosis (IPF)	True
+IPF44T	geo:GSE305872:IPF44T	disease_free_text	lung squamous cell carcinoma	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF44T,BC004,UIP_out_Tumor	True
+IPF44T	geo:GSE305872:IPF44T	tissue_free_text	lung	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF44T	geo:GSE305872:IPF44T	tissue_type	tissue	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		tissue: Lung squamous cell carcinoma and adjacent non-tumor lung tissue	True
+IPF44T	geo:GSE305872:IPF44T	sampled_site_condition	tumor	file	raw/fp-0c9368746af3/GSE305872_sample_config.csv.gz		IPF44T,BC004,UIP_out_Tumor	True
+IPF44T	geo:GSE305872:IPF44T	sample_collection_method	surgical resection	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		treatment: surgical resection	True
+IPF44T	geo:GSE305872:IPF44T	sex	male	file	evidence/PMC13127482.txt		All were men, aged 56–79 years	True
+IPF44T	geo:GSE305872:IPF44T	suspension_type	cell	file	evidence/PMC13127482.txt		Fixed single-cell suspensions were hybridized with probe barcodes	True
+IPF44T	geo:GSE305872:IPF44T	assay	10x gene expression flex	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		Chromium Fixed RNA Profiling workflow	True
+IPF44T	geo:GSE305872:IPF44T	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	evidence/PMC13127482.txt		fresh-frozen samples (snap-frozen	True
+IPF44T	geo:GSE305872:IPF44T	sample_preservation	fresh-frozen (snap-frozen), then fixed for Fixed RNA Profiling	file	raw/fp-0c9368746af3/GSE305872_family.soft.gz		fixed, and processed using the 10x Genomics Chromium Fixed RNA Profiling	True

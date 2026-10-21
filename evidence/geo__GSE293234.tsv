@@ -1,0 +1,17 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8879065	geo:GSE293234:GSM8879065	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8879066	geo:GSE293234:GSM8879066	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8879067	geo:GSE293234:GSM8879067	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8879068	geo:GSE293234:GSM8879068	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8879069	geo:GSE293234:GSM8879069	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8879065	geo:GSE293234:GSM8879065	tissue_free_text	Lung	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879065	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8879065	geo:GSE293234:GSM8879065	disease_free_text	Donor	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879065	!Sample_characteristics_ch1 = genotype: Donor	True
+GSM8879066	geo:GSE293234:GSM8879066	tissue_free_text	Lung	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879066	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8879066	geo:GSE293234:GSM8879066	disease_free_text	Donor	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879066	!Sample_characteristics_ch1 = genotype: Donor	True
+GSM8879067	geo:GSE293234:GSM8879067	tissue_free_text	Lung	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879067	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8879067	geo:GSE293234:GSM8879067	disease_free_text	IPF fibrotic	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879067	!Sample_characteristics_ch1 = genotype: IPF fibrotic	True
+GSM8879068	geo:GSE293234:GSM8879068	tissue_free_text	Lung	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879068	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8879068	geo:GSE293234:GSM8879068	disease_free_text	IPF non-fibrotic	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879068	!Sample_characteristics_ch1 = genotype: IPF non-fibrotic	True
+GSM8879069	geo:GSE293234:GSM8879069	tissue_free_text	Lung	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879069	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8879069	geo:GSE293234:GSM8879069	disease_free_text	IPF fibrotic	file	raw/fp-7995bcd86e74/GSE293234_family.soft.gz	GSM8879069	!Sample_characteristics_ch1 = genotype: IPF fibrotic	True

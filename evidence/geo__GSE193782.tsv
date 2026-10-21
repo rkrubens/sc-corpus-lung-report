@@ -1,0 +1,93 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+CF1	geo:GSE193782:CF1	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+CF2	geo:GSE193782:CF2	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+CF3	geo:GSE193782:CF3	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+HC1	geo:GSE193782:HC1	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+HC2	geo:GSE193782:HC2	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+HC3	geo:GSE193782:HC3	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+HC4	geo:GSE193782:HC4	donor_id	<column orig.ident>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.ident			True
+CF1	geo:GSE193782:CF1	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+CF2	geo:GSE193782:CF2	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+CF3	geo:GSE193782:CF3	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC1	geo:GSE193782:HC1	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC2	geo:GSE193782:HC2	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC3	geo:GSE193782:HC3	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC4	geo:GSE193782:HC4	disease_free_text	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+CF1	geo:GSE193782:CF1	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+CF2	geo:GSE193782:CF2	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+CF3	geo:GSE193782:CF3	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC1	geo:GSE193782:HC1	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC2	geo:GSE193782:HC2	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC3	geo:GSE193782:HC3	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+HC4	geo:GSE193782:HC4	disease_ontology_term_id	<column orig.treatment>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/orig.treatment			True
+CF1	geo:GSE193782:CF1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CF2	geo:GSE193782:CF2	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CF3	geo:GSE193782:CF3	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+HC1	geo:GSE193782:HC1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+HC2	geo:GSE193782:HC2	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+HC3	geo:GSE193782:HC3	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+HC4	geo:GSE193782:HC4	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+CF1	geo:GSE193782:CF1	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+CF2	geo:GSE193782:CF2	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+CF3	geo:GSE193782:CF3	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+HC1	geo:GSE193782:HC1	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+HC2	geo:GSE193782:HC2	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+HC3	geo:GSE193782:HC3	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+HC4	geo:GSE193782:HC4	disease_ontology_term_id	MONDO:0009061	derived	ols:mondo		cystic fibrosis	True
+CF1	geo:GSE193782:CF1	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+CF2	geo:GSE193782:CF2	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+CF3	geo:GSE193782:CF3	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+HC1	geo:GSE193782:HC1	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+HC2	geo:GSE193782:HC2	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+HC3	geo:GSE193782:HC3	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+HC4	geo:GSE193782:HC4	author_cell_type	<column Cell.Types>	column	work/fp-0d428d1bdef3/GSE193782_SeuratObject_converted/cell_metadata.tsv.gz/Cell.Types			True
+		organism	Homo sapiens	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+CF1	geo:GSE193782:CF1	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+CF2	geo:GSE193782:CF2	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+CF3	geo:GSE193782:CF3	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+HC1	geo:GSE193782:HC1	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+HC2	geo:GSE193782:HC2	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+HC3	geo:GSE193782:HC3	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+HC4	geo:GSE193782:HC4	tissue_free_text	BALF	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_source_name_ch1 = BALF	True
+CF1	geo:GSE193782:CF1	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+CF2	geo:GSE193782:CF2	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+CF3	geo:GSE193782:CF3	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+HC1	geo:GSE193782:HC1	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+HC2	geo:GSE193782:HC2	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+HC3	geo:GSE193782:HC3	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+HC4	geo:GSE193782:HC4	sample_collection_method	bronchoalveolar lavage	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		saline was instilled, and BALF was collected	True
+CF1	geo:GSE193782:CF1	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+CF2	geo:GSE193782:CF2	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+CF3	geo:GSE193782:CF3	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC1	geo:GSE193782:HC1	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC2	geo:GSE193782:HC2	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC3	geo:GSE193782:HC3	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC4	geo:GSE193782:HC4	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+CF1	geo:GSE193782:CF1	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+CF2	geo:GSE193782:CF2	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+CF3	geo:GSE193782:CF3	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC1	geo:GSE193782:HC1	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC2	geo:GSE193782:HC2	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC3	geo:GSE193782:HC3	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC4	geo:GSE193782:HC4	disease_free_text	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+CF1	geo:GSE193782:CF1	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+CF2	geo:GSE193782:CF2	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+CF3	geo:GSE193782:CF3	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC1	geo:GSE193782:HC1	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC2	geo:GSE193782:HC2	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC3	geo:GSE193782:HC3	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+HC4	geo:GSE193782:HC4	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Healthy	True
+CF1	geo:GSE193782:CF1	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+CF2	geo:GSE193782:CF2	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+CF3	geo:GSE193782:CF3	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC1	geo:GSE193782:HC1	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC2	geo:GSE193782:HC2	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC3	geo:GSE193782:HC3	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+HC4	geo:GSE193782:HC4	disease_ontology_term_id	<map of column orig.treatment>	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		!Sample_characteristics_ch1 = disease: Cystic Fibrosis	True
+CF1	geo:GSE193782:CF1	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True
+CF2	geo:GSE193782:CF2	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True
+CF3	geo:GSE193782:CF3	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True
+HC1	geo:GSE193782:HC1	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True
+HC2	geo:GSE193782:HC2	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True
+HC3	geo:GSE193782:HC3	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True
+HC4	geo:GSE193782:HC4	suspension_type	cell	file	raw/fp-0d428d1bdef3/GSE193782_family.soft.gz		Single cells were then processed using the Chromium Next GEM Single Cell 3' Platform	True

@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+patient_1_Normal	geo:GSE84789:patient_1_Normal	donor_id	<column patient_id>	column	work/cell_table.tsv/patient_id			True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	donor_id	<column patient_id>	column	work/cell_table.tsv/patient_id			True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	disease_free_text	<column condition>	column	work/cell_table.tsv/condition			True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	disease_free_text	<column condition>	column	work/cell_table.tsv/condition			True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	disease_ontology_term_id	<column condition>	column	work/cell_table.tsv/condition			True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	disease_ontology_term_id	<column condition>	column	work/cell_table.tsv/condition			True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	author_cell_type	<column cell_type>	column	work/cell_table.tsv/cell_type			True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	author_cell_type	<column cell_type>	column	work/cell_table.tsv/cell_type			True
+		organism	Homo sapiens	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	assay	Smart-seq2	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		SmartSeq2 protocol with modifications (Trombetta et al., 2014)	True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	assay	Smart-seq2	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		SmartSeq2 protocol with modifications (Trombetta et al., 2014)	True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	cell_enrichment	Live CD45+ and CD19+ cells sorted	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		Live CD45+ and CD19+ cells were sorted in 2ul of Qiagen TCL buffer in 96-well plates	True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	cell_enrichment	Live CD45+ and CD19+ cells sorted	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		Live CD45+ and CD19+ cells were sorted in 2ul of Qiagen TCL buffer in 96-well plates	True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	disease_free_text	<map of column condition>	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		!Series_title = Single-cell profiling of non small cell lung cancer associated B-cells.	True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	disease_free_text	<map of column condition>	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		!Series_title = Single-cell profiling of non small cell lung cancer associated B-cells.	True
+patient_1_Normal	geo:GSE84789:patient_1_Normal	disease_ontology_term_id	<map of column condition>	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		!Series_title = Single-cell profiling of non small cell lung cancer associated B-cells.	True
+patient_1_Tumor	geo:GSE84789:patient_1_Tumor	disease_ontology_term_id	<map of column condition>	file	raw/fp-3a590baa02a5/GSE84789_family.soft.gz		!Series_title = Single-cell profiling of non small cell lung cancer associated B-cells.	True

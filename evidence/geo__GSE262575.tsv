@@ -1,0 +1,266 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8171891	geo:GSE262575:GSM8171891	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171891_authors_cell_meta.tsv.gz/CellType			True
+GSM8171892	geo:GSE262575:GSM8171892	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171892_authors_cell_meta.tsv.gz/CellType			True
+GSM8171893	geo:GSE262575:GSM8171893	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171893_authors_cell_meta.tsv.gz/CellType			True
+GSM8171894	geo:GSE262575:GSM8171894	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171894_authors_cell_meta.tsv.gz/CellType			True
+GSM8171895	geo:GSE262575:GSM8171895	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171895_authors_cell_meta.tsv.gz/CellType			True
+GSM8171896	geo:GSE262575:GSM8171896	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171896_authors_cell_meta.tsv.gz/CellType			True
+GSM8171897	geo:GSE262575:GSM8171897	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171897_authors_cell_meta.tsv.gz/CellType			True
+GSM8171898	geo:GSE262575:GSM8171898	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171898_authors_cell_meta.tsv.gz/CellType			True
+GSM8171899	geo:GSE262575:GSM8171899	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171899_authors_cell_meta.tsv.gz/CellType			True
+GSM8171900	geo:GSE262575:GSM8171900	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171900_authors_cell_meta.tsv.gz/CellType			True
+GSM8171901	geo:GSE262575:GSM8171901	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171901_authors_cell_meta.tsv.gz/CellType			True
+GSM8171902	geo:GSE262575:GSM8171902	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171902_authors_cell_meta.tsv.gz/CellType			True
+GSM8171903	geo:GSE262575:GSM8171903	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171903_authors_cell_meta.tsv.gz/CellType			True
+GSM8171904	geo:GSE262575:GSM8171904	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171904_authors_cell_meta.tsv.gz/CellType			True
+GSM8171905	geo:GSE262575:GSM8171905	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171905_authors_cell_meta.tsv.gz/CellType			True
+GSM8171906	geo:GSE262575:GSM8171906	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171906_authors_cell_meta.tsv.gz/CellType			True
+GSM8171907	geo:GSE262575:GSM8171907	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171907_authors_cell_meta.tsv.gz/CellType			True
+GSM8171908	geo:GSE262575:GSM8171908	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171908_authors_cell_meta.tsv.gz/CellType			True
+GSM8171909	geo:GSE262575:GSM8171909	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171909_authors_cell_meta.tsv.gz/CellType			True
+GSM8171910	geo:GSE262575:GSM8171910	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171910_authors_cell_meta.tsv.gz/CellType			True
+GSM8171911	geo:GSE262575:GSM8171911	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171911_authors_cell_meta.tsv.gz/CellType			True
+GSM8171912	geo:GSE262575:GSM8171912	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171912_authors_cell_meta.tsv.gz/CellType			True
+GSM8171913	geo:GSE262575:GSM8171913	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171913_authors_cell_meta.tsv.gz/CellType			True
+GSM8171914	geo:GSE262575:GSM8171914	author_cell_type	<column CellType>	column	work/fp-6f217c5fcbbd/reconciled/GSM8171914_authors_cell_meta.tsv.gz/CellType			True
+		organism	Homo sapiens	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8171891	geo:GSE262575:GSM8171891	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171891	geo:GSE262575:GSM8171891	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171891	geo:GSE262575:GSM8171891	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171891	geo:GSE262575:GSM8171891	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171891	geo:GSE262575:GSM8171891	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171891	geo:GSE262575:GSM8171891	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171891	geo:GSE262575:GSM8171891	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171891	geo:GSE262575:GSM8171891	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171891	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171891	geo:GSE262575:GSM8171891	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171891	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171891	geo:GSE262575:GSM8171891	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171891	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171892	geo:GSE262575:GSM8171892	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171892	geo:GSE262575:GSM8171892	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171892	geo:GSE262575:GSM8171892	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171892	geo:GSE262575:GSM8171892	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171892	geo:GSE262575:GSM8171892	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171892	geo:GSE262575:GSM8171892	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171892	geo:GSE262575:GSM8171892	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171892	geo:GSE262575:GSM8171892	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171892	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171892	geo:GSE262575:GSM8171892	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171892	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171892	geo:GSE262575:GSM8171892	timepoint	2	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171892	!Sample_characteristics_ch1 = time (day): 2	True
+GSM8171893	geo:GSE262575:GSM8171893	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171893	geo:GSE262575:GSM8171893	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171893	geo:GSE262575:GSM8171893	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171893	geo:GSE262575:GSM8171893	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171893	geo:GSE262575:GSM8171893	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171893	geo:GSE262575:GSM8171893	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171893	geo:GSE262575:GSM8171893	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171893	geo:GSE262575:GSM8171893	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171893	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171893	geo:GSE262575:GSM8171893	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171893	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171893	geo:GSE262575:GSM8171893	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171893	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171894	geo:GSE262575:GSM8171894	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171894	geo:GSE262575:GSM8171894	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171894	geo:GSE262575:GSM8171894	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171894	geo:GSE262575:GSM8171894	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171894	geo:GSE262575:GSM8171894	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171894	geo:GSE262575:GSM8171894	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171894	geo:GSE262575:GSM8171894	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171894	geo:GSE262575:GSM8171894	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171894	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171894	geo:GSE262575:GSM8171894	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171894	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171894	geo:GSE262575:GSM8171894	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171894	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171895	geo:GSE262575:GSM8171895	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171895	geo:GSE262575:GSM8171895	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171895	geo:GSE262575:GSM8171895	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171895	geo:GSE262575:GSM8171895	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171895	geo:GSE262575:GSM8171895	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171895	geo:GSE262575:GSM8171895	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171895	geo:GSE262575:GSM8171895	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171895	geo:GSE262575:GSM8171895	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171895	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171895	geo:GSE262575:GSM8171895	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171895	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171895	geo:GSE262575:GSM8171895	timepoint	2	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171895	!Sample_characteristics_ch1 = time (day): 2	True
+GSM8171896	geo:GSE262575:GSM8171896	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171896	geo:GSE262575:GSM8171896	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171896	geo:GSE262575:GSM8171896	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171896	geo:GSE262575:GSM8171896	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171896	geo:GSE262575:GSM8171896	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171896	geo:GSE262575:GSM8171896	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171896	geo:GSE262575:GSM8171896	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171896	geo:GSE262575:GSM8171896	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171896	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171896	geo:GSE262575:GSM8171896	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171896	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171896	geo:GSE262575:GSM8171896	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171896	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171897	geo:GSE262575:GSM8171897	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171897	geo:GSE262575:GSM8171897	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171897	geo:GSE262575:GSM8171897	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC12024639.txt		alveolar parenchyma [precision cut lung slices (PCLSs)]	True
+GSM8171897	geo:GSE262575:GSM8171897	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171897	geo:GSE262575:GSM8171897	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171897	geo:GSE262575:GSM8171897	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171897	geo:GSE262575:GSM8171897	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171897	geo:GSE262575:GSM8171897	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171897	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171897	geo:GSE262575:GSM8171897	tissue_free_text	Lung parenchyma	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171897	!Sample_characteristics_ch1 = tissue: Lung parenchyma	True
+GSM8171897	geo:GSE262575:GSM8171897	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171897	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171898	geo:GSE262575:GSM8171898	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171898	geo:GSE262575:GSM8171898	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171898	geo:GSE262575:GSM8171898	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC12024639.txt		alveolar parenchyma [precision cut lung slices (PCLSs)]	True
+GSM8171898	geo:GSE262575:GSM8171898	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171898	geo:GSE262575:GSM8171898	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171898	geo:GSE262575:GSM8171898	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171898	geo:GSE262575:GSM8171898	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171898	geo:GSE262575:GSM8171898	donor_id	D42S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171898	!Sample_characteristics_ch1 = genotype/donor: D42S	True
+GSM8171898	geo:GSE262575:GSM8171898	tissue_free_text	Lung parenchyma	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171898	!Sample_characteristics_ch1 = tissue: Lung parenchyma	True
+GSM8171898	geo:GSE262575:GSM8171898	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171898	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171899	geo:GSE262575:GSM8171899	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171899	geo:GSE262575:GSM8171899	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171899	geo:GSE262575:GSM8171899	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171899	geo:GSE262575:GSM8171899	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171899	geo:GSE262575:GSM8171899	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171899	geo:GSE262575:GSM8171899	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171899	geo:GSE262575:GSM8171899	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171899	geo:GSE262575:GSM8171899	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171899	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171899	geo:GSE262575:GSM8171899	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171899	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171899	geo:GSE262575:GSM8171899	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171899	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171900	geo:GSE262575:GSM8171900	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171900	geo:GSE262575:GSM8171900	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171900	geo:GSE262575:GSM8171900	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171900	geo:GSE262575:GSM8171900	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171900	geo:GSE262575:GSM8171900	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171900	geo:GSE262575:GSM8171900	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171900	geo:GSE262575:GSM8171900	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171900	geo:GSE262575:GSM8171900	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171900	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171900	geo:GSE262575:GSM8171900	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171900	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171900	geo:GSE262575:GSM8171900	timepoint	2	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171900	!Sample_characteristics_ch1 = time (day): 2	True
+GSM8171901	geo:GSE262575:GSM8171901	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171901	geo:GSE262575:GSM8171901	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171901	geo:GSE262575:GSM8171901	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171901	geo:GSE262575:GSM8171901	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171901	geo:GSE262575:GSM8171901	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171901	geo:GSE262575:GSM8171901	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171901	geo:GSE262575:GSM8171901	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171901	geo:GSE262575:GSM8171901	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171901	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171901	geo:GSE262575:GSM8171901	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171901	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171901	geo:GSE262575:GSM8171901	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171901	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171902	geo:GSE262575:GSM8171902	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171902	geo:GSE262575:GSM8171902	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171902	geo:GSE262575:GSM8171902	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171902	geo:GSE262575:GSM8171902	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171902	geo:GSE262575:GSM8171902	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171902	geo:GSE262575:GSM8171902	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171902	geo:GSE262575:GSM8171902	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171902	geo:GSE262575:GSM8171902	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171902	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171902	geo:GSE262575:GSM8171902	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171902	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171902	geo:GSE262575:GSM8171902	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171902	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171903	geo:GSE262575:GSM8171903	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171903	geo:GSE262575:GSM8171903	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171903	geo:GSE262575:GSM8171903	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171903	geo:GSE262575:GSM8171903	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171903	geo:GSE262575:GSM8171903	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171903	geo:GSE262575:GSM8171903	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171903	geo:GSE262575:GSM8171903	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171903	geo:GSE262575:GSM8171903	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171903	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171903	geo:GSE262575:GSM8171903	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171903	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171903	geo:GSE262575:GSM8171903	timepoint	2	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171903	!Sample_characteristics_ch1 = time (day): 2	True
+GSM8171904	geo:GSE262575:GSM8171904	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171904	geo:GSE262575:GSM8171904	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171904	geo:GSE262575:GSM8171904	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171904	geo:GSE262575:GSM8171904	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171904	geo:GSE262575:GSM8171904	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171904	geo:GSE262575:GSM8171904	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171904	geo:GSE262575:GSM8171904	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171904	geo:GSE262575:GSM8171904	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171904	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171904	geo:GSE262575:GSM8171904	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171904	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171904	geo:GSE262575:GSM8171904	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171904	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171905	geo:GSE262575:GSM8171905	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171905	geo:GSE262575:GSM8171905	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171905	geo:GSE262575:GSM8171905	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC12024639.txt		alveolar parenchyma [precision cut lung slices (PCLSs)]	True
+GSM8171905	geo:GSE262575:GSM8171905	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171905	geo:GSE262575:GSM8171905	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171905	geo:GSE262575:GSM8171905	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171905	geo:GSE262575:GSM8171905	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171905	geo:GSE262575:GSM8171905	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171905	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171905	geo:GSE262575:GSM8171905	tissue_free_text	Lung parenchyma	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171905	!Sample_characteristics_ch1 = tissue: Lung parenchyma	True
+GSM8171905	geo:GSE262575:GSM8171905	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171905	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171906	geo:GSE262575:GSM8171906	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171906	geo:GSE262575:GSM8171906	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171906	geo:GSE262575:GSM8171906	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC12024639.txt		alveolar parenchyma [precision cut lung slices (PCLSs)]	True
+GSM8171906	geo:GSE262575:GSM8171906	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171906	geo:GSE262575:GSM8171906	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171906	geo:GSE262575:GSM8171906	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171906	geo:GSE262575:GSM8171906	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171906	geo:GSE262575:GSM8171906	donor_id	D51S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171906	!Sample_characteristics_ch1 = genotype/donor: D51S	True
+GSM8171906	geo:GSE262575:GSM8171906	tissue_free_text	Lung parenchyma	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171906	!Sample_characteristics_ch1 = tissue: Lung parenchyma	True
+GSM8171906	geo:GSE262575:GSM8171906	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171906	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171907	geo:GSE262575:GSM8171907	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171907	geo:GSE262575:GSM8171907	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171907	geo:GSE262575:GSM8171907	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171907	geo:GSE262575:GSM8171907	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171907	geo:GSE262575:GSM8171907	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171907	geo:GSE262575:GSM8171907	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171907	geo:GSE262575:GSM8171907	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171907	geo:GSE262575:GSM8171907	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171907	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171907	geo:GSE262575:GSM8171907	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171907	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171907	geo:GSE262575:GSM8171907	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171907	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171908	geo:GSE262575:GSM8171908	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171908	geo:GSE262575:GSM8171908	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171908	geo:GSE262575:GSM8171908	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171908	geo:GSE262575:GSM8171908	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171908	geo:GSE262575:GSM8171908	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171908	geo:GSE262575:GSM8171908	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171908	geo:GSE262575:GSM8171908	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171908	geo:GSE262575:GSM8171908	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171908	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171908	geo:GSE262575:GSM8171908	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171908	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171908	geo:GSE262575:GSM8171908	timepoint	2	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171908	!Sample_characteristics_ch1 = time (day): 2	True
+GSM8171909	geo:GSE262575:GSM8171909	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171909	geo:GSE262575:GSM8171909	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171909	geo:GSE262575:GSM8171909	tissue_ontology_term_id	UBERON:0002185	file	evidence/PMC12024639.txt		bronchi [large airway explants (LAEs)]	True
+GSM8171909	geo:GSE262575:GSM8171909	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171909	geo:GSE262575:GSM8171909	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171909	geo:GSE262575:GSM8171909	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171909	geo:GSE262575:GSM8171909	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171909	geo:GSE262575:GSM8171909	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171909	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171909	geo:GSE262575:GSM8171909	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171909	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171909	geo:GSE262575:GSM8171909	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171909	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171910	geo:GSE262575:GSM8171910	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171910	geo:GSE262575:GSM8171910	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171910	geo:GSE262575:GSM8171910	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171910	geo:GSE262575:GSM8171910	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171910	geo:GSE262575:GSM8171910	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171910	geo:GSE262575:GSM8171910	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171910	geo:GSE262575:GSM8171910	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171910	geo:GSE262575:GSM8171910	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171910	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171910	geo:GSE262575:GSM8171910	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171910	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171910	geo:GSE262575:GSM8171910	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171910	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171911	geo:GSE262575:GSM8171911	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171911	geo:GSE262575:GSM8171911	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171911	geo:GSE262575:GSM8171911	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171911	geo:GSE262575:GSM8171911	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171911	geo:GSE262575:GSM8171911	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171911	geo:GSE262575:GSM8171911	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171911	geo:GSE262575:GSM8171911	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171911	geo:GSE262575:GSM8171911	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171911	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171911	geo:GSE262575:GSM8171911	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171911	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171911	geo:GSE262575:GSM8171911	timepoint	2	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171911	!Sample_characteristics_ch1 = time (day): 2	True
+GSM8171912	geo:GSE262575:GSM8171912	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171912	geo:GSE262575:GSM8171912	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171912	geo:GSE262575:GSM8171912	tissue_ontology_term_id	UBERON:0002186	file	evidence/PMC12024639.txt		bronchioles [small airway explants (SAEs)]	True
+GSM8171912	geo:GSE262575:GSM8171912	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171912	geo:GSE262575:GSM8171912	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171912	geo:GSE262575:GSM8171912	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171912	geo:GSE262575:GSM8171912	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171912	geo:GSE262575:GSM8171912	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171912	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171912	geo:GSE262575:GSM8171912	tissue_free_text	Airway	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171912	!Sample_characteristics_ch1 = tissue: Airway	True
+GSM8171912	geo:GSE262575:GSM8171912	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171912	!Sample_characteristics_ch1 = time (day): 14	True
+GSM8171913	geo:GSE262575:GSM8171913	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171913	geo:GSE262575:GSM8171913	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171913	geo:GSE262575:GSM8171913	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC12024639.txt		alveolar parenchyma [precision cut lung slices (PCLSs)]	True
+GSM8171913	geo:GSE262575:GSM8171913	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171913	geo:GSE262575:GSM8171913	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171913	geo:GSE262575:GSM8171913	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171913	geo:GSE262575:GSM8171913	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171913	geo:GSE262575:GSM8171913	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171913	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171913	geo:GSE262575:GSM8171913	tissue_free_text	Lung parenchyma	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171913	!Sample_characteristics_ch1 = tissue: Lung parenchyma	True
+GSM8171913	geo:GSE262575:GSM8171913	timepoint	0	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171913	!Sample_characteristics_ch1 = time (day): 0	True
+GSM8171914	geo:GSE262575:GSM8171914	disease_ontology_term_id	PATO:0000461	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171914	geo:GSE262575:GSM8171914	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12024639.txt		previously healthy deceased lung donors	True
+GSM8171914	geo:GSE262575:GSM8171914	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC12024639.txt		alveolar parenchyma [precision cut lung slices (PCLSs)]	True
+GSM8171914	geo:GSE262575:GSM8171914	tissue_type	tissue	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Large airway explants (LAE), small airway explants (SAE), and precision cut lung slides (PCLS) obtained from 3 non-disease donor lungs	True
+GSM8171914	geo:GSE262575:GSM8171914	suspension_type	cell	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Cryopreserved tissues were thawed, enzymatically digested for cell dissociation, and used for scRNA-seq	True
+GSM8171914	geo:GSE262575:GSM8171914	sample_preservation	cryopreserved	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		were cryopreserved after 0 (fresh), 2 and 14 days in culture	True
+GSM8171914	geo:GSE262575:GSM8171914	assay	EFO:0009922	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz		Single Cell 3’ Reagent Kits v3.1 (Dual Index)	True
+GSM8171914	geo:GSE262575:GSM8171914	donor_id	D52S	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171914	!Sample_characteristics_ch1 = genotype/donor: D52S	True
+GSM8171914	geo:GSE262575:GSM8171914	tissue_free_text	Lung parenchyma	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171914	!Sample_characteristics_ch1 = tissue: Lung parenchyma	True
+GSM8171914	geo:GSE262575:GSM8171914	timepoint	14	file	raw/fp-6f217c5fcbbd/GSE262575_family.soft.gz	GSM8171914	!Sample_characteristics_ch1 = time (day): 14	True

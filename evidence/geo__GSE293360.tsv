@@ -1,0 +1,32 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8880872	geo:GSE293360:GSM8880872	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8880873	geo:GSE293360:GSM8880873	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph Node	True
+GSM8880874	geo:GSE293360:GSM8880874	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8880875	geo:GSE293360:GSM8880875	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph Node	True
+GSM8880876	geo:GSE293360:GSM8880876	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8880877	geo:GSE293360:GSM8880877	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		Lymph Node	True
+GSM8880878	geo:GSE293360:GSM8880878	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8880879	geo:GSE293360:GSM8880879	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8880880	geo:GSE293360:GSM8880880	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8880881	geo:GSE293360:GSM8880881	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8880872	geo:GSE293360:GSM8880872	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880872	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880872	geo:GSE293360:GSM8880872	disease_free_text	T1N2M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880872	!Sample_characteristics_ch1 = group: T1N2M0	True
+GSM8880873	geo:GSE293360:GSM8880873	tissue_free_text	Lymph Node	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880873	!Sample_characteristics_ch1 = tissue: Lymph Node	True
+GSM8880873	geo:GSE293360:GSM8880873	disease_free_text	T1N2M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880873	!Sample_characteristics_ch1 = group: T1N2M0	True
+GSM8880874	geo:GSE293360:GSM8880874	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880874	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880874	geo:GSE293360:GSM8880874	disease_free_text	T1N2M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880874	!Sample_characteristics_ch1 = group: T1N2M0	True
+GSM8880875	geo:GSE293360:GSM8880875	tissue_free_text	Lymph Node	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880875	!Sample_characteristics_ch1 = tissue: Lymph Node	True
+GSM8880875	geo:GSE293360:GSM8880875	disease_free_text	T1N2M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880875	!Sample_characteristics_ch1 = group: T1N2M0	True
+GSM8880876	geo:GSE293360:GSM8880876	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880876	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880876	geo:GSE293360:GSM8880876	disease_free_text	T1N2M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880876	!Sample_characteristics_ch1 = group: T1N2M0	True
+GSM8880877	geo:GSE293360:GSM8880877	tissue_free_text	Lymph Node	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880877	!Sample_characteristics_ch1 = tissue: Lymph Node	True
+GSM8880877	geo:GSE293360:GSM8880877	disease_free_text	T1N2M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880877	!Sample_characteristics_ch1 = group: T1N2M0	True
+GSM8880878	geo:GSE293360:GSM8880878	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880878	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880878	geo:GSE293360:GSM8880878	disease_free_text	T1N0M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880878	!Sample_characteristics_ch1 = group: T1N0M0	True
+GSM8880879	geo:GSE293360:GSM8880879	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880879	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880879	geo:GSE293360:GSM8880879	disease_free_text	T1N0M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880879	!Sample_characteristics_ch1 = group: T1N0M0	True
+GSM8880880	geo:GSE293360:GSM8880880	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880880	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880880	geo:GSE293360:GSM8880880	disease_free_text	T1N0M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880880	!Sample_characteristics_ch1 = group: T1N0M0	True
+GSM8880881	geo:GSE293360:GSM8880881	tissue_free_text	Lung	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880881	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8880881	geo:GSE293360:GSM8880881	disease_free_text	T1N0M0	file	raw/fp-6d0880c16c24/GSE293360_family.soft.gz	GSM8880881	!Sample_characteristics_ch1 = group: T1N0M0	True

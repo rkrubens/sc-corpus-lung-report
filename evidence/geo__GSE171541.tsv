@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+copd.o1	geo:GSE171541:copd.o1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+copd.o2	geo:GSE171541:copd.o2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+copd.o3	geo:GSE171541:copd.o3	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+ctl.o1	geo:GSE171541:ctl.o1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+ctl.o2	geo:GSE171541:ctl.o2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+ctl.o3	geo:GSE171541:ctl.o3	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+ctl.y1	geo:GSE171541:ctl.y1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+ctl.y2	geo:GSE171541:ctl.y2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+ctl.y3	geo:GSE171541:ctl.y3	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+copd.o1	geo:GSE171541:copd.o1	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+copd.o2	geo:GSE171541:copd.o2	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+copd.o3	geo:GSE171541:copd.o3	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+ctl.o1	geo:GSE171541:ctl.o1	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+ctl.o2	geo:GSE171541:ctl.o2	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+ctl.o3	geo:GSE171541:ctl.o3	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+ctl.y1	geo:GSE171541:ctl.y1	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+ctl.y2	geo:GSE171541:ctl.y2	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True
+ctl.y3	geo:GSE171541:ctl.y3	tissue_free_text	lung	file	raw/fp-88996d5b14f7/GSE171541_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung	True

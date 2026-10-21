@@ -1,0 +1,29 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5699777	geo:GSE189357:GSM5699777	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5699778	geo:GSE189357:GSM5699778	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM5699779	geo:GSE189357:GSM5699779	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM5699780	geo:GSE189357:GSM5699780	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5699781	geo:GSE189357:GSM5699781	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5699782	geo:GSE189357:GSM5699782	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5699783	geo:GSE189357:GSM5699783	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM5699784	geo:GSE189357:GSM5699784	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM5699785	geo:GSE189357:GSM5699785	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+		organism	Homo sapiens	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5699777	geo:GSE189357:GSM5699777	sex	Female	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699777	!Sample_characteristics_ch1 = gender: Female	True
+GSM5699777	geo:GSE189357:GSM5699777	disease_free_text	IAC	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699777	!Sample_characteristics_ch1 = histolgical type: IAC	True
+GSM5699778	geo:GSE189357:GSM5699778	sex	Male	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699778	!Sample_characteristics_ch1 = gender: Male	True
+GSM5699778	geo:GSE189357:GSM5699778	disease_free_text	IAC	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699778	!Sample_characteristics_ch1 = histolgical type: IAC	True
+GSM5699779	geo:GSE189357:GSM5699779	sex	Male	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699779	!Sample_characteristics_ch1 = gender: Male	True
+GSM5699779	geo:GSE189357:GSM5699779	disease_free_text	MIA	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699779	!Sample_characteristics_ch1 = histolgical type: MIA	True
+GSM5699780	geo:GSE189357:GSM5699780	sex	Female	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699780	!Sample_characteristics_ch1 = gender: Female	True
+GSM5699780	geo:GSE189357:GSM5699780	disease_free_text	MIA	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699780	!Sample_characteristics_ch1 = histolgical type: MIA	True
+GSM5699781	geo:GSE189357:GSM5699781	sex	Female	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699781	!Sample_characteristics_ch1 = gender: Female	True
+GSM5699781	geo:GSE189357:GSM5699781	disease_free_text	AIS	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699781	!Sample_characteristics_ch1 = histolgical type: AIS	True
+GSM5699782	geo:GSE189357:GSM5699782	sex	Female	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699782	!Sample_characteristics_ch1 = gender: Female	True
+GSM5699782	geo:GSE189357:GSM5699782	disease_free_text	MIA	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699782	!Sample_characteristics_ch1 = histolgical type: MIA	True
+GSM5699783	geo:GSE189357:GSM5699783	sex	Female	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699783	!Sample_characteristics_ch1 = gender: Female	True
+GSM5699783	geo:GSE189357:GSM5699783	disease_free_text	AIS	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699783	!Sample_characteristics_ch1 = histolgical type: AIS	True
+GSM5699784	geo:GSE189357:GSM5699784	sex	Male	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699784	!Sample_characteristics_ch1 = gender: Male	True
+GSM5699784	geo:GSE189357:GSM5699784	disease_free_text	AIS	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699784	!Sample_characteristics_ch1 = histolgical type: AIS	True
+GSM5699785	geo:GSE189357:GSM5699785	sex	Female	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699785	!Sample_characteristics_ch1 = gender: Female	True
+GSM5699785	geo:GSE189357:GSM5699785	disease_free_text	IAC	file	raw/fp-eb6815fed3b0/GSE189357_family.soft.gz	GSM5699785	!Sample_characteristics_ch1 = histolgical type: IAC	True

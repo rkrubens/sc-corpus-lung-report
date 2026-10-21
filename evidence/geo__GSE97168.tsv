@@ -1,0 +1,162 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM2553017	geo:GSE97168:GSM2553017	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553017	geo:GSE97168:GSM2553017	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553017	geo:GSE97168:GSM2553017	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553017	geo:GSE97168:GSM2553017	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553017	geo:GSE97168:GSM2553017	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM2553018	geo:GSE97168:GSM2553018	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553018	geo:GSE97168:GSM2553018	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553018	geo:GSE97168:GSM2553018	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553018	geo:GSE97168:GSM2553018	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553018	geo:GSE97168:GSM2553018	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM2553019	geo:GSE97168:GSM2553019	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553019	geo:GSE97168:GSM2553019	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553019	geo:GSE97168:GSM2553019	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553019	geo:GSE97168:GSM2553019	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553019	geo:GSE97168:GSM2553019	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM2553020	geo:GSE97168:GSM2553020	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553020	geo:GSE97168:GSM2553020	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553020	geo:GSE97168:GSM2553020	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553020	geo:GSE97168:GSM2553020	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553020	geo:GSE97168:GSM2553020	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM2553021	geo:GSE97168:GSM2553021	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553021	geo:GSE97168:GSM2553021	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553021	geo:GSE97168:GSM2553021	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553021	geo:GSE97168:GSM2553021	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553021	geo:GSE97168:GSM2553021	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM2553022	geo:GSE97168:GSM2553022	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553022	geo:GSE97168:GSM2553022	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553022	geo:GSE97168:GSM2553022	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553022	geo:GSE97168:GSM2553022	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553022	geo:GSE97168:GSM2553022	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM2553023	geo:GSE97168:GSM2553023	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553023	geo:GSE97168:GSM2553023	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553023	geo:GSE97168:GSM2553023	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553023	geo:GSE97168:GSM2553023	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553023	geo:GSE97168:GSM2553023	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM2553024	geo:GSE97168:GSM2553024	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553024	geo:GSE97168:GSM2553024	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553024	geo:GSE97168:GSM2553024	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553024	geo:GSE97168:GSM2553024	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553024	geo:GSE97168:GSM2553024	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM2553025	geo:GSE97168:GSM2553025	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553025	geo:GSE97168:GSM2553025	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553025	geo:GSE97168:GSM2553025	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553025	geo:GSE97168:GSM2553025	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553025	geo:GSE97168:GSM2553025	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM2553026	geo:GSE97168:GSM2553026	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM2553026	geo:GSE97168:GSM2553026	assay_ontology_term_id	EFO:0008796	derived	ols:efo		MARS-seq	True
+GSM2553026	geo:GSE97168:GSM2553026	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM2553026	geo:GSE97168:GSM2553026	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM2553026	geo:GSE97168:GSM2553026	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM2553017	geo:GSE97168:GSM2553017	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553017	geo:GSE97168:GSM2553017	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553017	geo:GSE97168:GSM2553017	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	Freshly resected surgical specimens were processed	True
+GSM2553017	geo:GSE97168:GSM2553017	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	organ: lung	True
+GSM2553017	geo:GSE97168:GSM2553017	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553017	geo:GSE97168:GSM2553017	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	organ: lung	True
+GSM2553017	geo:GSE97168:GSM2553017	disease_stage	non-involved lung adjacent to a stage IA lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553017	geo:GSE97168:GSM2553017	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553017	geo:GSE97168:GSM2553017	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553017	geo:GSE97168:GSM2553017	tissue_free_text	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	!Sample_characteristics_ch1 = organ: lung	True
+GSM2553017	geo:GSE97168:GSM2553017	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553017	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553018	geo:GSE97168:GSM2553018	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553018	geo:GSE97168:GSM2553018	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553018	geo:GSE97168:GSM2553018	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	Freshly resected surgical specimens were processed	True
+GSM2553018	geo:GSE97168:GSM2553018	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	organ: lung	True
+GSM2553018	geo:GSE97168:GSM2553018	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553018	geo:GSE97168:GSM2553018	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	organ: lung	True
+GSM2553018	geo:GSE97168:GSM2553018	disease_stage	non-involved lung adjacent to a stage IA lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553018	geo:GSE97168:GSM2553018	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553018	geo:GSE97168:GSM2553018	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553018	geo:GSE97168:GSM2553018	tissue_free_text	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	!Sample_characteristics_ch1 = organ: lung	True
+GSM2553018	geo:GSE97168:GSM2553018	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553018	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553019	geo:GSE97168:GSM2553019	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553019	geo:GSE97168:GSM2553019	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553019	geo:GSE97168:GSM2553019	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	Freshly resected surgical specimens were processed	True
+GSM2553019	geo:GSE97168:GSM2553019	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	organ: lung	True
+GSM2553019	geo:GSE97168:GSM2553019	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553019	geo:GSE97168:GSM2553019	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	organ: lung	True
+GSM2553019	geo:GSE97168:GSM2553019	disease_stage	non-involved lung adjacent to a stage IA lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553019	geo:GSE97168:GSM2553019	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553019	geo:GSE97168:GSM2553019	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553019	geo:GSE97168:GSM2553019	tissue_free_text	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	!Sample_characteristics_ch1 = organ: lung	True
+GSM2553019	geo:GSE97168:GSM2553019	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553019	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553020	geo:GSE97168:GSM2553020	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553020	geo:GSE97168:GSM2553020	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553020	geo:GSE97168:GSM2553020	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	Freshly resected surgical specimens were processed	True
+GSM2553020	geo:GSE97168:GSM2553020	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	organ: lung	True
+GSM2553020	geo:GSE97168:GSM2553020	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553020	geo:GSE97168:GSM2553020	disease_ontology_term_id	normal	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	organ: lung	True
+GSM2553020	geo:GSE97168:GSM2553020	disease_stage	non-involved lung adjacent to a stage IA lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		from the adjacent non-involved lung	True
+GSM2553020	geo:GSE97168:GSM2553020	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553020	geo:GSE97168:GSM2553020	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553020	geo:GSE97168:GSM2553020	tissue_free_text	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	!Sample_characteristics_ch1 = organ: lung	True
+GSM2553020	geo:GSE97168:GSM2553020	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553020	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553021	geo:GSE97168:GSM2553021	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553021	geo:GSE97168:GSM2553021	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553021	geo:GSE97168:GSM2553021	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	Freshly resected surgical specimens were processed	True
+GSM2553021	geo:GSE97168:GSM2553021	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553021	geo:GSE97168:GSM2553021	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553021	geo:GSE97168:GSM2553021	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553021	geo:GSE97168:GSM2553021	disease_stage	stage IA	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	tumor stage: Human lung stage IA adenocarcinoma lesion	True
+GSM2553021	geo:GSE97168:GSM2553021	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553021	geo:GSE97168:GSM2553021	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553021	geo:GSE97168:GSM2553021	tissue_free_text	tumor	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553021	geo:GSE97168:GSM2553021	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553021	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553022	geo:GSE97168:GSM2553022	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553022	geo:GSE97168:GSM2553022	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553022	geo:GSE97168:GSM2553022	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	Freshly resected surgical specimens were processed	True
+GSM2553022	geo:GSE97168:GSM2553022	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553022	geo:GSE97168:GSM2553022	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553022	geo:GSE97168:GSM2553022	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553022	geo:GSE97168:GSM2553022	disease_stage	stage IA	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	tumor stage: Human lung stage IA adenocarcinoma lesion	True
+GSM2553022	geo:GSE97168:GSM2553022	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553022	geo:GSE97168:GSM2553022	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553022	geo:GSE97168:GSM2553022	tissue_free_text	tumor	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553022	geo:GSE97168:GSM2553022	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553022	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553023	geo:GSE97168:GSM2553023	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553023	geo:GSE97168:GSM2553023	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553023	geo:GSE97168:GSM2553023	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	Freshly resected surgical specimens were processed	True
+GSM2553023	geo:GSE97168:GSM2553023	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553023	geo:GSE97168:GSM2553023	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553023	geo:GSE97168:GSM2553023	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553023	geo:GSE97168:GSM2553023	disease_stage	stage IA	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	tumor stage: Human lung stage IA adenocarcinoma lesion	True
+GSM2553023	geo:GSE97168:GSM2553023	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553023	geo:GSE97168:GSM2553023	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553023	geo:GSE97168:GSM2553023	tissue_free_text	tumor	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553023	geo:GSE97168:GSM2553023	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553023	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553024	geo:GSE97168:GSM2553024	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553024	geo:GSE97168:GSM2553024	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553024	geo:GSE97168:GSM2553024	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	Freshly resected surgical specimens were processed	True
+GSM2553024	geo:GSE97168:GSM2553024	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553024	geo:GSE97168:GSM2553024	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553024	geo:GSE97168:GSM2553024	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553024	geo:GSE97168:GSM2553024	disease_stage	stage IA	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	tumor stage: Human lung stage IA adenocarcinoma lesion	True
+GSM2553024	geo:GSE97168:GSM2553024	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553024	geo:GSE97168:GSM2553024	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553024	geo:GSE97168:GSM2553024	tissue_free_text	tumor	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553024	geo:GSE97168:GSM2553024	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553024	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553025	geo:GSE97168:GSM2553025	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553025	geo:GSE97168:GSM2553025	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553025	geo:GSE97168:GSM2553025	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	Freshly resected surgical specimens were processed	True
+GSM2553025	geo:GSE97168:GSM2553025	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553025	geo:GSE97168:GSM2553025	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553025	geo:GSE97168:GSM2553025	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553025	geo:GSE97168:GSM2553025	disease_stage	stage IA	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	tumor stage: Human lung stage IA adenocarcinoma lesion	True
+GSM2553025	geo:GSE97168:GSM2553025	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553025	geo:GSE97168:GSM2553025	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553025	geo:GSE97168:GSM2553025	tissue_free_text	tumor	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553025	geo:GSE97168:GSM2553025	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553025	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True
+GSM2553026	geo:GSE97168:GSM2553026	assay	MARS-seq	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		processed by MARS-Seq	True
+GSM2553026	geo:GSE97168:GSM2553026	suspension_type	cell	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz		sorted into individual wells of a 384-well plate	True
+GSM2553026	geo:GSE97168:GSM2553026	sample_preservation	fresh	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	Freshly resected surgical specimens were processed	True
+GSM2553026	geo:GSE97168:GSM2553026	tissue_ontology_term_id	lung	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553026	geo:GSE97168:GSM2553026	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553026	geo:GSE97168:GSM2553026	disease_free_text	lung adenocarcinoma	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	tumor stage: Human lung stage IA adenocarcinoma lesion and adjacent non-involved lung	True
+GSM2553026	geo:GSE97168:GSM2553026	disease_stage	stage IA	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	tumor stage: Human lung stage IA adenocarcinoma lesion	True
+GSM2553026	geo:GSE97168:GSM2553026	sex	female	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	!Sample_characteristics_ch1 = Sex: female	True
+GSM2553026	geo:GSE97168:GSM2553026	age	63	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	!Sample_characteristics_ch1 = age: 63 y.o.	True
+GSM2553026	geo:GSE97168:GSM2553026	tissue_free_text	tumor	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	!Sample_characteristics_ch1 = organ: tumor	True
+GSM2553026	geo:GSE97168:GSM2553026	cell_enrichment	singlet DAPI- CD45+ CD3- CD19-/lo	file	raw/fp-8afcfff3a640/GSE97168_family.soft.gz	GSM2553026	!Sample_characteristics_ch1 = selection marker: singlet DAPI- CD45+ CD3- CD19-/lo	True

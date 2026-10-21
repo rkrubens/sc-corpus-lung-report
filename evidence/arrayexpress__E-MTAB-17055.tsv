@@ -1,0 +1,57 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	development_stage_ontology_term_id	HsapDv:0000170	derived	age_in_years:'76-year-old stage':ols:hsapdv		76	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	disease_ontology_term_id	MONDO:0006095	derived	ols:mondo		Atypical Carcinoid Tumor	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	disease_ontology_term_id	MONDO:0006095	derived	ols:mondo		Atypical Carcinoid Tumor	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	disease_ontology_term_id	MONDO:0005369	derived	ols:mondo		Carcinoid tumor	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		SAMEA122677899 Homo sapiens	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	donor_id	LNEN071	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071_TU ERS30300706 SAMEA122677899 Homo sapiens 76 year EFO UO_0000036 adult female Atypical Carcinoid Tumor lung LNEN071	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	age	76	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071_TU ERS30300706 SAMEA122677899 Homo sapiens 76 year EFO UO_0000036 adult female Atypical Carcinoid Tumor lung LNEN071	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	sex	female	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071_TU ERS30300706 SAMEA122677899 Homo sapiens 76 year EFO UO_0000036 adult female Atypical Carcinoid Tumor lung LNEN071	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	disease_free_text	Atypical Carcinoid Tumor	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071_TU ERS30300706 SAMEA122677899 Homo sapiens 76 year EFO UO_0000036 adult female Atypical Carcinoid Tumor lung LNEN071	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	tissue_free_text	lung	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071_TU ERS30300706 SAMEA122677899 Homo sapiens 76 year EFO UO_0000036 adult female Atypical Carcinoid Tumor lung LNEN071	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	tissue_type	tissue	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071_TU ERS30300706 SAMEA122677899 Homo sapiens 76 year EFO UO_0000036 adult female Atypical Carcinoid Tumor lung LNEN071	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	assay	10x Visium	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		10x Visium	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	suspension_type	na	file	raw/fp-0eacc6a09809/E-MTAB-17055.idf.txt		spatial transcriptomics data of four lung neuroendocrine tumours	True
+LNEN071-IARC-A	arrayexpress:E-MTAB-17055:LNEN071-IARC-A	sample_preservation	FFPE	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN071 lung cancer cell LNEN071 V12A25-373-A1 lung - distal FFPE	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	donor_id	LNEN084	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084_TU ERS30300707 SAMEA122677900 Homo sapiens 64 year EFO UO_0000036 adult male Atypical Carcinoid Tumor lung LNEN084	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	age	64	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084_TU ERS30300707 SAMEA122677900 Homo sapiens 64 year EFO UO_0000036 adult male Atypical Carcinoid Tumor lung LNEN084	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	sex	male	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084_TU ERS30300707 SAMEA122677900 Homo sapiens 64 year EFO UO_0000036 adult male Atypical Carcinoid Tumor lung LNEN084	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	disease_free_text	Atypical Carcinoid Tumor	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084_TU ERS30300707 SAMEA122677900 Homo sapiens 64 year EFO UO_0000036 adult male Atypical Carcinoid Tumor lung LNEN084	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	tissue_free_text	lung	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084_TU ERS30300707 SAMEA122677900 Homo sapiens 64 year EFO UO_0000036 adult male Atypical Carcinoid Tumor lung LNEN084	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	tissue_type	tissue	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084_TU ERS30300707 SAMEA122677900 Homo sapiens 64 year EFO UO_0000036 adult male Atypical Carcinoid Tumor lung LNEN084	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	assay	10x Visium	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		10x Visium	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	suspension_type	na	file	raw/fp-0eacc6a09809/E-MTAB-17055.idf.txt		spatial transcriptomics data of four lung neuroendocrine tumours	True
+LNEN084-IARC-B	arrayexpress:E-MTAB-17055:LNEN084-IARC-B	sample_preservation	FFPE	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN084 lung cancer cell LNEN084 V12A25-373-A1 lung - distal FFPE	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	donor_id	LNEN107	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107_TU ERS30300708 SAMEA122677901 Homo sapiens 70 year EFO UO_0000036 adult female Carcinoid tumor lung LNEN107	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	age	70	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107_TU ERS30300708 SAMEA122677901 Homo sapiens 70 year EFO UO_0000036 adult female Carcinoid tumor lung LNEN107	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	sex	female	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107_TU ERS30300708 SAMEA122677901 Homo sapiens 70 year EFO UO_0000036 adult female Carcinoid tumor lung LNEN107	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	disease_free_text	Carcinoid tumor	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107_TU ERS30300708 SAMEA122677901 Homo sapiens 70 year EFO UO_0000036 adult female Carcinoid tumor lung LNEN107	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	tissue_free_text	lung	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107_TU ERS30300708 SAMEA122677901 Homo sapiens 70 year EFO UO_0000036 adult female Carcinoid tumor lung LNEN107	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	tissue_type	tissue	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107_TU ERS30300708 SAMEA122677901 Homo sapiens 70 year EFO UO_0000036 adult female Carcinoid tumor lung LNEN107	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	assay	10x Visium	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		10x Visium	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	suspension_type	na	file	raw/fp-0eacc6a09809/E-MTAB-17055.idf.txt		spatial transcriptomics data of four lung neuroendocrine tumours	True
+LNEN107-IARC-C	arrayexpress:E-MTAB-17055:LNEN107-IARC-C	sample_preservation	FFPE	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN107 lung cancer cell LNEN107 V12A25-373-A1 lung - proximal FFPE	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	donor_id	LNEN206	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206_TU ERS30300709 SAMEA122677902 Homo sapiens 72 year EFO UO_0000036 adult female Typical Carcinoid Tumor lung LNEN206	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	age	72	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206_TU ERS30300709 SAMEA122677902 Homo sapiens 72 year EFO UO_0000036 adult female Typical Carcinoid Tumor lung LNEN206	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	sex	female	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206_TU ERS30300709 SAMEA122677902 Homo sapiens 72 year EFO UO_0000036 adult female Typical Carcinoid Tumor lung LNEN206	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	disease_free_text	Typical Carcinoid Tumor	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206_TU ERS30300709 SAMEA122677902 Homo sapiens 72 year EFO UO_0000036 adult female Typical Carcinoid Tumor lung LNEN206	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	tissue_free_text	lung	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206_TU ERS30300709 SAMEA122677902 Homo sapiens 72 year EFO UO_0000036 adult female Typical Carcinoid Tumor lung LNEN206	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	tissue_type	tissue	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206_TU ERS30300709 SAMEA122677902 Homo sapiens 72 year EFO UO_0000036 adult female Typical Carcinoid Tumor lung LNEN206	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	assay	10x Visium	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		10x Visium	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	suspension_type	na	file	raw/fp-0eacc6a09809/E-MTAB-17055.idf.txt		spatial transcriptomics data of four lung neuroendocrine tumours	True
+LNEN206-IARC-D	arrayexpress:E-MTAB-17055:LNEN206-IARC-D	sample_preservation	FFPE	file	raw/fp-0eacc6a09809/E-MTAB-17055.sdrf.txt		LNEN206 lung cancer cell LNEN206 V12A25-373-A1 lung - distal FFPE	True

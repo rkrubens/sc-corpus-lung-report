@@ -1,0 +1,46 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+12243	arrayexpress:E-MTAB-13043:12243	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+12243	arrayexpress:E-MTAB-13043:12243	development_stage_ontology_term_id	HsapDv:0000209	derived	age_in_years:'83-year-old stage':ols:hsapdv		83	True
+2158	arrayexpress:E-MTAB-13043:2158	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+2158	arrayexpress:E-MTAB-13043:2158	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+226	arrayexpress:E-MTAB-13043:226	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+226	arrayexpress:E-MTAB-13043:226	development_stage_ontology_term_id	HsapDv:0000173	derived	age_in_years:'79-year-old stage':ols:hsapdv		79	True
+6445	arrayexpress:E-MTAB-13043:6445	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+6445	arrayexpress:E-MTAB-13043:6445	development_stage_ontology_term_id	HsapDv:0000209	derived	age_in_years:'83-year-old stage':ols:hsapdv		83	True
+		organism	Homo sapiens	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		Homo sapiens	True
+12243	arrayexpress:E-MTAB-13043:12243	donor_id	12243	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	tissue_free_text	pleura	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	tissue_ontology_term_id	UBERON:0000977	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	disease_free_text	malignant pleural mesothelioma	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	disease_ontology_term_id	MONDO:0005112	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	age	83	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	sex	female	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		12243 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+12243	arrayexpress:E-MTAB-13043:12243	suspension_type	na	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		Spatial Transcriptomic was performed by GeoMx DSP	True
+12243	arrayexpress:E-MTAB-13043:12243	sample_preservation	FFPE	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		starting from slides of 5μm FFPE tumor tissue	True
+2158	arrayexpress:E-MTAB-13043:2158	donor_id	2158	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	tissue_free_text	pleura	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	tissue_ontology_term_id	UBERON:0000977	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	disease_free_text	malignant pleural mesothelioma	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	disease_ontology_term_id	MONDO:0005112	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	age	59	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	sex	male	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		2158 59 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+2158	arrayexpress:E-MTAB-13043:2158	suspension_type	na	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		Spatial Transcriptomic was performed by GeoMx DSP	True
+2158	arrayexpress:E-MTAB-13043:2158	sample_preservation	FFPE	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		starting from slides of 5μm FFPE tumor tissue	True
+226	arrayexpress:E-MTAB-13043:226	donor_id	226	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	tissue_free_text	pleura	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	tissue_ontology_term_id	UBERON:0000977	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	disease_free_text	malignant pleural mesothelioma	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	disease_ontology_term_id	MONDO:0005112	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	age	79	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	sex	male	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		226 79 year EFO UO_0000036 adult male malignant pleural mesothelioma pleura	True
+226	arrayexpress:E-MTAB-13043:226	suspension_type	na	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		Spatial Transcriptomic was performed by GeoMx DSP	True
+226	arrayexpress:E-MTAB-13043:226	sample_preservation	FFPE	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		starting from slides of 5μm FFPE tumor tissue	True
+6445	arrayexpress:E-MTAB-13043:6445	donor_id	6445	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	tissue_free_text	pleura	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	tissue_ontology_term_id	UBERON:0000977	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	disease_free_text	malignant pleural mesothelioma	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	disease_ontology_term_id	MONDO:0005112	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	age	83	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	sex	female	file	raw/fp-e216b26fc7af/E-MTAB-13043.sdrf.txt		6445 83 year EFO UO_0000036 adult female malignant pleural mesothelioma pleura	True
+6445	arrayexpress:E-MTAB-13043:6445	suspension_type	na	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		Spatial Transcriptomic was performed by GeoMx DSP	True
+6445	arrayexpress:E-MTAB-13043:6445	sample_preservation	FFPE	file	raw/fp-e216b26fc7af/E-MTAB-13043.idf.txt		starting from slides of 5μm FFPE tumor tissue	True

@@ -1,0 +1,632 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+Patient 1	geo:GSE200563:Patient 1	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 10	geo:GSE200563:Patient 10	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 11	geo:GSE200563:Patient 11	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 12	geo:GSE200563:Patient 12	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 13	geo:GSE200563:Patient 13	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 14	geo:GSE200563:Patient 14	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 15	geo:GSE200563:Patient 15	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 16	geo:GSE200563:Patient 16	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 17	geo:GSE200563:Patient 17	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 18	geo:GSE200563:Patient 18	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 19	geo:GSE200563:Patient 19	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 2	geo:GSE200563:Patient 2	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 20	geo:GSE200563:Patient 20	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 21	geo:GSE200563:Patient 21	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 22	geo:GSE200563:Patient 22	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 24	geo:GSE200563:Patient 24	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 26	geo:GSE200563:Patient 26	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 27	geo:GSE200563:Patient 27	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 29	geo:GSE200563:Patient 29	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 3	geo:GSE200563:Patient 3	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 30	geo:GSE200563:Patient 30	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 31	geo:GSE200563:Patient 31	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 32	geo:GSE200563:Patient 32	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 34	geo:GSE200563:Patient 34	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 35	geo:GSE200563:Patient 35	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 37	geo:GSE200563:Patient 37	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 4	geo:GSE200563:Patient 4	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 40	geo:GSE200563:Patient 40	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 43	geo:GSE200563:Patient 43	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 44	geo:GSE200563:Patient 44	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 5	geo:GSE200563:Patient 5	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 6	geo:GSE200563:Patient 6	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 7	geo:GSE200563:Patient 7	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 8	geo:GSE200563:Patient 8	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 9	geo:GSE200563:Patient 9	donor_id	<column patient>	column	work/aoi_table_dcc.csv/patient			True
+Patient 1	geo:GSE200563:Patient 1	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 10	geo:GSE200563:Patient 10	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 11	geo:GSE200563:Patient 11	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 12	geo:GSE200563:Patient 12	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 13	geo:GSE200563:Patient 13	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 14	geo:GSE200563:Patient 14	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 15	geo:GSE200563:Patient 15	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 16	geo:GSE200563:Patient 16	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 17	geo:GSE200563:Patient 17	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 18	geo:GSE200563:Patient 18	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 19	geo:GSE200563:Patient 19	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 2	geo:GSE200563:Patient 2	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 20	geo:GSE200563:Patient 20	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 21	geo:GSE200563:Patient 21	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 22	geo:GSE200563:Patient 22	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 24	geo:GSE200563:Patient 24	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 26	geo:GSE200563:Patient 26	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 27	geo:GSE200563:Patient 27	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 29	geo:GSE200563:Patient 29	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 3	geo:GSE200563:Patient 3	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 30	geo:GSE200563:Patient 30	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 31	geo:GSE200563:Patient 31	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 32	geo:GSE200563:Patient 32	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 34	geo:GSE200563:Patient 34	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 35	geo:GSE200563:Patient 35	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 37	geo:GSE200563:Patient 37	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 4	geo:GSE200563:Patient 4	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 40	geo:GSE200563:Patient 40	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 43	geo:GSE200563:Patient 43	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 44	geo:GSE200563:Patient 44	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 5	geo:GSE200563:Patient 5	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 6	geo:GSE200563:Patient 6	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 7	geo:GSE200563:Patient 7	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 8	geo:GSE200563:Patient 8	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 9	geo:GSE200563:Patient 9	tissue_free_text	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<column source_name>	column	work/aoi_table_dcc.csv/source_name			True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		brain	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	UBERON:0000029	derived	ols:uberon		lymph node	True
+Patient 1	geo:GSE200563:Patient 1	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 10	geo:GSE200563:Patient 10	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 11	geo:GSE200563:Patient 11	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 12	geo:GSE200563:Patient 12	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 13	geo:GSE200563:Patient 13	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 14	geo:GSE200563:Patient 14	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 15	geo:GSE200563:Patient 15	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 16	geo:GSE200563:Patient 16	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 17	geo:GSE200563:Patient 17	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 18	geo:GSE200563:Patient 18	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 19	geo:GSE200563:Patient 19	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 2	geo:GSE200563:Patient 2	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 20	geo:GSE200563:Patient 20	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 21	geo:GSE200563:Patient 21	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 22	geo:GSE200563:Patient 22	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 24	geo:GSE200563:Patient 24	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 26	geo:GSE200563:Patient 26	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 27	geo:GSE200563:Patient 27	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 29	geo:GSE200563:Patient 29	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 3	geo:GSE200563:Patient 3	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 30	geo:GSE200563:Patient 30	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 31	geo:GSE200563:Patient 31	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 32	geo:GSE200563:Patient 32	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 34	geo:GSE200563:Patient 34	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 35	geo:GSE200563:Patient 35	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 37	geo:GSE200563:Patient 37	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 4	geo:GSE200563:Patient 4	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 40	geo:GSE200563:Patient 40	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 43	geo:GSE200563:Patient 43	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 44	geo:GSE200563:Patient 44	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 5	geo:GSE200563:Patient 5	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 6	geo:GSE200563:Patient 6	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 7	geo:GSE200563:Patient 7	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 8	geo:GSE200563:Patient 8	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+Patient 9	geo:GSE200563:Patient 9	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+		organism	Homo sapiens	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz	GSM6573699	!Sample_organism_ch1 = Homo sapiens	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = primary lung cancer	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the primary lung cancer	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in the brain	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor brain microenviroment in metastatic brain	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = tumor immune microenviroment in the metastatic brain	True
+Patient 1	geo:GSE200563:Patient 1	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 10	geo:GSE200563:Patient 10	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 11	geo:GSE200563:Patient 11	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 12	geo:GSE200563:Patient 12	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 13	geo:GSE200563:Patient 13	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 14	geo:GSE200563:Patient 14	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 15	geo:GSE200563:Patient 15	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 16	geo:GSE200563:Patient 16	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 17	geo:GSE200563:Patient 17	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 18	geo:GSE200563:Patient 18	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 19	geo:GSE200563:Patient 19	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 2	geo:GSE200563:Patient 2	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 20	geo:GSE200563:Patient 20	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 21	geo:GSE200563:Patient 21	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 22	geo:GSE200563:Patient 22	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 24	geo:GSE200563:Patient 24	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 26	geo:GSE200563:Patient 26	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 27	geo:GSE200563:Patient 27	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 29	geo:GSE200563:Patient 29	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 3	geo:GSE200563:Patient 3	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 30	geo:GSE200563:Patient 30	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 31	geo:GSE200563:Patient 31	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 32	geo:GSE200563:Patient 32	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 34	geo:GSE200563:Patient 34	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 35	geo:GSE200563:Patient 35	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 37	geo:GSE200563:Patient 37	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 4	geo:GSE200563:Patient 4	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 40	geo:GSE200563:Patient 40	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 43	geo:GSE200563:Patient 43	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 44	geo:GSE200563:Patient 44	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 5	geo:GSE200563:Patient 5	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 6	geo:GSE200563:Patient 6	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 7	geo:GSE200563:Patient 7	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 8	geo:GSE200563:Patient 8	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 9	geo:GSE200563:Patient 9	tissue_ontology_term_id	<map of column source_name>	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_source_name_ch1 = Metastatic lung cancer in a lymph node	True
+Patient 1	geo:GSE200563:Patient 1	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 10	geo:GSE200563:Patient 10	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 11	geo:GSE200563:Patient 11	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 12	geo:GSE200563:Patient 12	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 13	geo:GSE200563:Patient 13	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 14	geo:GSE200563:Patient 14	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 15	geo:GSE200563:Patient 15	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 16	geo:GSE200563:Patient 16	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 17	geo:GSE200563:Patient 17	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 18	geo:GSE200563:Patient 18	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 19	geo:GSE200563:Patient 19	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 2	geo:GSE200563:Patient 2	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 20	geo:GSE200563:Patient 20	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 21	geo:GSE200563:Patient 21	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 22	geo:GSE200563:Patient 22	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 24	geo:GSE200563:Patient 24	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 26	geo:GSE200563:Patient 26	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 27	geo:GSE200563:Patient 27	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 29	geo:GSE200563:Patient 29	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 3	geo:GSE200563:Patient 3	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 30	geo:GSE200563:Patient 30	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 31	geo:GSE200563:Patient 31	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 32	geo:GSE200563:Patient 32	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 34	geo:GSE200563:Patient 34	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 35	geo:GSE200563:Patient 35	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 37	geo:GSE200563:Patient 37	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 4	geo:GSE200563:Patient 4	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 40	geo:GSE200563:Patient 40	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 43	geo:GSE200563:Patient 43	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 44	geo:GSE200563:Patient 44	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 5	geo:GSE200563:Patient 5	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 6	geo:GSE200563:Patient 6	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 7	geo:GSE200563:Patient 7	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 8	geo:GSE200563:Patient 8	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 9	geo:GSE200563:Patient 9	disease_free_text	non-small cell lung carcinoma with paired brain metastases	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 1	geo:GSE200563:Patient 1	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 10	geo:GSE200563:Patient 10	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 11	geo:GSE200563:Patient 11	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 12	geo:GSE200563:Patient 12	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 13	geo:GSE200563:Patient 13	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 14	geo:GSE200563:Patient 14	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 15	geo:GSE200563:Patient 15	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 16	geo:GSE200563:Patient 16	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 17	geo:GSE200563:Patient 17	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 18	geo:GSE200563:Patient 18	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 19	geo:GSE200563:Patient 19	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 2	geo:GSE200563:Patient 2	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 20	geo:GSE200563:Patient 20	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 21	geo:GSE200563:Patient 21	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 22	geo:GSE200563:Patient 22	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 24	geo:GSE200563:Patient 24	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 26	geo:GSE200563:Patient 26	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 27	geo:GSE200563:Patient 27	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 29	geo:GSE200563:Patient 29	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 3	geo:GSE200563:Patient 3	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 30	geo:GSE200563:Patient 30	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 31	geo:GSE200563:Patient 31	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 32	geo:GSE200563:Patient 32	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 34	geo:GSE200563:Patient 34	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 35	geo:GSE200563:Patient 35	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 37	geo:GSE200563:Patient 37	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 4	geo:GSE200563:Patient 4	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 40	geo:GSE200563:Patient 40	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 43	geo:GSE200563:Patient 43	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 44	geo:GSE200563:Patient 44	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 5	geo:GSE200563:Patient 5	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 6	geo:GSE200563:Patient 6	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 7	geo:GSE200563:Patient 7	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 8	geo:GSE200563:Patient 8	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 9	geo:GSE200563:Patient 9	disease_ontology_term_id	non-small cell lung carcinoma	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Series_title = Spatial gene expression-based, non-small cell lung carcinoma patients with paired brain metastases	True
+Patient 1	geo:GSE200563:Patient 1	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 10	geo:GSE200563:Patient 10	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 11	geo:GSE200563:Patient 11	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 12	geo:GSE200563:Patient 12	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 13	geo:GSE200563:Patient 13	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 14	geo:GSE200563:Patient 14	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 15	geo:GSE200563:Patient 15	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 16	geo:GSE200563:Patient 16	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 17	geo:GSE200563:Patient 17	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 18	geo:GSE200563:Patient 18	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 19	geo:GSE200563:Patient 19	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 2	geo:GSE200563:Patient 2	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 20	geo:GSE200563:Patient 20	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 21	geo:GSE200563:Patient 21	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 22	geo:GSE200563:Patient 22	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 24	geo:GSE200563:Patient 24	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 26	geo:GSE200563:Patient 26	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 27	geo:GSE200563:Patient 27	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 29	geo:GSE200563:Patient 29	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 3	geo:GSE200563:Patient 3	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 30	geo:GSE200563:Patient 30	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 31	geo:GSE200563:Patient 31	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 32	geo:GSE200563:Patient 32	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 34	geo:GSE200563:Patient 34	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 35	geo:GSE200563:Patient 35	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 37	geo:GSE200563:Patient 37	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 4	geo:GSE200563:Patient 4	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 40	geo:GSE200563:Patient 40	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 43	geo:GSE200563:Patient 43	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 44	geo:GSE200563:Patient 44	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 5	geo:GSE200563:Patient 5	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 6	geo:GSE200563:Patient 6	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 7	geo:GSE200563:Patient 7	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 8	geo:GSE200563:Patient 8	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 9	geo:GSE200563:Patient 9	tissue_type	tissue	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		!Sample_extract_protocol_ch1 = Lung FFPE tissues were processed following the GeoMx	True
+Patient 1	geo:GSE200563:Patient 1	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 10	geo:GSE200563:Patient 10	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 11	geo:GSE200563:Patient 11	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 12	geo:GSE200563:Patient 12	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 13	geo:GSE200563:Patient 13	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 14	geo:GSE200563:Patient 14	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 15	geo:GSE200563:Patient 15	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 16	geo:GSE200563:Patient 16	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 17	geo:GSE200563:Patient 17	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 18	geo:GSE200563:Patient 18	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 19	geo:GSE200563:Patient 19	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 2	geo:GSE200563:Patient 2	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 20	geo:GSE200563:Patient 20	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 21	geo:GSE200563:Patient 21	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 22	geo:GSE200563:Patient 22	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 24	geo:GSE200563:Patient 24	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 26	geo:GSE200563:Patient 26	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 27	geo:GSE200563:Patient 27	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 29	geo:GSE200563:Patient 29	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 3	geo:GSE200563:Patient 3	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 30	geo:GSE200563:Patient 30	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 31	geo:GSE200563:Patient 31	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 32	geo:GSE200563:Patient 32	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 34	geo:GSE200563:Patient 34	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 35	geo:GSE200563:Patient 35	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 37	geo:GSE200563:Patient 37	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 4	geo:GSE200563:Patient 4	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 40	geo:GSE200563:Patient 40	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 43	geo:GSE200563:Patient 43	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 44	geo:GSE200563:Patient 44	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 5	geo:GSE200563:Patient 5	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 6	geo:GSE200563:Patient 6	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 7	geo:GSE200563:Patient 7	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 8	geo:GSE200563:Patient 8	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 9	geo:GSE200563:Patient 9	suspension_type	na	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 1	geo:GSE200563:Patient 1	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 10	geo:GSE200563:Patient 10	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 11	geo:GSE200563:Patient 11	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 12	geo:GSE200563:Patient 12	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 13	geo:GSE200563:Patient 13	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 14	geo:GSE200563:Patient 14	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 15	geo:GSE200563:Patient 15	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 16	geo:GSE200563:Patient 16	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 17	geo:GSE200563:Patient 17	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 18	geo:GSE200563:Patient 18	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 19	geo:GSE200563:Patient 19	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 2	geo:GSE200563:Patient 2	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 20	geo:GSE200563:Patient 20	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 21	geo:GSE200563:Patient 21	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 22	geo:GSE200563:Patient 22	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 24	geo:GSE200563:Patient 24	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 26	geo:GSE200563:Patient 26	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 27	geo:GSE200563:Patient 27	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 29	geo:GSE200563:Patient 29	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 3	geo:GSE200563:Patient 3	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 30	geo:GSE200563:Patient 30	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 31	geo:GSE200563:Patient 31	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 32	geo:GSE200563:Patient 32	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 34	geo:GSE200563:Patient 34	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 35	geo:GSE200563:Patient 35	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 37	geo:GSE200563:Patient 37	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 4	geo:GSE200563:Patient 4	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 40	geo:GSE200563:Patient 40	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 43	geo:GSE200563:Patient 43	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 44	geo:GSE200563:Patient 44	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 5	geo:GSE200563:Patient 5	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 6	geo:GSE200563:Patient 6	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 7	geo:GSE200563:Patient 7	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 8	geo:GSE200563:Patient 8	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True
+Patient 9	geo:GSE200563:Patient 9	sample_preservation	FFPE	file	raw/fp-12b1ecd8a3ab/GSE200563_family.soft.gz		Lung FFPE tissues were processed following the GeoMx	True

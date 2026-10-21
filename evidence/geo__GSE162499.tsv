@@ -1,0 +1,50 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4952970	geo:GSE162499:GSM4952970	sex	F	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952970	!Sample_characteristics_ch1 = Sex: F	True
+GSM4952970	geo:GSE162499:GSM4952970	tissue_free_text	NSCLC tumor tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952970	!Sample_characteristics_ch1 = tissue: NSCLC tumor tissue	True
+GSM4952970	geo:GSE162499:GSM4952970	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952970	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952971	geo:GSE162499:GSM4952971	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952971	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952971	geo:GSE162499:GSM4952971	tissue_free_text	NSCLC tumor tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952971	!Sample_characteristics_ch1 = tissue: NSCLC tumor tissue	True
+GSM4952971	geo:GSE162499:GSM4952971	disease_free_text	CE	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952971	!Sample_characteristics_ch1 = tumor type: CE	True
+GSM4952972	geo:GSE162499:GSM4952972	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952972	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952972	geo:GSE162499:GSM4952972	tissue_free_text	NSCLC tumor tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952972	!Sample_characteristics_ch1 = tissue: NSCLC tumor tissue	True
+GSM4952972	geo:GSE162499:GSM4952972	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952972	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952973	geo:GSE162499:GSM4952973	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952973	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952973	geo:GSE162499:GSM4952973	tissue_free_text	Blood sample	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952973	!Sample_characteristics_ch1 = tissue: Blood sample	True
+GSM4952973	geo:GSE162499:GSM4952973	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952973	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952974	geo:GSE162499:GSM4952974	sex	F	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952974	!Sample_characteristics_ch1 = Sex: F	True
+GSM4952974	geo:GSE162499:GSM4952974	tissue_free_text	NSCLC tumor tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952974	!Sample_characteristics_ch1 = tissue: NSCLC tumor tissue	True
+GSM4952974	geo:GSE162499:GSM4952974	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952974	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952975	geo:GSE162499:GSM4952975	sex	F	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952975	!Sample_characteristics_ch1 = Sex: F	True
+GSM4952975	geo:GSE162499:GSM4952975	tissue_free_text	Blood sample	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952975	!Sample_characteristics_ch1 = tissue: Blood sample	True
+GSM4952975	geo:GSE162499:GSM4952975	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952975	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952976	geo:GSE162499:GSM4952976	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952976	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952976	geo:GSE162499:GSM4952976	tissue_free_text	NSCLC tumor tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952976	!Sample_characteristics_ch1 = tissue: NSCLC tumor tissue	True
+GSM4952976	geo:GSE162499:GSM4952976	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952976	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952977	geo:GSE162499:GSM4952977	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952977	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952977	geo:GSE162499:GSM4952977	tissue_free_text	NSCLC juxta tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952977	!Sample_characteristics_ch1 = tissue: NSCLC juxta tissue	True
+GSM4952977	geo:GSE162499:GSM4952977	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952977	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952978	geo:GSE162499:GSM4952978	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952978	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952978	geo:GSE162499:GSM4952978	tissue_free_text	Blood sample	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952978	!Sample_characteristics_ch1 = tissue: Blood sample	True
+GSM4952978	geo:GSE162499:GSM4952978	disease_free_text	ADK	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952978	!Sample_characteristics_ch1 = tumor type: ADK	True
+GSM4952979	geo:GSE162499:GSM4952979	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952979	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952979	geo:GSE162499:GSM4952979	tissue_free_text	NSCLC tumor tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952979	!Sample_characteristics_ch1 = tissue: NSCLC tumor tissue	True
+GSM4952979	geo:GSE162499:GSM4952979	disease_free_text	NA	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952979	!Sample_characteristics_ch1 = tumor type: NA	True
+GSM4952980	geo:GSE162499:GSM4952980	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952980	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952980	geo:GSE162499:GSM4952980	tissue_free_text	NSCLC juxta tissue	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952980	!Sample_characteristics_ch1 = tissue: NSCLC juxta tissue	True
+GSM4952980	geo:GSE162499:GSM4952980	disease_free_text	NA	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952980	!Sample_characteristics_ch1 = tumor type: NA	True
+GSM4952981	geo:GSE162499:GSM4952981	sex	M	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952981	!Sample_characteristics_ch1 = Sex: M	True
+GSM4952981	geo:GSE162499:GSM4952981	tissue_free_text	Blood sample	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952981	!Sample_characteristics_ch1 = tissue: Blood sample	True
+GSM4952981	geo:GSE162499:GSM4952981	disease_free_text	NA	file	raw/fp-18c53d91225a/GSE162499_family.soft.gz	GSM4952981	!Sample_characteristics_ch1 = tumor type: NA	True
+GSM4952970	geo:GSE162499:GSM4952970	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4952971	geo:GSE162499:GSM4952971	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952972	geo:GSE162499:GSM4952972	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952973	geo:GSE162499:GSM4952973	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952974	geo:GSE162499:GSM4952974	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4952975	geo:GSE162499:GSM4952975	sex_ontology_term_id	PATO:0000383	derived	sex_map		F	True
+GSM4952976	geo:GSE162499:GSM4952976	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952977	geo:GSE162499:GSM4952977	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952978	geo:GSE162499:GSM4952978	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952979	geo:GSE162499:GSM4952979	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952980	geo:GSE162499:GSM4952980	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True
+GSM4952981	geo:GSE162499:GSM4952981	sex_ontology_term_id	PATO:0000384	derived	sex_map		M	True

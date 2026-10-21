@@ -1,0 +1,64 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4506698	geo:GSE149655:GSM4506698	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4506698	geo:GSE149655:GSM4506698	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4506698	geo:GSE149655:GSM4506698	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM4506698	geo:GSE149655:GSM4506698	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4506699	geo:GSE149655:GSM4506699	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4506699	geo:GSE149655:GSM4506699	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4506699	geo:GSE149655:GSM4506699	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM4506699	geo:GSE149655:GSM4506699	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM4506700	geo:GSE149655:GSM4506700	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4506700	geo:GSE149655:GSM4506700	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4506700	geo:GSE149655:GSM4506700	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM4506700	geo:GSE149655:GSM4506700	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM4506701	geo:GSE149655:GSM4506701	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4506701	geo:GSE149655:GSM4506701	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM4506701	geo:GSE149655:GSM4506701	development_stage_ontology_term_id	HsapDv:0000171	derived	age_in_years:'77-year-old stage':ols:hsapdv		77	True
+GSM4506701	geo:GSE149655:GSM4506701	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_organism_ch1 = Homo sapiens	True
+GSM4506698	geo:GSE149655:GSM4506698	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4506698	geo:GSE149655:GSM4506698	tissue_type	tissue	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_source_name_ch1 = lung distal normal tissue from patient 01	True
+GSM4506698	geo:GSE149655:GSM4506698	assay	10x 3' v2	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_description = 10X Chromium Single Cell 3' Reagent Kits v2	True
+GSM4506698	geo:GSE149655:GSM4506698	suspension_type	cell	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	Dissociation was performed in RPMI medium supplemented with 10% FBS	True
+GSM4506698	geo:GSE149655:GSM4506698	sample_preservation	fresh	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	Cells were resuspended in 5 ml DPBS + 0.04% BSA, counted and immediately used to prepare the sequencing libraries	True
+GSM4506698	geo:GSE149655:GSM4506698	disease_ontology_term_id	normal	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = tissue subtype: lung distal normal tissue	True
+GSM4506698	geo:GSE149655:GSM4506698	donor_id	Patient 01	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = subject id: Patient 01	True
+GSM4506698	geo:GSE149655:GSM4506698	age	74	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = age: 74	True
+GSM4506698	geo:GSE149655:GSM4506698	sex	female	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = gender: female	True
+GSM4506698	geo:GSE149655:GSM4506698	tissue_free_text	lung distal normal tissue	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = tissue subtype: lung distal normal tissue	True
+GSM4506698	geo:GSE149655:GSM4506698	disease_free_text	patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506698	!Sample_characteristics_ch1 = subject status: patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	True
+GSM4506699	geo:GSE149655:GSM4506699	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4506699	geo:GSE149655:GSM4506699	tissue_type	tissue	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_source_name_ch1 = lung adenocarcinoma lesion from patient 01	True
+GSM4506699	geo:GSE149655:GSM4506699	assay	10x 3' v2	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_description = 10X Chromium Single Cell 3' Reagent Kits v2	True
+GSM4506699	geo:GSE149655:GSM4506699	suspension_type	cell	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	Dissociation was performed in RPMI medium supplemented with 10% FBS	True
+GSM4506699	geo:GSE149655:GSM4506699	sample_preservation	fresh	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	Cells were resuspended in 5 ml DPBS + 0.04% BSA, counted and immediately used to prepare the sequencing libraries	True
+GSM4506699	geo:GSE149655:GSM4506699	disease_ontology_term_id	lung adenocarcinoma	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = tissue subtype: lung adenocarcinoma lesion	True
+GSM4506699	geo:GSE149655:GSM4506699	donor_id	Patient 01	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = subject id: Patient 01	True
+GSM4506699	geo:GSE149655:GSM4506699	age	74	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = age: 74	True
+GSM4506699	geo:GSE149655:GSM4506699	sex	female	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = gender: female	True
+GSM4506699	geo:GSE149655:GSM4506699	tissue_free_text	lung adenocarcinoma lesion	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = tissue subtype: lung adenocarcinoma lesion	True
+GSM4506699	geo:GSE149655:GSM4506699	disease_free_text	patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = subject status: patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	True
+GSM4506699	geo:GSE149655:GSM4506699	disease_stage	stage 1A	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506699	!Sample_characteristics_ch1 = tumor stage: stage 1A	True
+GSM4506700	geo:GSE149655:GSM4506700	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4506700	geo:GSE149655:GSM4506700	tissue_type	tissue	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_source_name_ch1 = lung distal normal tissue from patient 02	True
+GSM4506700	geo:GSE149655:GSM4506700	assay	10x 3' v3	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_description = 10X Chromium Single Cell 3' Reagent Kits v3	True
+GSM4506700	geo:GSE149655:GSM4506700	suspension_type	cell	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	Dissociation was performed in RPMI medium supplemented with 10% FBS	True
+GSM4506700	geo:GSE149655:GSM4506700	sample_preservation	fresh	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	Cells were resuspended in 5 ml DPBS + 0.04% BSA, counted and immediately used to prepare the sequencing libraries	True
+GSM4506700	geo:GSE149655:GSM4506700	disease_ontology_term_id	normal	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = tissue subtype: lung distal normal tissue	True
+GSM4506700	geo:GSE149655:GSM4506700	donor_id	Patient 02	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = subject id: Patient 02	True
+GSM4506700	geo:GSE149655:GSM4506700	age	77	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = age: 77	True
+GSM4506700	geo:GSE149655:GSM4506700	sex	female	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = gender: female	True
+GSM4506700	geo:GSE149655:GSM4506700	tissue_free_text	lung distal normal tissue	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = tissue subtype: lung distal normal tissue	True
+GSM4506700	geo:GSE149655:GSM4506700	disease_free_text	patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506700	!Sample_characteristics_ch1 = subject status: patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	True
+GSM4506701	geo:GSE149655:GSM4506701	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = tissue: lung	True
+GSM4506701	geo:GSE149655:GSM4506701	tissue_type	tissue	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_source_name_ch1 = lung adenocarcinoma lesion from patient 02	True
+GSM4506701	geo:GSE149655:GSM4506701	assay	10x 3' v3	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_description = 10X Chromium Single Cell 3' Reagent Kits v3	True
+GSM4506701	geo:GSE149655:GSM4506701	suspension_type	cell	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	Dissociation was performed in RPMI medium supplemented with 10% FBS	True
+GSM4506701	geo:GSE149655:GSM4506701	sample_preservation	fresh	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	Cells were resuspended in 5 ml DPBS + 0.04% BSA, counted and immediately used to prepare the sequencing libraries	True
+GSM4506701	geo:GSE149655:GSM4506701	disease_ontology_term_id	lung adenocarcinoma	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = tissue subtype: lung adenocarcinoma lesion	True
+GSM4506701	geo:GSE149655:GSM4506701	donor_id	Patient 02	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = subject id: Patient 02	True
+GSM4506701	geo:GSE149655:GSM4506701	age	77	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = age: 77	True
+GSM4506701	geo:GSE149655:GSM4506701	sex	female	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = gender: female	True
+GSM4506701	geo:GSE149655:GSM4506701	tissue_free_text	lung adenocarcinoma lesion	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = tissue subtype: lung adenocarcinoma lesion	True
+GSM4506701	geo:GSE149655:GSM4506701	disease_free_text	patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = subject status: patient diagnosed with lung adenocarcinoma (LUAD) carrying KRAS mutations	True
+GSM4506701	geo:GSE149655:GSM4506701	disease_stage	stage 1A	file	raw/fp-6a62f8adf177/GSE149655_family.soft.gz	GSM4506701	!Sample_characteristics_ch1 = tumor stage: stage 1A	True

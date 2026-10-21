@@ -1,0 +1,30 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8703718	geo:GSE285515:GSM8703718	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8703721	geo:GSE285515:GSM8703721	tissue_ontology_term_id	UBERON:0039167	derived	ols:uberon		hilar lymph node	True
+GSM8703727	geo:GSE285515:GSM8703727	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8703730	geo:GSE285515:GSM8703730	tissue_ontology_term_id	UBERON:0039167	derived	ols:uberon		hilar lymph node	True
+		organism	Homo sapiens	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8703718	geo:GSE285515:GSM8703718	tissue_free_text	lung	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703718	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8703718	geo:GSE285515:GSM8703718	treatment	mixed sample (control, CLAD)	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703718	!Sample_characteristics_ch1 = treatment: mixed sample (control, CLAD)	True
+GSM8703721	geo:GSE285515:GSM8703721	tissue_free_text	hilar lymph node	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703721	!Sample_characteristics_ch1 = tissue: hilar lymph node	True
+GSM8703721	geo:GSE285515:GSM8703721	treatment	mixed sample (control, CLAD)	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703721	!Sample_characteristics_ch1 = treatment: mixed sample (control, CLAD)	True
+GSM8703724	geo:GSE285515:GSM8703724	tissue_free_text	lung and hilar lymph node	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703724	!Sample_characteristics_ch1 = tissue: lung and hilar lymph node	True
+GSM8703724	geo:GSE285515:GSM8703724	treatment	mixed sample (control, CLAD)	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703724	!Sample_characteristics_ch1 = treatment: mixed sample (control, CLAD)	True
+GSM8703727	geo:GSE285515:GSM8703727	tissue_free_text	lung	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703727	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8703727	geo:GSE285515:GSM8703727	treatment	IPF	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703727	!Sample_characteristics_ch1 = treatment: IPF	True
+GSM8703730	geo:GSE285515:GSM8703730	tissue_free_text	hilar lymph node	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703730	!Sample_characteristics_ch1 = tissue: hilar lymph node	True
+GSM8703730	geo:GSE285515:GSM8703730	treatment	IPF	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703730	!Sample_characteristics_ch1 = treatment: IPF	True
+GSM8703719	geo:GSE285515:GSM8703719	tissue_free_text	lung	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703719	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8703719	geo:GSE285515:GSM8703719	treatment	mixed sample (control, CLAD)	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703719	!Sample_characteristics_ch1 = treatment: mixed sample (control, CLAD)	True
+GSM8703722	geo:GSE285515:GSM8703722	tissue_free_text	hilar lymph node	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703722	!Sample_characteristics_ch1 = tissue: hilar lymph node	True
+GSM8703722	geo:GSE285515:GSM8703722	treatment	mixed sample (control, CLAD)	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703722	!Sample_characteristics_ch1 = treatment: mixed sample (control, CLAD)	True
+GSM8703725	geo:GSE285515:GSM8703725	tissue_free_text	lung and hilar lymph node	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703725	!Sample_characteristics_ch1 = tissue: lung and hilar lymph node	True
+GSM8703725	geo:GSE285515:GSM8703725	treatment	mixed sample (control, CLAD)	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703725	!Sample_characteristics_ch1 = treatment: mixed sample (control, CLAD)	True
+GSM8703728	geo:GSE285515:GSM8703728	tissue_free_text	lung	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703728	!Sample_characteristics_ch1 = tissue: lung	True
+GSM8703728	geo:GSE285515:GSM8703728	treatment	IPF	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703728	!Sample_characteristics_ch1 = treatment: IPF	True
+GSM8703731	geo:GSE285515:GSM8703731	tissue_free_text	hilar lymph node	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703731	!Sample_characteristics_ch1 = tissue: hilar lymph node	True
+GSM8703731	geo:GSE285515:GSM8703731	treatment	IPF	file	raw/fp-afb0000e35c7/GSE285515_family.soft.gz	GSM8703731	!Sample_characteristics_ch1 = treatment: IPF	True
+GSM8703719	geo:GSE285515:GSM8703719	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8703722	geo:GSE285515:GSM8703722	tissue_ontology_term_id	UBERON:0039167	derived	ols:uberon		hilar lymph node	True
+GSM8703728	geo:GSE285515:GSM8703728	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM8703731	geo:GSE285515:GSM8703731	tissue_ontology_term_id	UBERON:0039167	derived	ols:uberon		hilar lymph node	True

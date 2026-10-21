@@ -1,0 +1,145 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9597702	geo:GSE325196:GSM9597702	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597702	geo:GSE325196:GSM9597702	tissue_ontology_term_id	UBERON:0002037	derived	ols:uberon		Cerebellum	True
+GSM9597704	geo:GSE325196:GSM9597704	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597704	geo:GSE325196:GSM9597704	tissue_ontology_term_id	UBERON:0016525	derived	ols:uberon		Frontal lobe	True
+GSM9597709	geo:GSE325196:GSM9597709	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597709	geo:GSE325196:GSM9597709	tissue_ontology_term_id	UBERON:0001872	derived	ols:uberon		Parietal lobe	True
+GSM9597710	geo:GSE325196:GSM9597710	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597710	geo:GSE325196:GSM9597710	tissue_ontology_term_id	UBERON:0001872	derived	ols:uberon		Parietal lobe	True
+GSM9597711	geo:GSE325196:GSM9597711	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597711	geo:GSE325196:GSM9597711	tissue_ontology_term_id	UBERON:0016525	derived	ols:uberon		Frontal lobe	True
+GSM9597712	geo:GSE325196:GSM9597712	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597712	geo:GSE325196:GSM9597712	tissue_ontology_term_id	UBERON:0001871	derived	ols:uberon		Temporal lobe	True
+GSM9597715	geo:GSE325196:GSM9597715	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597715	geo:GSE325196:GSM9597715	tissue_ontology_term_id	UBERON:0016525	derived	ols:uberon		Frontal lobe	True
+GSM9597717	geo:GSE325196:GSM9597717	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597717	geo:GSE325196:GSM9597717	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		Brain	True
+GSM9597719	geo:GSE325196:GSM9597719	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597719	geo:GSE325196:GSM9597719	tissue_ontology_term_id	UBERON:0002037	derived	ols:uberon		Cerebellum	True
+GSM9597722	geo:GSE325196:GSM9597722	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597722	geo:GSE325196:GSM9597722	tissue_ontology_term_id	UBERON:0016525	derived	ols:uberon		Frontal lobe	True
+GSM9597724	geo:GSE325196:GSM9597724	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM9597724	geo:GSE325196:GSM9597724	tissue_ontology_term_id	UBERON:0000955	derived	ols:uberon		Brain	True
+GSM9597732	geo:GSE325196:GSM9597732	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM9597732	geo:GSE325196:GSM9597732	tissue_ontology_term_id	UBERON:0016525	derived	ols:uberon		Frontal lobe	True
+		organism	Homo sapiens	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9597702	geo:GSE325196:GSM9597702	tissue_free_text	Cerebellum	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_characteristics_ch1 = tissue: Cerebellum	True
+GSM9597702	geo:GSE325196:GSM9597702	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_characteristics_ch1 = tissue: Cerebellum	True
+GSM9597702	geo:GSE325196:GSM9597702	disease_ontology_term_id	MONDO:0005471	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_characteristics_ch1 = cell type: SCLC	True
+GSM9597702	geo:GSE325196:GSM9597702	disease_free_text	SCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_characteristics_ch1 = cell type: SCLC	True
+GSM9597702	geo:GSE325196:GSM9597702	disease_free_text	SCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597702	geo:GSE325196:GSM9597702	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597702	geo:GSE325196:GSM9597702	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597702	geo:GSE325196:GSM9597702	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597702	geo:GSE325196:GSM9597702	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597702	geo:GSE325196:GSM9597702	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597702	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597704	geo:GSE325196:GSM9597704	tissue_free_text	Frontal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597704	geo:GSE325196:GSM9597704	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597704	geo:GSE325196:GSM9597704	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597704	geo:GSE325196:GSM9597704	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597704	geo:GSE325196:GSM9597704	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597704	geo:GSE325196:GSM9597704	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597704	geo:GSE325196:GSM9597704	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597704	geo:GSE325196:GSM9597704	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597704	geo:GSE325196:GSM9597704	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597704	geo:GSE325196:GSM9597704	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597704	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597709	geo:GSE325196:GSM9597709	tissue_free_text	Parietal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_characteristics_ch1 = tissue: Parietal lobe	True
+GSM9597709	geo:GSE325196:GSM9597709	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_characteristics_ch1 = tissue: Parietal lobe	True
+GSM9597709	geo:GSE325196:GSM9597709	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597709	geo:GSE325196:GSM9597709	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597709	geo:GSE325196:GSM9597709	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597709	geo:GSE325196:GSM9597709	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597709	geo:GSE325196:GSM9597709	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597709	geo:GSE325196:GSM9597709	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597709	geo:GSE325196:GSM9597709	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597709	geo:GSE325196:GSM9597709	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597709	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597710	geo:GSE325196:GSM9597710	tissue_free_text	Parietal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_characteristics_ch1 = tissue: Parietal lobe	True
+GSM9597710	geo:GSE325196:GSM9597710	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_characteristics_ch1 = tissue: Parietal lobe	True
+GSM9597710	geo:GSE325196:GSM9597710	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597710	geo:GSE325196:GSM9597710	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597710	geo:GSE325196:GSM9597710	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597710	geo:GSE325196:GSM9597710	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597710	geo:GSE325196:GSM9597710	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597710	geo:GSE325196:GSM9597710	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597710	geo:GSE325196:GSM9597710	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597710	geo:GSE325196:GSM9597710	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597710	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597711	geo:GSE325196:GSM9597711	tissue_free_text	Frontal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597711	geo:GSE325196:GSM9597711	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597711	geo:GSE325196:GSM9597711	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597711	geo:GSE325196:GSM9597711	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597711	geo:GSE325196:GSM9597711	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597711	geo:GSE325196:GSM9597711	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597711	geo:GSE325196:GSM9597711	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597711	geo:GSE325196:GSM9597711	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597711	geo:GSE325196:GSM9597711	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597711	geo:GSE325196:GSM9597711	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597711	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597712	geo:GSE325196:GSM9597712	tissue_free_text	Temporal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_characteristics_ch1 = tissue: Temporal lobe	True
+GSM9597712	geo:GSE325196:GSM9597712	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_characteristics_ch1 = tissue: Temporal lobe	True
+GSM9597712	geo:GSE325196:GSM9597712	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597712	geo:GSE325196:GSM9597712	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597712	geo:GSE325196:GSM9597712	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597712	geo:GSE325196:GSM9597712	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597712	geo:GSE325196:GSM9597712	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597712	geo:GSE325196:GSM9597712	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597712	geo:GSE325196:GSM9597712	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597712	geo:GSE325196:GSM9597712	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597712	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597715	geo:GSE325196:GSM9597715	tissue_free_text	Frontal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597715	geo:GSE325196:GSM9597715	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597715	geo:GSE325196:GSM9597715	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597715	geo:GSE325196:GSM9597715	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597715	geo:GSE325196:GSM9597715	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597715	geo:GSE325196:GSM9597715	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597715	geo:GSE325196:GSM9597715	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597715	geo:GSE325196:GSM9597715	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597715	geo:GSE325196:GSM9597715	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597715	geo:GSE325196:GSM9597715	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597715	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597717	geo:GSE325196:GSM9597717	tissue_free_text	Brain	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_characteristics_ch1 = tissue: Brain	True
+GSM9597717	geo:GSE325196:GSM9597717	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_characteristics_ch1 = tissue: Brain	True
+GSM9597717	geo:GSE325196:GSM9597717	disease_ontology_term_id	MONDO:0005471	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_characteristics_ch1 = cell type: SCLC	True
+GSM9597717	geo:GSE325196:GSM9597717	disease_free_text	SCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_characteristics_ch1 = cell type: SCLC	True
+GSM9597717	geo:GSE325196:GSM9597717	disease_free_text	SCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597717	geo:GSE325196:GSM9597717	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597717	geo:GSE325196:GSM9597717	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597717	geo:GSE325196:GSM9597717	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597717	geo:GSE325196:GSM9597717	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597717	geo:GSE325196:GSM9597717	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597717	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597719	geo:GSE325196:GSM9597719	tissue_free_text	Cerebellum	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_characteristics_ch1 = tissue: Cerebellum	True
+GSM9597719	geo:GSE325196:GSM9597719	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_characteristics_ch1 = tissue: Cerebellum	True
+GSM9597719	geo:GSE325196:GSM9597719	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597719	geo:GSE325196:GSM9597719	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597719	geo:GSE325196:GSM9597719	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597719	geo:GSE325196:GSM9597719	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597719	geo:GSE325196:GSM9597719	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597719	geo:GSE325196:GSM9597719	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597719	geo:GSE325196:GSM9597719	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597719	geo:GSE325196:GSM9597719	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597719	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597722	geo:GSE325196:GSM9597722	tissue_free_text	Frontal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597722	geo:GSE325196:GSM9597722	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597722	geo:GSE325196:GSM9597722	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597722	geo:GSE325196:GSM9597722	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597722	geo:GSE325196:GSM9597722	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597722	geo:GSE325196:GSM9597722	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597722	geo:GSE325196:GSM9597722	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597722	geo:GSE325196:GSM9597722	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597722	geo:GSE325196:GSM9597722	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597722	geo:GSE325196:GSM9597722	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597722	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597724	geo:GSE325196:GSM9597724	tissue_free_text	Brain	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_characteristics_ch1 = tissue: Brain	True
+GSM9597724	geo:GSE325196:GSM9597724	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_characteristics_ch1 = tissue: Brain	True
+GSM9597724	geo:GSE325196:GSM9597724	disease_ontology_term_id	MONDO:0005471	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_characteristics_ch1 = cell type: SCLC	True
+GSM9597724	geo:GSE325196:GSM9597724	disease_free_text	SCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_characteristics_ch1 = cell type: SCLC	True
+GSM9597724	geo:GSE325196:GSM9597724	disease_free_text	SCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597724	geo:GSE325196:GSM9597724	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597724	geo:GSE325196:GSM9597724	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597724	geo:GSE325196:GSM9597724	assay	10x 3' v2	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_extract_protocol_ch1 = Single nuclei were prepared for cDNA amplification and library preparation using Single Cell 3’ Reagent Kits v2 (10x Genomics)	True
+GSM9597724	geo:GSE325196:GSM9597724	suspension_type	nucleus	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9597724	geo:GSE325196:GSM9597724	sample_collection_method	resection	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597724	!Sample_extract_protocol_ch1 = Frozen tissue samples were obtained from brain resections.	True
+GSM9597732	geo:GSE325196:GSM9597732	tissue_free_text	Frontal lobe	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597732	geo:GSE325196:GSM9597732	tissue_type	tissue	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_characteristics_ch1 = tissue: Frontal lobe	True
+GSM9597732	geo:GSE325196:GSM9597732	disease_ontology_term_id	MONDO:0005233	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597732	geo:GSE325196:GSM9597732	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_characteristics_ch1 = cell type: NSCLC	True
+GSM9597732	geo:GSE325196:GSM9597732	disease_free_text	NSCLC brain metastasis	file	raw/fp-460350bdf238/GSE325196_family.soft.gz		These samples encompass metastases from lung cancer, breast cancer, melanoma, and sarcoma primaries.	True
+GSM9597732	geo:GSE325196:GSM9597732	gene_annotation_version	GRCh38	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_data_processing = Assembly: GRCh38	True
+GSM9597732	geo:GSE325196:GSM9597732	sample_preservation	frozen	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_title = Visium standard 19-0016 frozen specimen	True
+GSM9597732	geo:GSE325196:GSM9597732	assay	Visium Spatial Gene Expression	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_title = Visium standard 19-0016 frozen specimen	True
+GSM9597732	geo:GSE325196:GSM9597732	suspension_type	na	file	raw/fp-460350bdf238/GSE325196_family.soft.gz	GSM9597732	!Sample_data_processing = Library strategy: Spatial Transcriptomics	True

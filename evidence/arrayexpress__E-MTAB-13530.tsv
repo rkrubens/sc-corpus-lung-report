@@ -1,0 +1,526 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+D1_1	arrayexpress:E-MTAB-13530:D1_1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	disease_ontology_term_id	MONDO:0005097	derived	ols:mondo		lung squamous cell carcinoma	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	assay_ontology_term_id	EFO:0010961	derived	ols:efo		10x Visium	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+		organism	Homo sapiens	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		Homo sapiens Donor 1	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	donor_id	Donor 1	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_1 ERS17014162 SAMEA114630164 Homo sapiens Donor 1 529C-NRP 37 year adult male lung normal not applicable healthy tissue	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_1 ERS17014162 SAMEA114630164 Homo sapiens Donor 1 529C-NRP 37 year adult male lung normal not applicable healthy tissue	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_1 ERS17014162 SAMEA114630164 Homo sapiens Donor 1 529C-NRP 37 year adult male lung normal not applicable healthy tissue	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	disease_free_text	normal	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_1 ERS17014162 SAMEA114630164 Homo sapiens Donor 1 529C-NRP 37 year adult male lung normal not applicable healthy tissue	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	sampled_site_condition	healthy tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_1 ERS17014162 SAMEA114630164 Homo sapiens Donor 1 529C-NRP 37 year adult male lung normal not applicable healthy tissue	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_1 ERS17014162 SAMEA114630164 Homo sapiens Donor 1 529C-NRP 37 year adult male lung normal not applicable healthy tissue	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+D1_1	arrayexpress:E-MTAB-13530:D1_1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	donor_id	Donor 1	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_2 ERS17014163 SAMEA114630165 Homo sapiens Donor 1 529C-NRP 38 year adult male lung normal not applicable healthy tissue	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_2 ERS17014163 SAMEA114630165 Homo sapiens Donor 1 529C-NRP 38 year adult male lung normal not applicable healthy tissue	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_2 ERS17014163 SAMEA114630165 Homo sapiens Donor 1 529C-NRP 38 year adult male lung normal not applicable healthy tissue	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	disease_free_text	normal	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_2 ERS17014163 SAMEA114630165 Homo sapiens Donor 1 529C-NRP 38 year adult male lung normal not applicable healthy tissue	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	sampled_site_condition	healthy tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_2 ERS17014163 SAMEA114630165 Homo sapiens Donor 1 529C-NRP 38 year adult male lung normal not applicable healthy tissue	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D1_2 ERS17014163 SAMEA114630165 Homo sapiens Donor 1 529C-NRP 38 year adult male lung normal not applicable healthy tissue	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+D1_2	arrayexpress:E-MTAB-13530:D1_2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	donor_id	Donor 2	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_1 ERS17014164 SAMEA114630166 Homo sapiens Donor 2 534C 67 year adult male lung normal not applicable healthy tissue	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_1 ERS17014164 SAMEA114630166 Homo sapiens Donor 2 534C 67 year adult male lung normal not applicable healthy tissue	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_1 ERS17014164 SAMEA114630166 Homo sapiens Donor 2 534C 67 year adult male lung normal not applicable healthy tissue	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	disease_free_text	normal	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_1 ERS17014164 SAMEA114630166 Homo sapiens Donor 2 534C 67 year adult male lung normal not applicable healthy tissue	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	sampled_site_condition	healthy tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_1 ERS17014164 SAMEA114630166 Homo sapiens Donor 2 534C 67 year adult male lung normal not applicable healthy tissue	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_1 ERS17014164 SAMEA114630166 Homo sapiens Donor 2 534C 67 year adult male lung normal not applicable healthy tissue	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+D2_1	arrayexpress:E-MTAB-13530:D2_1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	donor_id	Donor 2	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_2 ERS17014165 SAMEA114630167 Homo sapiens Donor 2 534C 68 year adult male lung normal not applicable healthy tissue	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_2 ERS17014165 SAMEA114630167 Homo sapiens Donor 2 534C 68 year adult male lung normal not applicable healthy tissue	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_2 ERS17014165 SAMEA114630167 Homo sapiens Donor 2 534C 68 year adult male lung normal not applicable healthy tissue	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	disease_free_text	normal	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_2 ERS17014165 SAMEA114630167 Homo sapiens Donor 2 534C 68 year adult male lung normal not applicable healthy tissue	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	sampled_site_condition	healthy tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_2 ERS17014165 SAMEA114630167 Homo sapiens Donor 2 534C 68 year adult male lung normal not applicable healthy tissue	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		D2_2 ERS17014165 SAMEA114630167 Homo sapiens Donor 2 534C 68 year adult male lung normal not applicable healthy tissue	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+D2_2	arrayexpress:E-MTAB-13530:D2_2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	donor_id	Patient 10	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B1 ERS17014166 SAMEA114630168 Homo sapiens Patient 10 TB20.0240 76 year adult female lung lung adenocarcinoma T3N0M4 normal tissue adjacent to tumor	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B1 ERS17014166 SAMEA114630168 Homo sapiens Patient 10 TB20.0240 76 year adult female lung lung adenocarcinoma T3N0M4 normal tissue adjacent to tumor	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B1 ERS17014166 SAMEA114630168 Homo sapiens Patient 10 TB20.0240 76 year adult female lung lung adenocarcinoma T3N0M4 normal tissue adjacent to tumor	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B1 ERS17014166 SAMEA114630168 Homo sapiens Patient 10 TB20.0240 76 year adult female lung lung adenocarcinoma T3N0M4 normal tissue adjacent to tumor	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B1 ERS17014166 SAMEA114630168 Homo sapiens Patient 10 TB20.0240 76 year adult female lung lung adenocarcinoma T3N0M4 normal tissue adjacent to tumor	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B1 ERS17014166 SAMEA114630168 Homo sapiens Patient 10 TB20.0240 76 year adult female lung lung adenocarcinoma T3N0M4 normal tissue adjacent to tumor	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P10_B1	arrayexpress:E-MTAB-13530:P10_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	donor_id	Patient 10	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B2 ERS17014167 SAMEA114630169 Homo sapiens Patient 10 TB20.0240 77 year adult female lung lung adenocarcinoma T3N0M5 normal tissue adjacent to tumor	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B2 ERS17014167 SAMEA114630169 Homo sapiens Patient 10 TB20.0240 77 year adult female lung lung adenocarcinoma T3N0M5 normal tissue adjacent to tumor	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B2 ERS17014167 SAMEA114630169 Homo sapiens Patient 10 TB20.0240 77 year adult female lung lung adenocarcinoma T3N0M5 normal tissue adjacent to tumor	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B2 ERS17014167 SAMEA114630169 Homo sapiens Patient 10 TB20.0240 77 year adult female lung lung adenocarcinoma T3N0M5 normal tissue adjacent to tumor	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B2 ERS17014167 SAMEA114630169 Homo sapiens Patient 10 TB20.0240 77 year adult female lung lung adenocarcinoma T3N0M5 normal tissue adjacent to tumor	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_B2 ERS17014167 SAMEA114630169 Homo sapiens Patient 10 TB20.0240 77 year adult female lung lung adenocarcinoma T3N0M5 normal tissue adjacent to tumor	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P10_B2	arrayexpress:E-MTAB-13530:P10_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	donor_id	Patient 10	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T1 ERS17014168 SAMEA114630170 Homo sapiens Patient 10 TB20.0240 72 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T1 ERS17014168 SAMEA114630170 Homo sapiens Patient 10 TB20.0240 72 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T1 ERS17014168 SAMEA114630170 Homo sapiens Patient 10 TB20.0240 72 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T1 ERS17014168 SAMEA114630170 Homo sapiens Patient 10 TB20.0240 72 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T1 ERS17014168 SAMEA114630170 Homo sapiens Patient 10 TB20.0240 72 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T1 ERS17014168 SAMEA114630170 Homo sapiens Patient 10 TB20.0240 72 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P10_T1	arrayexpress:E-MTAB-13530:P10_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	donor_id	Patient 10	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T2 ERS17014169 SAMEA114630171 Homo sapiens Patient 10 TB20.0240 73 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T2 ERS17014169 SAMEA114630171 Homo sapiens Patient 10 TB20.0240 73 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T2 ERS17014169 SAMEA114630171 Homo sapiens Patient 10 TB20.0240 73 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T2 ERS17014169 SAMEA114630171 Homo sapiens Patient 10 TB20.0240 73 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T2 ERS17014169 SAMEA114630171 Homo sapiens Patient 10 TB20.0240 73 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T2 ERS17014169 SAMEA114630171 Homo sapiens Patient 10 TB20.0240 73 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P10_T2	arrayexpress:E-MTAB-13530:P10_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	donor_id	Patient 10	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T3 ERS17014170 SAMEA114630172 Homo sapiens Patient 10 TB20.0240 74 year adult female lung lung adenocarcinoma T3N0M2 tumor	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T3 ERS17014170 SAMEA114630172 Homo sapiens Patient 10 TB20.0240 74 year adult female lung lung adenocarcinoma T3N0M2 tumor	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T3 ERS17014170 SAMEA114630172 Homo sapiens Patient 10 TB20.0240 74 year adult female lung lung adenocarcinoma T3N0M2 tumor	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T3 ERS17014170 SAMEA114630172 Homo sapiens Patient 10 TB20.0240 74 year adult female lung lung adenocarcinoma T3N0M2 tumor	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T3 ERS17014170 SAMEA114630172 Homo sapiens Patient 10 TB20.0240 74 year adult female lung lung adenocarcinoma T3N0M2 tumor	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T3 ERS17014170 SAMEA114630172 Homo sapiens Patient 10 TB20.0240 74 year adult female lung lung adenocarcinoma T3N0M2 tumor	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P10_T3	arrayexpress:E-MTAB-13530:P10_T3	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	donor_id	Patient 10	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T4 ERS17014171 SAMEA114630173 Homo sapiens Patient 10 TB20.0240 75 year adult female lung lung adenocarcinoma T3N0M3 tumor	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T4 ERS17014171 SAMEA114630173 Homo sapiens Patient 10 TB20.0240 75 year adult female lung lung adenocarcinoma T3N0M3 tumor	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T4 ERS17014171 SAMEA114630173 Homo sapiens Patient 10 TB20.0240 75 year adult female lung lung adenocarcinoma T3N0M3 tumor	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T4 ERS17014171 SAMEA114630173 Homo sapiens Patient 10 TB20.0240 75 year adult female lung lung adenocarcinoma T3N0M3 tumor	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T4 ERS17014171 SAMEA114630173 Homo sapiens Patient 10 TB20.0240 75 year adult female lung lung adenocarcinoma T3N0M3 tumor	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P10_T4 ERS17014171 SAMEA114630173 Homo sapiens Patient 10 TB20.0240 75 year adult female lung lung adenocarcinoma T3N0M3 tumor	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P10_T4	arrayexpress:E-MTAB-13530:P10_T4	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	donor_id	Patient 11	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B1 ERS17014172 SAMEA114630174 Homo sapiens Patient 11 TB20.0273 85 year adult male lung lung squamous cell carcinoma T2bN0M4 normal tissue adjacent to tumor	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B1 ERS17014172 SAMEA114630174 Homo sapiens Patient 11 TB20.0273 85 year adult male lung lung squamous cell carcinoma T2bN0M4 normal tissue adjacent to tumor	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B1 ERS17014172 SAMEA114630174 Homo sapiens Patient 11 TB20.0273 85 year adult male lung lung squamous cell carcinoma T2bN0M4 normal tissue adjacent to tumor	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B1 ERS17014172 SAMEA114630174 Homo sapiens Patient 11 TB20.0273 85 year adult male lung lung squamous cell carcinoma T2bN0M4 normal tissue adjacent to tumor	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B1 ERS17014172 SAMEA114630174 Homo sapiens Patient 11 TB20.0273 85 year adult male lung lung squamous cell carcinoma T2bN0M4 normal tissue adjacent to tumor	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B1 ERS17014172 SAMEA114630174 Homo sapiens Patient 11 TB20.0273 85 year adult male lung lung squamous cell carcinoma T2bN0M4 normal tissue adjacent to tumor	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P11_B1	arrayexpress:E-MTAB-13530:P11_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	donor_id	Patient 11	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B2 ERS17014173 SAMEA114630175 Homo sapiens Patient 11 TB20.0273 86 year adult male lung lung squamous cell carcinoma T2bN0M5 normal tissue adjacent to tumor	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B2 ERS17014173 SAMEA114630175 Homo sapiens Patient 11 TB20.0273 86 year adult male lung lung squamous cell carcinoma T2bN0M5 normal tissue adjacent to tumor	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B2 ERS17014173 SAMEA114630175 Homo sapiens Patient 11 TB20.0273 86 year adult male lung lung squamous cell carcinoma T2bN0M5 normal tissue adjacent to tumor	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B2 ERS17014173 SAMEA114630175 Homo sapiens Patient 11 TB20.0273 86 year adult male lung lung squamous cell carcinoma T2bN0M5 normal tissue adjacent to tumor	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B2 ERS17014173 SAMEA114630175 Homo sapiens Patient 11 TB20.0273 86 year adult male lung lung squamous cell carcinoma T2bN0M5 normal tissue adjacent to tumor	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_B2 ERS17014173 SAMEA114630175 Homo sapiens Patient 11 TB20.0273 86 year adult male lung lung squamous cell carcinoma T2bN0M5 normal tissue adjacent to tumor	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P11_B2	arrayexpress:E-MTAB-13530:P11_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	donor_id	Patient 11	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T1 ERS17014174 SAMEA114630176 Homo sapiens Patient 11 TB20.0273 81 year adult male lung lung squamous cell carcinoma T2bN0M0 tumor	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T1 ERS17014174 SAMEA114630176 Homo sapiens Patient 11 TB20.0273 81 year adult male lung lung squamous cell carcinoma T2bN0M0 tumor	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T1 ERS17014174 SAMEA114630176 Homo sapiens Patient 11 TB20.0273 81 year adult male lung lung squamous cell carcinoma T2bN0M0 tumor	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T1 ERS17014174 SAMEA114630176 Homo sapiens Patient 11 TB20.0273 81 year adult male lung lung squamous cell carcinoma T2bN0M0 tumor	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T1 ERS17014174 SAMEA114630176 Homo sapiens Patient 11 TB20.0273 81 year adult male lung lung squamous cell carcinoma T2bN0M0 tumor	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T1 ERS17014174 SAMEA114630176 Homo sapiens Patient 11 TB20.0273 81 year adult male lung lung squamous cell carcinoma T2bN0M0 tumor	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P11_T1	arrayexpress:E-MTAB-13530:P11_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	donor_id	Patient 11	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T2 ERS17014175 SAMEA114630177 Homo sapiens Patient 11 TB20.0273 82 year adult male lung lung squamous cell carcinoma T2bN0M1 tumor	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T2 ERS17014175 SAMEA114630177 Homo sapiens Patient 11 TB20.0273 82 year adult male lung lung squamous cell carcinoma T2bN0M1 tumor	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T2 ERS17014175 SAMEA114630177 Homo sapiens Patient 11 TB20.0273 82 year adult male lung lung squamous cell carcinoma T2bN0M1 tumor	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T2 ERS17014175 SAMEA114630177 Homo sapiens Patient 11 TB20.0273 82 year adult male lung lung squamous cell carcinoma T2bN0M1 tumor	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T2 ERS17014175 SAMEA114630177 Homo sapiens Patient 11 TB20.0273 82 year adult male lung lung squamous cell carcinoma T2bN0M1 tumor	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T2 ERS17014175 SAMEA114630177 Homo sapiens Patient 11 TB20.0273 82 year adult male lung lung squamous cell carcinoma T2bN0M1 tumor	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P11_T2	arrayexpress:E-MTAB-13530:P11_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	donor_id	Patient 11	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T3 ERS17014176 SAMEA114630178 Homo sapiens Patient 11 TB20.0273 83 year adult male lung lung squamous cell carcinoma T2bN0M2 tumor	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T3 ERS17014176 SAMEA114630178 Homo sapiens Patient 11 TB20.0273 83 year adult male lung lung squamous cell carcinoma T2bN0M2 tumor	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T3 ERS17014176 SAMEA114630178 Homo sapiens Patient 11 TB20.0273 83 year adult male lung lung squamous cell carcinoma T2bN0M2 tumor	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T3 ERS17014176 SAMEA114630178 Homo sapiens Patient 11 TB20.0273 83 year adult male lung lung squamous cell carcinoma T2bN0M2 tumor	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T3 ERS17014176 SAMEA114630178 Homo sapiens Patient 11 TB20.0273 83 year adult male lung lung squamous cell carcinoma T2bN0M2 tumor	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T3 ERS17014176 SAMEA114630178 Homo sapiens Patient 11 TB20.0273 83 year adult male lung lung squamous cell carcinoma T2bN0M2 tumor	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P11_T3	arrayexpress:E-MTAB-13530:P11_T3	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	donor_id	Patient 11	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T4 ERS17014177 SAMEA114630179 Homo sapiens Patient 11 TB20.0273 84 year adult male lung lung squamous cell carcinoma T2bN0M3 tumor	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T4 ERS17014177 SAMEA114630179 Homo sapiens Patient 11 TB20.0273 84 year adult male lung lung squamous cell carcinoma T2bN0M3 tumor	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T4 ERS17014177 SAMEA114630179 Homo sapiens Patient 11 TB20.0273 84 year adult male lung lung squamous cell carcinoma T2bN0M3 tumor	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T4 ERS17014177 SAMEA114630179 Homo sapiens Patient 11 TB20.0273 84 year adult male lung lung squamous cell carcinoma T2bN0M3 tumor	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T4 ERS17014177 SAMEA114630179 Homo sapiens Patient 11 TB20.0273 84 year adult male lung lung squamous cell carcinoma T2bN0M3 tumor	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P11_T4 ERS17014177 SAMEA114630179 Homo sapiens Patient 11 TB20.0273 84 year adult male lung lung squamous cell carcinoma T2bN0M3 tumor	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P11_T4	arrayexpress:E-MTAB-13530:P11_T4	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	donor_id	Patient 15	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B1 ERS17014178 SAMEA114630180 Homo sapiens Patient 15 TB20.0338 75 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B1 ERS17014178 SAMEA114630180 Homo sapiens Patient 15 TB20.0338 75 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B1 ERS17014178 SAMEA114630180 Homo sapiens Patient 15 TB20.0338 75 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B1 ERS17014178 SAMEA114630180 Homo sapiens Patient 15 TB20.0338 75 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B1 ERS17014178 SAMEA114630180 Homo sapiens Patient 15 TB20.0338 75 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B1 ERS17014178 SAMEA114630180 Homo sapiens Patient 15 TB20.0338 75 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P15_B1	arrayexpress:E-MTAB-13530:P15_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	donor_id	Patient 15	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B2 ERS17014179 SAMEA114630181 Homo sapiens Patient 15 TB20.0338 76 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B2 ERS17014179 SAMEA114630181 Homo sapiens Patient 15 TB20.0338 76 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B2 ERS17014179 SAMEA114630181 Homo sapiens Patient 15 TB20.0338 76 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B2 ERS17014179 SAMEA114630181 Homo sapiens Patient 15 TB20.0338 76 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B2 ERS17014179 SAMEA114630181 Homo sapiens Patient 15 TB20.0338 76 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_B2 ERS17014179 SAMEA114630181 Homo sapiens Patient 15 TB20.0338 76 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P15_B2	arrayexpress:E-MTAB-13530:P15_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	donor_id	Patient 15	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T1 ERS17014180 SAMEA114630182 Homo sapiens Patient 15 TB20.0338 73 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T1 ERS17014180 SAMEA114630182 Homo sapiens Patient 15 TB20.0338 73 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T1 ERS17014180 SAMEA114630182 Homo sapiens Patient 15 TB20.0338 73 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T1 ERS17014180 SAMEA114630182 Homo sapiens Patient 15 TB20.0338 73 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T1 ERS17014180 SAMEA114630182 Homo sapiens Patient 15 TB20.0338 73 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T1 ERS17014180 SAMEA114630182 Homo sapiens Patient 15 TB20.0338 73 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P15_T1	arrayexpress:E-MTAB-13530:P15_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	donor_id	Patient 15	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T2 ERS17014181 SAMEA114630183 Homo sapiens Patient 15 TB20.0338 74 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T2 ERS17014181 SAMEA114630183 Homo sapiens Patient 15 TB20.0338 74 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T2 ERS17014181 SAMEA114630183 Homo sapiens Patient 15 TB20.0338 74 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T2 ERS17014181 SAMEA114630183 Homo sapiens Patient 15 TB20.0338 74 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T2 ERS17014181 SAMEA114630183 Homo sapiens Patient 15 TB20.0338 74 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P15_T2 ERS17014181 SAMEA114630183 Homo sapiens Patient 15 TB20.0338 74 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P15_T2	arrayexpress:E-MTAB-13530:P15_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	donor_id	Patient 16	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B1 ERS17014182 SAMEA114630184 Homo sapiens Patient 16 TB20.0327 89 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B1 ERS17014182 SAMEA114630184 Homo sapiens Patient 16 TB20.0327 89 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B1 ERS17014182 SAMEA114630184 Homo sapiens Patient 16 TB20.0327 89 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B1 ERS17014182 SAMEA114630184 Homo sapiens Patient 16 TB20.0327 89 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B1 ERS17014182 SAMEA114630184 Homo sapiens Patient 16 TB20.0327 89 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B1 ERS17014182 SAMEA114630184 Homo sapiens Patient 16 TB20.0327 89 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P16_B1	arrayexpress:E-MTAB-13530:P16_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	donor_id	Patient 16	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B2 ERS17014183 SAMEA114630185 Homo sapiens Patient 16 TB20.0327 90 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B2 ERS17014183 SAMEA114630185 Homo sapiens Patient 16 TB20.0327 90 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B2 ERS17014183 SAMEA114630185 Homo sapiens Patient 16 TB20.0327 90 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B2 ERS17014183 SAMEA114630185 Homo sapiens Patient 16 TB20.0327 90 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B2 ERS17014183 SAMEA114630185 Homo sapiens Patient 16 TB20.0327 90 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_B2 ERS17014183 SAMEA114630185 Homo sapiens Patient 16 TB20.0327 90 year adult female lung lung adenocarcinoma T2bN0M0 normal tissue adjacent to tumor	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P16_B2	arrayexpress:E-MTAB-13530:P16_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	donor_id	Patient 16	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T1 ERS17014184 SAMEA114630186 Homo sapiens Patient 16 TB20.0327 87 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T1 ERS17014184 SAMEA114630186 Homo sapiens Patient 16 TB20.0327 87 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T1 ERS17014184 SAMEA114630186 Homo sapiens Patient 16 TB20.0327 87 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T1 ERS17014184 SAMEA114630186 Homo sapiens Patient 16 TB20.0327 87 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T1 ERS17014184 SAMEA114630186 Homo sapiens Patient 16 TB20.0327 87 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T1 ERS17014184 SAMEA114630186 Homo sapiens Patient 16 TB20.0327 87 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P16_T1	arrayexpress:E-MTAB-13530:P16_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	donor_id	Patient 16	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T2 ERS17014185 SAMEA114630187 Homo sapiens Patient 16 TB20.0327 88 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T2 ERS17014185 SAMEA114630187 Homo sapiens Patient 16 TB20.0327 88 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T2 ERS17014185 SAMEA114630187 Homo sapiens Patient 16 TB20.0327 88 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T2 ERS17014185 SAMEA114630187 Homo sapiens Patient 16 TB20.0327 88 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T2 ERS17014185 SAMEA114630187 Homo sapiens Patient 16 TB20.0327 88 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P16_T2 ERS17014185 SAMEA114630187 Homo sapiens Patient 16 TB20.0327 88 year adult female lung lung adenocarcinoma T2bN0M0 tumor	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P16_T2	arrayexpress:E-MTAB-13530:P16_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	donor_id	Patient 17	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	disease_free_text	non-small cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B1 ERS17014186 SAMEA114630188 Homo sapiens Patient 17 TB20.0409 67 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P17_B1	arrayexpress:E-MTAB-13530:P17_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	donor_id	Patient 17	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	disease_free_text	non-small cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_B2 ERS17014187 SAMEA114630189 Homo sapiens Patient 17 TB20.0409 68 year adult male lung non-small cell carcinoma T2aN0M0 normal tissue adjacent to tumor	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P17_B2	arrayexpress:E-MTAB-13530:P17_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	donor_id	Patient 17	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	disease_free_text	non-small cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T1 ERS17014188 SAMEA114630190 Homo sapiens Patient 17 TB20.0409 65 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P17_T1	arrayexpress:E-MTAB-13530:P17_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	donor_id	Patient 17	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	disease_free_text	non-small cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	disease_ontology_term_id	MONDO:0005233	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P17_T2 ERS17014189 SAMEA114630191 Homo sapiens Patient 17 TB20.0409 66 year adult male lung non-small cell carcinoma T2aN0M0 tumor	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P17_T2	arrayexpress:E-MTAB-13530:P17_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	donor_id	Patient 19	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B1 ERS17014190 SAMEA114630192 Homo sapiens Patient 19 TB21.0008 80 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B1 ERS17014190 SAMEA114630192 Homo sapiens Patient 19 TB21.0008 80 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B1 ERS17014190 SAMEA114630192 Homo sapiens Patient 19 TB21.0008 80 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B1 ERS17014190 SAMEA114630192 Homo sapiens Patient 19 TB21.0008 80 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B1 ERS17014190 SAMEA114630192 Homo sapiens Patient 19 TB21.0008 80 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B1 ERS17014190 SAMEA114630192 Homo sapiens Patient 19 TB21.0008 80 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P19_B1	arrayexpress:E-MTAB-13530:P19_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	donor_id	Patient 19	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B2 ERS17014191 SAMEA114630193 Homo sapiens Patient 19 TB21.0008 81 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B2 ERS17014191 SAMEA114630193 Homo sapiens Patient 19 TB21.0008 81 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B2 ERS17014191 SAMEA114630193 Homo sapiens Patient 19 TB21.0008 81 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B2 ERS17014191 SAMEA114630193 Homo sapiens Patient 19 TB21.0008 81 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B2 ERS17014191 SAMEA114630193 Homo sapiens Patient 19 TB21.0008 81 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_B2 ERS17014191 SAMEA114630193 Homo sapiens Patient 19 TB21.0008 81 year adult male lung lung squamous cell carcinoma T3M0No normal tissue adjacent to tumor	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P19_B2	arrayexpress:E-MTAB-13530:P19_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	donor_id	Patient 19	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T1 ERS17014192 SAMEA114630194 Homo sapiens Patient 19 TB21.0008 78 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T1 ERS17014192 SAMEA114630194 Homo sapiens Patient 19 TB21.0008 78 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T1 ERS17014192 SAMEA114630194 Homo sapiens Patient 19 TB21.0008 78 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T1 ERS17014192 SAMEA114630194 Homo sapiens Patient 19 TB21.0008 78 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T1 ERS17014192 SAMEA114630194 Homo sapiens Patient 19 TB21.0008 78 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T1 ERS17014192 SAMEA114630194 Homo sapiens Patient 19 TB21.0008 78 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P19_T1	arrayexpress:E-MTAB-13530:P19_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	donor_id	Patient 19	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T2 ERS17014193 SAMEA114630195 Homo sapiens Patient 19 TB21.0008 79 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T2 ERS17014193 SAMEA114630195 Homo sapiens Patient 19 TB21.0008 79 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T2 ERS17014193 SAMEA114630195 Homo sapiens Patient 19 TB21.0008 79 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	disease_free_text	lung squamous cell carcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T2 ERS17014193 SAMEA114630195 Homo sapiens Patient 19 TB21.0008 79 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T2 ERS17014193 SAMEA114630195 Homo sapiens Patient 19 TB21.0008 79 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P19_T2 ERS17014193 SAMEA114630195 Homo sapiens Patient 19 TB21.0008 79 year adult male lung lung squamous cell carcinoma T3M0No tumor	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P19_T2	arrayexpress:E-MTAB-13530:P19_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	donor_id	Patient 24	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B1 ERS17014194 SAMEA114630196 Homo sapiens Patient 24 TB21.0106 54 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B1 ERS17014194 SAMEA114630196 Homo sapiens Patient 24 TB21.0106 54 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B1 ERS17014194 SAMEA114630196 Homo sapiens Patient 24 TB21.0106 54 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B1 ERS17014194 SAMEA114630196 Homo sapiens Patient 24 TB21.0106 54 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B1 ERS17014194 SAMEA114630196 Homo sapiens Patient 24 TB21.0106 54 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B1 ERS17014194 SAMEA114630196 Homo sapiens Patient 24 TB21.0106 54 year adult female lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P24_B1	arrayexpress:E-MTAB-13530:P24_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	donor_id	Patient 24	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B2 ERS17014195 SAMEA114630197 Homo sapiens Patient 24 TB21.0106 55 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B2 ERS17014195 SAMEA114630197 Homo sapiens Patient 24 TB21.0106 55 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B2 ERS17014195 SAMEA114630197 Homo sapiens Patient 24 TB21.0106 55 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B2 ERS17014195 SAMEA114630197 Homo sapiens Patient 24 TB21.0106 55 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B2 ERS17014195 SAMEA114630197 Homo sapiens Patient 24 TB21.0106 55 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_B2 ERS17014195 SAMEA114630197 Homo sapiens Patient 24 TB21.0106 55 year adult female lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P24_B2	arrayexpress:E-MTAB-13530:P24_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	donor_id	Patient 24	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T1 ERS17014196 SAMEA114630198 Homo sapiens Patient 24 TB21.0106 52 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T1 ERS17014196 SAMEA114630198 Homo sapiens Patient 24 TB21.0106 52 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T1 ERS17014196 SAMEA114630198 Homo sapiens Patient 24 TB21.0106 52 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T1 ERS17014196 SAMEA114630198 Homo sapiens Patient 24 TB21.0106 52 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T1 ERS17014196 SAMEA114630198 Homo sapiens Patient 24 TB21.0106 52 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T1 ERS17014196 SAMEA114630198 Homo sapiens Patient 24 TB21.0106 52 year adult female lung lung adenocarcinoma T3N0M0 tumor	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P24_T1	arrayexpress:E-MTAB-13530:P24_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	donor_id	Patient 24	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T2 ERS17014197 SAMEA114630199 Homo sapiens Patient 24 TB21.0106 53 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	sex	female	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T2 ERS17014197 SAMEA114630199 Homo sapiens Patient 24 TB21.0106 53 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T2 ERS17014197 SAMEA114630199 Homo sapiens Patient 24 TB21.0106 53 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T2 ERS17014197 SAMEA114630199 Homo sapiens Patient 24 TB21.0106 53 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T2 ERS17014197 SAMEA114630199 Homo sapiens Patient 24 TB21.0106 53 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P24_T2 ERS17014197 SAMEA114630199 Homo sapiens Patient 24 TB21.0106 53 year adult female lung lung adenocarcinoma T3N0M1 tumor	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P24_T2	arrayexpress:E-MTAB-13530:P24_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	donor_id	Patient 25	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B1 ERS17014198 SAMEA114630200 Homo sapiens Patient 25 TB21.0111 66 year adult male lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B1 ERS17014198 SAMEA114630200 Homo sapiens Patient 25 TB21.0111 66 year adult male lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B1 ERS17014198 SAMEA114630200 Homo sapiens Patient 25 TB21.0111 66 year adult male lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B1 ERS17014198 SAMEA114630200 Homo sapiens Patient 25 TB21.0111 66 year adult male lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B1 ERS17014198 SAMEA114630200 Homo sapiens Patient 25 TB21.0111 66 year adult male lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B1 ERS17014198 SAMEA114630200 Homo sapiens Patient 25 TB21.0111 66 year adult male lung lung adenocarcinoma T3N0M2 normal tissue adjacent to tumor	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P25_B1	arrayexpress:E-MTAB-13530:P25_B1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	donor_id	Patient 25	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B2 ERS17014199 SAMEA114630201 Homo sapiens Patient 25 TB21.0111 67 year adult male lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B2 ERS17014199 SAMEA114630201 Homo sapiens Patient 25 TB21.0111 67 year adult male lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B2 ERS17014199 SAMEA114630201 Homo sapiens Patient 25 TB21.0111 67 year adult male lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B2 ERS17014199 SAMEA114630201 Homo sapiens Patient 25 TB21.0111 67 year adult male lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	sampled_site_condition	normal tissue adjacent to tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B2 ERS17014199 SAMEA114630201 Homo sapiens Patient 25 TB21.0111 67 year adult male lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_B2 ERS17014199 SAMEA114630201 Homo sapiens Patient 25 TB21.0111 67 year adult male lung lung adenocarcinoma T3N0M3 normal tissue adjacent to tumor	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P25_B2	arrayexpress:E-MTAB-13530:P25_B2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	donor_id	Patient 25	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T1 ERS17014200 SAMEA114630202 Homo sapiens Patient 25 TB21.0111 64 year adult male lung lung adenocarcinoma T3N0M0 tumor	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T1 ERS17014200 SAMEA114630202 Homo sapiens Patient 25 TB21.0111 64 year adult male lung lung adenocarcinoma T3N0M0 tumor	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T1 ERS17014200 SAMEA114630202 Homo sapiens Patient 25 TB21.0111 64 year adult male lung lung adenocarcinoma T3N0M0 tumor	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T1 ERS17014200 SAMEA114630202 Homo sapiens Patient 25 TB21.0111 64 year adult male lung lung adenocarcinoma T3N0M0 tumor	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T1 ERS17014200 SAMEA114630202 Homo sapiens Patient 25 TB21.0111 64 year adult male lung lung adenocarcinoma T3N0M0 tumor	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T1 ERS17014200 SAMEA114630202 Homo sapiens Patient 25 TB21.0111 64 year adult male lung lung adenocarcinoma T3N0M0 tumor	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P25_T1	arrayexpress:E-MTAB-13530:P25_T1	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	donor_id	Patient 25	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T2 ERS17014201 SAMEA114630203 Homo sapiens Patient 25 TB21.0111 65 year adult male lung lung adenocarcinoma T3N0M1 tumor	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	sex	male	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T2 ERS17014201 SAMEA114630203 Homo sapiens Patient 25 TB21.0111 65 year adult male lung lung adenocarcinoma T3N0M1 tumor	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	tissue_free_text	lung	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T2 ERS17014201 SAMEA114630203 Homo sapiens Patient 25 TB21.0111 65 year adult male lung lung adenocarcinoma T3N0M1 tumor	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	disease_free_text	lung adenocarcinoma	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T2 ERS17014201 SAMEA114630203 Homo sapiens Patient 25 TB21.0111 65 year adult male lung lung adenocarcinoma T3N0M1 tumor	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	sampled_site_condition	tumor	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T2 ERS17014201 SAMEA114630203 Homo sapiens Patient 25 TB21.0111 65 year adult male lung lung adenocarcinoma T3N0M1 tumor	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	tissue_type	tissue	file	raw/fp-4e42e780398f/E-MTAB-13530.sdrf.txt		P25_T2 ERS17014201 SAMEA114630203 Homo sapiens Patient 25 TB21.0111 65 year adult male lung lung adenocarcinoma T3N0M1 tumor	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	suspension_type	na	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	assay	10x Visium	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		10x Visium	True
+P25_T2	arrayexpress:E-MTAB-13530:P25_T2	sample_preservation	frozen (dry-ice cooled isopentane, -80°C)	file	raw/fp-4e42e780398f/E-MTAB-13530.idf.txt		Tissues were frozen in dry-ice cooled isopentane and stored in air-tight tissue cryovials at -80°C.	True

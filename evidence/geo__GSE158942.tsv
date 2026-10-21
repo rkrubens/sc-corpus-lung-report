@@ -1,0 +1,20 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+nextseq1.Sample1	geo:GSE158942:nextseq1.Sample1	disease_ontology_term_id	PATO:0000461	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816087	diagnosis: Healthy	True
+nextseq1.Sample1	geo:GSE158942:nextseq1.Sample1	disease_free_text	Healthy	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816087	diagnosis: Healthy	True
+nextseq1.Sample1	geo:GSE158942:nextseq1.Sample1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816087	Freshly isolated human lung cells from proximal tissue	True
+nextseq1.Sample1	geo:GSE158942:nextseq1.Sample1	tissue_free_text	Biopsy	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816087	tissue: Biopsy	True
+nextseq1.Sample1	geo:GSE158942:nextseq1.Sample1	cell_enrichment	CD45 depletion	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816087	after red blood cell lysis and CD45 depletion	True
+nextseq1.Sample1	geo:GSE158942:nextseq1.Sample1	suspension_type	cell	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816087	Freshly isolated human lung cells from proximal tissue	True
+nextseq3.sample	geo:GSE158942:nextseq3.sample	disease_ontology_term_id	PATO:0000461	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816088	diagnosis: Healthy	True
+nextseq3.sample	geo:GSE158942:nextseq3.sample	disease_free_text	Healthy	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816088	diagnosis: Healthy	True
+nextseq3.sample	geo:GSE158942:nextseq3.sample	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816088	Freshly isolated human lung cells from proximal tissue	True
+nextseq3.sample	geo:GSE158942:nextseq3.sample	tissue_free_text	Proximal lung donor tissue	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816088	tissue: Proximal lung donor tissue	True
+nextseq3.sample	geo:GSE158942:nextseq3.sample	cell_enrichment	CD45 depletion	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816088	after red blood cell lysis and CD45 depletion	True
+nextseq3.sample	geo:GSE158942:nextseq3.sample	suspension_type	cell	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816088	Freshly isolated human lung cells from proximal tissue	True
+nextseq1.Sample2	geo:GSE158942:nextseq1.Sample2	disease_ontology_term_id	MONDO:0005002	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816089	diagnosis: COPD GOLD IV	True
+nextseq1.Sample2	geo:GSE158942:nextseq1.Sample2	disease_free_text	COPD GOLD IV	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816089	diagnosis: COPD GOLD IV	True
+nextseq1.Sample2	geo:GSE158942:nextseq1.Sample2	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816089	Freshly isolated human lung cells from proximal tissue	True
+nextseq1.Sample2	geo:GSE158942:nextseq1.Sample2	tissue_free_text	Biopsy	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816089	tissue: Biopsy	True
+nextseq1.Sample2	geo:GSE158942:nextseq1.Sample2	cell_enrichment	CD45 depletion	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816089	after red blood cell lysis and CD45 depletion	True
+nextseq1.Sample2	geo:GSE158942:nextseq1.Sample2	suspension_type	cell	file	raw/fp-e28dc2d4f59e/GSE158942_family.soft.gz	GSM4816089	Freshly isolated human lung cells from proximal tissue	True

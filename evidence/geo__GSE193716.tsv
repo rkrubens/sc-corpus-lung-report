@@ -1,0 +1,46 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5819129	geo:GSE193716:GSM5819129	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5819130	geo:GSE193716:GSM5819130	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5819131	geo:GSE193716:GSM5819131	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+GSM5819132	geo:GSE193716:GSM5819132	assay_ontology_term_id	EFO:0030003	derived	ols:efo		10x 3' transcription profiling	True
+		organism	Homo sapiens	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5819129	geo:GSE193716:GSM5819129	donor_id	PL2	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_title = CG5: 1˚ AEC2s (cultured; P0 PL2)	True
+GSM5819129	geo:GSE193716:GSM5819129	tissue_free_text	distal lung	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819129	geo:GSE193716:GSM5819129	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819129	geo:GSE193716:GSM5819129	disease_free_text	no history of respiratory disease	file	evidence/PMC9870086.txt		human lung specimens, with no history of respiratory disease	True
+GSM5819129	geo:GSE193716:GSM5819129	development_stage	adult	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_characteristics_ch1 = developmental stage: adult	True
+GSM5819129	geo:GSE193716:GSM5819129	suspension_type	cell	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_extract_protocol_ch1 = single cells were captured for sequencing library prepration using a 10X Chromium	True
+GSM5819129	geo:GSE193716:GSM5819129	cell_enrichment	FACS-purified live EPCAM+ cells	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_characteristics_ch1 = isolation method: FACS purification for live EPCAM+ cells	True
+GSM5819129	geo:GSE193716:GSM5819129	tissue_type	cell culture	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_source_name_ch1 = EPCAM+/HTII-280+ FACS purified 1˚ AEC2s cultured with MRC5 fibroblasts	True
+GSM5819129	geo:GSE193716:GSM5819129	assay	10x 3' transcription profiling	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_extract_protocol_ch1 = 3' RNA-seq single cells	True
+GSM5819129	geo:GSE193716:GSM5819129	timepoint	P0	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819129	!Sample_title = CG5: 1˚ AEC2s (cultured; P0 PL2)	True
+GSM5819130	geo:GSE193716:GSM5819130	donor_id	PL1	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_title = CG6: 1˚ AEC2s (cultured; P0 PL1)	True
+GSM5819130	geo:GSE193716:GSM5819130	tissue_free_text	distal lung	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819130	geo:GSE193716:GSM5819130	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819130	geo:GSE193716:GSM5819130	disease_free_text	no history of respiratory disease	file	evidence/PMC9870086.txt		human lung specimens, with no history of respiratory disease	True
+GSM5819130	geo:GSE193716:GSM5819130	development_stage	adult	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_characteristics_ch1 = developmental stage: adult	True
+GSM5819130	geo:GSE193716:GSM5819130	suspension_type	cell	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_extract_protocol_ch1 = single cells were captured for sequencing library prepration using a 10X Chromium	True
+GSM5819130	geo:GSE193716:GSM5819130	cell_enrichment	FACS-purified live EPCAM+ cells	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_characteristics_ch1 = isolation method: FACS purification for live EPCAM+ cells	True
+GSM5819130	geo:GSE193716:GSM5819130	tissue_type	cell culture	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_source_name_ch1 = EPCAM+/HTII-280+ FACS purified 1˚ AEC2s cultured with MRC5 fibroblasts	True
+GSM5819130	geo:GSE193716:GSM5819130	assay	10x 3' transcription profiling	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_extract_protocol_ch1 = 3' RNA-seq single cells	True
+GSM5819130	geo:GSE193716:GSM5819130	timepoint	P0	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819130	!Sample_title = CG6: 1˚ AEC2s (cultured; P0 PL1)	True
+GSM5819131	geo:GSE193716:GSM5819131	donor_id	PL2	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819131	!Sample_title = CG7: 1˚ AEC2s (pre-culture; PL2)	True
+GSM5819131	geo:GSE193716:GSM5819131	tissue_free_text	distal lung	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819131	geo:GSE193716:GSM5819131	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819131	geo:GSE193716:GSM5819131	disease_free_text	no history of respiratory disease	file	evidence/PMC9870086.txt		human lung specimens, with no history of respiratory disease	True
+GSM5819131	geo:GSE193716:GSM5819131	development_stage	adult	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819131	!Sample_characteristics_ch1 = developmental stage: adult	True
+GSM5819131	geo:GSE193716:GSM5819131	suspension_type	cell	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819131	!Sample_extract_protocol_ch1 = single cells were captured for sequencing library prepration using a 10X Chromium	True
+GSM5819131	geo:GSE193716:GSM5819131	cell_enrichment	FACS-purified live EPCAM+/HTII-280+ cells	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819131	!Sample_characteristics_ch1 = isolation method: FACS purification for live EPCAM+/HTII-280+ cells	True
+GSM5819131	geo:GSE193716:GSM5819131	tissue_type	tissue	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819131	!Sample_source_name_ch1 = EPCAM+/HTII-280+ FACS purified 1˚ AEC2s	True
+GSM5819131	geo:GSE193716:GSM5819131	assay	10x 3' transcription profiling	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819131	!Sample_extract_protocol_ch1 = 3' RNA-seq single cells	True
+GSM5819131	geo:GSE193716:GSM5819131	sample_preservation	cryopreserved	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819132	geo:GSE193716:GSM5819132	donor_id	PL1	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819132	!Sample_title = CG8: 1˚ AEC2s (pre-culture; PL1)	True
+GSM5819132	geo:GSE193716:GSM5819132	tissue_free_text	distal lung	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819132	geo:GSE193716:GSM5819132	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True
+GSM5819132	geo:GSE193716:GSM5819132	disease_free_text	no history of respiratory disease	file	evidence/PMC9870086.txt		human lung specimens, with no history of respiratory disease	True
+GSM5819132	geo:GSE193716:GSM5819132	development_stage	adult	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819132	!Sample_characteristics_ch1 = developmental stage: adult	True
+GSM5819132	geo:GSE193716:GSM5819132	suspension_type	cell	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819132	!Sample_extract_protocol_ch1 = single cells were captured for sequencing library prepration using a 10X Chromium	True
+GSM5819132	geo:GSE193716:GSM5819132	cell_enrichment	FACS-purified live EPCAM+/HTII-280+ cells	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819132	!Sample_characteristics_ch1 = isolation method: FACS purification for live EPCAM+/HTII-280+ cells	True
+GSM5819132	geo:GSE193716:GSM5819132	tissue_type	tissue	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819132	!Sample_source_name_ch1 = EPCAM+/HTII-280+ FACS purified 1˚ AEC2s	True
+GSM5819132	geo:GSE193716:GSM5819132	assay	10x 3' transcription profiling	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz	GSM5819132	!Sample_extract_protocol_ch1 = 3' RNA-seq single cells	True
+GSM5819132	geo:GSE193716:GSM5819132	sample_preservation	cryopreserved	file	raw/fp-5b83bfac81c6/GSE193716_family.soft.gz		Distal lung preparations from adult donor lung explants from two individuals were cryopreserved	True

@@ -1,0 +1,5 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-34ae599729a5/GSE150766_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4558305	geo:GSE150766:GSM4558305	disease_free_text	relapsed small cell lung cancer (SCLC)	file	raw/fp-34ae599729a5/GSE150766_family.soft.gz	GSM4558305	!Sample_characteristics_ch1 = disease state: relapsed small cell lung cancer (SCLC)	True
+GSM4558305	geo:GSE150766:GSM4558305	tissue_free_text	liver biopsy	file	raw/fp-34ae599729a5/GSE150766_family.soft.gz	GSM4558305	!Sample_characteristics_ch1 = tissue: liver biopsy	True
+GSM4558305	geo:GSE150766:GSM4558305	treatment	initial treatment with carboplatin and etoposide; progressed on carboplatin-irinotecan	file	raw/fp-34ae599729a5/GSE150766_family.soft.gz	GSM4558305	!Sample_characteristics_ch1 = treatment: initial treatment with carboplatin and etoposide; progressed on carboplatin-irinotecan	True

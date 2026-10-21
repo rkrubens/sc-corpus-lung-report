@@ -1,0 +1,29 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+300142	geo:GSE344986:300142	donor_id	<column Patient>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/Patient			True
+300143	geo:GSE344986:300143	donor_id	<column Patient>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/Patient			True
+300145	geo:GSE344986:300145	donor_id	<column Patient>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/Patient			True
+300142	geo:GSE344986:300142	timepoint	<column Day>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/Day			True
+300143	geo:GSE344986:300143	timepoint	<column Day>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/Day			True
+300145	geo:GSE344986:300145	timepoint	<column Day>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/Day			True
+300142	geo:GSE344986:300142	author_cell_type	<column predicted.celltype.pred>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/predicted.celltype.pred			True
+300143	geo:GSE344986:300143	author_cell_type	<column predicted.celltype.pred>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/predicted.celltype.pred			True
+300145	geo:GSE344986:300145	author_cell_type	<column predicted.celltype.pred>	column	work/fp-313f58d6a396/GSE344986_mapped_converted/cell_metadata.tsv.gz/predicted.celltype.pred			True
+		organism	Homo sapiens	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+300142	geo:GSE344986:300142	tissue_free_text	lung organoid	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+300143	geo:GSE344986:300143	tissue_free_text	lung organoid	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+300145	geo:GSE344986:300145	tissue_free_text	lung organoid	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+300142	geo:GSE344986:300142	tissue_type	organoid	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+300143	geo:GSE344986:300143	tissue_type	organoid	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+300145	geo:GSE344986:300145	tissue_type	organoid	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+300142	geo:GSE344986:300142	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		long-term adult human distal lung organoids from intact tissue fragments	True
+300143	geo:GSE344986:300143	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		long-term adult human distal lung organoids from intact tissue fragments	True
+300145	geo:GSE344986:300145	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		long-term adult human distal lung organoids from intact tissue fragments	True
+300142	geo:GSE344986:300142	suspension_type	cell	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		single-cell suspensions from human lung organoids	True
+300143	geo:GSE344986:300143	suspension_type	cell	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		single-cell suspensions from human lung organoids	True
+300145	geo:GSE344986:300145	suspension_type	cell	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		single-cell suspensions from human lung organoids	True
+300142	geo:GSE344986:300142	timepoint	<map of column Day>	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = treatment: Day 91	True
+300143	geo:GSE344986:300143	timepoint	<map of column Day>	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = treatment: Day 91	True
+300145	geo:GSE344986:300145	timepoint	<map of column Day>	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = treatment: Day 91	True
+300142	geo:GSE344986:300142	timepoint	<map of column Day>	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = treatment: Day 85	True
+300143	geo:GSE344986:300143	timepoint	<map of column Day>	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = treatment: Day 85	True
+300145	geo:GSE344986:300145	timepoint	<map of column Day>	file	raw/fp-313f58d6a396/GSE344986_family.soft.gz		!Sample_characteristics_ch1 = treatment: Day 85	True

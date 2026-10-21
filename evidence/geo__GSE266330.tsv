@@ -1,0 +1,16 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-13f136314784/GSE266330_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8245049	geo:GSE266330:GSM8245049	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245049	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245049	geo:GSE266330:GSM8245049	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245049	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True
+GSM8245050	geo:GSE266330:GSM8245050	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245050	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245050	geo:GSE266330:GSM8245050	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245050	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True
+GSM8245051	geo:GSE266330:GSM8245051	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245051	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245051	geo:GSE266330:GSM8245051	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245051	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True
+GSM8245052	geo:GSE266330:GSM8245052	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245052	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245052	geo:GSE266330:GSM8245052	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245052	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True
+GSM8245053	geo:GSE266330:GSM8245053	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245053	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245053	geo:GSE266330:GSM8245053	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245053	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True
+GSM8245054	geo:GSE266330:GSM8245054	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245054	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245054	geo:GSE266330:GSM8245054	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245054	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True
+GSM8245055	geo:GSE266330:GSM8245055	tissue_free_text	Bone	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245055	!Sample_characteristics_ch1 = tissue: Bone	True
+GSM8245055	geo:GSE266330:GSM8245055	disease_free_text	lung cancer bone metastasis	file	raw/fp-13f136314784/GSE266330_family.soft.gz	GSM8245055	!Sample_characteristics_ch1 = group: lung cancer bone metastasis	True

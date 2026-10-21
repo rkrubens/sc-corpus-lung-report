@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8491849	geo:GSE276139:GSM8491849	tissue_ontology_term_id	UBERON:0001359	derived	ols:uberon		CSF	True
+GSM8491850	geo:GSE276139:GSM8491850	tissue_ontology_term_id	UBERON:0001359	derived	ols:uberon		CSF	True
+GSM8491851	geo:GSE276139:GSM8491851	tissue_ontology_term_id	UBERON:0001359	derived	ols:uberon		CSF	True
+GSM9505951	geo:GSE276139:GSM9505951	tissue_ontology_term_id	UBERON:0001359	derived	ols:uberon		CSF	True
+GSM9505952	geo:GSE276139:GSM9505952	tissue_ontology_term_id	UBERON:0001359	derived	ols:uberon		CSF	True
+GSM9505953	geo:GSE276139:GSM9505953	tissue_ontology_term_id	UBERON:0001359	derived	ols:uberon		CSF	True
+		organism	Homo sapiens	file	raw/fp-189f7897714d/GSE276139_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8491849	geo:GSE276139:GSM8491849	tissue_free_text	CSF	file	raw/fp-189f7897714d/GSE276139_family.soft.gz	GSM8491849	!Sample_characteristics_ch1 = tissue: CSF	True
+GSM8491850	geo:GSE276139:GSM8491850	tissue_free_text	CSF	file	raw/fp-189f7897714d/GSE276139_family.soft.gz	GSM8491850	!Sample_characteristics_ch1 = tissue: CSF	True
+GSM8491851	geo:GSE276139:GSM8491851	tissue_free_text	CSF	file	raw/fp-189f7897714d/GSE276139_family.soft.gz	GSM8491851	!Sample_characteristics_ch1 = tissue: CSF	True
+GSM9505951	geo:GSE276139:GSM9505951	tissue_free_text	CSF	file	raw/fp-189f7897714d/GSE276139_family.soft.gz	GSM9505951	!Sample_characteristics_ch1 = tissue: CSF	True
+GSM9505952	geo:GSE276139:GSM9505952	tissue_free_text	CSF	file	raw/fp-189f7897714d/GSE276139_family.soft.gz	GSM9505952	!Sample_characteristics_ch1 = tissue: CSF	True
+GSM9505953	geo:GSE276139:GSM9505953	tissue_free_text	CSF	file	raw/fp-189f7897714d/GSE276139_family.soft.gz	GSM9505953	!Sample_characteristics_ch1 = tissue: CSF	True

@@ -1,0 +1,11 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM5616018	geo:GSE185479:GSM5616018	disease_ontology_term_id	MONDO:0015924	derived	ols:mondo		pulmonary arterial hypertension	True
+GSM5616019	geo:GSE185479:GSM5616019	disease_ontology_term_id	MONDO:0015924	derived	ols:mondo		pulmonary arterial hypertension	True
+GSM5616020	geo:GSE185479:GSM5616020	disease_ontology_term_id	MONDO:0015924	derived	ols:mondo		pulmonary arterial hypertension	True
+		organism	Homo sapiens	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5616015	geo:GSE185479:GSM5616015	disease_free_text	healthy	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz	GSM5616015	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM5616016	geo:GSE185479:GSM5616016	disease_free_text	healthy	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz	GSM5616016	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM5616017	geo:GSE185479:GSM5616017	disease_free_text	healthy	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz	GSM5616017	!Sample_characteristics_ch1 = disease state: healthy	True
+GSM5616018	geo:GSE185479:GSM5616018	disease_free_text	pulmonary arterial hypertension	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz	GSM5616018	!Sample_characteristics_ch1 = disease state: pulmonary arterial hypertension	True
+GSM5616019	geo:GSE185479:GSM5616019	disease_free_text	pulmonary arterial hypertension	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz	GSM5616019	!Sample_characteristics_ch1 = disease state: pulmonary arterial hypertension	True
+GSM5616020	geo:GSE185479:GSM5616020	disease_free_text	pulmonary arterial hypertension	file	raw/fp-df9ffb5ee481/GSE185479_family.soft.gz	GSM5616020	!Sample_characteristics_ch1 = disease state: pulmonary arterial hypertension	True

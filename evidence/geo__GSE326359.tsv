@@ -1,0 +1,46 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9629861	geo:GSE326359:GSM9629861	treatment	<column treatment>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/treatment			True
+GSM9629862	geo:GSE326359:GSM9629862	treatment	<column treatment>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/treatment			True
+GSM9629866	geo:GSE326359:GSM9629866	treatment	<column treatment>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/treatment			True
+GSM9629872	geo:GSE326359:GSM9629872	treatment	<column treatment>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/treatment			True
+GSM9629861	geo:GSE326359:GSM9629861	donor_id	<column donor>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/donor			True
+GSM9629862	geo:GSE326359:GSM9629862	donor_id	<column donor>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/donor			True
+GSM9629866	geo:GSE326359:GSM9629866	donor_id	<column donor>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/donor			True
+GSM9629872	geo:GSE326359:GSM9629872	donor_id	<column donor>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/donor			True
+GSM9629861	geo:GSE326359:GSM9629861	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9629862	geo:GSE326359:GSM9629862	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9629866	geo:GSE326359:GSM9629866	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9629872	geo:GSE326359:GSM9629872	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM9629861	geo:GSE326359:GSM9629861	author_cell_type	<column celltype>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/celltype			True
+GSM9629862	geo:GSE326359:GSM9629862	author_cell_type	<column celltype>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/celltype			True
+GSM9629866	geo:GSE326359:GSM9629866	author_cell_type	<column celltype>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/celltype			True
+GSM9629872	geo:GSE326359:GSM9629872	author_cell_type	<column celltype>	column	work/fp-f7f3266de66d/derived/authors_cell_metadata_with_gsm.tsv.gz/celltype			True
+		organism	Homo sapiens	file	raw/fp-f7f3266de66d/portal_metadata.json		"""taxon"": ""Homo sapiens"""	True
+GSM9629861	geo:GSE326359:GSM9629861	tissue_free_text	lung organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629862	geo:GSE326359:GSM9629862	tissue_free_text	lung organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629866	geo:GSE326359:GSM9629866	tissue_free_text	lung organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629872	geo:GSE326359:GSM9629872	tissue_free_text	lung organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629861	geo:GSE326359:GSM9629861	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629862	geo:GSE326359:GSM9629862	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629866	geo:GSE326359:GSM9629866	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629872	geo:GSE326359:GSM9629872	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = tissue: lung organoid	True
+GSM9629861	geo:GSE326359:GSM9629861	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = cell line: primary	True
+GSM9629862	geo:GSE326359:GSM9629862	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = cell line: primary	True
+GSM9629866	geo:GSE326359:GSM9629866	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = cell line: primary	True
+GSM9629872	geo:GSE326359:GSM9629872	tissue_type	organoid	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_characteristics_ch1 = cell line: primary	True
+GSM9629861	geo:GSE326359:GSM9629861	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629862	geo:GSE326359:GSM9629862	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629866	geo:GSE326359:GSM9629866	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629872	geo:GSE326359:GSM9629872	tissue_ontology_term_id	UBERON:0002048	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629861	geo:GSE326359:GSM9629861	cell_enrichment	CD326+ epithelial cells	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629862	geo:GSE326359:GSM9629862	cell_enrichment	CD326+ epithelial cells	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629866	geo:GSE326359:GSM9629866	cell_enrichment	CD326+ epithelial cells	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629872	geo:GSE326359:GSM9629872	cell_enrichment	CD326+ epithelial cells	file	evidence/PMC13464018.txt		CD326 + epithelial cells isolated from peripheral lung tissue obtained from declined lung donors	True
+GSM9629861	geo:GSE326359:GSM9629861	suspension_type	cell	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		generate a single cell suspension	True
+GSM9629862	geo:GSE326359:GSM9629862	suspension_type	cell	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		generate a single cell suspension	True
+GSM9629866	geo:GSE326359:GSM9629866	suspension_type	cell	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		generate a single cell suspension	True
+GSM9629872	geo:GSE326359:GSM9629872	suspension_type	cell	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		generate a single cell suspension	True
+GSM9629861	geo:GSE326359:GSM9629861	assay	10x 3' v3	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_extract_protocol_ch1 = 10X 3' v3	True
+GSM9629862	geo:GSE326359:GSM9629862	assay	10x 3' v3	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_extract_protocol_ch1 = 10X 3' v3	True
+GSM9629866	geo:GSE326359:GSM9629866	assay	10x 3' v3	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_extract_protocol_ch1 = 10X 3' v3	True
+GSM9629872	geo:GSE326359:GSM9629872	assay	10x 3' v3	file	raw/fp-f7f3266de66d/GSE326359_family.soft.gz		!Sample_extract_protocol_ch1 = 10X 3' v3	True

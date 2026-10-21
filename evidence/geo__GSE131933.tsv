@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+T1D7	geo:GSE131933:T1D7	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+T1D7	geo:GSE131933:T1D7	author_cell_type	<column author_cell_type>	column	work/fp-30c2ca523cef/cells_T1D7.tsv/author_cell_type			True
+T1D0	geo:GSE131933:T1D0	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+T3D0	geo:GSE131933:T3D0	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+T1D0	geo:GSE131933:T1D0	author_cell_type	<column author_cell_type>	column	work/fp-30c2ca523cef/cells_T1T3D0.tsv/author_cell_type			True
+T3D0	geo:GSE131933:T3D0	author_cell_type	<column author_cell_type>	column	work/fp-30c2ca523cef/cells_T1T3D0.tsv/author_cell_type			True
+T3D11	geo:GSE131933:T3D11	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		non-small cell lung carcinoma	True
+T3D11	geo:GSE131933:T3D11	author_cell_type	<column author_cell_type>	column	work/fp-30c2ca523cef/cells_T3D11.tsv/author_cell_type			True
+		organism	Homo sapiens	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+T1D7	geo:GSE131933:T1D7	disease_free_text	non-small cell lung carcinoma	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T1D7	geo:GSE131933:T1D7	tissue_free_text	NSCLC tumor	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T1D7	geo:GSE131933:T1D7	sample_collection_method	needle biopsy	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = sample type: needle biopsy	True
+T1D7	geo:GSE131933:T1D7	timepoint	D7	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_description = processed data file: T1D7_gene_count.txt	True
+T1D0	geo:GSE131933:T1D0	disease_free_text	non-small cell lung carcinoma	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T3D0	geo:GSE131933:T3D0	disease_free_text	non-small cell lung carcinoma	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T1D0	geo:GSE131933:T1D0	tissue_free_text	NSCLC tumor	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T3D0	geo:GSE131933:T3D0	tissue_free_text	NSCLC tumor	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T1D0	geo:GSE131933:T1D0	sample_collection_method	needle biopsy	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = sample type: needle biopsy	True
+T3D0	geo:GSE131933:T3D0	sample_collection_method	needle biopsy	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = sample type: needle biopsy	True
+T1D0	geo:GSE131933:T1D0	timepoint	D0	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_description = processed data file: T1T3D0_gene_count.txt	True
+T3D0	geo:GSE131933:T3D0	timepoint	D0	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_description = processed data file: T1T3D0_gene_count.txt	True
+T3D11	geo:GSE131933:T3D11	disease_free_text	non-small cell lung carcinoma	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T3D11	geo:GSE131933:T3D11	tissue_free_text	NSCLC tumor	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = tissue: NSCLC tumor	True
+T3D11	geo:GSE131933:T3D11	sample_collection_method	needle biopsy	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_characteristics_ch1 = sample type: needle biopsy	True
+T3D11	geo:GSE131933:T3D11	timepoint	D11	file	raw/fp-30c2ca523cef/GSE131933_family.soft.gz		!Sample_description = processed data file: T3D11_gene_count.txt	True

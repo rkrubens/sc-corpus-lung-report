@@ -1,0 +1,77 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+W1	geo:GSE146100:W1	response	<column library>	column	work/fp-244481db9ac7/cell_library.tsv/library			True
+W2	geo:GSE146100:W2	response	<column library>	column	work/fp-244481db9ac7/cell_library.tsv/library			True
+W3	geo:GSE146100:W3	response	<column library>	column	work/fp-244481db9ac7/cell_library.tsv/library			True
+W1	geo:GSE146100:W1	disease_free_text	<column library>	column	work/fp-244481db9ac7/cell_library.tsv/library			True
+W2	geo:GSE146100:W2	disease_free_text	<column library>	column	work/fp-244481db9ac7/cell_library.tsv/library			True
+W3	geo:GSE146100:W3	disease_free_text	<column library>	column	work/fp-244481db9ac7/cell_library.tsv/library			True
+W1	geo:GSE146100:W1	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+W2	geo:GSE146100:W2	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+W3	geo:GSE146100:W3	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+W1	geo:GSE146100:W1	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+W2	geo:GSE146100:W2	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+W3	geo:GSE146100:W3	development_stage_ontology_term_id	HsapDv:0000166	derived	age_in_years:'72-year-old stage':ols:hsapdv		72	True
+		organism	Homo sapiens	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+W1	geo:GSE146100:W1	donor_id	patient1	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		single-cell RNA sequencing in one multiple lung nodules patient treated with pembrolizumab	True
+W2	geo:GSE146100:W2	donor_id	patient1	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		single-cell RNA sequencing in one multiple lung nodules patient treated with pembrolizumab	True
+W3	geo:GSE146100:W3	donor_id	patient1	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		single-cell RNA sequencing in one multiple lung nodules patient treated with pembrolizumab	True
+W1	geo:GSE146100:W1	age	72	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = age: 72	True
+W2	geo:GSE146100:W2	age	72	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = age: 72	True
+W3	geo:GSE146100:W3	age	72	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = age: 72	True
+W1	geo:GSE146100:W1	tissue_free_text	Lung	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+W2	geo:GSE146100:W2	tissue_free_text	Lung	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+W3	geo:GSE146100:W3	tissue_free_text	Lung	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+W1	geo:GSE146100:W1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+W2	geo:GSE146100:W2	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+W3	geo:GSE146100:W3	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+W1	geo:GSE146100:W1	tissue_type	tissue	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W2	geo:GSE146100:W2	tissue_type	tissue	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W3	geo:GSE146100:W3	tissue_type	tissue	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W1	geo:GSE146100:W1	sampled_site_condition	tumor	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W2	geo:GSE146100:W2	sampled_site_condition	tumor	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W3	geo:GSE146100:W3	sampled_site_condition	tumor	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W1	geo:GSE146100:W1	sample_collection_method	surgical resection	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W2	geo:GSE146100:W2	sample_collection_method	surgical resection	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W3	geo:GSE146100:W3	sample_collection_method	surgical resection	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W1	geo:GSE146100:W1	disease_ontology_term_id	MONDO:0005061	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W2	geo:GSE146100:W2	disease_ontology_term_id	MONDO:0005061	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W3	geo:GSE146100:W3	disease_ontology_term_id	MONDO:0005061	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma	True
+W1	geo:GSE146100:W1	suspension_type	cell	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma treated in freshly digested single cell suspension	True
+W2	geo:GSE146100:W2	suspension_type	cell	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma treated in freshly digested single cell suspension	True
+W3	geo:GSE146100:W3	suspension_type	cell	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma treated in freshly digested single cell suspension	True
+W1	geo:GSE146100:W1	sample_preservation	fresh	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma treated in freshly digested single cell suspension	True
+W2	geo:GSE146100:W2	sample_preservation	fresh	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma treated in freshly digested single cell suspension	True
+W3	geo:GSE146100:W3	sample_preservation	fresh	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Three surgically resected lung adenocarcinoma treated in freshly digested single cell suspension	True
+W1	geo:GSE146100:W1	assay	10x 3' v3	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Chromium™ Single Cell 3' Reagent Kit v3 (10x Genomics)	True
+W2	geo:GSE146100:W2	assay	10x 3' v3	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Chromium™ Single Cell 3' Reagent Kit v3 (10x Genomics)	True
+W3	geo:GSE146100:W3	assay	10x 3' v3	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		Chromium™ Single Cell 3' Reagent Kit v3 (10x Genomics)	True
+W1	geo:GSE146100:W1	disease_stage	stage IA	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: stage IA	True
+W2	geo:GSE146100:W2	disease_stage	stage IA	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: stage IA	True
+W3	geo:GSE146100:W3	disease_stage	stage IA	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = tumor stage: stage IA	True
+W1	geo:GSE146100:W1	treatment_status	post-treatment	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		All included samples were collected after three cycles of induction checkpoint inhibitors	True
+W2	geo:GSE146100:W2	treatment_status	post-treatment	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		All included samples were collected after three cycles of induction checkpoint inhibitors	True
+W3	geo:GSE146100:W3	treatment_status	post-treatment	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		All included samples were collected after three cycles of induction checkpoint inhibitors	True
+W1	geo:GSE146100:W1	treatment	three cycles of induction checkpoint inhibitors (pembrolizumab)	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		All included samples were collected after three cycles of induction checkpoint inhibitors	True
+W2	geo:GSE146100:W2	treatment	three cycles of induction checkpoint inhibitors (pembrolizumab)	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		All included samples were collected after three cycles of induction checkpoint inhibitors	True
+W3	geo:GSE146100:W3	treatment	three cycles of induction checkpoint inhibitors (pembrolizumab)	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		All included samples were collected after three cycles of induction checkpoint inhibitors	True
+W1	geo:GSE146100:W1	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Non-responded W1	True
+W2	geo:GSE146100:W2	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Non-responded W1	True
+W3	geo:GSE146100:W3	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Non-responded W1	True
+W1	geo:GSE146100:W1	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Responded W2	True
+W2	geo:GSE146100:W2	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Responded W2	True
+W3	geo:GSE146100:W3	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Responded W2	True
+W1	geo:GSE146100:W1	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Non-responded W3	True
+W2	geo:GSE146100:W2	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Non-responded W3	True
+W3	geo:GSE146100:W3	response	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_title = Non-responded W3	True
+W1	geo:GSE146100:W1	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: EGFR exon21 L858R	True
+W2	geo:GSE146100:W2	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: EGFR exon21 L858R	True
+W3	geo:GSE146100:W3	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: EGFR exon21 L858R	True
+W1	geo:GSE146100:W1	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: KRAS exon2 G12C	True
+W2	geo:GSE146100:W2	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: KRAS exon2 G12C	True
+W3	geo:GSE146100:W3	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: KRAS exon2 G12C	True
+W1	geo:GSE146100:W1	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: EGFR exon21 L858R/exon20 R77H	True
+W2	geo:GSE146100:W2	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: EGFR exon21 L858R/exon20 R77H	True
+W3	geo:GSE146100:W3	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_characteristics_ch1 = genotype: EGFR exon21 L858R/exon20 R77H	True
+W1	geo:GSE146100:W1	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_source_name_ch1 = Lung cancer	True
+W2	geo:GSE146100:W2	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_source_name_ch1 = Lung cancer	True
+W3	geo:GSE146100:W3	disease_free_text	<map of column library>	file	raw/fp-244481db9ac7/GSE146100_family.soft.gz		!Sample_source_name_ch1 = Lung cancer	True

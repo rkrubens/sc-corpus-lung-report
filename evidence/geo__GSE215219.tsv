@@ -1,0 +1,14 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM6628089	geo:GSE215219:GSM6628089	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM6628098	geo:GSE215219:GSM6628098	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM6628107	geo:GSE215219:GSM6628107	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+GSM6628116	geo:GSE215219:GSM6628116	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		Lung cancer	True
+		organism	Homo sapiens	file	raw/fp-57555f741714/GSE215219_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM6628089	geo:GSE215219:GSM6628089	disease_free_text	Lung cancer	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628089	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM6628089	geo:GSE215219:GSM6628089	tissue_free_text	Tumor-infiltrating lymphocyte (TIL)	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628089	!Sample_characteristics_ch1 = tissue: Tumor-infiltrating lymphocyte (TIL)	True
+GSM6628098	geo:GSE215219:GSM6628098	disease_free_text	Lung cancer	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628098	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM6628098	geo:GSE215219:GSM6628098	tissue_free_text	Tumor-infiltrating lymphocyte (TIL)	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628098	!Sample_characteristics_ch1 = tissue: Tumor-infiltrating lymphocyte (TIL)	True
+GSM6628107	geo:GSE215219:GSM6628107	disease_free_text	Lung cancer	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628107	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM6628107	geo:GSE215219:GSM6628107	tissue_free_text	Tumor-infiltrating lymphocyte (TIL)	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628107	!Sample_characteristics_ch1 = tissue: Tumor-infiltrating lymphocyte (TIL)	True
+GSM6628116	geo:GSE215219:GSM6628116	disease_free_text	Lung cancer	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628116	!Sample_characteristics_ch1 = disease: Lung cancer	True
+GSM6628116	geo:GSE215219:GSM6628116	tissue_free_text	Tumor-infiltrating lymphocyte (TIL)	file	raw/fp-57555f741714/GSE215219_family.soft.gz	GSM6628116	!Sample_characteristics_ch1 = tissue: Tumor-infiltrating lymphocyte (TIL)	True

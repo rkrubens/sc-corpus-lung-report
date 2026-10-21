@@ -1,0 +1,846 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM4414021	geo:GSE147066:GSM4414021	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414021	geo:GSE147066:GSM4414021	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414021	geo:GSE147066:GSM4414021	development_stage_ontology_term_id	HsapDv:0000126	derived	age_in_years:'32-year-old stage':ols:hsapdv		32	True
+GSM4414022	geo:GSE147066:GSM4414022	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414022	geo:GSE147066:GSM4414022	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414022	geo:GSE147066:GSM4414022	development_stage_ontology_term_id	HsapDv:0000115	derived	age_in_years:'21-year-old stage':ols:hsapdv		21	True
+GSM4414023	geo:GSE147066:GSM4414023	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414023	geo:GSE147066:GSM4414023	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414023	geo:GSE147066:GSM4414023	development_stage_ontology_term_id	HsapDv:0000143	derived	age_in_years:'49-year-old stage':ols:hsapdv		49	True
+GSM4414024	geo:GSE147066:GSM4414024	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414024	geo:GSE147066:GSM4414024	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414024	geo:GSE147066:GSM4414024	development_stage_ontology_term_id	HsapDv:0000123	derived	age_in_years:'29-year-old stage':ols:hsapdv		29	True
+GSM4414025	geo:GSE147066:GSM4414025	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414025	geo:GSE147066:GSM4414025	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414025	geo:GSE147066:GSM4414025	development_stage_ontology_term_id	HsapDv:0000126	derived	age_in_years:'32-year-old stage':ols:hsapdv		32	True
+GSM4414026	geo:GSE147066:GSM4414026	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414026	geo:GSE147066:GSM4414026	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414026	geo:GSE147066:GSM4414026	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+GSM4414027	geo:GSE147066:GSM4414027	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414027	geo:GSE147066:GSM4414027	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414027	geo:GSE147066:GSM4414027	development_stage_ontology_term_id	HsapDv:0000135	derived	age_in_years:'41-year-old stage':ols:hsapdv		41	True
+GSM4414028	geo:GSE147066:GSM4414028	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414028	geo:GSE147066:GSM4414028	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414028	geo:GSE147066:GSM4414028	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM4414029	geo:GSE147066:GSM4414029	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414029	geo:GSE147066:GSM4414029	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414029	geo:GSE147066:GSM4414029	development_stage_ontology_term_id	HsapDv:0000131	derived	age_in_years:'37-year-old stage':ols:hsapdv		37	True
+GSM4414030	geo:GSE147066:GSM4414030	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414030	geo:GSE147066:GSM4414030	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414030	geo:GSE147066:GSM4414030	development_stage_ontology_term_id	HsapDv:0000206	derived	age_in_years:'80-year-old stage':ols:hsapdv		80	True
+GSM4414031	geo:GSE147066:GSM4414031	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414031	geo:GSE147066:GSM4414031	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414031	geo:GSE147066:GSM4414031	development_stage_ontology_term_id	HsapDv:0000117	derived	age_in_years:'23-year-old stage':ols:hsapdv		23	True
+GSM4414032	geo:GSE147066:GSM4414032	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414032	geo:GSE147066:GSM4414032	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414032	geo:GSE147066:GSM4414032	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM4414033	geo:GSE147066:GSM4414033	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414033	geo:GSE147066:GSM4414033	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414033	geo:GSE147066:GSM4414033	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM4414034	geo:GSE147066:GSM4414034	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414034	geo:GSE147066:GSM4414034	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414034	geo:GSE147066:GSM4414034	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM4414035	geo:GSE147066:GSM4414035	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414035	geo:GSE147066:GSM4414035	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414035	geo:GSE147066:GSM4414035	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM4414036	geo:GSE147066:GSM4414036	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414036	geo:GSE147066:GSM4414036	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414036	geo:GSE147066:GSM4414036	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM4414037	geo:GSE147066:GSM4414037	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414037	geo:GSE147066:GSM4414037	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414037	geo:GSE147066:GSM4414037	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM4414038	geo:GSE147066:GSM4414038	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414038	geo:GSE147066:GSM4414038	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414038	geo:GSE147066:GSM4414038	development_stage_ontology_term_id	HsapDv:0000129	derived	age_in_years:'35-year-old stage':ols:hsapdv		35	True
+GSM4414039	geo:GSE147066:GSM4414039	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414039	geo:GSE147066:GSM4414039	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414039	geo:GSE147066:GSM4414039	development_stage_ontology_term_id	HsapDv:0000116	derived	age_in_years:'22-year-old stage':ols:hsapdv		22	True
+GSM4414040	geo:GSE147066:GSM4414040	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414040	geo:GSE147066:GSM4414040	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414040	geo:GSE147066:GSM4414040	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM4414041	geo:GSE147066:GSM4414041	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414041	geo:GSE147066:GSM4414041	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414041	geo:GSE147066:GSM4414041	development_stage_ontology_term_id	HsapDv:0000142	derived	age_in_years:'48-year-old stage':ols:hsapdv		48	True
+GSM4414042	geo:GSE147066:GSM4414042	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414042	geo:GSE147066:GSM4414042	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414042	geo:GSE147066:GSM4414042	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM4414043	geo:GSE147066:GSM4414043	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414043	geo:GSE147066:GSM4414043	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414043	geo:GSE147066:GSM4414043	development_stage_ontology_term_id	HsapDv:0000125	derived	age_in_years:'31-year-old stage':ols:hsapdv		31	True
+GSM4414044	geo:GSE147066:GSM4414044	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414044	geo:GSE147066:GSM4414044	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414044	geo:GSE147066:GSM4414044	development_stage_ontology_term_id	HsapDv:0000114	derived	age_in_years:'20-year-old stage':ols:hsapdv		20	True
+GSM4414045	geo:GSE147066:GSM4414045	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414045	geo:GSE147066:GSM4414045	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414045	geo:GSE147066:GSM4414045	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM4414046	geo:GSE147066:GSM4414046	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414046	geo:GSE147066:GSM4414046	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414046	geo:GSE147066:GSM4414046	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM4414047	geo:GSE147066:GSM4414047	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414047	geo:GSE147066:GSM4414047	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414047	geo:GSE147066:GSM4414047	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM4414048	geo:GSE147066:GSM4414048	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414048	geo:GSE147066:GSM4414048	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414048	geo:GSE147066:GSM4414048	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM4414049	geo:GSE147066:GSM4414049	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414049	geo:GSE147066:GSM4414049	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414049	geo:GSE147066:GSM4414049	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM4414050	geo:GSE147066:GSM4414050	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414050	geo:GSE147066:GSM4414050	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414050	geo:GSE147066:GSM4414050	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM4414051	geo:GSE147066:GSM4414051	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414051	geo:GSE147066:GSM4414051	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414051	geo:GSE147066:GSM4414051	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM4414052	geo:GSE147066:GSM4414052	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414052	geo:GSE147066:GSM4414052	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414052	geo:GSE147066:GSM4414052	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM4414053	geo:GSE147066:GSM4414053	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414053	geo:GSE147066:GSM4414053	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414053	geo:GSE147066:GSM4414053	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM4414054	geo:GSE147066:GSM4414054	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414054	geo:GSE147066:GSM4414054	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414054	geo:GSE147066:GSM4414054	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM4414055	geo:GSE147066:GSM4414055	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414055	geo:GSE147066:GSM4414055	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414055	geo:GSE147066:GSM4414055	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM4414056	geo:GSE147066:GSM4414056	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414056	geo:GSE147066:GSM4414056	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414056	geo:GSE147066:GSM4414056	development_stage_ontology_term_id	HsapDv:0000165	derived	age_in_years:'71-year-old stage':ols:hsapdv		71	True
+GSM4414057	geo:GSE147066:GSM4414057	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414057	geo:GSE147066:GSM4414057	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414057	geo:GSE147066:GSM4414057	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM4414058	geo:GSE147066:GSM4414058	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414058	geo:GSE147066:GSM4414058	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414058	geo:GSE147066:GSM4414058	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM4414059	geo:GSE147066:GSM4414059	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414059	geo:GSE147066:GSM4414059	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414059	geo:GSE147066:GSM4414059	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM4414060	geo:GSE147066:GSM4414060	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414060	geo:GSE147066:GSM4414060	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414060	geo:GSE147066:GSM4414060	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM4414061	geo:GSE147066:GSM4414061	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414061	geo:GSE147066:GSM4414061	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414061	geo:GSE147066:GSM4414061	development_stage_ontology_term_id	HsapDv:0000150	derived	age_in_years:'56-year-old stage':ols:hsapdv		56	True
+GSM4414062	geo:GSE147066:GSM4414062	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414062	geo:GSE147066:GSM4414062	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414062	geo:GSE147066:GSM4414062	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM4414063	geo:GSE147066:GSM4414063	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414063	geo:GSE147066:GSM4414063	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414063	geo:GSE147066:GSM4414063	development_stage_ontology_term_id	HsapDv:0000156	derived	age_in_years:'62-year-old stage':ols:hsapdv		62	True
+GSM4414064	geo:GSE147066:GSM4414064	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414064	geo:GSE147066:GSM4414064	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414064	geo:GSE147066:GSM4414064	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+GSM4414065	geo:GSE147066:GSM4414065	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414065	geo:GSE147066:GSM4414065	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414065	geo:GSE147066:GSM4414065	development_stage_ontology_term_id	HsapDv:0000172	derived	age_in_years:'78-year-old stage':ols:hsapdv		78	True
+GSM4414066	geo:GSE147066:GSM4414066	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414066	geo:GSE147066:GSM4414066	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414066	geo:GSE147066:GSM4414066	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+GSM4414067	geo:GSE147066:GSM4414067	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414067	geo:GSE147066:GSM4414067	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414067	geo:GSE147066:GSM4414067	development_stage_ontology_term_id	HsapDv:0000161	derived	age_in_years:'67-year-old stage':ols:hsapdv		67	True
+GSM4414068	geo:GSE147066:GSM4414068	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414068	geo:GSE147066:GSM4414068	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414068	geo:GSE147066:GSM4414068	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM4414069	geo:GSE147066:GSM4414069	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414069	geo:GSE147066:GSM4414069	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414069	geo:GSE147066:GSM4414069	development_stage_ontology_term_id	HsapDv:0000164	derived	age_in_years:'70-year-old stage':ols:hsapdv		70	True
+GSM4414070	geo:GSE147066:GSM4414070	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414070	geo:GSE147066:GSM4414070	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414070	geo:GSE147066:GSM4414070	development_stage_ontology_term_id	HsapDv:0000158	derived	age_in_years:'64-year-old stage':ols:hsapdv		64	True
+GSM4414071	geo:GSE147066:GSM4414071	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414071	geo:GSE147066:GSM4414071	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414071	geo:GSE147066:GSM4414071	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM4414072	geo:GSE147066:GSM4414072	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414072	geo:GSE147066:GSM4414072	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414072	geo:GSE147066:GSM4414072	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+GSM4414073	geo:GSE147066:GSM4414073	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM4414073	geo:GSE147066:GSM4414073	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414073	geo:GSE147066:GSM4414073	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM4414074	geo:GSE147066:GSM4414074	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414074	geo:GSE147066:GSM4414074	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414074	geo:GSE147066:GSM4414074	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM4414075	geo:GSE147066:GSM4414075	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414075	geo:GSE147066:GSM4414075	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414075	geo:GSE147066:GSM4414075	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM4414076	geo:GSE147066:GSM4414076	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414076	geo:GSE147066:GSM4414076	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414076	geo:GSE147066:GSM4414076	development_stage_ontology_term_id	HsapDv:0000168	derived	age_in_years:'74-year-old stage':ols:hsapdv		74	True
+GSM4414077	geo:GSE147066:GSM4414077	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414077	geo:GSE147066:GSM4414077	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414077	geo:GSE147066:GSM4414077	development_stage_ontology_term_id	HsapDv:0000162	derived	age_in_years:'68-year-old stage':ols:hsapdv		68	True
+GSM4414078	geo:GSE147066:GSM4414078	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM4414078	geo:GSE147066:GSM4414078	assay_ontology_term_id	EFO:0009899	derived	ols:efo		10x 3' v2	True
+GSM4414078	geo:GSE147066:GSM4414078	development_stage_ontology_term_id	HsapDv:0000163	derived	age_in_years:'69-year-old stage':ols:hsapdv		69	True
+		organism	Homo sapiens	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM4414021	geo:GSE147066:GSM4414021	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	Whole Lung Dissociate	True
+GSM4414021	geo:GSE147066:GSM4414021	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	Thawed Cells were rinsed with 10% FBS	True
+GSM4414021	geo:GSE147066:GSM4414021	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	Cryopreservation in 10% DMSO	True
+GSM4414021	geo:GSE147066:GSM4414021	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	10X Genomics 3 prime v2	True
+GSM4414021	geo:GSE147066:GSM4414021	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	Genome_build: GRCh38 Release 91	True
+GSM4414021	geo:GSE147066:GSM4414021	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	Collagen expressing mesenchymal cells only	True
+GSM4414021	geo:GSE147066:GSM4414021	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414021	geo:GSE147066:GSM4414021	age	32	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	!Sample_characteristics_ch1 = age: 32	True
+GSM4414021	geo:GSE147066:GSM4414021	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414021	geo:GSE147066:GSM4414021	donor_id	133C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	!Sample_title = 133C	True
+GSM4414021	geo:GSE147066:GSM4414021	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414021	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414022	geo:GSE147066:GSM4414022	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	Whole Lung Dissociate	True
+GSM4414022	geo:GSE147066:GSM4414022	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	Thawed Cells were rinsed with 10% FBS	True
+GSM4414022	geo:GSE147066:GSM4414022	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	Cryopreservation in 10% DMSO	True
+GSM4414022	geo:GSE147066:GSM4414022	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	10X Genomics 3 prime v2	True
+GSM4414022	geo:GSE147066:GSM4414022	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	Genome_build: GRCh38 Release 91	True
+GSM4414022	geo:GSE147066:GSM4414022	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	Collagen expressing mesenchymal cells only	True
+GSM4414022	geo:GSE147066:GSM4414022	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414022	geo:GSE147066:GSM4414022	age	21	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	!Sample_characteristics_ch1 = age: 21	True
+GSM4414022	geo:GSE147066:GSM4414022	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414022	geo:GSE147066:GSM4414022	donor_id	1372C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	!Sample_title = 1372C	True
+GSM4414022	geo:GSE147066:GSM4414022	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414022	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414023	geo:GSE147066:GSM4414023	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	Whole Lung Dissociate	True
+GSM4414023	geo:GSE147066:GSM4414023	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	Thawed Cells were rinsed with 10% FBS	True
+GSM4414023	geo:GSE147066:GSM4414023	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	Cryopreservation in 10% DMSO	True
+GSM4414023	geo:GSE147066:GSM4414023	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	10X Genomics 3 prime v2	True
+GSM4414023	geo:GSE147066:GSM4414023	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	Genome_build: GRCh38 Release 91	True
+GSM4414023	geo:GSE147066:GSM4414023	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	Collagen expressing mesenchymal cells only	True
+GSM4414023	geo:GSE147066:GSM4414023	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414023	geo:GSE147066:GSM4414023	age	49	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	!Sample_characteristics_ch1 = age: 49	True
+GSM4414023	geo:GSE147066:GSM4414023	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414023	geo:GSE147066:GSM4414023	donor_id	034C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	!Sample_title = 034C	True
+GSM4414023	geo:GSE147066:GSM4414023	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414023	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414024	geo:GSE147066:GSM4414024	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	Whole Lung Dissociate	True
+GSM4414024	geo:GSE147066:GSM4414024	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	Thawed Cells were rinsed with 10% FBS	True
+GSM4414024	geo:GSE147066:GSM4414024	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	Cryopreservation in 10% DMSO	True
+GSM4414024	geo:GSE147066:GSM4414024	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	10X Genomics 3 prime v2	True
+GSM4414024	geo:GSE147066:GSM4414024	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	Genome_build: GRCh38 Release 91	True
+GSM4414024	geo:GSE147066:GSM4414024	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	Collagen expressing mesenchymal cells only	True
+GSM4414024	geo:GSE147066:GSM4414024	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414024	geo:GSE147066:GSM4414024	age	29	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	!Sample_characteristics_ch1 = age: 29	True
+GSM4414024	geo:GSE147066:GSM4414024	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414024	geo:GSE147066:GSM4414024	donor_id	218C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	!Sample_title = 218C	True
+GSM4414024	geo:GSE147066:GSM4414024	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414024	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414025	geo:GSE147066:GSM4414025	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	Whole Lung Dissociate	True
+GSM4414025	geo:GSE147066:GSM4414025	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	Thawed Cells were rinsed with 10% FBS	True
+GSM4414025	geo:GSE147066:GSM4414025	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	Cryopreservation in 10% DMSO	True
+GSM4414025	geo:GSE147066:GSM4414025	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	10X Genomics 3 prime v2	True
+GSM4414025	geo:GSE147066:GSM4414025	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	Genome_build: GRCh38 Release 91	True
+GSM4414025	geo:GSE147066:GSM4414025	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	Collagen expressing mesenchymal cells only	True
+GSM4414025	geo:GSE147066:GSM4414025	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414025	geo:GSE147066:GSM4414025	age	32	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	!Sample_characteristics_ch1 = age: 32	True
+GSM4414025	geo:GSE147066:GSM4414025	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414025	geo:GSE147066:GSM4414025	donor_id	226C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	!Sample_title = 226C	True
+GSM4414025	geo:GSE147066:GSM4414025	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414025	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414026	geo:GSE147066:GSM4414026	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	Whole Lung Dissociate	True
+GSM4414026	geo:GSE147066:GSM4414026	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	Thawed Cells were rinsed with 10% FBS	True
+GSM4414026	geo:GSE147066:GSM4414026	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	Cryopreservation in 10% DMSO	True
+GSM4414026	geo:GSE147066:GSM4414026	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	10X Genomics 3 prime v2	True
+GSM4414026	geo:GSE147066:GSM4414026	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	Genome_build: GRCh38 Release 91	True
+GSM4414026	geo:GSE147066:GSM4414026	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	Collagen expressing mesenchymal cells only	True
+GSM4414026	geo:GSE147066:GSM4414026	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414026	geo:GSE147066:GSM4414026	age	50	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	!Sample_characteristics_ch1 = age: 50	True
+GSM4414026	geo:GSE147066:GSM4414026	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414026	geo:GSE147066:GSM4414026	donor_id	244C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	!Sample_title = 244C	True
+GSM4414026	geo:GSE147066:GSM4414026	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414026	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414027	geo:GSE147066:GSM4414027	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	Whole Lung Dissociate	True
+GSM4414027	geo:GSE147066:GSM4414027	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	Thawed Cells were rinsed with 10% FBS	True
+GSM4414027	geo:GSE147066:GSM4414027	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	Cryopreservation in 10% DMSO	True
+GSM4414027	geo:GSE147066:GSM4414027	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	10X Genomics 3 prime v2	True
+GSM4414027	geo:GSE147066:GSM4414027	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	Genome_build: GRCh38 Release 91	True
+GSM4414027	geo:GSE147066:GSM4414027	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	Collagen expressing mesenchymal cells only	True
+GSM4414027	geo:GSE147066:GSM4414027	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414027	geo:GSE147066:GSM4414027	age	41	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	!Sample_characteristics_ch1 = age: 41	True
+GSM4414027	geo:GSE147066:GSM4414027	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414027	geo:GSE147066:GSM4414027	donor_id	098C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	!Sample_title = 098C	True
+GSM4414027	geo:GSE147066:GSM4414027	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414027	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414028	geo:GSE147066:GSM4414028	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	Whole Lung Dissociate	True
+GSM4414028	geo:GSE147066:GSM4414028	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	Thawed Cells were rinsed with 10% FBS	True
+GSM4414028	geo:GSE147066:GSM4414028	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	Cryopreservation in 10% DMSO	True
+GSM4414028	geo:GSE147066:GSM4414028	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	10X Genomics 3 prime v2	True
+GSM4414028	geo:GSE147066:GSM4414028	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	Genome_build: GRCh38 Release 91	True
+GSM4414028	geo:GSE147066:GSM4414028	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	Collagen expressing mesenchymal cells only	True
+GSM4414028	geo:GSE147066:GSM4414028	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414028	geo:GSE147066:GSM4414028	age	56	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	!Sample_characteristics_ch1 = age: 56	True
+GSM4414028	geo:GSE147066:GSM4414028	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414028	geo:GSE147066:GSM4414028	donor_id	465C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	!Sample_title = 465C	True
+GSM4414028	geo:GSE147066:GSM4414028	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414028	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414029	geo:GSE147066:GSM4414029	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	Whole Lung Dissociate	True
+GSM4414029	geo:GSE147066:GSM4414029	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	Thawed Cells were rinsed with 10% FBS	True
+GSM4414029	geo:GSE147066:GSM4414029	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	Cryopreservation in 10% DMSO	True
+GSM4414029	geo:GSE147066:GSM4414029	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	10X Genomics 3 prime v2	True
+GSM4414029	geo:GSE147066:GSM4414029	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	Genome_build: GRCh38 Release 91	True
+GSM4414029	geo:GSE147066:GSM4414029	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	Collagen expressing mesenchymal cells only	True
+GSM4414029	geo:GSE147066:GSM4414029	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414029	geo:GSE147066:GSM4414029	age	37	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	!Sample_characteristics_ch1 = age: 37	True
+GSM4414029	geo:GSE147066:GSM4414029	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414029	geo:GSE147066:GSM4414029	donor_id	396C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	!Sample_title = 396C	True
+GSM4414029	geo:GSE147066:GSM4414029	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414029	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414030	geo:GSE147066:GSM4414030	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	Whole Lung Dissociate	True
+GSM4414030	geo:GSE147066:GSM4414030	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	Thawed Cells were rinsed with 10% FBS	True
+GSM4414030	geo:GSE147066:GSM4414030	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	Cryopreservation in 10% DMSO	True
+GSM4414030	geo:GSE147066:GSM4414030	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	10X Genomics 3 prime v2	True
+GSM4414030	geo:GSE147066:GSM4414030	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	Genome_build: GRCh38 Release 91	True
+GSM4414030	geo:GSE147066:GSM4414030	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	Collagen expressing mesenchymal cells only	True
+GSM4414030	geo:GSE147066:GSM4414030	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414030	geo:GSE147066:GSM4414030	age	80	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	!Sample_characteristics_ch1 = age: 80	True
+GSM4414030	geo:GSE147066:GSM4414030	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414030	geo:GSE147066:GSM4414030	donor_id	296C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	!Sample_title = 296C	True
+GSM4414030	geo:GSE147066:GSM4414030	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414030	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414031	geo:GSE147066:GSM4414031	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	Whole Lung Dissociate	True
+GSM4414031	geo:GSE147066:GSM4414031	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	Thawed Cells were rinsed with 10% FBS	True
+GSM4414031	geo:GSE147066:GSM4414031	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	Cryopreservation in 10% DMSO	True
+GSM4414031	geo:GSE147066:GSM4414031	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	10X Genomics 3 prime v2	True
+GSM4414031	geo:GSE147066:GSM4414031	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	Genome_build: GRCh38 Release 91	True
+GSM4414031	geo:GSE147066:GSM4414031	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	Collagen expressing mesenchymal cells only	True
+GSM4414031	geo:GSE147066:GSM4414031	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414031	geo:GSE147066:GSM4414031	age	23	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	!Sample_characteristics_ch1 = age: 23	True
+GSM4414031	geo:GSE147066:GSM4414031	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414031	geo:GSE147066:GSM4414031	donor_id	208C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	!Sample_title = 208C	True
+GSM4414031	geo:GSE147066:GSM4414031	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414031	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414032	geo:GSE147066:GSM4414032	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	Whole Lung Dissociate	True
+GSM4414032	geo:GSE147066:GSM4414032	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	Thawed Cells were rinsed with 10% FBS	True
+GSM4414032	geo:GSE147066:GSM4414032	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	Cryopreservation in 10% DMSO	True
+GSM4414032	geo:GSE147066:GSM4414032	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	10X Genomics 3 prime v2	True
+GSM4414032	geo:GSE147066:GSM4414032	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	Genome_build: GRCh38 Release 91	True
+GSM4414032	geo:GSE147066:GSM4414032	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	Collagen expressing mesenchymal cells only	True
+GSM4414032	geo:GSE147066:GSM4414032	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414032	geo:GSE147066:GSM4414032	age	65	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	!Sample_characteristics_ch1 = age: 65	True
+GSM4414032	geo:GSE147066:GSM4414032	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414032	geo:GSE147066:GSM4414032	donor_id	222C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	!Sample_title = 222C	True
+GSM4414032	geo:GSE147066:GSM4414032	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414032	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414033	geo:GSE147066:GSM4414033	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	Whole Lung Dissociate	True
+GSM4414033	geo:GSE147066:GSM4414033	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	Thawed Cells were rinsed with 10% FBS	True
+GSM4414033	geo:GSE147066:GSM4414033	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	Cryopreservation in 10% DMSO	True
+GSM4414033	geo:GSE147066:GSM4414033	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	10X Genomics 3 prime v2	True
+GSM4414033	geo:GSE147066:GSM4414033	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	Genome_build: GRCh38 Release 91	True
+GSM4414033	geo:GSE147066:GSM4414033	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	Collagen expressing mesenchymal cells only	True
+GSM4414033	geo:GSE147066:GSM4414033	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414033	geo:GSE147066:GSM4414033	age	64	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	!Sample_characteristics_ch1 = age: 64	True
+GSM4414033	geo:GSE147066:GSM4414033	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414033	geo:GSE147066:GSM4414033	donor_id	160C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	!Sample_title = 160C	True
+GSM4414033	geo:GSE147066:GSM4414033	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414033	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414034	geo:GSE147066:GSM4414034	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	Whole Lung Dissociate	True
+GSM4414034	geo:GSE147066:GSM4414034	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	Thawed Cells were rinsed with 10% FBS	True
+GSM4414034	geo:GSE147066:GSM4414034	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	Cryopreservation in 10% DMSO	True
+GSM4414034	geo:GSE147066:GSM4414034	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	10X Genomics 3 prime v2	True
+GSM4414034	geo:GSE147066:GSM4414034	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	Genome_build: GRCh38 Release 91	True
+GSM4414034	geo:GSE147066:GSM4414034	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	Collagen expressing mesenchymal cells only	True
+GSM4414034	geo:GSE147066:GSM4414034	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414034	geo:GSE147066:GSM4414034	age	66	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	!Sample_characteristics_ch1 = age: 66	True
+GSM4414034	geo:GSE147066:GSM4414034	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414034	geo:GSE147066:GSM4414034	donor_id	439C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	!Sample_title = 439C	True
+GSM4414034	geo:GSE147066:GSM4414034	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414034	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414035	geo:GSE147066:GSM4414035	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	Whole Lung Dissociate	True
+GSM4414035	geo:GSE147066:GSM4414035	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	Thawed Cells were rinsed with 10% FBS	True
+GSM4414035	geo:GSE147066:GSM4414035	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	Cryopreservation in 10% DMSO	True
+GSM4414035	geo:GSE147066:GSM4414035	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	10X Genomics 3 prime v2	True
+GSM4414035	geo:GSE147066:GSM4414035	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	Genome_build: GRCh38 Release 91	True
+GSM4414035	geo:GSE147066:GSM4414035	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	Collagen expressing mesenchymal cells only	True
+GSM4414035	geo:GSE147066:GSM4414035	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414035	geo:GSE147066:GSM4414035	age	66	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	!Sample_characteristics_ch1 = age: 66	True
+GSM4414035	geo:GSE147066:GSM4414035	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414035	geo:GSE147066:GSM4414035	donor_id	065C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	!Sample_title = 065C	True
+GSM4414035	geo:GSE147066:GSM4414035	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414035	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414036	geo:GSE147066:GSM4414036	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	Whole Lung Dissociate	True
+GSM4414036	geo:GSE147066:GSM4414036	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	Thawed Cells were rinsed with 10% FBS	True
+GSM4414036	geo:GSE147066:GSM4414036	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	Cryopreservation in 10% DMSO	True
+GSM4414036	geo:GSE147066:GSM4414036	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	10X Genomics 3 prime v2	True
+GSM4414036	geo:GSE147066:GSM4414036	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	Genome_build: GRCh38 Release 91	True
+GSM4414036	geo:GSE147066:GSM4414036	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	Collagen expressing mesenchymal cells only	True
+GSM4414036	geo:GSE147066:GSM4414036	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414036	geo:GSE147066:GSM4414036	age	61	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	!Sample_characteristics_ch1 = age: 61	True
+GSM4414036	geo:GSE147066:GSM4414036	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414036	geo:GSE147066:GSM4414036	donor_id	388C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	!Sample_title = 388C	True
+GSM4414036	geo:GSE147066:GSM4414036	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414036	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414037	geo:GSE147066:GSM4414037	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	Whole Lung Dissociate	True
+GSM4414037	geo:GSE147066:GSM4414037	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	Thawed Cells were rinsed with 10% FBS	True
+GSM4414037	geo:GSE147066:GSM4414037	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	Cryopreservation in 10% DMSO	True
+GSM4414037	geo:GSE147066:GSM4414037	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	10X Genomics 3 prime v2	True
+GSM4414037	geo:GSE147066:GSM4414037	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	Genome_build: GRCh38 Release 91	True
+GSM4414037	geo:GSE147066:GSM4414037	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	Collagen expressing mesenchymal cells only	True
+GSM4414037	geo:GSE147066:GSM4414037	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414037	geo:GSE147066:GSM4414037	age	62	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	!Sample_characteristics_ch1 = age: 62	True
+GSM4414037	geo:GSE147066:GSM4414037	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414037	geo:GSE147066:GSM4414037	donor_id	192C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	!Sample_title = 192C	True
+GSM4414037	geo:GSE147066:GSM4414037	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414037	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414038	geo:GSE147066:GSM4414038	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	Whole Lung Dissociate	True
+GSM4414038	geo:GSE147066:GSM4414038	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	Thawed Cells were rinsed with 10% FBS	True
+GSM4414038	geo:GSE147066:GSM4414038	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	Cryopreservation in 10% DMSO	True
+GSM4414038	geo:GSE147066:GSM4414038	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	10X Genomics 3 prime v2	True
+GSM4414038	geo:GSE147066:GSM4414038	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	Genome_build: GRCh38 Release 91	True
+GSM4414038	geo:GSE147066:GSM4414038	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	Collagen expressing mesenchymal cells only	True
+GSM4414038	geo:GSE147066:GSM4414038	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414038	geo:GSE147066:GSM4414038	age	35	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	!Sample_characteristics_ch1 = age: 35	True
+GSM4414038	geo:GSE147066:GSM4414038	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414038	geo:GSE147066:GSM4414038	donor_id	483C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	!Sample_title = 483C	True
+GSM4414038	geo:GSE147066:GSM4414038	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414038	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414039	geo:GSE147066:GSM4414039	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	Whole Lung Dissociate	True
+GSM4414039	geo:GSE147066:GSM4414039	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	Thawed Cells were rinsed with 10% FBS	True
+GSM4414039	geo:GSE147066:GSM4414039	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	Cryopreservation in 10% DMSO	True
+GSM4414039	geo:GSE147066:GSM4414039	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	10X Genomics 3 prime v2	True
+GSM4414039	geo:GSE147066:GSM4414039	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	Genome_build: GRCh38 Release 91	True
+GSM4414039	geo:GSE147066:GSM4414039	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	Collagen expressing mesenchymal cells only	True
+GSM4414039	geo:GSE147066:GSM4414039	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414039	geo:GSE147066:GSM4414039	age	22	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	!Sample_characteristics_ch1 = age: 22	True
+GSM4414039	geo:GSE147066:GSM4414039	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414039	geo:GSE147066:GSM4414039	donor_id	001C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	!Sample_title = 001C	True
+GSM4414039	geo:GSE147066:GSM4414039	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414039	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414040	geo:GSE147066:GSM4414040	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	Whole Lung Dissociate	True
+GSM4414040	geo:GSE147066:GSM4414040	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	Thawed Cells were rinsed with 10% FBS	True
+GSM4414040	geo:GSE147066:GSM4414040	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	Cryopreservation in 10% DMSO	True
+GSM4414040	geo:GSE147066:GSM4414040	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	10X Genomics 3 prime v2	True
+GSM4414040	geo:GSE147066:GSM4414040	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	Genome_build: GRCh38 Release 91	True
+GSM4414040	geo:GSE147066:GSM4414040	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	Collagen expressing mesenchymal cells only	True
+GSM4414040	geo:GSE147066:GSM4414040	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414040	geo:GSE147066:GSM4414040	age	67	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	!Sample_characteristics_ch1 = age: 67	True
+GSM4414040	geo:GSE147066:GSM4414040	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414040	geo:GSE147066:GSM4414040	donor_id	003C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	!Sample_title = 003C	True
+GSM4414040	geo:GSE147066:GSM4414040	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414040	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414041	geo:GSE147066:GSM4414041	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	Whole Lung Dissociate	True
+GSM4414041	geo:GSE147066:GSM4414041	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	Thawed Cells were rinsed with 10% FBS	True
+GSM4414041	geo:GSE147066:GSM4414041	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	Cryopreservation in 10% DMSO	True
+GSM4414041	geo:GSE147066:GSM4414041	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	10X Genomics 3 prime v2	True
+GSM4414041	geo:GSE147066:GSM4414041	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	Genome_build: GRCh38 Release 91	True
+GSM4414041	geo:GSE147066:GSM4414041	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	Collagen expressing mesenchymal cells only	True
+GSM4414041	geo:GSE147066:GSM4414041	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414041	geo:GSE147066:GSM4414041	age	48	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	!Sample_characteristics_ch1 = age: 48	True
+GSM4414041	geo:GSE147066:GSM4414041	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414041	geo:GSE147066:GSM4414041	donor_id	454C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	!Sample_title = 454C	True
+GSM4414041	geo:GSE147066:GSM4414041	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414041	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414042	geo:GSE147066:GSM4414042	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	Whole Lung Dissociate	True
+GSM4414042	geo:GSE147066:GSM4414042	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	Thawed Cells were rinsed with 10% FBS	True
+GSM4414042	geo:GSE147066:GSM4414042	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	Cryopreservation in 10% DMSO	True
+GSM4414042	geo:GSE147066:GSM4414042	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	10X Genomics 3 prime v2	True
+GSM4414042	geo:GSE147066:GSM4414042	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	Genome_build: GRCh38 Release 91	True
+GSM4414042	geo:GSE147066:GSM4414042	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	Collagen expressing mesenchymal cells only	True
+GSM4414042	geo:GSE147066:GSM4414042	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414042	geo:GSE147066:GSM4414042	age	66	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	!Sample_characteristics_ch1 = age: 66	True
+GSM4414042	geo:GSE147066:GSM4414042	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414042	geo:GSE147066:GSM4414042	donor_id	253C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	!Sample_title = 253C	True
+GSM4414042	geo:GSE147066:GSM4414042	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414042	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414043	geo:GSE147066:GSM4414043	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	Whole Lung Dissociate	True
+GSM4414043	geo:GSE147066:GSM4414043	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	Thawed Cells were rinsed with 10% FBS	True
+GSM4414043	geo:GSE147066:GSM4414043	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	Cryopreservation in 10% DMSO	True
+GSM4414043	geo:GSE147066:GSM4414043	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	10X Genomics 3 prime v2	True
+GSM4414043	geo:GSE147066:GSM4414043	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	Genome_build: GRCh38 Release 91	True
+GSM4414043	geo:GSE147066:GSM4414043	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	Collagen expressing mesenchymal cells only	True
+GSM4414043	geo:GSE147066:GSM4414043	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414043	geo:GSE147066:GSM4414043	age	31	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	!Sample_characteristics_ch1 = age: 31	True
+GSM4414043	geo:GSE147066:GSM4414043	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414043	geo:GSE147066:GSM4414043	donor_id	484C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	!Sample_title = 484C	True
+GSM4414043	geo:GSE147066:GSM4414043	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414043	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414044	geo:GSE147066:GSM4414044	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	Whole Lung Dissociate	True
+GSM4414044	geo:GSE147066:GSM4414044	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	Thawed Cells were rinsed with 10% FBS	True
+GSM4414044	geo:GSE147066:GSM4414044	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	Cryopreservation in 10% DMSO	True
+GSM4414044	geo:GSE147066:GSM4414044	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	10X Genomics 3 prime v2	True
+GSM4414044	geo:GSE147066:GSM4414044	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	Genome_build: GRCh38 Release 91	True
+GSM4414044	geo:GSE147066:GSM4414044	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	Collagen expressing mesenchymal cells only	True
+GSM4414044	geo:GSE147066:GSM4414044	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414044	geo:GSE147066:GSM4414044	age	20	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	!Sample_characteristics_ch1 = age: 20	True
+GSM4414044	geo:GSE147066:GSM4414044	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414044	geo:GSE147066:GSM4414044	donor_id	081C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	!Sample_title = 081C	True
+GSM4414044	geo:GSE147066:GSM4414044	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414044	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414045	geo:GSE147066:GSM4414045	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	Whole Lung Dissociate	True
+GSM4414045	geo:GSE147066:GSM4414045	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	Thawed Cells were rinsed with 10% FBS	True
+GSM4414045	geo:GSE147066:GSM4414045	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	Cryopreservation in 10% DMSO	True
+GSM4414045	geo:GSE147066:GSM4414045	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	10X Genomics 3 prime v2	True
+GSM4414045	geo:GSE147066:GSM4414045	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	Genome_build: GRCh38 Release 91	True
+GSM4414045	geo:GSE147066:GSM4414045	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	Collagen expressing mesenchymal cells only	True
+GSM4414045	geo:GSE147066:GSM4414045	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414045	geo:GSE147066:GSM4414045	age	54	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	!Sample_characteristics_ch1 = age: 54	True
+GSM4414045	geo:GSE147066:GSM4414045	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414045	geo:GSE147066:GSM4414045	donor_id	137C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	!Sample_title = 137C	True
+GSM4414045	geo:GSE147066:GSM4414045	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414045	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414046	geo:GSE147066:GSM4414046	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	Whole Lung Dissociate	True
+GSM4414046	geo:GSE147066:GSM4414046	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	Thawed Cells were rinsed with 10% FBS	True
+GSM4414046	geo:GSE147066:GSM4414046	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	Cryopreservation in 10% DMSO	True
+GSM4414046	geo:GSE147066:GSM4414046	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	10X Genomics 3 prime v2	True
+GSM4414046	geo:GSE147066:GSM4414046	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	Genome_build: GRCh38 Release 91	True
+GSM4414046	geo:GSE147066:GSM4414046	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	Collagen expressing mesenchymal cells only	True
+GSM4414046	geo:GSE147066:GSM4414046	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414046	geo:GSE147066:GSM4414046	age	46	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	!Sample_characteristics_ch1 = age: 46	True
+GSM4414046	geo:GSE147066:GSM4414046	disease_free_text	Control	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	!Sample_characteristics_ch1 = disease: Control	True
+GSM4414046	geo:GSE147066:GSM4414046	donor_id	084C	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	!Sample_title = 084C	True
+GSM4414046	geo:GSE147066:GSM4414046	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414046	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414047	geo:GSE147066:GSM4414047	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	Whole Lung Dissociate	True
+GSM4414047	geo:GSE147066:GSM4414047	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	Thawed Cells were rinsed with 10% FBS	True
+GSM4414047	geo:GSE147066:GSM4414047	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	Cryopreservation in 10% DMSO	True
+GSM4414047	geo:GSE147066:GSM4414047	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	10X Genomics 3 prime v2	True
+GSM4414047	geo:GSE147066:GSM4414047	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	Genome_build: GRCh38 Release 91	True
+GSM4414047	geo:GSE147066:GSM4414047	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	Collagen expressing mesenchymal cells only	True
+GSM4414047	geo:GSE147066:GSM4414047	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	disease: IPF	True
+GSM4414047	geo:GSE147066:GSM4414047	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414047	geo:GSE147066:GSM4414047	age	68	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	!Sample_characteristics_ch1 = age: 68	True
+GSM4414047	geo:GSE147066:GSM4414047	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414047	geo:GSE147066:GSM4414047	donor_id	210I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	!Sample_title = 210I	True
+GSM4414047	geo:GSE147066:GSM4414047	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414047	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414048	geo:GSE147066:GSM4414048	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	Whole Lung Dissociate	True
+GSM4414048	geo:GSE147066:GSM4414048	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	Thawed Cells were rinsed with 10% FBS	True
+GSM4414048	geo:GSE147066:GSM4414048	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	Cryopreservation in 10% DMSO	True
+GSM4414048	geo:GSE147066:GSM4414048	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	10X Genomics 3 prime v2	True
+GSM4414048	geo:GSE147066:GSM4414048	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	Genome_build: GRCh38 Release 91	True
+GSM4414048	geo:GSE147066:GSM4414048	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	Collagen expressing mesenchymal cells only	True
+GSM4414048	geo:GSE147066:GSM4414048	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	disease: IPF	True
+GSM4414048	geo:GSE147066:GSM4414048	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414048	geo:GSE147066:GSM4414048	age	59	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	!Sample_characteristics_ch1 = age: 59	True
+GSM4414048	geo:GSE147066:GSM4414048	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414048	geo:GSE147066:GSM4414048	donor_id	135I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	!Sample_title = 135I	True
+GSM4414048	geo:GSE147066:GSM4414048	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414048	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414049	geo:GSE147066:GSM4414049	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	Whole Lung Dissociate	True
+GSM4414049	geo:GSE147066:GSM4414049	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	Thawed Cells were rinsed with 10% FBS	True
+GSM4414049	geo:GSE147066:GSM4414049	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	Cryopreservation in 10% DMSO	True
+GSM4414049	geo:GSE147066:GSM4414049	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	10X Genomics 3 prime v2	True
+GSM4414049	geo:GSE147066:GSM4414049	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	Genome_build: GRCh38 Release 91	True
+GSM4414049	geo:GSE147066:GSM4414049	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	Collagen expressing mesenchymal cells only	True
+GSM4414049	geo:GSE147066:GSM4414049	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	disease: IPF	True
+GSM4414049	geo:GSE147066:GSM4414049	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414049	geo:GSE147066:GSM4414049	age	56	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	!Sample_characteristics_ch1 = age: 56	True
+GSM4414049	geo:GSE147066:GSM4414049	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414049	geo:GSE147066:GSM4414049	donor_id	138I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	!Sample_title = 138I	True
+GSM4414049	geo:GSE147066:GSM4414049	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414049	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414050	geo:GSE147066:GSM4414050	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	Whole Lung Dissociate	True
+GSM4414050	geo:GSE147066:GSM4414050	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	Thawed Cells were rinsed with 10% FBS	True
+GSM4414050	geo:GSE147066:GSM4414050	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	Cryopreservation in 10% DMSO	True
+GSM4414050	geo:GSE147066:GSM4414050	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	10X Genomics 3 prime v2	True
+GSM4414050	geo:GSE147066:GSM4414050	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	Genome_build: GRCh38 Release 91	True
+GSM4414050	geo:GSE147066:GSM4414050	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	Collagen expressing mesenchymal cells only	True
+GSM4414050	geo:GSE147066:GSM4414050	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	disease: IPF	True
+GSM4414050	geo:GSE147066:GSM4414050	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414050	geo:GSE147066:GSM4414050	age	67	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	!Sample_characteristics_ch1 = age: 67	True
+GSM4414050	geo:GSE147066:GSM4414050	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414050	geo:GSE147066:GSM4414050	donor_id	145I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	!Sample_title = 145I	True
+GSM4414050	geo:GSE147066:GSM4414050	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414050	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414051	geo:GSE147066:GSM4414051	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	Whole Lung Dissociate	True
+GSM4414051	geo:GSE147066:GSM4414051	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	Thawed Cells were rinsed with 10% FBS	True
+GSM4414051	geo:GSE147066:GSM4414051	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	Cryopreservation in 10% DMSO	True
+GSM4414051	geo:GSE147066:GSM4414051	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	10X Genomics 3 prime v2	True
+GSM4414051	geo:GSE147066:GSM4414051	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	Genome_build: GRCh38 Release 91	True
+GSM4414051	geo:GSE147066:GSM4414051	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	Collagen expressing mesenchymal cells only	True
+GSM4414051	geo:GSE147066:GSM4414051	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	disease: IPF	True
+GSM4414051	geo:GSE147066:GSM4414051	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414051	geo:GSE147066:GSM4414051	age	66	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	!Sample_characteristics_ch1 = age: 66	True
+GSM4414051	geo:GSE147066:GSM4414051	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414051	geo:GSE147066:GSM4414051	donor_id	157I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	!Sample_title = 157I	True
+GSM4414051	geo:GSE147066:GSM4414051	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414051	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414052	geo:GSE147066:GSM4414052	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	Whole Lung Dissociate	True
+GSM4414052	geo:GSE147066:GSM4414052	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	Thawed Cells were rinsed with 10% FBS	True
+GSM4414052	geo:GSE147066:GSM4414052	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	Cryopreservation in 10% DMSO	True
+GSM4414052	geo:GSE147066:GSM4414052	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	10X Genomics 3 prime v2	True
+GSM4414052	geo:GSE147066:GSM4414052	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	Genome_build: GRCh38 Release 91	True
+GSM4414052	geo:GSE147066:GSM4414052	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	Collagen expressing mesenchymal cells only	True
+GSM4414052	geo:GSE147066:GSM4414052	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	disease: IPF	True
+GSM4414052	geo:GSE147066:GSM4414052	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414052	geo:GSE147066:GSM4414052	age	63	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	!Sample_characteristics_ch1 = age: 63	True
+GSM4414052	geo:GSE147066:GSM4414052	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414052	geo:GSE147066:GSM4414052	donor_id	166I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	!Sample_title = 166I	True
+GSM4414052	geo:GSE147066:GSM4414052	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414052	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414053	geo:GSE147066:GSM4414053	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	Whole Lung Dissociate	True
+GSM4414053	geo:GSE147066:GSM4414053	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	Thawed Cells were rinsed with 10% FBS	True
+GSM4414053	geo:GSE147066:GSM4414053	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	Cryopreservation in 10% DMSO	True
+GSM4414053	geo:GSE147066:GSM4414053	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	10X Genomics 3 prime v2	True
+GSM4414053	geo:GSE147066:GSM4414053	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	Genome_build: GRCh38 Release 91	True
+GSM4414053	geo:GSE147066:GSM4414053	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	Collagen expressing mesenchymal cells only	True
+GSM4414053	geo:GSE147066:GSM4414053	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	disease: IPF	True
+GSM4414053	geo:GSE147066:GSM4414053	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414053	geo:GSE147066:GSM4414053	age	67	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	!Sample_characteristics_ch1 = age: 67	True
+GSM4414053	geo:GSE147066:GSM4414053	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414053	geo:GSE147066:GSM4414053	donor_id	174I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	!Sample_title = 174I	True
+GSM4414053	geo:GSE147066:GSM4414053	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414053	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414054	geo:GSE147066:GSM4414054	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	Whole Lung Dissociate	True
+GSM4414054	geo:GSE147066:GSM4414054	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	Thawed Cells were rinsed with 10% FBS	True
+GSM4414054	geo:GSE147066:GSM4414054	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	Cryopreservation in 10% DMSO	True
+GSM4414054	geo:GSE147066:GSM4414054	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	10X Genomics 3 prime v2	True
+GSM4414054	geo:GSE147066:GSM4414054	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	Genome_build: GRCh38 Release 91	True
+GSM4414054	geo:GSE147066:GSM4414054	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	Collagen expressing mesenchymal cells only	True
+GSM4414054	geo:GSE147066:GSM4414054	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	disease: IPF	True
+GSM4414054	geo:GSE147066:GSM4414054	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414054	geo:GSE147066:GSM4414054	age	70	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	!Sample_characteristics_ch1 = age: 70	True
+GSM4414054	geo:GSE147066:GSM4414054	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414054	geo:GSE147066:GSM4414054	donor_id	179I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	!Sample_title = 179I	True
+GSM4414054	geo:GSE147066:GSM4414054	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414054	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414055	geo:GSE147066:GSM4414055	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	Whole Lung Dissociate	True
+GSM4414055	geo:GSE147066:GSM4414055	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	Thawed Cells were rinsed with 10% FBS	True
+GSM4414055	geo:GSE147066:GSM4414055	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	Cryopreservation in 10% DMSO	True
+GSM4414055	geo:GSE147066:GSM4414055	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	10X Genomics 3 prime v2	True
+GSM4414055	geo:GSE147066:GSM4414055	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	Genome_build: GRCh38 Release 91	True
+GSM4414055	geo:GSE147066:GSM4414055	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	Collagen expressing mesenchymal cells only	True
+GSM4414055	geo:GSE147066:GSM4414055	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	disease: IPF	True
+GSM4414055	geo:GSE147066:GSM4414055	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414055	geo:GSE147066:GSM4414055	age	65	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	!Sample_characteristics_ch1 = age: 65	True
+GSM4414055	geo:GSE147066:GSM4414055	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414055	geo:GSE147066:GSM4414055	donor_id	209I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	!Sample_title = 209I	True
+GSM4414055	geo:GSE147066:GSM4414055	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414055	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414056	geo:GSE147066:GSM4414056	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	Whole Lung Dissociate	True
+GSM4414056	geo:GSE147066:GSM4414056	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	Thawed Cells were rinsed with 10% FBS	True
+GSM4414056	geo:GSE147066:GSM4414056	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	Cryopreservation in 10% DMSO	True
+GSM4414056	geo:GSE147066:GSM4414056	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	10X Genomics 3 prime v2	True
+GSM4414056	geo:GSE147066:GSM4414056	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	Genome_build: GRCh38 Release 91	True
+GSM4414056	geo:GSE147066:GSM4414056	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	Collagen expressing mesenchymal cells only	True
+GSM4414056	geo:GSE147066:GSM4414056	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	disease: IPF	True
+GSM4414056	geo:GSE147066:GSM4414056	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414056	geo:GSE147066:GSM4414056	age	71	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	!Sample_characteristics_ch1 = age: 71	True
+GSM4414056	geo:GSE147066:GSM4414056	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414056	geo:GSE147066:GSM4414056	donor_id	212I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	!Sample_title = 212I	True
+GSM4414056	geo:GSE147066:GSM4414056	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414056	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414057	geo:GSE147066:GSM4414057	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	Whole Lung Dissociate	True
+GSM4414057	geo:GSE147066:GSM4414057	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	Thawed Cells were rinsed with 10% FBS	True
+GSM4414057	geo:GSE147066:GSM4414057	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	Cryopreservation in 10% DMSO	True
+GSM4414057	geo:GSE147066:GSM4414057	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	10X Genomics 3 prime v2	True
+GSM4414057	geo:GSE147066:GSM4414057	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	Genome_build: GRCh38 Release 91	True
+GSM4414057	geo:GSE147066:GSM4414057	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	Collagen expressing mesenchymal cells only	True
+GSM4414057	geo:GSE147066:GSM4414057	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	disease: IPF	True
+GSM4414057	geo:GSE147066:GSM4414057	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414057	geo:GSE147066:GSM4414057	age	69	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	!Sample_characteristics_ch1 = age: 69	True
+GSM4414057	geo:GSE147066:GSM4414057	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414057	geo:GSE147066:GSM4414057	donor_id	214I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	!Sample_title = 214I	True
+GSM4414057	geo:GSE147066:GSM4414057	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414057	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414058	geo:GSE147066:GSM4414058	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	Whole Lung Dissociate	True
+GSM4414058	geo:GSE147066:GSM4414058	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	Thawed Cells were rinsed with 10% FBS	True
+GSM4414058	geo:GSE147066:GSM4414058	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	Cryopreservation in 10% DMSO	True
+GSM4414058	geo:GSE147066:GSM4414058	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	10X Genomics 3 prime v2	True
+GSM4414058	geo:GSE147066:GSM4414058	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	Genome_build: GRCh38 Release 91	True
+GSM4414058	geo:GSE147066:GSM4414058	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	Collagen expressing mesenchymal cells only	True
+GSM4414058	geo:GSE147066:GSM4414058	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	disease: IPF	True
+GSM4414058	geo:GSE147066:GSM4414058	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414058	geo:GSE147066:GSM4414058	age	67	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	!Sample_characteristics_ch1 = age: 67	True
+GSM4414058	geo:GSE147066:GSM4414058	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414058	geo:GSE147066:GSM4414058	donor_id	221I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	!Sample_title = 221I	True
+GSM4414058	geo:GSE147066:GSM4414058	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414058	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414059	geo:GSE147066:GSM4414059	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	Whole Lung Dissociate	True
+GSM4414059	geo:GSE147066:GSM4414059	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	Thawed Cells were rinsed with 10% FBS	True
+GSM4414059	geo:GSE147066:GSM4414059	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	Cryopreservation in 10% DMSO	True
+GSM4414059	geo:GSE147066:GSM4414059	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	10X Genomics 3 prime v2	True
+GSM4414059	geo:GSE147066:GSM4414059	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	Genome_build: GRCh38 Release 91	True
+GSM4414059	geo:GSE147066:GSM4414059	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	Collagen expressing mesenchymal cells only	True
+GSM4414059	geo:GSE147066:GSM4414059	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	disease: IPF	True
+GSM4414059	geo:GSE147066:GSM4414059	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414059	geo:GSE147066:GSM4414059	age	59	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	!Sample_characteristics_ch1 = age: 59	True
+GSM4414059	geo:GSE147066:GSM4414059	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414059	geo:GSE147066:GSM4414059	donor_id	222I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	!Sample_title = 222I	True
+GSM4414059	geo:GSE147066:GSM4414059	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414059	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414060	geo:GSE147066:GSM4414060	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	Whole Lung Dissociate	True
+GSM4414060	geo:GSE147066:GSM4414060	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	Thawed Cells were rinsed with 10% FBS	True
+GSM4414060	geo:GSE147066:GSM4414060	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	Cryopreservation in 10% DMSO	True
+GSM4414060	geo:GSE147066:GSM4414060	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	10X Genomics 3 prime v2	True
+GSM4414060	geo:GSE147066:GSM4414060	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	Genome_build: GRCh38 Release 91	True
+GSM4414060	geo:GSE147066:GSM4414060	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	Collagen expressing mesenchymal cells only	True
+GSM4414060	geo:GSE147066:GSM4414060	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	disease: IPF	True
+GSM4414060	geo:GSE147066:GSM4414060	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414060	geo:GSE147066:GSM4414060	age	70	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	!Sample_characteristics_ch1 = age: 70	True
+GSM4414060	geo:GSE147066:GSM4414060	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414060	geo:GSE147066:GSM4414060	donor_id	225I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	!Sample_title = 225I	True
+GSM4414060	geo:GSE147066:GSM4414060	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414060	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414061	geo:GSE147066:GSM4414061	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	Whole Lung Dissociate	True
+GSM4414061	geo:GSE147066:GSM4414061	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	Thawed Cells were rinsed with 10% FBS	True
+GSM4414061	geo:GSE147066:GSM4414061	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	Cryopreservation in 10% DMSO	True
+GSM4414061	geo:GSE147066:GSM4414061	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	10X Genomics 3 prime v2	True
+GSM4414061	geo:GSE147066:GSM4414061	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	Genome_build: GRCh38 Release 91	True
+GSM4414061	geo:GSE147066:GSM4414061	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	Collagen expressing mesenchymal cells only	True
+GSM4414061	geo:GSE147066:GSM4414061	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	disease: IPF	True
+GSM4414061	geo:GSE147066:GSM4414061	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414061	geo:GSE147066:GSM4414061	age	56	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	!Sample_characteristics_ch1 = age: 56	True
+GSM4414061	geo:GSE147066:GSM4414061	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414061	geo:GSE147066:GSM4414061	donor_id	228I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	!Sample_title = 228I	True
+GSM4414061	geo:GSE147066:GSM4414061	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414061	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414062	geo:GSE147066:GSM4414062	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	Whole Lung Dissociate	True
+GSM4414062	geo:GSE147066:GSM4414062	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	Thawed Cells were rinsed with 10% FBS	True
+GSM4414062	geo:GSE147066:GSM4414062	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	Cryopreservation in 10% DMSO	True
+GSM4414062	geo:GSE147066:GSM4414062	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	10X Genomics 3 prime v2	True
+GSM4414062	geo:GSE147066:GSM4414062	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	Genome_build: GRCh38 Release 91	True
+GSM4414062	geo:GSE147066:GSM4414062	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	Collagen expressing mesenchymal cells only	True
+GSM4414062	geo:GSE147066:GSM4414062	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	disease: IPF	True
+GSM4414062	geo:GSE147066:GSM4414062	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414062	geo:GSE147066:GSM4414062	age	61	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	!Sample_characteristics_ch1 = age: 61	True
+GSM4414062	geo:GSE147066:GSM4414062	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414062	geo:GSE147066:GSM4414062	donor_id	29I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	!Sample_title = 29I	True
+GSM4414062	geo:GSE147066:GSM4414062	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414062	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414063	geo:GSE147066:GSM4414063	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	Whole Lung Dissociate	True
+GSM4414063	geo:GSE147066:GSM4414063	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	Thawed Cells were rinsed with 10% FBS	True
+GSM4414063	geo:GSE147066:GSM4414063	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	Cryopreservation in 10% DMSO	True
+GSM4414063	geo:GSE147066:GSM4414063	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	10X Genomics 3 prime v2	True
+GSM4414063	geo:GSE147066:GSM4414063	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	Genome_build: GRCh38 Release 91	True
+GSM4414063	geo:GSE147066:GSM4414063	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	Collagen expressing mesenchymal cells only	True
+GSM4414063	geo:GSE147066:GSM4414063	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	disease: IPF	True
+GSM4414063	geo:GSE147066:GSM4414063	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414063	geo:GSE147066:GSM4414063	age	62	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	!Sample_characteristics_ch1 = age: 62	True
+GSM4414063	geo:GSE147066:GSM4414063	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414063	geo:GSE147066:GSM4414063	donor_id	051I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	!Sample_title = 051I	True
+GSM4414063	geo:GSE147066:GSM4414063	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414063	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414064	geo:GSE147066:GSM4414064	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	Whole Lung Dissociate	True
+GSM4414064	geo:GSE147066:GSM4414064	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	Thawed Cells were rinsed with 10% FBS	True
+GSM4414064	geo:GSE147066:GSM4414064	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	Cryopreservation in 10% DMSO	True
+GSM4414064	geo:GSE147066:GSM4414064	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	10X Genomics 3 prime v2	True
+GSM4414064	geo:GSE147066:GSM4414064	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	Genome_build: GRCh38 Release 91	True
+GSM4414064	geo:GSE147066:GSM4414064	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	Collagen expressing mesenchymal cells only	True
+GSM4414064	geo:GSE147066:GSM4414064	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	disease: IPF	True
+GSM4414064	geo:GSE147066:GSM4414064	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414064	geo:GSE147066:GSM4414064	age	65	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	!Sample_characteristics_ch1 = age: 65	True
+GSM4414064	geo:GSE147066:GSM4414064	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414064	geo:GSE147066:GSM4414064	donor_id	025I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	!Sample_title = 025I	True
+GSM4414064	geo:GSE147066:GSM4414064	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414064	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414065	geo:GSE147066:GSM4414065	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	Whole Lung Dissociate	True
+GSM4414065	geo:GSE147066:GSM4414065	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	Thawed Cells were rinsed with 10% FBS	True
+GSM4414065	geo:GSE147066:GSM4414065	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	Cryopreservation in 10% DMSO	True
+GSM4414065	geo:GSE147066:GSM4414065	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	10X Genomics 3 prime v2	True
+GSM4414065	geo:GSE147066:GSM4414065	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	Genome_build: GRCh38 Release 91	True
+GSM4414065	geo:GSE147066:GSM4414065	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	Collagen expressing mesenchymal cells only	True
+GSM4414065	geo:GSE147066:GSM4414065	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	disease: IPF	True
+GSM4414065	geo:GSE147066:GSM4414065	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414065	geo:GSE147066:GSM4414065	age	78	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	!Sample_characteristics_ch1 = age: 78	True
+GSM4414065	geo:GSE147066:GSM4414065	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414065	geo:GSE147066:GSM4414065	donor_id	010I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	!Sample_title = 010I	True
+GSM4414065	geo:GSE147066:GSM4414065	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414065	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414066	geo:GSE147066:GSM4414066	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	Whole Lung Dissociate	True
+GSM4414066	geo:GSE147066:GSM4414066	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	Thawed Cells were rinsed with 10% FBS	True
+GSM4414066	geo:GSE147066:GSM4414066	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	Cryopreservation in 10% DMSO	True
+GSM4414066	geo:GSE147066:GSM4414066	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	10X Genomics 3 prime v2	True
+GSM4414066	geo:GSE147066:GSM4414066	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	Genome_build: GRCh38 Release 91	True
+GSM4414066	geo:GSE147066:GSM4414066	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	Collagen expressing mesenchymal cells only	True
+GSM4414066	geo:GSE147066:GSM4414066	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	disease: IPF	True
+GSM4414066	geo:GSE147066:GSM4414066	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414066	geo:GSE147066:GSM4414066	age	69	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	!Sample_characteristics_ch1 = age: 69	True
+GSM4414066	geo:GSE147066:GSM4414066	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414066	geo:GSE147066:GSM4414066	donor_id	021I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	!Sample_title = 021I	True
+GSM4414066	geo:GSE147066:GSM4414066	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414066	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414067	geo:GSE147066:GSM4414067	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	Whole Lung Dissociate	True
+GSM4414067	geo:GSE147066:GSM4414067	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	Thawed Cells were rinsed with 10% FBS	True
+GSM4414067	geo:GSE147066:GSM4414067	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	Cryopreservation in 10% DMSO	True
+GSM4414067	geo:GSE147066:GSM4414067	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	10X Genomics 3 prime v2	True
+GSM4414067	geo:GSE147066:GSM4414067	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	Genome_build: GRCh38 Release 91	True
+GSM4414067	geo:GSE147066:GSM4414067	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	Collagen expressing mesenchymal cells only	True
+GSM4414067	geo:GSE147066:GSM4414067	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	disease: IPF	True
+GSM4414067	geo:GSE147066:GSM4414067	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414067	geo:GSE147066:GSM4414067	age	67	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	!Sample_characteristics_ch1 = age: 67	True
+GSM4414067	geo:GSE147066:GSM4414067	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414067	geo:GSE147066:GSM4414067	donor_id	022I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	!Sample_title = 022I	True
+GSM4414067	geo:GSE147066:GSM4414067	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414067	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414068	geo:GSE147066:GSM4414068	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	Whole Lung Dissociate	True
+GSM4414068	geo:GSE147066:GSM4414068	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	Thawed Cells were rinsed with 10% FBS	True
+GSM4414068	geo:GSE147066:GSM4414068	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	Cryopreservation in 10% DMSO	True
+GSM4414068	geo:GSE147066:GSM4414068	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	10X Genomics 3 prime v2	True
+GSM4414068	geo:GSE147066:GSM4414068	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	Genome_build: GRCh38 Release 91	True
+GSM4414068	geo:GSE147066:GSM4414068	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	Collagen expressing mesenchymal cells only	True
+GSM4414068	geo:GSE147066:GSM4414068	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	disease: IPF	True
+GSM4414068	geo:GSE147066:GSM4414068	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414068	geo:GSE147066:GSM4414068	age	59	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	!Sample_characteristics_ch1 = age: 59	True
+GSM4414068	geo:GSE147066:GSM4414068	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414068	geo:GSE147066:GSM4414068	donor_id	041I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	!Sample_title = 041I	True
+GSM4414068	geo:GSE147066:GSM4414068	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414068	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414069	geo:GSE147066:GSM4414069	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	Whole Lung Dissociate	True
+GSM4414069	geo:GSE147066:GSM4414069	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	Thawed Cells were rinsed with 10% FBS	True
+GSM4414069	geo:GSE147066:GSM4414069	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	Cryopreservation in 10% DMSO	True
+GSM4414069	geo:GSE147066:GSM4414069	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	10X Genomics 3 prime v2	True
+GSM4414069	geo:GSE147066:GSM4414069	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	Genome_build: GRCh38 Release 91	True
+GSM4414069	geo:GSE147066:GSM4414069	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	Collagen expressing mesenchymal cells only	True
+GSM4414069	geo:GSE147066:GSM4414069	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	disease: IPF	True
+GSM4414069	geo:GSE147066:GSM4414069	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414069	geo:GSE147066:GSM4414069	age	70	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	!Sample_characteristics_ch1 = age: 70	True
+GSM4414069	geo:GSE147066:GSM4414069	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414069	geo:GSE147066:GSM4414069	donor_id	040I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	!Sample_title = 040I	True
+GSM4414069	geo:GSE147066:GSM4414069	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414069	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414070	geo:GSE147066:GSM4414070	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	Whole Lung Dissociate	True
+GSM4414070	geo:GSE147066:GSM4414070	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	Thawed Cells were rinsed with 10% FBS	True
+GSM4414070	geo:GSE147066:GSM4414070	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	Cryopreservation in 10% DMSO	True
+GSM4414070	geo:GSE147066:GSM4414070	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	10X Genomics 3 prime v2	True
+GSM4414070	geo:GSE147066:GSM4414070	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	Genome_build: GRCh38 Release 91	True
+GSM4414070	geo:GSE147066:GSM4414070	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	Collagen expressing mesenchymal cells only	True
+GSM4414070	geo:GSE147066:GSM4414070	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	disease: IPF	True
+GSM4414070	geo:GSE147066:GSM4414070	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414070	geo:GSE147066:GSM4414070	age	64	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	!Sample_characteristics_ch1 = age: 64	True
+GSM4414070	geo:GSE147066:GSM4414070	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414070	geo:GSE147066:GSM4414070	donor_id	47I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	!Sample_title = 47I	True
+GSM4414070	geo:GSE147066:GSM4414070	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414070	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414071	geo:GSE147066:GSM4414071	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	Whole Lung Dissociate	True
+GSM4414071	geo:GSE147066:GSM4414071	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	Thawed Cells were rinsed with 10% FBS	True
+GSM4414071	geo:GSE147066:GSM4414071	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	Cryopreservation in 10% DMSO	True
+GSM4414071	geo:GSE147066:GSM4414071	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	10X Genomics 3 prime v2	True
+GSM4414071	geo:GSE147066:GSM4414071	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	Genome_build: GRCh38 Release 91	True
+GSM4414071	geo:GSE147066:GSM4414071	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	Collagen expressing mesenchymal cells only	True
+GSM4414071	geo:GSE147066:GSM4414071	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	disease: IPF	True
+GSM4414071	geo:GSE147066:GSM4414071	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414071	geo:GSE147066:GSM4414071	age	66	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	!Sample_characteristics_ch1 = age: 66	True
+GSM4414071	geo:GSE147066:GSM4414071	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414071	geo:GSE147066:GSM4414071	donor_id	49I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	!Sample_title = 49I	True
+GSM4414071	geo:GSE147066:GSM4414071	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414071	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414072	geo:GSE147066:GSM4414072	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	Whole Lung Dissociate	True
+GSM4414072	geo:GSE147066:GSM4414072	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	Thawed Cells were rinsed with 10% FBS	True
+GSM4414072	geo:GSE147066:GSM4414072	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	Cryopreservation in 10% DMSO	True
+GSM4414072	geo:GSE147066:GSM4414072	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	10X Genomics 3 prime v2	True
+GSM4414072	geo:GSE147066:GSM4414072	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	Genome_build: GRCh38 Release 91	True
+GSM4414072	geo:GSE147066:GSM4414072	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	Collagen expressing mesenchymal cells only	True
+GSM4414072	geo:GSE147066:GSM4414072	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	disease: IPF	True
+GSM4414072	geo:GSE147066:GSM4414072	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414072	geo:GSE147066:GSM4414072	age	60	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	!Sample_characteristics_ch1 = age: 60	True
+GSM4414072	geo:GSE147066:GSM4414072	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414072	geo:GSE147066:GSM4414072	donor_id	053I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	!Sample_title = 053I	True
+GSM4414072	geo:GSE147066:GSM4414072	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414072	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414073	geo:GSE147066:GSM4414073	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	Whole Lung Dissociate	True
+GSM4414073	geo:GSE147066:GSM4414073	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	Thawed Cells were rinsed with 10% FBS	True
+GSM4414073	geo:GSE147066:GSM4414073	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	Cryopreservation in 10% DMSO	True
+GSM4414073	geo:GSE147066:GSM4414073	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	10X Genomics 3 prime v2	True
+GSM4414073	geo:GSE147066:GSM4414073	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	Genome_build: GRCh38 Release 91	True
+GSM4414073	geo:GSE147066:GSM4414073	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	Collagen expressing mesenchymal cells only	True
+GSM4414073	geo:GSE147066:GSM4414073	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	disease: IPF	True
+GSM4414073	geo:GSE147066:GSM4414073	sex	female	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	!Sample_characteristics_ch1 = Sex: F	True
+GSM4414073	geo:GSE147066:GSM4414073	age	66	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	!Sample_characteristics_ch1 = age: 66	True
+GSM4414073	geo:GSE147066:GSM4414073	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414073	geo:GSE147066:GSM4414073	donor_id	59I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	!Sample_title = 59I	True
+GSM4414073	geo:GSE147066:GSM4414073	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414073	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414074	geo:GSE147066:GSM4414074	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	Whole Lung Dissociate	True
+GSM4414074	geo:GSE147066:GSM4414074	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	Thawed Cells were rinsed with 10% FBS	True
+GSM4414074	geo:GSE147066:GSM4414074	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	Cryopreservation in 10% DMSO	True
+GSM4414074	geo:GSE147066:GSM4414074	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	10X Genomics 3 prime v2	True
+GSM4414074	geo:GSE147066:GSM4414074	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	Genome_build: GRCh38 Release 91	True
+GSM4414074	geo:GSE147066:GSM4414074	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	Collagen expressing mesenchymal cells only	True
+GSM4414074	geo:GSE147066:GSM4414074	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	disease: IPF	True
+GSM4414074	geo:GSE147066:GSM4414074	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414074	geo:GSE147066:GSM4414074	age	68	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	!Sample_characteristics_ch1 = age: 68	True
+GSM4414074	geo:GSE147066:GSM4414074	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414074	geo:GSE147066:GSM4414074	donor_id	063I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	!Sample_title = 063I	True
+GSM4414074	geo:GSE147066:GSM4414074	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414074	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414075	geo:GSE147066:GSM4414075	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	Whole Lung Dissociate	True
+GSM4414075	geo:GSE147066:GSM4414075	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	Thawed Cells were rinsed with 10% FBS	True
+GSM4414075	geo:GSE147066:GSM4414075	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	Cryopreservation in 10% DMSO	True
+GSM4414075	geo:GSE147066:GSM4414075	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	10X Genomics 3 prime v2	True
+GSM4414075	geo:GSE147066:GSM4414075	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	Genome_build: GRCh38 Release 91	True
+GSM4414075	geo:GSE147066:GSM4414075	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	Collagen expressing mesenchymal cells only	True
+GSM4414075	geo:GSE147066:GSM4414075	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	disease: IPF	True
+GSM4414075	geo:GSE147066:GSM4414075	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414075	geo:GSE147066:GSM4414075	age	54	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	!Sample_characteristics_ch1 = age: 54	True
+GSM4414075	geo:GSE147066:GSM4414075	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414075	geo:GSE147066:GSM4414075	donor_id	034I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	!Sample_title = 034I	True
+GSM4414075	geo:GSE147066:GSM4414075	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414075	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414076	geo:GSE147066:GSM4414076	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	Whole Lung Dissociate	True
+GSM4414076	geo:GSE147066:GSM4414076	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	Thawed Cells were rinsed with 10% FBS	True
+GSM4414076	geo:GSE147066:GSM4414076	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	Cryopreservation in 10% DMSO	True
+GSM4414076	geo:GSE147066:GSM4414076	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	10X Genomics 3 prime v2	True
+GSM4414076	geo:GSE147066:GSM4414076	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	Genome_build: GRCh38 Release 91	True
+GSM4414076	geo:GSE147066:GSM4414076	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	Collagen expressing mesenchymal cells only	True
+GSM4414076	geo:GSE147066:GSM4414076	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	disease: IPF	True
+GSM4414076	geo:GSE147066:GSM4414076	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414076	geo:GSE147066:GSM4414076	age	74	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	!Sample_characteristics_ch1 = age: 74	True
+GSM4414076	geo:GSE147066:GSM4414076	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414076	geo:GSE147066:GSM4414076	donor_id	123I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	!Sample_title = 123I	True
+GSM4414076	geo:GSE147066:GSM4414076	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414076	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414077	geo:GSE147066:GSM4414077	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	Whole Lung Dissociate	True
+GSM4414077	geo:GSE147066:GSM4414077	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	Thawed Cells were rinsed with 10% FBS	True
+GSM4414077	geo:GSE147066:GSM4414077	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	Cryopreservation in 10% DMSO	True
+GSM4414077	geo:GSE147066:GSM4414077	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	10X Genomics 3 prime v2	True
+GSM4414077	geo:GSE147066:GSM4414077	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	Genome_build: GRCh38 Release 91	True
+GSM4414077	geo:GSE147066:GSM4414077	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	Collagen expressing mesenchymal cells only	True
+GSM4414077	geo:GSE147066:GSM4414077	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	disease: IPF	True
+GSM4414077	geo:GSE147066:GSM4414077	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414077	geo:GSE147066:GSM4414077	age	68	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	!Sample_characteristics_ch1 = age: 68	True
+GSM4414077	geo:GSE147066:GSM4414077	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414077	geo:GSE147066:GSM4414077	donor_id	158I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	!Sample_title = 158I	True
+GSM4414077	geo:GSE147066:GSM4414077	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414077	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True
+GSM4414078	geo:GSE147066:GSM4414078	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	Whole Lung Dissociate	True
+GSM4414078	geo:GSE147066:GSM4414078	suspension_type	cell	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	Thawed Cells were rinsed with 10% FBS	True
+GSM4414078	geo:GSE147066:GSM4414078	sample_preservation	cryopreserved (10% DMSO)	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	Cryopreservation in 10% DMSO	True
+GSM4414078	geo:GSE147066:GSM4414078	assay	10x 3' v2	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	10X Genomics 3 prime v2	True
+GSM4414078	geo:GSE147066:GSM4414078	gene_annotation_version	GRCh38 Release 91	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	Genome_build: GRCh38 Release 91	True
+GSM4414078	geo:GSE147066:GSM4414078	cell_enrichment	Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	Collagen expressing mesenchymal cells only	True
+GSM4414078	geo:GSE147066:GSM4414078	disease_ontology_term_id	MONDO:0800504	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	disease: IPF	True
+GSM4414078	geo:GSE147066:GSM4414078	sex	male	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	!Sample_characteristics_ch1 = Sex: M	True
+GSM4414078	geo:GSE147066:GSM4414078	age	69	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	!Sample_characteristics_ch1 = age: 69	True
+GSM4414078	geo:GSE147066:GSM4414078	disease_free_text	IPF	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	!Sample_characteristics_ch1 = disease: IPF	True
+GSM4414078	geo:GSE147066:GSM4414078	donor_id	177I	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	!Sample_title = 177I	True
+GSM4414078	geo:GSE147066:GSM4414078	tissue_free_text	Whole Lung Dissociate; Collagen expressing mesenchymal cells only	file	raw/fp-9efc3f112fce/GSE147066_family.soft.gz	GSM4414078	!Sample_source_name_ch1 = Whole Lung Dissociate; Collagen expressing mesenchymal cells only	True

@@ -1,0 +1,29 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8462125	geo:GSE274934:GSM8462125	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462126	geo:GSE274934:GSM8462126	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462127	geo:GSE274934:GSM8462127	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462128	geo:GSE274934:GSM8462128	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462129	geo:GSE274934:GSM8462129	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462130	geo:GSE274934:GSM8462130	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462131	geo:GSE274934:GSM8462131	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462132	geo:GSE274934:GSM8462132	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8462133	geo:GSE274934:GSM8462133	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+		organism	Homo sapiens	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8462125	geo:GSE274934:GSM8462125	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462125	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462125	geo:GSE274934:GSM8462125	disease_free_text	WT LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462125	!Sample_characteristics_ch1 = tumor type: WT LUAD	True
+GSM8462126	geo:GSE274934:GSM8462126	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462126	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462126	geo:GSE274934:GSM8462126	disease_free_text	WT LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462126	!Sample_characteristics_ch1 = tumor type: WT LUAD	True
+GSM8462127	geo:GSE274934:GSM8462127	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462127	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462127	geo:GSE274934:GSM8462127	disease_free_text	WT LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462127	!Sample_characteristics_ch1 = tumor type: WT LUAD	True
+GSM8462128	geo:GSE274934:GSM8462128	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462128	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462128	geo:GSE274934:GSM8462128	disease_free_text	ALK-positive LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462128	!Sample_characteristics_ch1 = tumor type: ALK-positive LUAD	True
+GSM8462129	geo:GSE274934:GSM8462129	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462129	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462129	geo:GSE274934:GSM8462129	disease_free_text	ALK-positive LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462129	!Sample_characteristics_ch1 = tumor type: ALK-positive LUAD	True
+GSM8462130	geo:GSE274934:GSM8462130	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462130	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462130	geo:GSE274934:GSM8462130	disease_free_text	WT LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462130	!Sample_characteristics_ch1 = tumor type: WT LUAD	True
+GSM8462131	geo:GSE274934:GSM8462131	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462131	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462131	geo:GSE274934:GSM8462131	disease_free_text	ALK-positive LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462131	!Sample_characteristics_ch1 = tumor type: ALK-positive LUAD	True
+GSM8462132	geo:GSE274934:GSM8462132	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462132	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462132	geo:GSE274934:GSM8462132	disease_free_text	WT LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462132	!Sample_characteristics_ch1 = tumor type: WT LUAD	True
+GSM8462133	geo:GSE274934:GSM8462133	tissue_free_text	Lung	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462133	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8462133	geo:GSE274934:GSM8462133	disease_free_text	ALK-positive LUAD	file	raw/fp-2a4ca4d39923/GSE274934_family.soft.gz	GSM8462133	!Sample_characteristics_ch1 = tumor type: ALK-positive LUAD	True

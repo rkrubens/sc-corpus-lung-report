@@ -1,0 +1,8 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8328156	geo:GSE269794:GSM8328156	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+		organism	Homo sapiens	file	raw/fp-76c8a82e2c15/GSE269794_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8328156	geo:GSE269794:GSM8328156	tissue_free_text	lung	file	raw/fp-76c8a82e2c15/GSE269794_family.soft.gz	GSM8328156	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8328156	geo:GSE269794:GSM8328156	disease_free_text	idiopathic pulmonary fibrosis	file	raw/fp-76c8a82e2c15/GSE269794_family.soft.gz		!Series_title = Single cell RNA sequencing analysis of P63+ lung progenitor cells isolated from IPF patients	True
+GSM8328156	geo:GSE269794:GSM8328156	disease_ontology_term_id	MONDO:0800504	file	raw/fp-76c8a82e2c15/GSE269794_family.soft.gz		!Series_title = Single cell RNA sequencing analysis of P63+ lung progenitor cells isolated from IPF patients	True
+GSM8328156	geo:GSE269794:GSM8328156	tissue_type	cell culture	file	raw/fp-76c8a82e2c15/GSE269794_family.soft.gz		!Series_summary = To gain molecular insights into the identity composition of the cells selectively grown in the culture system, we performed single-cell sequencing on the primary cell.	True
+GSM8328156	geo:GSE269794:GSM8328156	suspension_type	cell	file	raw/fp-76c8a82e2c15/GSE269794_family.soft.gz		!Series_overall_design = After removing feeder cells through gradient digestion, the primary cells isolated by the pharmaceutical-grade cell cloning culture system were digested to prepare a single-cell suspension.	True

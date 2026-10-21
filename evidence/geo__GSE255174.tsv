@@ -1,0 +1,407 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+M1	geo:GSE255174:M1	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M24	geo:GSE255174:M24	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M25	geo:GSE255174:M25	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M26	geo:GSE255174:M26	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M29	geo:GSE255174:M29	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M3	geo:GSE255174:M3	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M33	geo:GSE255174:M33	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M35	geo:GSE255174:M35	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M37	geo:GSE255174:M37	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+N1	geo:GSE255174:N1	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+N2	geo:GSE255174:N2	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+N3	geo:GSE255174:N3	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+N4	geo:GSE255174:N4	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+N5	geo:GSE255174:N5	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+N6	geo:GSE255174:N6	donor_id	<column soft_patient_id>	column	work/geomx_aoi_table_reconciled.csv/soft_patient_id			True
+M1	geo:GSE255174:M1	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M24	geo:GSE255174:M24	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M25	geo:GSE255174:M25	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M26	geo:GSE255174:M26	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M29	geo:GSE255174:M29	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M3	geo:GSE255174:M3	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M33	geo:GSE255174:M33	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M35	geo:GSE255174:M35	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M37	geo:GSE255174:M37	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N1	geo:GSE255174:N1	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N2	geo:GSE255174:N2	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N3	geo:GSE255174:N3	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N4	geo:GSE255174:N4	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N5	geo:GSE255174:N5	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N6	geo:GSE255174:N6	disease_free_text	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M1	geo:GSE255174:M1	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M24	geo:GSE255174:M24	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M25	geo:GSE255174:M25	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M26	geo:GSE255174:M26	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M29	geo:GSE255174:M29	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M3	geo:GSE255174:M3	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M33	geo:GSE255174:M33	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M35	geo:GSE255174:M35	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M37	geo:GSE255174:M37	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N1	geo:GSE255174:N1	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N2	geo:GSE255174:N2	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N3	geo:GSE255174:N3	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N4	geo:GSE255174:N4	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N5	geo:GSE255174:N5	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N6	geo:GSE255174:N6	disease_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M1	geo:GSE255174:M1	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M24	geo:GSE255174:M24	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M25	geo:GSE255174:M25	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M26	geo:GSE255174:M26	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M29	geo:GSE255174:M29	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M3	geo:GSE255174:M3	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M33	geo:GSE255174:M33	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M35	geo:GSE255174:M35	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M37	geo:GSE255174:M37	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N1	geo:GSE255174:N1	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N2	geo:GSE255174:N2	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N3	geo:GSE255174:N3	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N4	geo:GSE255174:N4	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N5	geo:GSE255174:N5	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N6	geo:GSE255174:N6	sex_ontology_term_id	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M1	geo:GSE255174:M1	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M24	geo:GSE255174:M24	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M25	geo:GSE255174:M25	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M26	geo:GSE255174:M26	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M29	geo:GSE255174:M29	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M3	geo:GSE255174:M3	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M33	geo:GSE255174:M33	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M35	geo:GSE255174:M35	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M37	geo:GSE255174:M37	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N1	geo:GSE255174:N1	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N2	geo:GSE255174:N2	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N3	geo:GSE255174:N3	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N4	geo:GSE255174:N4	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N5	geo:GSE255174:N5	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N6	geo:GSE255174:N6	treatment_status	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M1	geo:GSE255174:M1	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M24	geo:GSE255174:M24	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M25	geo:GSE255174:M25	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M26	geo:GSE255174:M26	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M29	geo:GSE255174:M29	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M3	geo:GSE255174:M3	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M33	geo:GSE255174:M33	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M35	geo:GSE255174:M35	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M37	geo:GSE255174:M37	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N1	geo:GSE255174:N1	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N2	geo:GSE255174:N2	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N3	geo:GSE255174:N3	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N4	geo:GSE255174:N4	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N5	geo:GSE255174:N5	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+N6	geo:GSE255174:N6	sample_collection_method	<column soft_condition>	column	work/geomx_aoi_table_reconciled.csv/soft_condition			True
+M1	geo:GSE255174:M1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M24	geo:GSE255174:M24	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M25	geo:GSE255174:M25	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M26	geo:GSE255174:M26	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M29	geo:GSE255174:M29	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M3	geo:GSE255174:M3	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M33	geo:GSE255174:M33	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M35	geo:GSE255174:M35	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+M37	geo:GSE255174:M37	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+N1	geo:GSE255174:N1	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+N2	geo:GSE255174:N2	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+N3	geo:GSE255174:N3	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+N4	geo:GSE255174:N4	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+N5	geo:GSE255174:N5	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+N6	geo:GSE255174:N6	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+		organism	Homo sapiens	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+M1	geo:GSE255174:M1	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M24	geo:GSE255174:M24	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M25	geo:GSE255174:M25	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M26	geo:GSE255174:M26	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M29	geo:GSE255174:M29	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M3	geo:GSE255174:M3	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M33	geo:GSE255174:M33	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M35	geo:GSE255174:M35	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M37	geo:GSE255174:M37	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N1	geo:GSE255174:N1	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N2	geo:GSE255174:N2	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N3	geo:GSE255174:N3	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N4	geo:GSE255174:N4	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N5	geo:GSE255174:N5	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N6	geo:GSE255174:N6	tissue_free_text	Lung	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M1	geo:GSE255174:M1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M24	geo:GSE255174:M24	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M25	geo:GSE255174:M25	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M26	geo:GSE255174:M26	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M29	geo:GSE255174:M29	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M3	geo:GSE255174:M3	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M33	geo:GSE255174:M33	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M35	geo:GSE255174:M35	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M37	geo:GSE255174:M37	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N1	geo:GSE255174:N1	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N2	geo:GSE255174:N2	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N3	geo:GSE255174:N3	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N4	geo:GSE255174:N4	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N5	geo:GSE255174:N5	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+N6	geo:GSE255174:N6	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung	True
+M1	geo:GSE255174:M1	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M24	geo:GSE255174:M24	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M25	geo:GSE255174:M25	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M26	geo:GSE255174:M26	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M29	geo:GSE255174:M29	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M3	geo:GSE255174:M3	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M33	geo:GSE255174:M33	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M35	geo:GSE255174:M35	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M37	geo:GSE255174:M37	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N1	geo:GSE255174:N1	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N2	geo:GSE255174:N2	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N3	geo:GSE255174:N3	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N4	geo:GSE255174:N4	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N5	geo:GSE255174:N5	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N6	geo:GSE255174:N6	tissue_type	tissue	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M1	geo:GSE255174:M1	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M24	geo:GSE255174:M24	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M25	geo:GSE255174:M25	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M26	geo:GSE255174:M26	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M29	geo:GSE255174:M29	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M3	geo:GSE255174:M3	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M33	geo:GSE255174:M33	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M35	geo:GSE255174:M35	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M37	geo:GSE255174:M37	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+N1	geo:GSE255174:N1	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+N2	geo:GSE255174:N2	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+N3	geo:GSE255174:N3	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+N4	geo:GSE255174:N4	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+N5	geo:GSE255174:N5	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+N6	geo:GSE255174:N6	suspension_type	na	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		in situ RNA probes conjugated to barcodes by a photocleavable linker were hybridized to the sections	True
+M1	geo:GSE255174:M1	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M24	geo:GSE255174:M24	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M25	geo:GSE255174:M25	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M26	geo:GSE255174:M26	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M29	geo:GSE255174:M29	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M3	geo:GSE255174:M3	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M33	geo:GSE255174:M33	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M35	geo:GSE255174:M35	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M37	geo:GSE255174:M37	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N1	geo:GSE255174:N1	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N2	geo:GSE255174:N2	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N3	geo:GSE255174:N3	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N4	geo:GSE255174:N4	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N5	geo:GSE255174:N5	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+N6	geo:GSE255174:N6	sample_preservation	FFPE	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		FFPE sections underwent immunofluorescence with morphology markers	True
+M1	geo:GSE255174:M1	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M24	geo:GSE255174:M24	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M25	geo:GSE255174:M25	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M26	geo:GSE255174:M26	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M29	geo:GSE255174:M29	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M3	geo:GSE255174:M3	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M33	geo:GSE255174:M33	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M35	geo:GSE255174:M35	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M37	geo:GSE255174:M37	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N1	geo:GSE255174:N1	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N2	geo:GSE255174:N2	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N3	geo:GSE255174:N3	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N4	geo:GSE255174:N4	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N5	geo:GSE255174:N5	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N6	geo:GSE255174:N6	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M1	geo:GSE255174:M1	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M24	geo:GSE255174:M24	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M25	geo:GSE255174:M25	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M26	geo:GSE255174:M26	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M29	geo:GSE255174:M29	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M3	geo:GSE255174:M3	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M33	geo:GSE255174:M33	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M35	geo:GSE255174:M35	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M37	geo:GSE255174:M37	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N1	geo:GSE255174:N1	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N2	geo:GSE255174:N2	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N3	geo:GSE255174:N3	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N4	geo:GSE255174:N4	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N5	geo:GSE255174:N5	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N6	geo:GSE255174:N6	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M1	geo:GSE255174:M1	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M24	geo:GSE255174:M24	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M25	geo:GSE255174:M25	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M26	geo:GSE255174:M26	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M29	geo:GSE255174:M29	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M3	geo:GSE255174:M3	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M33	geo:GSE255174:M33	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M35	geo:GSE255174:M35	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M37	geo:GSE255174:M37	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N1	geo:GSE255174:N1	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N2	geo:GSE255174:N2	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N3	geo:GSE255174:N3	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N4	geo:GSE255174:N4	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N5	geo:GSE255174:N5	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N6	geo:GSE255174:N6	disease_free_text	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M1	geo:GSE255174:M1	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M24	geo:GSE255174:M24	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M25	geo:GSE255174:M25	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M26	geo:GSE255174:M26	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M29	geo:GSE255174:M29	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M3	geo:GSE255174:M3	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M33	geo:GSE255174:M33	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M35	geo:GSE255174:M35	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M37	geo:GSE255174:M37	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N1	geo:GSE255174:N1	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N2	geo:GSE255174:N2	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N3	geo:GSE255174:N3	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N4	geo:GSE255174:N4	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N5	geo:GSE255174:N5	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N6	geo:GSE255174:N6	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M1	geo:GSE255174:M1	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M24	geo:GSE255174:M24	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M25	geo:GSE255174:M25	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M26	geo:GSE255174:M26	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M29	geo:GSE255174:M29	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M3	geo:GSE255174:M3	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M33	geo:GSE255174:M33	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M35	geo:GSE255174:M35	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M37	geo:GSE255174:M37	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N1	geo:GSE255174:N1	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N2	geo:GSE255174:N2	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N3	geo:GSE255174:N3	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N4	geo:GSE255174:N4	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N5	geo:GSE255174:N5	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N6	geo:GSE255174:N6	disease_free_text	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M1	geo:GSE255174:M1	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M24	geo:GSE255174:M24	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M25	geo:GSE255174:M25	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M26	geo:GSE255174:M26	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M29	geo:GSE255174:M29	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M3	geo:GSE255174:M3	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M33	geo:GSE255174:M33	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M35	geo:GSE255174:M35	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M37	geo:GSE255174:M37	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N1	geo:GSE255174:N1	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N2	geo:GSE255174:N2	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N3	geo:GSE255174:N3	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N4	geo:GSE255174:N4	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N5	geo:GSE255174:N5	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+N6	geo:GSE255174:N6	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		IPF idiopathic pulmonary fibrosis, NSIP non-specific interstitial pneumonia, CHP chronic hypersensitivity pneumonitis	True
+M1	geo:GSE255174:M1	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M24	geo:GSE255174:M24	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M25	geo:GSE255174:M25	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M26	geo:GSE255174:M26	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M29	geo:GSE255174:M29	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M3	geo:GSE255174:M3	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M33	geo:GSE255174:M33	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M35	geo:GSE255174:M35	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M37	geo:GSE255174:M37	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N1	geo:GSE255174:N1	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N2	geo:GSE255174:N2	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N3	geo:GSE255174:N3	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N4	geo:GSE255174:N4	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N5	geo:GSE255174:N5	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N6	geo:GSE255174:N6	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M1	geo:GSE255174:M1	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M24	geo:GSE255174:M24	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M25	geo:GSE255174:M25	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M26	geo:GSE255174:M26	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M29	geo:GSE255174:M29	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M3	geo:GSE255174:M3	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M33	geo:GSE255174:M33	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M35	geo:GSE255174:M35	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M37	geo:GSE255174:M37	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N1	geo:GSE255174:N1	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N2	geo:GSE255174:N2	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N3	geo:GSE255174:N3	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N4	geo:GSE255174:N4	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N5	geo:GSE255174:N5	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+N6	geo:GSE255174:N6	disease_ontology_term_id	<map of column soft_condition>	file	evidence/PMC11531500.txt		Three normal control samples were obtained from traumatic lung injury patients with no underlying lung disease	True
+M1	geo:GSE255174:M1	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M24	geo:GSE255174:M24	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M25	geo:GSE255174:M25	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M26	geo:GSE255174:M26	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M29	geo:GSE255174:M29	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M3	geo:GSE255174:M3	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M33	geo:GSE255174:M33	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M35	geo:GSE255174:M35	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M37	geo:GSE255174:M37	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N1	geo:GSE255174:N1	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N2	geo:GSE255174:N2	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N3	geo:GSE255174:N3	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N4	geo:GSE255174:N4	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N5	geo:GSE255174:N5	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+N6	geo:GSE255174:N6	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: IPF	True
+M1	geo:GSE255174:M1	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M24	geo:GSE255174:M24	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M25	geo:GSE255174:M25	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M26	geo:GSE255174:M26	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M29	geo:GSE255174:M29	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M3	geo:GSE255174:M3	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M33	geo:GSE255174:M33	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M35	geo:GSE255174:M35	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M37	geo:GSE255174:M37	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N1	geo:GSE255174:N1	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N2	geo:GSE255174:N2	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N3	geo:GSE255174:N3	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N4	geo:GSE255174:N4	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N5	geo:GSE255174:N5	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+N6	geo:GSE255174:N6	disease_ontology_term_id	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		!Sample_characteristics_ch1 = condition: NOR	True
+M1	geo:GSE255174:M1	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M24	geo:GSE255174:M24	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M25	geo:GSE255174:M25	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M26	geo:GSE255174:M26	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M29	geo:GSE255174:M29	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M3	geo:GSE255174:M3	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M33	geo:GSE255174:M33	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M35	geo:GSE255174:M35	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M37	geo:GSE255174:M37	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+N1	geo:GSE255174:N1	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+N2	geo:GSE255174:N2	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+N3	geo:GSE255174:N3	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+N4	geo:GSE255174:N4	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+N5	geo:GSE255174:N5	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+N6	geo:GSE255174:N6	sex	<map of column soft_condition>	file	evidence/PMC11531500.txt		Gender M/M/F M/F/F F/F/F M/F/F n.s M/M/M	True
+M1	geo:GSE255174:M1	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M24	geo:GSE255174:M24	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M25	geo:GSE255174:M25	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M26	geo:GSE255174:M26	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M29	geo:GSE255174:M29	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M3	geo:GSE255174:M3	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M33	geo:GSE255174:M33	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M35	geo:GSE255174:M35	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M37	geo:GSE255174:M37	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+N1	geo:GSE255174:N1	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+N2	geo:GSE255174:N2	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+N3	geo:GSE255174:N3	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+N4	geo:GSE255174:N4	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+N5	geo:GSE255174:N5	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+N6	geo:GSE255174:N6	treatment_status	<map of column soft_condition>	file	evidence/PMC11531500.txt		no patient received immunosuppressant or anti-fibrotic treatment prior to SLB	True
+M1	geo:GSE255174:M1	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M24	geo:GSE255174:M24	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M25	geo:GSE255174:M25	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M26	geo:GSE255174:M26	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M29	geo:GSE255174:M29	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M3	geo:GSE255174:M3	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M33	geo:GSE255174:M33	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M35	geo:GSE255174:M35	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M37	geo:GSE255174:M37	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N1	geo:GSE255174:N1	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N2	geo:GSE255174:N2	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N3	geo:GSE255174:N3	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N4	geo:GSE255174:N4	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N5	geo:GSE255174:N5	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+N6	geo:GSE255174:N6	treatment_status	<map of column soft_condition>	file	raw/fp-6d77f84ce6fd/GSE255174_family.soft.gz		Treatment-naïve cases of IPF, idiopathic NSIP, CHP and unclassifiable ILD	True
+M1	geo:GSE255174:M1	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M24	geo:GSE255174:M24	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M25	geo:GSE255174:M25	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M26	geo:GSE255174:M26	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M29	geo:GSE255174:M29	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M3	geo:GSE255174:M3	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M33	geo:GSE255174:M33	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M35	geo:GSE255174:M35	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M37	geo:GSE255174:M37	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+N1	geo:GSE255174:N1	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+N2	geo:GSE255174:N2	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+N3	geo:GSE255174:N3	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+N4	geo:GSE255174:N4	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+N5	geo:GSE255174:N5	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+N6	geo:GSE255174:N6	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		All 12 patients underwent SLB for diagnostic purposes	True
+M1	geo:GSE255174:M1	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M24	geo:GSE255174:M24	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M25	geo:GSE255174:M25	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M26	geo:GSE255174:M26	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M29	geo:GSE255174:M29	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M3	geo:GSE255174:M3	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M33	geo:GSE255174:M33	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M35	geo:GSE255174:M35	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+M37	geo:GSE255174:M37	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+N1	geo:GSE255174:N1	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+N2	geo:GSE255174:N2	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+N3	geo:GSE255174:N3	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+N4	geo:GSE255174:N4	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+N5	geo:GSE255174:N5	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True
+N6	geo:GSE255174:N6	sample_collection_method	<map of column soft_condition>	file	evidence/PMC11531500.txt		surgical lung biopsies (SLBs)	True

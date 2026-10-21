@@ -1,0 +1,26 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5873135	geo:GSE196341:GSM5873135	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873135	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873135	geo:GSE196341:GSM5873135	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873135	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873136	geo:GSE196341:GSM5873136	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873136	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873136	geo:GSE196341:GSM5873136	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873136	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873137	geo:GSE196341:GSM5873137	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873137	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873137	geo:GSE196341:GSM5873137	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873137	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873138	geo:GSE196341:GSM5873138	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873138	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873138	geo:GSE196341:GSM5873138	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873138	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873139	geo:GSE196341:GSM5873139	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873139	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873139	geo:GSE196341:GSM5873139	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873139	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873140	geo:GSE196341:GSM5873140	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873140	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873140	geo:GSE196341:GSM5873140	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873140	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873141	geo:GSE196341:GSM5873141	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873141	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873141	geo:GSE196341:GSM5873141	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873141	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873142	geo:GSE196341:GSM5873142	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873142	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873142	geo:GSE196341:GSM5873142	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873142	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873143	geo:GSE196341:GSM5873143	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873143	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873143	geo:GSE196341:GSM5873143	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873143	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873144	geo:GSE196341:GSM5873144	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873144	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873144	geo:GSE196341:GSM5873144	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873144	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873145	geo:GSE196341:GSM5873145	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873145	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873145	geo:GSE196341:GSM5873145	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873145	!Sample_characteristics_ch1 = tissue: explanted lungs	True
+GSM5873146	geo:GSE196341:GSM5873146	disease_free_text	COPD	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873146	!Sample_characteristics_ch1 = disease state: COPD	True
+GSM5873146	geo:GSE196341:GSM5873146	tissue_free_text	explanted lungs	file	raw/fp-d2686bf54d98/GSE196341_family.soft.gz	GSM5873146	!Sample_characteristics_ch1 = tissue: explanted lungs	True

@@ -1,0 +1,58 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+Donor-37	geo:GSE111894:Donor-37	donor_id	<column donor>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/donor			True
+Donor-38	geo:GSE111894:Donor-38	donor_id	<column donor>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/donor			True
+Donor-39	geo:GSE111894:Donor-39	donor_id	<column donor>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/donor			True
+Donor-40	geo:GSE111894:Donor-40	donor_id	<column donor>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/donor			True
+Donor-37	geo:GSE111894:Donor-37	tissue_free_text	<column source_name>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/source_name			True
+Donor-38	geo:GSE111894:Donor-38	tissue_free_text	<column source_name>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/source_name			True
+Donor-39	geo:GSE111894:Donor-39	tissue_free_text	<column source_name>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/source_name			True
+Donor-40	geo:GSE111894:Donor-40	tissue_free_text	<column source_name>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/source_name			True
+Donor-37	geo:GSE111894:Donor-37	cell_enrichment	<column cell type>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/cell type			True
+Donor-38	geo:GSE111894:Donor-38	cell_enrichment	<column cell type>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/cell type			True
+Donor-39	geo:GSE111894:Donor-39	cell_enrichment	<column cell type>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/cell type			True
+Donor-40	geo:GSE111894:Donor-40	cell_enrichment	<column cell type>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/cell type			True
+Donor-37	geo:GSE111894:Donor-37	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+Donor-38	geo:GSE111894:Donor-38	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+Donor-39	geo:GSE111894:Donor-39	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+Donor-40	geo:GSE111894:Donor-40	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+Donor-53	geo:GSE111894:Donor-53	donor_id	<column donor>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/donor			True
+Donor-54	geo:GSE111894:Donor-54	donor_id	<column donor>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/donor			True
+Donor-53	geo:GSE111894:Donor-53	tissue_free_text	<column source_name>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/source_name			True
+Donor-54	geo:GSE111894:Donor-54	tissue_free_text	<column source_name>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/source_name			True
+Donor-53	geo:GSE111894:Donor-53	cell_enrichment	<column cell type>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/cell type			True
+Donor-54	geo:GSE111894:Donor-54	cell_enrichment	<column cell type>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/cell type			True
+Donor-53	geo:GSE111894:Donor-53	treatment	<column treatment>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/treatment			True
+Donor-54	geo:GSE111894:Donor-54	treatment	<column treatment>	column	work/fp-a6c5a08a7ae5/GSE111894_cell_metadata.tsv/treatment			True
+Donor-53	geo:GSE111894:Donor-53	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+Donor-54	geo:GSE111894:Donor-54	assay_ontology_term_id	EFO:0008931	derived	ols:efo		Smart-seq2	True
+		organism	Homo sapiens	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+Donor-37	geo:GSE111894:Donor-37	disease_free_text	lung cancer	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-38	geo:GSE111894:Donor-38	disease_free_text	lung cancer	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-39	geo:GSE111894:Donor-39	disease_free_text	lung cancer	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-40	geo:GSE111894:Donor-40	disease_free_text	lung cancer	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-37	geo:GSE111894:Donor-37	disease_ontology_term_id	MONDO:0008903	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-38	geo:GSE111894:Donor-38	disease_ontology_term_id	MONDO:0008903	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-39	geo:GSE111894:Donor-39	disease_ontology_term_id	MONDO:0008903	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-40	geo:GSE111894:Donor-40	disease_ontology_term_id	MONDO:0008903	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-37	geo:GSE111894:Donor-37	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		isolated from human lung and lung tumour samples	True
+Donor-38	geo:GSE111894:Donor-38	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		isolated from human lung and lung tumour samples	True
+Donor-39	geo:GSE111894:Donor-39	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		isolated from human lung and lung tumour samples	True
+Donor-40	geo:GSE111894:Donor-40	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		isolated from human lung and lung tumour samples	True
+Donor-37	geo:GSE111894:Donor-37	suspension_type	cell	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		directly sorted by Flow cytometry into a 96-well plate wells	True
+Donor-38	geo:GSE111894:Donor-38	suspension_type	cell	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		directly sorted by Flow cytometry into a 96-well plate wells	True
+Donor-39	geo:GSE111894:Donor-39	suspension_type	cell	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		directly sorted by Flow cytometry into a 96-well plate wells	True
+Donor-40	geo:GSE111894:Donor-40	suspension_type	cell	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		directly sorted by Flow cytometry into a 96-well plate wells	True
+Donor-37	geo:GSE111894:Donor-37	assay	Smart-seq2	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Whole Transcriptome Amplification (SmartSeq2 - Picelli et al.2014)	True
+Donor-38	geo:GSE111894:Donor-38	assay	Smart-seq2	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Whole Transcriptome Amplification (SmartSeq2 - Picelli et al.2014)	True
+Donor-39	geo:GSE111894:Donor-39	assay	Smart-seq2	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Whole Transcriptome Amplification (SmartSeq2 - Picelli et al.2014)	True
+Donor-40	geo:GSE111894:Donor-40	assay	Smart-seq2	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Whole Transcriptome Amplification (SmartSeq2 - Picelli et al.2014)	True
+Donor-53	geo:GSE111894:Donor-53	disease_free_text	lung cancer	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-54	geo:GSE111894:Donor-54	disease_free_text	lung cancer	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-53	geo:GSE111894:Donor-53	disease_ontology_term_id	MONDO:0008903	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-54	geo:GSE111894:Donor-54	disease_ontology_term_id	MONDO:0008903	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Single-cell transcriptomic analysis of tissue resident memory T cells in human lung cancer [scRNA-seq]	True
+Donor-53	geo:GSE111894:Donor-53	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		isolated from human lung and lung tumour samples	True
+Donor-54	geo:GSE111894:Donor-54	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		isolated from human lung and lung tumour samples	True
+Donor-53	geo:GSE111894:Donor-53	suspension_type	cell	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		directly sorted by Flow cytometry into a 96-well plate wells	True
+Donor-54	geo:GSE111894:Donor-54	suspension_type	cell	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		directly sorted by Flow cytometry into a 96-well plate wells	True
+Donor-53	geo:GSE111894:Donor-53	assay	Smart-seq2	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Whole Transcriptome Amplification (SmartSeq2 - Picelli et al.2014)	True
+Donor-54	geo:GSE111894:Donor-54	assay	Smart-seq2	file	raw/fp-a6c5a08a7ae5/GSE111894_family.soft.gz		Whole Transcriptome Amplification (SmartSeq2 - Picelli et al.2014)	True

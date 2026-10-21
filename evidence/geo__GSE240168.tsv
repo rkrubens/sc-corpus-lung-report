@@ -1,0 +1,104 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7683815	geo:GSE240168:GSM7683815	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683815	geo:GSE240168:GSM7683815	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683815_2023_HU62_ALI_1B_IL13.h5ad::obs/FinalCellIdent			True
+GSM7683816	geo:GSE240168:GSM7683816	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683816	geo:GSE240168:GSM7683816	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683816_2023_HU62_ALI_1B_PBS.h5ad::obs/FinalCellIdent			True
+GSM7683817	geo:GSE240168:GSM7683817	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683817	geo:GSE240168:GSM7683817	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683817_2023_HU62_ALI_RPL_PBS.h5ad::obs/FinalCellIdent			True
+GSM7683818	geo:GSE240168:GSM7683818	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683818	geo:GSE240168:GSM7683818	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683818_2023_HU62_ALI_RPL_IL13.h5ad::obs/FinalCellIdent			True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	treatment	<column condition>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/condition			True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	treatment	<column condition>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/condition			True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	treatment	<column condition>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/condition			True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	treatment	<column condition>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/condition			True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	treatment	<column condition>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/condition			True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	treatment	<column condition>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/condition			True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	timepoint	<column batch>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/batch			True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	timepoint	<column batch>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/batch			True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	timepoint	<column batch>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/batch			True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	timepoint	<column batch>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/batch			True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	timepoint	<column batch>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/batch			True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	timepoint	<column batch>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/batch			True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	assay_ontology_term_id	EFO:0008913	derived	ols:efo		single-cell RNA sequencing	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/FinalCellIdent			True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/FinalCellIdent			True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/FinalCellIdent			True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/FinalCellIdent			True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/FinalCellIdent			True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	author_cell_type	<column FinalCellIdent>	column	work/fp-39cfacabbb03/counts_layer_renamed/GSM7683819_2023_ALI_Timecourse_PBSandIL13.h5ad::obs/FinalCellIdent			True
+		organism	Homo sapiens	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7683815	geo:GSE240168:GSM7683815	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683815	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683815	geo:GSE240168:GSM7683815	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683815	filtered through a 40 um filter before loading	True
+GSM7683815	geo:GSE240168:GSM7683815	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683815	geo:GSE240168:GSM7683815	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683815	geo:GSE240168:GSM7683815	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683815	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683815	geo:GSE240168:GSM7683815	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683815	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683815	geo:GSE240168:GSM7683815	treatment	IL13	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683815	!Sample_characteristics_ch1 = treatment: IL13	True
+GSM7683815	geo:GSE240168:GSM7683815	donor_id	Hu62	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683815	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7683nnn/GSM7683815/suppl/GSM7683815_2023_HU62_ALI_1B_IL13.h5ad.gz	True
+GSM7683815	geo:GSE240168:GSM7683815	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12137820.txt		Tissue was collected from individuals without any reported history of lung disease, smoking or drug use.	True
+GSM7683816	geo:GSE240168:GSM7683816	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683816	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683816	geo:GSE240168:GSM7683816	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683816	filtered through a 40 um filter before loading	True
+GSM7683816	geo:GSE240168:GSM7683816	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683816	geo:GSE240168:GSM7683816	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683816	geo:GSE240168:GSM7683816	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683816	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683816	geo:GSE240168:GSM7683816	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683816	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683816	geo:GSE240168:GSM7683816	treatment	PBS	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683816	!Sample_characteristics_ch1 = treatment: PBS	True
+GSM7683816	geo:GSE240168:GSM7683816	donor_id	Hu62	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683816	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7683nnn/GSM7683816/suppl/GSM7683816_2023_HU62_ALI_1B_PBS.h5ad.gz	True
+GSM7683816	geo:GSE240168:GSM7683816	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12137820.txt		Tissue was collected from individuals without any reported history of lung disease, smoking or drug use.	True
+GSM7683817	geo:GSE240168:GSM7683817	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683817	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683817	geo:GSE240168:GSM7683817	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683817	filtered through a 40 um filter before loading	True
+GSM7683817	geo:GSE240168:GSM7683817	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683817	geo:GSE240168:GSM7683817	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683817	geo:GSE240168:GSM7683817	tissue_free_text	small airway	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683817	!Sample_characteristics_ch1 = tissue: small airway	True
+GSM7683817	geo:GSE240168:GSM7683817	treatment	PBS	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683817	!Sample_characteristics_ch1 = treatment: PBS	True
+GSM7683817	geo:GSE240168:GSM7683817	donor_id	Hu62	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683817	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7683nnn/GSM7683817/suppl/GSM7683817_2023_HU62_ALI_RPL_PBS.h5ad.gz	True
+GSM7683817	geo:GSE240168:GSM7683817	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12137820.txt		Tissue was collected from individuals without any reported history of lung disease, smoking or drug use.	True
+GSM7683818	geo:GSE240168:GSM7683818	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683818	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683818	geo:GSE240168:GSM7683818	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683818	filtered through a 40 um filter before loading	True
+GSM7683818	geo:GSE240168:GSM7683818	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683818	geo:GSE240168:GSM7683818	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683818	geo:GSE240168:GSM7683818	tissue_free_text	small airway	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683818	!Sample_characteristics_ch1 = tissue: small airway	True
+GSM7683818	geo:GSE240168:GSM7683818	treatment	IL13	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683818	!Sample_characteristics_ch1 = treatment: IL13	True
+GSM7683818	geo:GSE240168:GSM7683818	donor_id	Hu62	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683818	ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7683nnn/GSM7683818/suppl/GSM7683818_2023_HU62_ALI_RPL_IL13.h5ad.gz	True
+GSM7683818	geo:GSE240168:GSM7683818	disease_ontology_term_id	PATO:0000461	file	evidence/PMC12137820.txt		Tissue was collected from individuals without any reported history of lung disease, smoking or drug use.	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	tissue_type	cell culture	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = culture: in-vitro, air-liquid interface culture	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	filtered through a 40 um filter before loading	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	filtered through a 40 um filter before loading	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	filtered through a 40 um filter before loading	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	filtered through a 40 um filter before loading	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	filtered through a 40 um filter before loading	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	suspension_type	cell	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	filtered through a 40 um filter before loading	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	assay	single-cell RNA sequencing	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz		We performed 10x based single-cell RNA sequencing on in-vitro, air-liquid interface cultures	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	gene_annotation_version	GRCh38-3.0.0	file	raw/fp-39cfacabbb03/GSE240168_metadata_10individualsamples.xlsx		GRCh38-3.0.0	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	tissue_free_text	primary bronchus	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_IL13_D2	geo:GSE240168:GSM7683819_IL13_D2	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_IL13_D3	geo:GSE240168:GSM7683819_IL13_D3	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_IL13_D5	geo:GSE240168:GSM7683819_IL13_D5	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_PBS_D2	geo:GSE240168:GSM7683819_PBS_D2	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_PBS_D3	geo:GSE240168:GSM7683819_PBS_D3	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True
+GSM7683819_PBS_D5	geo:GSE240168:GSM7683819_PBS_D5	tissue_ontology_term_id	UBERON:0002182	file	raw/fp-39cfacabbb03/GSE240168_family.soft.gz	GSM7683819	!Sample_characteristics_ch1 = tissue: primary bronchus	True

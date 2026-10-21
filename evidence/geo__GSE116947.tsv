@@ -1,0 +1,12 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+T_CD14Pos_H12	geo:GSE116947:T_CD14Pos_H12	disease_ontology_term_id	MONDO:0005233	derived	ols:mondo		NSCLC	True
+		organism	Homo sapiens	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265101	!Sample_organism_ch1 = Homo sapiens	True
+T_CD14Pos_H12	geo:GSE116947:T_CD14Pos_H12	tissue_free_text	Lung Tumor	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265101	!Sample_characteristics_ch1 = tissue of origin: Lung Tumor	True
+T_CD14Pos_H12	geo:GSE116947:T_CD14Pos_H12	suspension_type	cell	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265101	!Sample_characteristics_ch1 = cells: FACS sorted cells	True
+T_CD14Pos_H12	geo:GSE116947:T_CD14Pos_H12	sample_preservation	cryopreserved	file	evidence/PMC7375465.txt		tumor and lung samples were first dispersed (as above) and cryopreserved in freezing media	True
+T_CD14Pos_H12	geo:GSE116947:T_CD14Pos_H12	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265101	!Sample_characteristics_ch1 = tissue of origin: Lung Tumor	True
+T_CD14Pos_H12	geo:GSE116947:T_CD14Pos_H12	disease_free_text	NSCLC	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265101	!Sample_characteristics_ch1 = tumour subtype: NSCLC	True
+NL_CD14Pos_H11	geo:GSE116947:NL_CD14Pos_H11	tissue_free_text	Background Lung	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265102	!Sample_characteristics_ch1 = tissue of origin: Background Lung	True
+NL_CD14Pos_H11	geo:GSE116947:NL_CD14Pos_H11	suspension_type	cell	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265102	!Sample_characteristics_ch1 = cells: FACS sorted cells	True
+NL_CD14Pos_H11	geo:GSE116947:NL_CD14Pos_H11	sample_preservation	cryopreserved	file	evidence/PMC7375465.txt		tumor and lung samples were first dispersed (as above) and cryopreserved in freezing media	True
+NL_CD14Pos_H11	geo:GSE116947:NL_CD14Pos_H11	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-91be5e9e6c04/GSE116947_family.soft.gz	GSM3265102	!Sample_characteristics_ch1 = tissue of origin: Background Lung	True

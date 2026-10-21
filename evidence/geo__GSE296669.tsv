@@ -1,0 +1,290 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+D667_1_BLD	geo:GSE296669:D667_1_BLD	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	donor_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	sex_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	development_stage_ontology_term_id	<column donor_code>	column	work/cell_table.tsv/donor_code			True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	tissue_free_text	<column tissue_code>	column	work/cell_table.tsv/tissue_code			True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	treatment	<column treatment_code>	column	work/cell_table.tsv/treatment_code			True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	development_stage_ontology_term_id	HsapDv:0000154	derived	age_in_years:'60-year-old stage':ols:hsapdv		60	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	development_stage_ontology_term_id	HsapDv:0000144	derived	age_in_years:'50-year-old stage':ols:hsapdv		50	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	development_stage_ontology_term_id	HsapDv:0000159	derived	age_in_years:'65-year-old stage':ols:hsapdv		65	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	tissue_ontology_term_id	UBERON:0000178	derived	ols:uberon		blood	True
+		organism	Homo sapiens	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = Sex: Male	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = Sex: Female	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	sex	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = Sex: Male	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974420	!Sample_characteristics_ch1 = age: 60	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974424	!Sample_characteristics_ch1 = age: 50	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	age	<map of column donor_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz	GSM8974428	!Sample_characteristics_ch1 = age: 65	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	tissue_free_text	<map of column tissue_code>	file	evidence/PMC12154939.txt		Blood (BLD), lung (LNG), jejunum lamina propria (JLP), and spleen (SPL)	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		HTO4: Unstimulated lung, HTO5: LPS stimulated lung, HTO6: IL4 stimulated lung	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	treatment	<map of column treatment_code>	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		treated with 0.02μg/mL LPS (Sigma) and 40ng/mL recombinant human IFNγ (R&D Systems), or 20ng/mL recombinant human IL-4 (R&D Systems)	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	tissue_type	cell culture	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well and cultured for 12 hours	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	suspension_type	cell	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		Sorted cells were seeded at 100,000 cells per well	True
+D667_1_BLD	geo:GSE296669:D667_1_BLD	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D667_1_LNG	geo:GSE296669:D667_1_LNG	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D667_2_BLD	geo:GSE296669:D667_2_BLD	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D667_2_LNG	geo:GSE296669:D667_2_LNG	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D674_1_BLD	geo:GSE296669:D674_1_BLD	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D674_1_LNG	geo:GSE296669:D674_1_LNG	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D674_2_BLD	geo:GSE296669:D674_2_BLD	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D674_2_LNG	geo:GSE296669:D674_2_LNG	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D681_1_BLD	geo:GSE296669:D681_1_BLD	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D681_1_LNG	geo:GSE296669:D681_1_LNG	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D681_2_BLD	geo:GSE296669:D681_2_BLD	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True
+D681_2_LNG	geo:GSE296669:D681_2_LNG	cell_enrichment	FACS-sorted monocytes and macrophages (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	file	raw/fp-49fef6dd336b/GSE296669_family.soft.gz		monocytes and MΦs (CD45+ CD33+ CD3- CD19- CD66b- CD117- CD326- cells)	True

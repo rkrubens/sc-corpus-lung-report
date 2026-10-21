@@ -1,0 +1,22 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	donor_id	<column organoid_id>	column	work/fp-7c7cd682268e/fixed/GSM7226480_LO-cancer.h5ad::obs/organoid_id			True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	disease_ontology_term_id	MONDO:0008903	derived	ols:mondo		lung cancer	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	author_cell_type	<column cell_type_v2>	column	work/fp-7c7cd682268e/fixed/GSM7226480_LO-cancer.h5ad::obs/cell_type_v2			True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	donor_id	<column organoid_id>	column	work/fp-7c7cd682268e/GSE230537_RAW/GSM7226480_LO-normal.h5ad_gunzip/GSM7226480_LO-normal.h5ad::obs/organoid_id			True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	author_cell_type	<column cell_type_v2>	column	work/fp-7c7cd682268e/GSE230537_RAW/GSM7226480_LO-normal.h5ad_gunzip/GSM7226480_LO-normal.h5ad::obs/cell_type_v2			True
+		organism	Homo sapiens	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	tissue_free_text	lung	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung cancer organoid	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	tissue_type	organoid	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		!Sample_characteristics_ch1 = tissue: Lung cancer organoid	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	sample_collection_method	cryobiopsy	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		We performed scRNA-seq on normal (n=1) and cancer (n=1) lung organoids that we established from cryo-biopsy specimens.	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	sample_preservation	cryopreserved	file	evidence/PMC10377875.txt		Cryopreserved initial-passage organoid cell stocks were thawed	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	assay	10x 5' v2	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		Chromium Next GEM Single Cell 5' v2 kit	True
+GSM7226480_LO-cancer	geo:GSE230537:GSM7226480_LO-cancer	disease_free_text	lung cancer	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		!Sample_source_name_ch1 = Lung cancer organoid	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	tissue_free_text	lung	file	evidence/PMC10377875.txt		Normal lung organoids were cultured using samples confirmed to contain normal lung epithelial cells without cancer cells.	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	tissue_type	organoid	file	evidence/PMC10377875.txt		Normal lung organoids were cultured using samples confirmed to contain normal lung epithelial cells without cancer cells.	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	sample_collection_method	cryobiopsy	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		We performed scRNA-seq on normal (n=1) and cancer (n=1) lung organoids that we established from cryo-biopsy specimens.	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	sample_preservation	cryopreserved	file	evidence/PMC10377875.txt		Cryopreserved initial-passage organoid cell stocks were thawed	True
+GSM7226480_LO-normal	geo:GSE230537:GSM7226480_LO-normal	assay	10x 5' v2	file	raw/fp-7c7cd682268e/GSE230537_family.soft.gz		Chromium Next GEM Single Cell 5' v2 kit	True

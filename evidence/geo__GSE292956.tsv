@@ -1,0 +1,44 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8870977	geo:GSE292956:GSM8870977	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8870977	geo:GSE292956:GSM8870977	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8870978	geo:GSE292956:GSM8870978	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8870978	geo:GSE292956:GSM8870978	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8870979	geo:GSE292956:GSM8870979	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8870979	geo:GSE292956:GSM8870979	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8870980	geo:GSE292956:GSM8870980	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8870980	geo:GSE292956:GSM8870980	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8870980	geo:GSE292956:GSM8870980	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+GSM8870981	geo:GSE292956:GSM8870981	assay_ontology_term_id	EFO:0010961	derived	ols:efo		Visium Spatial Gene Expression	True
+GSM8870981	geo:GSE292956:GSM8870981	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		Lung	True
+GSM8870981	geo:GSE292956:GSM8870981	disease_ontology_term_id	MONDO:0800504	derived	ols:mondo		IPF	True
+		organism	Homo sapiens	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8870977	geo:GSE292956:GSM8870977	sample_preservation	FFPE	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870977	!Sample_extract_protocol_ch1 = FFPE	True
+GSM8870977	geo:GSE292956:GSM8870977	suspension_type	na	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870977	!Sample_description = FFPE spatial transcriptome sequencing	True
+GSM8870977	geo:GSE292956:GSM8870977	assay	Visium Spatial Gene Expression	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870977	Followed 10XGenomics Visium Spatial Gene Expression Slides & Reagent kit	True
+GSM8870977	geo:GSE292956:GSM8870977	sample_collection_method	explant	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz		!Series_title = Spatial  transcriptomic comparison between IPF and donor lung distal explant tissue	True
+GSM8870977	geo:GSE292956:GSM8870977	tissue_free_text	Lung	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870977	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8870977	geo:GSE292956:GSM8870977	disease_free_text	Donor	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870977	!Sample_characteristics_ch1 = group: Donor	True
+GSM8870978	geo:GSE292956:GSM8870978	sample_preservation	FFPE	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870978	!Sample_extract_protocol_ch1 = FFPE	True
+GSM8870978	geo:GSE292956:GSM8870978	suspension_type	na	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870978	!Sample_description = FFPE spatial transcriptome sequencing	True
+GSM8870978	geo:GSE292956:GSM8870978	assay	Visium Spatial Gene Expression	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870978	Followed 10XGenomics Visium Spatial Gene Expression Slides & Reagent kit	True
+GSM8870978	geo:GSE292956:GSM8870978	sample_collection_method	explant	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz		!Series_title = Spatial  transcriptomic comparison between IPF and donor lung distal explant tissue	True
+GSM8870978	geo:GSE292956:GSM8870978	tissue_free_text	Lung	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870978	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8870978	geo:GSE292956:GSM8870978	disease_free_text	Donor	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870978	!Sample_characteristics_ch1 = group: Donor	True
+GSM8870979	geo:GSE292956:GSM8870979	sample_preservation	FFPE	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870979	!Sample_extract_protocol_ch1 = FFPE	True
+GSM8870979	geo:GSE292956:GSM8870979	suspension_type	na	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870979	!Sample_description = FFPE spatial transcriptome sequencing	True
+GSM8870979	geo:GSE292956:GSM8870979	assay	Visium Spatial Gene Expression	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870979	Followed 10XGenomics Visium Spatial Gene Expression Slides & Reagent kit	True
+GSM8870979	geo:GSE292956:GSM8870979	sample_collection_method	explant	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz		!Series_title = Spatial  transcriptomic comparison between IPF and donor lung distal explant tissue	True
+GSM8870979	geo:GSE292956:GSM8870979	tissue_free_text	Lung	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870979	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8870979	geo:GSE292956:GSM8870979	disease_free_text	Donor	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870979	!Sample_characteristics_ch1 = group: Donor	True
+GSM8870980	geo:GSE292956:GSM8870980	sample_preservation	FFPE	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870980	!Sample_extract_protocol_ch1 = FFPE	True
+GSM8870980	geo:GSE292956:GSM8870980	suspension_type	na	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870980	!Sample_description = FFPE spatial transcriptome sequencing	True
+GSM8870980	geo:GSE292956:GSM8870980	assay	Visium Spatial Gene Expression	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870980	Followed 10XGenomics Visium Spatial Gene Expression Slides & Reagent kit	True
+GSM8870980	geo:GSE292956:GSM8870980	sample_collection_method	explant	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz		!Series_title = Spatial  transcriptomic comparison between IPF and donor lung distal explant tissue	True
+GSM8870980	geo:GSE292956:GSM8870980	tissue_free_text	Lung	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870980	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8870980	geo:GSE292956:GSM8870980	disease_free_text	IPF	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870980	!Sample_characteristics_ch1 = group: IPF	True
+GSM8870981	geo:GSE292956:GSM8870981	sample_preservation	FFPE	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870981	!Sample_extract_protocol_ch1 = FFPE	True
+GSM8870981	geo:GSE292956:GSM8870981	suspension_type	na	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870981	!Sample_description = FFPE spatial transcriptome sequencing	True
+GSM8870981	geo:GSE292956:GSM8870981	assay	Visium Spatial Gene Expression	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870981	Followed 10XGenomics Visium Spatial Gene Expression Slides & Reagent kit	True
+GSM8870981	geo:GSE292956:GSM8870981	sample_collection_method	explant	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz		!Series_title = Spatial  transcriptomic comparison between IPF and donor lung distal explant tissue	True
+GSM8870981	geo:GSE292956:GSM8870981	tissue_free_text	Lung	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870981	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM8870981	geo:GSE292956:GSM8870981	disease_free_text	IPF	file	raw/fp-5ef78110573c/GSE292956_family.soft.gz	GSM8870981	!Sample_characteristics_ch1 = group: IPF	True

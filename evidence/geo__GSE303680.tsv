@@ -1,0 +1,102 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9134023	geo:GSE303680:GSM9134023	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9134023	geo:GSE303680:GSM9134023	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS723_PD1IL2v_cell_metadata.tsv/CD3_Annotation			True
+GSM9134024	geo:GSE303680:GSM9134024	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9134024	geo:GSE303680:GSM9134024	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS723_DP47IL2v_cell_metadata.tsv/CD3_Annotation			True
+GSM9134025	geo:GSE303680:GSM9134025	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9134025	geo:GSE303680:GSM9134025	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS788_DP47_cell_metadata.tsv/CD3_Annotation			True
+GSM9134026	geo:GSE303680:GSM9134026	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9134026	geo:GSE303680:GSM9134026	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS788_PembroPGLALA_cell_metadata.tsv/CD3_Annotation			True
+GSM9134027	geo:GSE303680:GSM9134027	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9134027	geo:GSE303680:GSM9134027	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS788_DP47IL2v_cell_metadata.tsv/CD3_Annotation			True
+GSM9134028	geo:GSE303680:GSM9134028	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9134028	geo:GSE303680:GSM9134028	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS788_PD1IL2v_cell_metadata.tsv/CD3_Annotation			True
+GSM9134029	geo:GSE303680:GSM9134029	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9134029	geo:GSE303680:GSM9134029	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS786_PembroPGLALA_cell_metadata.tsv/CD3_Annotation			True
+GSM9134030	geo:GSE303680:GSM9134030	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9134030	geo:GSE303680:GSM9134030	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS786_PD1IL2v_cell_metadata.tsv/CD3_Annotation			True
+GSM9134031	geo:GSE303680:GSM9134031	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9134031	geo:GSE303680:GSM9134031	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS786_DP47IL2v_cell_metadata.tsv/CD3_Annotation			True
+GSM9134032	geo:GSE303680:GSM9134032	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9134032	geo:GSE303680:GSM9134032	author_cell_type	<column CD3_Annotation>	column	work/fp-9bf17062c3d3/derived_meta/BS786_DP47_cell_metadata.tsv/CD3_Annotation			True
+		organism	Homo sapiens	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9134023	geo:GSE303680:GSM9134023	sex	male	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = Sex: male	True
+GSM9134023	geo:GSE303680:GSM9134023	treatment	PD1-IL2v	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = treatment: PD1-IL2v	True
+GSM9134023	geo:GSE303680:GSM9134023	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134023	geo:GSE303680:GSM9134023	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134023	geo:GSE303680:GSM9134023	donor_id	BS-723	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_title = CD45⁺CD3⁺ T cells, sorted from PD1-IL2v-treated PDTFs from lung cancer, BS-723, rep 1	True
+GSM9134023	geo:GSE303680:GSM9134023	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134023	geo:GSE303680:GSM9134023	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134023	geo:GSE303680:GSM9134023	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134023	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134024	geo:GSE303680:GSM9134024	sex	male	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = Sex: male	True
+GSM9134024	geo:GSE303680:GSM9134024	treatment	Isotype-IL2v	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = treatment: Isotype-IL2v	True
+GSM9134024	geo:GSE303680:GSM9134024	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134024	geo:GSE303680:GSM9134024	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134024	geo:GSE303680:GSM9134024	donor_id	BS-723	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Isotype-IL2v-treated PDTFs from lung cancer, BS-723, rep 1	True
+GSM9134024	geo:GSE303680:GSM9134024	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134024	geo:GSE303680:GSM9134024	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134024	geo:GSE303680:GSM9134024	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134024	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134025	geo:GSE303680:GSM9134025	sex	female	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = Sex: female	True
+GSM9134025	geo:GSE303680:GSM9134025	treatment	Isotype	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = treatment: Isotype	True
+GSM9134025	geo:GSE303680:GSM9134025	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134025	geo:GSE303680:GSM9134025	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134025	geo:GSE303680:GSM9134025	donor_id	BS-788	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Isotype-treated PDTFs from lung cancer, BS-788, rep 1	True
+GSM9134025	geo:GSE303680:GSM9134025	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134025	geo:GSE303680:GSM9134025	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134025	geo:GSE303680:GSM9134025	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134025	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134026	geo:GSE303680:GSM9134026	sex	female	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = Sex: female	True
+GSM9134026	geo:GSE303680:GSM9134026	treatment	Pembrolizumab-PGLALA	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = treatment: Pembrolizumab-PGLALA	True
+GSM9134026	geo:GSE303680:GSM9134026	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134026	geo:GSE303680:GSM9134026	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134026	geo:GSE303680:GSM9134026	donor_id	BS-788	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Pembrolizumab-PGLALA-treated PDTFs from lung cancer, BS-788, rep 1	True
+GSM9134026	geo:GSE303680:GSM9134026	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134026	geo:GSE303680:GSM9134026	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134026	geo:GSE303680:GSM9134026	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134026	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134027	geo:GSE303680:GSM9134027	sex	female	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = Sex: female	True
+GSM9134027	geo:GSE303680:GSM9134027	treatment	Isotype-IL2v	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = treatment: Isotype-IL2v	True
+GSM9134027	geo:GSE303680:GSM9134027	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134027	geo:GSE303680:GSM9134027	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134027	geo:GSE303680:GSM9134027	donor_id	BS-788	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Isotype-IL2v-treated PDTFs from lung cancer, BS-788, rep 1	True
+GSM9134027	geo:GSE303680:GSM9134027	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134027	geo:GSE303680:GSM9134027	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134027	geo:GSE303680:GSM9134027	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134027	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134028	geo:GSE303680:GSM9134028	sex	female	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = Sex: female	True
+GSM9134028	geo:GSE303680:GSM9134028	treatment	PD1-IL2v	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = treatment: PD1-IL2v	True
+GSM9134028	geo:GSE303680:GSM9134028	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134028	geo:GSE303680:GSM9134028	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134028	geo:GSE303680:GSM9134028	donor_id	BS-788	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_title = CD45⁺CD3⁺ T cells, sorted from PD1-IL2v-treated PDTFs from lung cancer, BS-788, rep 2	True
+GSM9134028	geo:GSE303680:GSM9134028	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134028	geo:GSE303680:GSM9134028	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134028	geo:GSE303680:GSM9134028	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134028	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134029	geo:GSE303680:GSM9134029	sex	male	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = Sex: male	True
+GSM9134029	geo:GSE303680:GSM9134029	treatment	Pembrolizumab-PGLALA	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = treatment: Pembrolizumab-PGLALA	True
+GSM9134029	geo:GSE303680:GSM9134029	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134029	geo:GSE303680:GSM9134029	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134029	geo:GSE303680:GSM9134029	donor_id	BS-786	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Pembrolizumab-PGLALA-treated PDTFs from lung cancer, BS-786, rep 2	True
+GSM9134029	geo:GSE303680:GSM9134029	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134029	geo:GSE303680:GSM9134029	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134029	geo:GSE303680:GSM9134029	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134029	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134030	geo:GSE303680:GSM9134030	sex	male	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = Sex: male	True
+GSM9134030	geo:GSE303680:GSM9134030	treatment	PD1-IL2v	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = treatment: PD1-IL2v	True
+GSM9134030	geo:GSE303680:GSM9134030	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134030	geo:GSE303680:GSM9134030	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134030	geo:GSE303680:GSM9134030	donor_id	BS-786	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_title = CD45⁺CD3⁺ T cells, sorted from PD1-IL2v-treated PDTFs from lung cancer, BS-786, rep 2	True
+GSM9134030	geo:GSE303680:GSM9134030	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134030	geo:GSE303680:GSM9134030	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134030	geo:GSE303680:GSM9134030	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134030	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134031	geo:GSE303680:GSM9134031	sex	male	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = Sex: male	True
+GSM9134031	geo:GSE303680:GSM9134031	treatment	Isotype-IL2v	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = treatment: Isotype-IL2v	True
+GSM9134031	geo:GSE303680:GSM9134031	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134031	geo:GSE303680:GSM9134031	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134031	geo:GSE303680:GSM9134031	donor_id	BS-786	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Isotype-IL2v-treated PDTFs from lung cancer, BS-786, rep 2	True
+GSM9134031	geo:GSE303680:GSM9134031	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134031	geo:GSE303680:GSM9134031	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134031	geo:GSE303680:GSM9134031	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134031	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134032	geo:GSE303680:GSM9134032	sex	male	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = Sex: male	True
+GSM9134032	geo:GSE303680:GSM9134032	treatment	Isotype	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = treatment: Isotype	True
+GSM9134032	geo:GSE303680:GSM9134032	tissue_free_text	PDTFs, lung tumor, NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134032	geo:GSE303680:GSM9134032	cell_enrichment	CD45+CD3+ T cells	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = cell type: CD45+CD3+ T cells	True
+GSM9134032	geo:GSE303680:GSM9134032	donor_id	BS-786	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_title = CD45⁺CD3⁺ T cells, sorted from Isotype-treated PDTFs from lung cancer, BS-786, rep 2	True
+GSM9134032	geo:GSE303680:GSM9134032	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134032	geo:GSE303680:GSM9134032	disease_ontology_term_id	MONDO:0005233	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True
+GSM9134032	geo:GSE303680:GSM9134032	disease_free_text	NSCLC	file	raw/fp-9bf17062c3d3/GSE303680_family.soft.gz	GSM9134032	!Sample_characteristics_ch1 = tissue: PDTFs, lung tumor, NSCLC	True

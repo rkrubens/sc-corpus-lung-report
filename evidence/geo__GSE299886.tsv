@@ -1,0 +1,23 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9049384	geo:GSE299886:GSM9049384	assay_ontology_term_id	EFO:0008992	derived	ols:efo		MERFISH	True
+GSM9049384	geo:GSE299886:GSM9049384	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9049385	geo:GSE299886:GSM9049385	assay_ontology_term_id	EFO:0008992	derived	ols:efo		MERFISH	True
+GSM9049385	geo:GSE299886:GSM9049385	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9049386	geo:GSE299886:GSM9049386	assay_ontology_term_id	EFO:0008992	derived	ols:efo		MERFISH	True
+GSM9049386	geo:GSE299886:GSM9049386	disease_ontology_term_id	MONDO:0003308	derived	ols:mondo		pleural mesothelioma	True
+		organism	Homo sapiens	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9049384	geo:GSE299886:GSM9049384	tissue_free_text	lung adenocarcinoma	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049384	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9049384	geo:GSE299886:GSM9049384	disease_free_text	lung adenocarcinoma	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049384	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9049384	geo:GSE299886:GSM9049384	assay	MERFISH	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049384	!Sample_description = MERFISH	True
+GSM9049384	geo:GSE299886:GSM9049384	suspension_type	na	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049384	!Sample_scan_protocol = MERFISH generates a series of images capturing the location of different RNA species in the sample.	True
+GSM9049384	geo:GSE299886:GSM9049384	sample_preservation	FFPE	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz		formalin-fixed, paraffin-embedded surgically resected lung adenocarcinoma and pleural mesothelioma samples in tissue microarrays	True
+GSM9049385	geo:GSE299886:GSM9049385	tissue_free_text	lung adenocarcinoma	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049385	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9049385	geo:GSE299886:GSM9049385	disease_free_text	lung adenocarcinoma	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049385	!Sample_characteristics_ch1 = tissue: lung adenocarcinoma	True
+GSM9049385	geo:GSE299886:GSM9049385	assay	MERFISH	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049385	!Sample_description = MERFISH	True
+GSM9049385	geo:GSE299886:GSM9049385	suspension_type	na	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049385	!Sample_scan_protocol = MERFISH generates a series of images capturing the location of different RNA species in the sample.	True
+GSM9049385	geo:GSE299886:GSM9049385	sample_preservation	FFPE	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz		formalin-fixed, paraffin-embedded surgically resected lung adenocarcinoma and pleural mesothelioma samples in tissue microarrays	True
+GSM9049386	geo:GSE299886:GSM9049386	tissue_free_text	pleural mesothelioma	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049386	!Sample_characteristics_ch1 = tissue: pleural mesothelioma	True
+GSM9049386	geo:GSE299886:GSM9049386	disease_free_text	pleural mesothelioma	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049386	!Sample_characteristics_ch1 = tissue: pleural mesothelioma	True
+GSM9049386	geo:GSE299886:GSM9049386	assay	MERFISH	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049386	!Sample_description = MERFISH	True
+GSM9049386	geo:GSE299886:GSM9049386	suspension_type	na	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz	GSM9049386	!Sample_scan_protocol = MERFISH generates a series of images capturing the location of different RNA species in the sample.	True
+GSM9049386	geo:GSE299886:GSM9049386	sample_preservation	FFPE	file	raw/fp-ad99df9eb09a/GSE299886_family.soft.gz		formalin-fixed, paraffin-embedded surgically resected lung adenocarcinoma and pleural mesothelioma samples in tissue microarrays	True

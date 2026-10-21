@@ -1,0 +1,7 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-76f062256db7/GSE326017_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9619289	geo:GSE326017:GSM9619289	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-76f062256db7/GSE326017_family.soft.gz	GSM9619289	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM9619290	geo:GSE326017:GSM9619290	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-76f062256db7/GSE326017_family.soft.gz	GSM9619290	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM9619292	geo:GSE326017:GSM9619292	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-76f062256db7/GSE326017_family.soft.gz	GSM9619292	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM9619293	geo:GSE326017:GSM9619293	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-76f062256db7/GSE326017_family.soft.gz	GSM9619293	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True
+GSM9619294	geo:GSE326017:GSM9619294	tissue_free_text	Bronchoalveolar lavage fluid	file	raw/fp-76f062256db7/GSE326017_family.soft.gz	GSM9619294	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage fluid	True

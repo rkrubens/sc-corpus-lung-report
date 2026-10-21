@@ -1,0 +1,129 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz		!Series_sample_taxid = 9606	True
+		organism	Homo sapiens	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM9097110	geo:GSE302151:GSM9097110	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097110	geo:GSE302151:GSM9097110	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097110	geo:GSE302151:GSM9097110	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097110	geo:GSE302151:GSM9097110	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097110	geo:GSE302151:GSM9097110	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097110	geo:GSE302151:GSM9097110	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097111	geo:GSE302151:GSM9097111	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097111	geo:GSE302151:GSM9097111	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097111	geo:GSE302151:GSM9097111	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097111	geo:GSE302151:GSM9097111	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097111	geo:GSE302151:GSM9097111	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097111	geo:GSE302151:GSM9097111	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097112	geo:GSE302151:GSM9097112	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097112	geo:GSE302151:GSM9097112	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097112	geo:GSE302151:GSM9097112	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097112	geo:GSE302151:GSM9097112	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097112	geo:GSE302151:GSM9097112	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097112	geo:GSE302151:GSM9097112	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097113	geo:GSE302151:GSM9097113	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097113	geo:GSE302151:GSM9097113	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097113	geo:GSE302151:GSM9097113	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097113	geo:GSE302151:GSM9097113	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097113	geo:GSE302151:GSM9097113	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097113	geo:GSE302151:GSM9097113	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097114	geo:GSE302151:GSM9097114	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097114	geo:GSE302151:GSM9097114	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097114	geo:GSE302151:GSM9097114	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097114	geo:GSE302151:GSM9097114	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097114	geo:GSE302151:GSM9097114	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097114	geo:GSE302151:GSM9097114	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097115	geo:GSE302151:GSM9097115	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097115	geo:GSE302151:GSM9097115	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097115	geo:GSE302151:GSM9097115	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097115	geo:GSE302151:GSM9097115	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097115	geo:GSE302151:GSM9097115	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097115	geo:GSE302151:GSM9097115	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097116	geo:GSE302151:GSM9097116	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097116	geo:GSE302151:GSM9097116	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097116	geo:GSE302151:GSM9097116	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097116	geo:GSE302151:GSM9097116	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097116	geo:GSE302151:GSM9097116	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097116	geo:GSE302151:GSM9097116	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097117	geo:GSE302151:GSM9097117	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097117	geo:GSE302151:GSM9097117	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097117	geo:GSE302151:GSM9097117	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097117	geo:GSE302151:GSM9097117	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097117	geo:GSE302151:GSM9097117	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097117	geo:GSE302151:GSM9097117	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097118	geo:GSE302151:GSM9097118	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097118	geo:GSE302151:GSM9097118	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097118	geo:GSE302151:GSM9097118	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097118	geo:GSE302151:GSM9097118	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097118	geo:GSE302151:GSM9097118	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097118	geo:GSE302151:GSM9097118	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097119	geo:GSE302151:GSM9097119	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097119	geo:GSE302151:GSM9097119	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097119	geo:GSE302151:GSM9097119	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097119	geo:GSE302151:GSM9097119	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097119	geo:GSE302151:GSM9097119	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097119	geo:GSE302151:GSM9097119	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097120	geo:GSE302151:GSM9097120	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097120	geo:GSE302151:GSM9097120	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097120	geo:GSE302151:GSM9097120	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097120	geo:GSE302151:GSM9097120	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097120	geo:GSE302151:GSM9097120	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097120	geo:GSE302151:GSM9097120	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097121	geo:GSE302151:GSM9097121	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097121	geo:GSE302151:GSM9097121	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097121	geo:GSE302151:GSM9097121	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097121	geo:GSE302151:GSM9097121	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097121	geo:GSE302151:GSM9097121	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097121	geo:GSE302151:GSM9097121	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097122	geo:GSE302151:GSM9097122	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097122	geo:GSE302151:GSM9097122	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097122	geo:GSE302151:GSM9097122	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097122	geo:GSE302151:GSM9097122	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097122	geo:GSE302151:GSM9097122	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097122	geo:GSE302151:GSM9097122	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	!Sample_molecule_ch1 = nuclear RNA	True
+GSM9097105	geo:GSE302151:GSM9097105	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097105	geo:GSE302151:GSM9097105	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097105	geo:GSE302151:GSM9097105	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097105	geo:GSE302151:GSM9097105	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097105	geo:GSE302151:GSM9097105	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097105	geo:GSE302151:GSM9097105	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	Chromium snRNA-seq and snATAC-seq data produced by the 10X Chromium Platform	True
+GSM9097106	geo:GSE302151:GSM9097106	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097106	geo:GSE302151:GSM9097106	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097106	geo:GSE302151:GSM9097106	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097106	geo:GSE302151:GSM9097106	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097106	geo:GSE302151:GSM9097106	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097106	geo:GSE302151:GSM9097106	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	Chromium snRNA-seq and snATAC-seq data produced by the 10X Chromium Platform	True
+GSM9097107	geo:GSE302151:GSM9097107	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097107	geo:GSE302151:GSM9097107	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097107	geo:GSE302151:GSM9097107	disease_free_text	Healthy Control	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097107	geo:GSE302151:GSM9097107	disease_ontology_term_id	PATO:0000461	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	!Sample_characteristics_ch1 = health status: Healthy Control	True
+GSM9097107	geo:GSE302151:GSM9097107	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097107	geo:GSE302151:GSM9097107	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	Chromium snRNA-seq and snATAC-seq data produced by the 10X Chromium Platform	True
+GSM9097108	geo:GSE302151:GSM9097108	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097108	geo:GSE302151:GSM9097108	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097108	geo:GSE302151:GSM9097108	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097108	geo:GSE302151:GSM9097108	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097108	geo:GSE302151:GSM9097108	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097108	geo:GSE302151:GSM9097108	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	Chromium snRNA-seq and snATAC-seq data produced by the 10X Chromium Platform	True
+GSM9097109	geo:GSE302151:GSM9097109	tissue_free_text	Lung	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097109	geo:GSE302151:GSM9097109	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	!Sample_characteristics_ch1 = tissue: Lung	True
+GSM9097109	geo:GSE302151:GSM9097109	disease_free_text	Systemic sclerosis	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097109	geo:GSE302151:GSM9097109	disease_ontology_term_id	MONDO:0005100	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	!Sample_characteristics_ch1 = health status: Systemic sclerosis	True
+GSM9097109	geo:GSE302151:GSM9097109	tissue_type	tissue	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	!Sample_extract_protocol_ch1 = Explanted subpleural peripheral lung tissue was digested	True
+GSM9097109	geo:GSE302151:GSM9097109	suspension_type	nucleus	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	Chromium snRNA-seq and snATAC-seq data produced by the 10X Chromium Platform	True
+GSM9097110	geo:GSE302151:GSM9097110	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097110	mapped to the hg38 human genome	True
+GSM9097111	geo:GSE302151:GSM9097111	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097111	mapped to the hg38 human genome	True
+GSM9097112	geo:GSE302151:GSM9097112	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097112	mapped to the hg38 human genome	True
+GSM9097113	geo:GSE302151:GSM9097113	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097113	mapped to the hg38 human genome	True
+GSM9097114	geo:GSE302151:GSM9097114	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097114	mapped to the hg38 human genome	True
+GSM9097115	geo:GSE302151:GSM9097115	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097115	mapped to the hg38 human genome	True
+GSM9097116	geo:GSE302151:GSM9097116	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097116	mapped to the hg38 human genome	True
+GSM9097117	geo:GSE302151:GSM9097117	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097117	mapped to the hg38 human genome	True
+GSM9097118	geo:GSE302151:GSM9097118	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097118	mapped to the hg38 human genome	True
+GSM9097119	geo:GSE302151:GSM9097119	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097119	mapped to the hg38 human genome	True
+GSM9097120	geo:GSE302151:GSM9097120	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097120	mapped to the hg38 human genome	True
+GSM9097121	geo:GSE302151:GSM9097121	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097121	mapped to the hg38 human genome	True
+GSM9097122	geo:GSE302151:GSM9097122	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097122	mapped to the hg38 human genome	True
+GSM9097105	geo:GSE302151:GSM9097105	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097105	mapped to the hg38 human genome	True
+GSM9097106	geo:GSE302151:GSM9097106	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097106	mapped to the hg38 human genome	True
+GSM9097107	geo:GSE302151:GSM9097107	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097107	mapped to the hg38 human genome	True
+GSM9097108	geo:GSE302151:GSM9097108	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097108	mapped to the hg38 human genome	True
+GSM9097109	geo:GSE302151:GSM9097109	atac.genome_assembly	GRCh38	file	raw/fp-b69d0ad1aa05/GSE302151_family.soft.gz	GSM9097109	mapped to the hg38 human genome	True

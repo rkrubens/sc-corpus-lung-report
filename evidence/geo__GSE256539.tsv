@@ -1,0 +1,306 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+AH001	geo:GSE256539:AH001	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+AH006	geo:GSE256539:AH006	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+AH014	geo:GSE256539:AH014	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+AH015	geo:GSE256539:AH015	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+BA009	geo:GSE256539:BA009	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+BA021	geo:GSE256539:BA021	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+BA023	geo:GSE256539:BA023	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+BA035	geo:GSE256539:BA035	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+CC016	geo:GSE256539:CC016	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+UA005	geo:GSE256539:UA005	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+UA013	geo:GSE256539:UA013	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+UC007	geo:GSE256539:UC007	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+UC010	geo:GSE256539:UC010	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+UM003	geo:GSE256539:UM003	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+VA008	geo:GSE256539:VA008	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+VA010	geo:GSE256539:VA010	donor_id	<column soft_individual>	column	work/geomx_aoi_table_reconciled.csv/soft_individual			True
+AH001	geo:GSE256539:AH001	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+AH006	geo:GSE256539:AH006	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+AH014	geo:GSE256539:AH014	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+AH015	geo:GSE256539:AH015	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+BA009	geo:GSE256539:BA009	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+BA021	geo:GSE256539:BA021	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+BA023	geo:GSE256539:BA023	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+BA035	geo:GSE256539:BA035	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+CC016	geo:GSE256539:CC016	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+UA005	geo:GSE256539:UA005	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+UA013	geo:GSE256539:UA013	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+UC007	geo:GSE256539:UC007	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+UC010	geo:GSE256539:UC010	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+UM003	geo:GSE256539:UM003	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+VA008	geo:GSE256539:VA008	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+VA010	geo:GSE256539:VA010	tissue_free_text	<column soft_tissue_text>	column	work/geomx_aoi_table_reconciled.csv/soft_tissue_text			True
+AH001	geo:GSE256539:AH001	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH006	geo:GSE256539:AH006	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH014	geo:GSE256539:AH014	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH015	geo:GSE256539:AH015	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA009	geo:GSE256539:BA009	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA021	geo:GSE256539:BA021	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA023	geo:GSE256539:BA023	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA035	geo:GSE256539:BA035	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+CC016	geo:GSE256539:CC016	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UA005	geo:GSE256539:UA005	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UA013	geo:GSE256539:UA013	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UC007	geo:GSE256539:UC007	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UC010	geo:GSE256539:UC010	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UM003	geo:GSE256539:UM003	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+VA008	geo:GSE256539:VA008	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+VA010	geo:GSE256539:VA010	disease_free_text	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH001	geo:GSE256539:AH001	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH006	geo:GSE256539:AH006	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH014	geo:GSE256539:AH014	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+AH015	geo:GSE256539:AH015	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA009	geo:GSE256539:BA009	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA021	geo:GSE256539:BA021	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA023	geo:GSE256539:BA023	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+BA035	geo:GSE256539:BA035	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+CC016	geo:GSE256539:CC016	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UA005	geo:GSE256539:UA005	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UA013	geo:GSE256539:UA013	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UC007	geo:GSE256539:UC007	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UC010	geo:GSE256539:UC010	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+UM003	geo:GSE256539:UM003	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+VA008	geo:GSE256539:VA008	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+VA010	geo:GSE256539:VA010	disease_ontology_term_id	<column soft_source_name>	column	work/geomx_aoi_table_reconciled.csv/soft_source_name			True
+		organism	Homo sapiens	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+AH001	geo:GSE256539:AH001	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH006	geo:GSE256539:AH006	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH014	geo:GSE256539:AH014	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH015	geo:GSE256539:AH015	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA009	geo:GSE256539:BA009	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA021	geo:GSE256539:BA021	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA023	geo:GSE256539:BA023	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA035	geo:GSE256539:BA035	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+CC016	geo:GSE256539:CC016	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UA005	geo:GSE256539:UA005	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UA013	geo:GSE256539:UA013	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UC007	geo:GSE256539:UC007	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UC010	geo:GSE256539:UC010	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UM003	geo:GSE256539:UM003	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+VA008	geo:GSE256539:VA008	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+VA010	geo:GSE256539:VA010	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH001	geo:GSE256539:AH001	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH006	geo:GSE256539:AH006	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH014	geo:GSE256539:AH014	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH015	geo:GSE256539:AH015	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA009	geo:GSE256539:BA009	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA021	geo:GSE256539:BA021	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA023	geo:GSE256539:BA023	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA035	geo:GSE256539:BA035	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+CC016	geo:GSE256539:CC016	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UA005	geo:GSE256539:UA005	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UA013	geo:GSE256539:UA013	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UC007	geo:GSE256539:UC007	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UC010	geo:GSE256539:UC010	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UM003	geo:GSE256539:UM003	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+VA008	geo:GSE256539:VA008	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+VA010	geo:GSE256539:VA010	tissue_ontology_term_id	UBERON:0002048	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH001	geo:GSE256539:AH001	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH006	geo:GSE256539:AH006	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH014	geo:GSE256539:AH014	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH015	geo:GSE256539:AH015	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA009	geo:GSE256539:BA009	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA021	geo:GSE256539:BA021	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA023	geo:GSE256539:BA023	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA035	geo:GSE256539:BA035	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+CC016	geo:GSE256539:CC016	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UA005	geo:GSE256539:UA005	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UA013	geo:GSE256539:UA013	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UC007	geo:GSE256539:UC007	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UC010	geo:GSE256539:UC010	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UM003	geo:GSE256539:UM003	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+VA008	geo:GSE256539:VA008	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+VA010	geo:GSE256539:VA010	tissue_type	tissue	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH001	geo:GSE256539:AH001	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+AH006	geo:GSE256539:AH006	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+AH014	geo:GSE256539:AH014	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+AH015	geo:GSE256539:AH015	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+BA009	geo:GSE256539:BA009	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+BA021	geo:GSE256539:BA021	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+BA023	geo:GSE256539:BA023	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+BA035	geo:GSE256539:BA035	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+CC016	geo:GSE256539:CC016	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+UA005	geo:GSE256539:UA005	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+UA013	geo:GSE256539:UA013	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+UC007	geo:GSE256539:UC007	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+UC010	geo:GSE256539:UC010	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+UM003	geo:GSE256539:UM003	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+VA008	geo:GSE256539:VA008	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+VA010	geo:GSE256539:VA010	suspension_type	na	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_scan_protocol = GeoMx Digital Spatial Profiler	True
+AH001	geo:GSE256539:AH001	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH006	geo:GSE256539:AH006	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH014	geo:GSE256539:AH014	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH015	geo:GSE256539:AH015	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA009	geo:GSE256539:BA009	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA021	geo:GSE256539:BA021	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA023	geo:GSE256539:BA023	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+BA035	geo:GSE256539:BA035	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+CC016	geo:GSE256539:CC016	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UA005	geo:GSE256539:UA005	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UA013	geo:GSE256539:UA013	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UC007	geo:GSE256539:UC007	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UC010	geo:GSE256539:UC010	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+UM003	geo:GSE256539:UM003	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+VA008	geo:GSE256539:VA008	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+VA010	geo:GSE256539:VA010	sample_preservation	paraffin-embedded	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		histological section of a paraffin-embedded block of each lung	True
+AH001	geo:GSE256539:AH001	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH006	geo:GSE256539:AH006	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH014	geo:GSE256539:AH014	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH015	geo:GSE256539:AH015	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA009	geo:GSE256539:BA009	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA021	geo:GSE256539:BA021	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA023	geo:GSE256539:BA023	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA035	geo:GSE256539:BA035	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+CC016	geo:GSE256539:CC016	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UA005	geo:GSE256539:UA005	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UA013	geo:GSE256539:UA013	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UC007	geo:GSE256539:UC007	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UC010	geo:GSE256539:UC010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UM003	geo:GSE256539:UM003	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+VA008	geo:GSE256539:VA008	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+VA010	geo:GSE256539:VA010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH001	geo:GSE256539:AH001	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH006	geo:GSE256539:AH006	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH014	geo:GSE256539:AH014	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH015	geo:GSE256539:AH015	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA009	geo:GSE256539:BA009	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA021	geo:GSE256539:BA021	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA023	geo:GSE256539:BA023	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA035	geo:GSE256539:BA035	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+CC016	geo:GSE256539:CC016	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UA005	geo:GSE256539:UA005	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UA013	geo:GSE256539:UA013	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UC007	geo:GSE256539:UC007	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UC010	geo:GSE256539:UC010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UM003	geo:GSE256539:UM003	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+VA008	geo:GSE256539:VA008	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+VA010	geo:GSE256539:VA010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH001	geo:GSE256539:AH001	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+AH006	geo:GSE256539:AH006	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+AH014	geo:GSE256539:AH014	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+AH015	geo:GSE256539:AH015	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+BA009	geo:GSE256539:BA009	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+BA021	geo:GSE256539:BA021	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+BA023	geo:GSE256539:BA023	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+BA035	geo:GSE256539:BA035	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+CC016	geo:GSE256539:CC016	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+UA005	geo:GSE256539:UA005	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+UA013	geo:GSE256539:UA013	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+UC007	geo:GSE256539:UC007	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+UC010	geo:GSE256539:UC010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+UM003	geo:GSE256539:UM003	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+VA008	geo:GSE256539:VA008	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+VA010	geo:GSE256539:VA010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		control pulmonary artery (n=5)	True
+AH001	geo:GSE256539:AH001	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH006	geo:GSE256539:AH006	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH014	geo:GSE256539:AH014	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH015	geo:GSE256539:AH015	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA009	geo:GSE256539:BA009	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA021	geo:GSE256539:BA021	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA023	geo:GSE256539:BA023	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA035	geo:GSE256539:BA035	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+CC016	geo:GSE256539:CC016	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UA005	geo:GSE256539:UA005	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UA013	geo:GSE256539:UA013	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UC007	geo:GSE256539:UC007	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UC010	geo:GSE256539:UC010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UM003	geo:GSE256539:UM003	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+VA008	geo:GSE256539:VA008	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+VA010	geo:GSE256539:VA010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH001	geo:GSE256539:AH001	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH006	geo:GSE256539:AH006	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH014	geo:GSE256539:AH014	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH015	geo:GSE256539:AH015	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA009	geo:GSE256539:BA009	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA021	geo:GSE256539:BA021	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA023	geo:GSE256539:BA023	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA035	geo:GSE256539:BA035	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+CC016	geo:GSE256539:CC016	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UA005	geo:GSE256539:UA005	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UA013	geo:GSE256539:UA013	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UC007	geo:GSE256539:UC007	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UC010	geo:GSE256539:UC010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UM003	geo:GSE256539:UM003	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+VA008	geo:GSE256539:VA008	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+VA010	geo:GSE256539:VA010	disease_free_text	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH001	geo:GSE256539:AH001	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH006	geo:GSE256539:AH006	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH014	geo:GSE256539:AH014	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH015	geo:GSE256539:AH015	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA009	geo:GSE256539:BA009	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA021	geo:GSE256539:BA021	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA023	geo:GSE256539:BA023	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+BA035	geo:GSE256539:BA035	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+CC016	geo:GSE256539:CC016	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UA005	geo:GSE256539:UA005	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UA013	geo:GSE256539:UA013	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UC007	geo:GSE256539:UC007	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UC010	geo:GSE256539:UC010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+UM003	geo:GSE256539:UM003	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+VA008	geo:GSE256539:VA008	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+VA010	geo:GSE256539:VA010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		Idiopathic Pulmonary Arterial Hypertension (IPAH) is a severe human disease	True
+AH001	geo:GSE256539:AH001	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH006	geo:GSE256539:AH006	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH014	geo:GSE256539:AH014	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH015	geo:GSE256539:AH015	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA009	geo:GSE256539:BA009	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA021	geo:GSE256539:BA021	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA023	geo:GSE256539:BA023	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+BA035	geo:GSE256539:BA035	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+CC016	geo:GSE256539:CC016	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UA005	geo:GSE256539:UA005	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UA013	geo:GSE256539:UA013	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UC007	geo:GSE256539:UC007	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UC010	geo:GSE256539:UC010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+UM003	geo:GSE256539:UM003	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+VA008	geo:GSE256539:VA008	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+VA010	geo:GSE256539:VA010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		IPAH lungs (n= 11)	True
+AH001	geo:GSE256539:AH001	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+AH006	geo:GSE256539:AH006	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+AH014	geo:GSE256539:AH014	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+AH015	geo:GSE256539:AH015	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+BA009	geo:GSE256539:BA009	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+BA021	geo:GSE256539:BA021	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+BA023	geo:GSE256539:BA023	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+BA035	geo:GSE256539:BA035	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+CC016	geo:GSE256539:CC016	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+UA005	geo:GSE256539:UA005	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+UA013	geo:GSE256539:UA013	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+UC007	geo:GSE256539:UC007	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+UC010	geo:GSE256539:UC010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+UM003	geo:GSE256539:UM003	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+VA008	geo:GSE256539:VA008	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+VA010	geo:GSE256539:VA010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		62 ROIs of control lungs	True
+AH001	geo:GSE256539:AH001	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH006	geo:GSE256539:AH006	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH014	geo:GSE256539:AH014	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH015	geo:GSE256539:AH015	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA009	geo:GSE256539:BA009	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA021	geo:GSE256539:BA021	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA023	geo:GSE256539:BA023	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+BA035	geo:GSE256539:BA035	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+CC016	geo:GSE256539:CC016	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UA005	geo:GSE256539:UA005	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UA013	geo:GSE256539:UA013	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UC007	geo:GSE256539:UC007	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UC010	geo:GSE256539:UC010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+UM003	geo:GSE256539:UM003	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+VA008	geo:GSE256539:VA008	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+VA010	geo:GSE256539:VA010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = Control Lung	True
+AH001	geo:GSE256539:AH001	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH006	geo:GSE256539:AH006	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH014	geo:GSE256539:AH014	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+AH015	geo:GSE256539:AH015	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA009	geo:GSE256539:BA009	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA021	geo:GSE256539:BA021	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA023	geo:GSE256539:BA023	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+BA035	geo:GSE256539:BA035	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+CC016	geo:GSE256539:CC016	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UA005	geo:GSE256539:UA005	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UA013	geo:GSE256539:UA013	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UC007	geo:GSE256539:UC007	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UC010	geo:GSE256539:UC010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+UM003	geo:GSE256539:UM003	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+VA008	geo:GSE256539:VA008	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True
+VA010	geo:GSE256539:VA010	disease_ontology_term_id	<map of column soft_source_name>	file	raw/fp-5998a5a67e6f/GSE256539_family.soft.gz		!Sample_source_name_ch1 = IPAH Lung	True

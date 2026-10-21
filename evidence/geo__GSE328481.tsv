@@ -1,0 +1,123 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9684206	geo:GSE328481:GSM9684206	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684206	geo:GSE328481:GSM9684206	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684206	geo:GSE328481:GSM9684206	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684206	geo:GSE328481:GSM9684206	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684206_D06053D2.h5ad::obs/anno2			True
+GSM9684207	geo:GSE328481:GSM9684207	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684207	geo:GSE328481:GSM9684207	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684207	geo:GSE328481:GSM9684207	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684207	geo:GSE328481:GSM9684207	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684207_D06047C3.h5ad::obs/anno2			True
+GSM9684208	geo:GSE328481:GSM9684208	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684208	geo:GSE328481:GSM9684208	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684208	geo:GSE328481:GSM9684208	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684208	geo:GSE328481:GSM9684208	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684208_D06047F6.h5ad::obs/anno2			True
+GSM9684209	geo:GSE328481:GSM9684209	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684209	geo:GSE328481:GSM9684209	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684209	geo:GSE328481:GSM9684209	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684209	geo:GSE328481:GSM9684209	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684209_D06047E1.h5ad::obs/anno2			True
+GSM9684210	geo:GSE328481:GSM9684210	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684210	geo:GSE328481:GSM9684210	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684210	geo:GSE328481:GSM9684210	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684210	geo:GSE328481:GSM9684210	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684210_D06050A2.h5ad::obs/anno2			True
+GSM9684211	geo:GSE328481:GSM9684211	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684211	geo:GSE328481:GSM9684211	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684211	geo:GSE328481:GSM9684211	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684211	geo:GSE328481:GSM9684211	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684211_D06047A2.h5ad::obs/anno2			True
+GSM9684212	geo:GSE328481:GSM9684212	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684212	geo:GSE328481:GSM9684212	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684212	geo:GSE328481:GSM9684212	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684212	geo:GSE328481:GSM9684212	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684212_D06050C2.h5ad::obs/anno2			True
+GSM9684213	geo:GSE328481:GSM9684213	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684213	geo:GSE328481:GSM9684213	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684213	geo:GSE328481:GSM9684213	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684213	geo:GSE328481:GSM9684213	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684213_D06047D4.h5ad::obs/anno2			True
+GSM9684214	geo:GSE328481:GSM9684214	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684214	geo:GSE328481:GSM9684214	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684214	geo:GSE328481:GSM9684214	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684214	geo:GSE328481:GSM9684214	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684214_D06047E2.h5ad::obs/anno2			True
+GSM9684215	geo:GSE328481:GSM9684215	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684215	geo:GSE328481:GSM9684215	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684215	geo:GSE328481:GSM9684215	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684215	geo:GSE328481:GSM9684215	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684215_D06050D4.h5ad::obs/anno2			True
+GSM9684216	geo:GSE328481:GSM9684216	assay_ontology_term_id	EFO:0920125	derived	ols:efo		Stereo-seq	True
+GSM9684216	geo:GSE328481:GSM9684216	tissue_ontology_term_id	UBERON:0002048	derived	ols:uberon		lung	True
+GSM9684216	geo:GSE328481:GSM9684216	disease_ontology_term_id	MONDO:0005061	derived	ols:mondo		lung adenocarcinoma	True
+GSM9684216	geo:GSE328481:GSM9684216	author_cell_type	<column anno2>	column	work/fp-2e1a0434688e/GSE328481_RAW/GSM9684216_D06050E4.h5ad::obs/anno2			True
+		organism	Homo sapiens	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684206	!Sample_organism_ch1 = Homo sapiens	True
+GSM9684206	geo:GSE328481:GSM9684206	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684206	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684206	geo:GSE328481:GSM9684206	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684206	geo:GSE328481:GSM9684206	donor_id	P1	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684206	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P1	True
+GSM9684206	geo:GSE328481:GSM9684206	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684206	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684206	geo:GSE328481:GSM9684206	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684206	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684206	geo:GSE328481:GSM9684206	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684206	geo:GSE328481:GSM9684206	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684206	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684207	geo:GSE328481:GSM9684207	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684207	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684207	geo:GSE328481:GSM9684207	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684207	geo:GSE328481:GSM9684207	donor_id	P2	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684207	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P2	True
+GSM9684207	geo:GSE328481:GSM9684207	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684207	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684207	geo:GSE328481:GSM9684207	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684207	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684207	geo:GSE328481:GSM9684207	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684207	geo:GSE328481:GSM9684207	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684207	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684208	geo:GSE328481:GSM9684208	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684208	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684208	geo:GSE328481:GSM9684208	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684208	geo:GSE328481:GSM9684208	donor_id	P3	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684208	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P3	True
+GSM9684208	geo:GSE328481:GSM9684208	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684208	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684208	geo:GSE328481:GSM9684208	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684208	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684208	geo:GSE328481:GSM9684208	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684208	geo:GSE328481:GSM9684208	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684208	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684209	geo:GSE328481:GSM9684209	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684209	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684209	geo:GSE328481:GSM9684209	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684209	geo:GSE328481:GSM9684209	donor_id	P4	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684209	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P4	True
+GSM9684209	geo:GSE328481:GSM9684209	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684209	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684209	geo:GSE328481:GSM9684209	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684209	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684209	geo:GSE328481:GSM9684209	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684209	geo:GSE328481:GSM9684209	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684209	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684210	geo:GSE328481:GSM9684210	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684210	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684210	geo:GSE328481:GSM9684210	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684210	geo:GSE328481:GSM9684210	donor_id	P5	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684210	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P5	True
+GSM9684210	geo:GSE328481:GSM9684210	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684210	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684210	geo:GSE328481:GSM9684210	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684210	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684210	geo:GSE328481:GSM9684210	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684210	geo:GSE328481:GSM9684210	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684210	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684211	geo:GSE328481:GSM9684211	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684211	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684211	geo:GSE328481:GSM9684211	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684211	geo:GSE328481:GSM9684211	donor_id	P6	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684211	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P6	True
+GSM9684211	geo:GSE328481:GSM9684211	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684211	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684211	geo:GSE328481:GSM9684211	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684211	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684211	geo:GSE328481:GSM9684211	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684211	geo:GSE328481:GSM9684211	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684211	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684212	geo:GSE328481:GSM9684212	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684212	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684212	geo:GSE328481:GSM9684212	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684212	geo:GSE328481:GSM9684212	donor_id	P7	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684212	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P7	True
+GSM9684212	geo:GSE328481:GSM9684212	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684212	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684212	geo:GSE328481:GSM9684212	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684212	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684212	geo:GSE328481:GSM9684212	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684212	geo:GSE328481:GSM9684212	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684212	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684213	geo:GSE328481:GSM9684213	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684213	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684213	geo:GSE328481:GSM9684213	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684213	geo:GSE328481:GSM9684213	donor_id	P8	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684213	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P8	True
+GSM9684213	geo:GSE328481:GSM9684213	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684213	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684213	geo:GSE328481:GSM9684213	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684213	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684213	geo:GSE328481:GSM9684213	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684213	geo:GSE328481:GSM9684213	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684213	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684214	geo:GSE328481:GSM9684214	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684214	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684214	geo:GSE328481:GSM9684214	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684214	geo:GSE328481:GSM9684214	donor_id	P9	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684214	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P9	True
+GSM9684214	geo:GSE328481:GSM9684214	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684214	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684214	geo:GSE328481:GSM9684214	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684214	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684214	geo:GSE328481:GSM9684214	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684214	geo:GSE328481:GSM9684214	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684214	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684215	geo:GSE328481:GSM9684215	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684215	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684215	geo:GSE328481:GSM9684215	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684215	geo:GSE328481:GSM9684215	donor_id	P10	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684215	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P10	True
+GSM9684215	geo:GSE328481:GSM9684215	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684215	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684215	geo:GSE328481:GSM9684215	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684215	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684215	geo:GSE328481:GSM9684215	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684215	geo:GSE328481:GSM9684215	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684215	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684216	geo:GSE328481:GSM9684216	tissue_free_text	lung	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684216	!Sample_characteristics_ch1 = tissue: lung	True
+GSM9684216	geo:GSE328481:GSM9684216	disease_free_text	lung adenocarcinoma	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz		Spatial transcriptomics profiling of 11 lung adenocarcinoma (LUAD) patient tissues using Stereo-XCR-seq	True
+GSM9684216	geo:GSE328481:GSM9684216	donor_id	P11	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684216	!Sample_description = Stereo-XCR-seq spatial transcriptomics data of LUAD patient P11	True
+GSM9684216	geo:GSE328481:GSM9684216	assay	Stereo-seq	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684216	Stereo-seq cDNA library was generated by in situ reverse transcription on the chip	True
+GSM9684216	geo:GSE328481:GSM9684216	suspension_type	na	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684216	Fresh frozen tissue sections were mounted on Stereo-seq chips	True
+GSM9684216	geo:GSE328481:GSM9684216	sample_preservation	fresh-frozen	file	evidence/PMC13434001.txt		we applied Stereo-XCR-seq to 11 fresh-frozen LUAD specimens	True
+GSM9684216	geo:GSE328481:GSM9684216	tissue_type	tissue	file	raw/fp-2e1a0434688e/GSE328481_family.soft.gz	GSM9684216	Fresh frozen tissue sections were mounted on Stereo-seq chips	True

@@ -1,0 +1,98 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8768252	geo:GSE288459:GSM8768252	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768252	geo:GSE288459:GSM8768252	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM8768253	geo:GSE288459:GSM8768253	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768253	geo:GSE288459:GSM8768253	development_stage_ontology_term_id	HsapDv:0000148	derived	age_in_years:'54-year-old stage':ols:hsapdv		54	True
+GSM8768254	geo:GSE288459:GSM8768254	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768254	geo:GSE288459:GSM8768254	development_stage_ontology_term_id	HsapDv:0000153	derived	age_in_years:'59-year-old stage':ols:hsapdv		59	True
+GSM8768255	geo:GSE288459:GSM8768255	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768255	geo:GSE288459:GSM8768255	development_stage_ontology_term_id	HsapDv:0000151	derived	age_in_years:'57-year-old stage':ols:hsapdv		57	True
+GSM8768256	geo:GSE288459:GSM8768256	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768256	geo:GSE288459:GSM8768256	development_stage_ontology_term_id	HsapDv:0000138	derived	age_in_years:'44-year-old stage':ols:hsapdv		44	True
+GSM8768257	geo:GSE288459:GSM8768257	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768257	geo:GSE288459:GSM8768257	development_stage_ontology_term_id	HsapDv:0000135	derived	age_in_years:'41-year-old stage':ols:hsapdv		41	True
+GSM8768258	geo:GSE288459:GSM8768258	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768258	geo:GSE288459:GSM8768258	development_stage_ontology_term_id	HsapDv:0000142	derived	age_in_years:'48-year-old stage':ols:hsapdv		48	True
+GSM8768259	geo:GSE288459:GSM8768259	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768259	geo:GSE288459:GSM8768259	development_stage_ontology_term_id	HsapDv:0000118	derived	age_in_years:'24-year-old stage':ols:hsapdv		24	True
+GSM8768260	geo:GSE288459:GSM8768260	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768260	geo:GSE288459:GSM8768260	development_stage_ontology_term_id	HsapDv:0000160	derived	age_in_years:'66-year-old stage':ols:hsapdv		66	True
+GSM8768261	geo:GSE288459:GSM8768261	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768261	geo:GSE288459:GSM8768261	development_stage_ontology_term_id	HsapDv:0000128	derived	age_in_years:'34-year-old stage':ols:hsapdv		34	True
+GSM8768262	geo:GSE288459:GSM8768262	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768262	geo:GSE288459:GSM8768262	development_stage_ontology_term_id	HsapDv:0000134	derived	age_in_years:'40-year-old stage':ols:hsapdv		40	True
+GSM8768263	geo:GSE288459:GSM8768263	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768263	geo:GSE288459:GSM8768263	development_stage_ontology_term_id	HsapDv:0000140	derived	age_in_years:'46-year-old stage':ols:hsapdv		46	True
+GSM8768264	geo:GSE288459:GSM8768264	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768264	geo:GSE288459:GSM8768264	development_stage_ontology_term_id	HsapDv:0000139	derived	age_in_years:'45-year-old stage':ols:hsapdv		45	True
+GSM8768265	geo:GSE288459:GSM8768265	sex_ontology_term_id	PATO:0000384	derived	sex_map		Male	True
+GSM8768265	geo:GSE288459:GSM8768265	development_stage_ontology_term_id	HsapDv:0000157	derived	age_in_years:'63-year-old stage':ols:hsapdv		63	True
+GSM8768266	geo:GSE288459:GSM8768266	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768266	geo:GSE288459:GSM8768266	development_stage_ontology_term_id	HsapDv:0000155	derived	age_in_years:'61-year-old stage':ols:hsapdv		61	True
+GSM8768267	geo:GSE288459:GSM8768267	sex_ontology_term_id	PATO:0000383	derived	sex_map		Female	True
+GSM8768267	geo:GSE288459:GSM8768267	development_stage_ontology_term_id	HsapDv:0000135	derived	age_in_years:'41-year-old stage':ols:hsapdv		41	True
+		organism	Homo sapiens	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8768252	geo:GSE288459:GSM8768252	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768252	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768252	geo:GSE288459:GSM8768252	age	46	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768252	!Sample_characteristics_ch1 = age: 46	True
+GSM8768252	geo:GSE288459:GSM8768252	disease_free_text	SarcP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768252	!Sample_characteristics_ch1 = diagnosis: SarcP	True
+GSM8768252	geo:GSE288459:GSM8768252	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768252	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768253	geo:GSE288459:GSM8768253	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768253	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768253	geo:GSE288459:GSM8768253	age	54	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768253	!Sample_characteristics_ch1 = age: 54	True
+GSM8768253	geo:GSE288459:GSM8768253	disease_free_text	SarcNP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768253	!Sample_characteristics_ch1 = diagnosis: SarcNP	True
+GSM8768253	geo:GSE288459:GSM8768253	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768253	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768254	geo:GSE288459:GSM8768254	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768254	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768254	geo:GSE288459:GSM8768254	age	59	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768254	!Sample_characteristics_ch1 = age: 59	True
+GSM8768254	geo:GSE288459:GSM8768254	disease_free_text	SarcP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768254	!Sample_characteristics_ch1 = diagnosis: SarcP	True
+GSM8768254	geo:GSE288459:GSM8768254	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768254	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768255	geo:GSE288459:GSM8768255	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768255	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768255	geo:GSE288459:GSM8768255	age	57	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768255	!Sample_characteristics_ch1 = age: 57	True
+GSM8768255	geo:GSE288459:GSM8768255	disease_free_text	SarcP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768255	!Sample_characteristics_ch1 = diagnosis: SarcP	True
+GSM8768255	geo:GSE288459:GSM8768255	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768255	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768256	geo:GSE288459:GSM8768256	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768256	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768256	geo:GSE288459:GSM8768256	age	44	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768256	!Sample_characteristics_ch1 = age: 44	True
+GSM8768256	geo:GSE288459:GSM8768256	disease_free_text	SarcNP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768256	!Sample_characteristics_ch1 = diagnosis: SarcNP	True
+GSM8768256	geo:GSE288459:GSM8768256	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768256	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768257	geo:GSE288459:GSM8768257	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768257	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768257	geo:GSE288459:GSM8768257	age	41	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768257	!Sample_characteristics_ch1 = age: 41	True
+GSM8768257	geo:GSE288459:GSM8768257	disease_free_text	SarcP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768257	!Sample_characteristics_ch1 = diagnosis: SarcP	True
+GSM8768257	geo:GSE288459:GSM8768257	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768257	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768258	geo:GSE288459:GSM8768258	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768258	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768258	geo:GSE288459:GSM8768258	age	48	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768258	!Sample_characteristics_ch1 = age: 48	True
+GSM8768258	geo:GSE288459:GSM8768258	disease_free_text	Control	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768258	!Sample_characteristics_ch1 = diagnosis: Control	True
+GSM8768258	geo:GSE288459:GSM8768258	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768258	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768259	geo:GSE288459:GSM8768259	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768259	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768259	geo:GSE288459:GSM8768259	age	24	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768259	!Sample_characteristics_ch1 = age: 24	True
+GSM8768259	geo:GSE288459:GSM8768259	disease_free_text	Control	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768259	!Sample_characteristics_ch1 = diagnosis: Control	True
+GSM8768259	geo:GSE288459:GSM8768259	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768259	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768260	geo:GSE288459:GSM8768260	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768260	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768260	geo:GSE288459:GSM8768260	age	66	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768260	!Sample_characteristics_ch1 = age: 66	True
+GSM8768260	geo:GSE288459:GSM8768260	disease_free_text	SarcP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768260	!Sample_characteristics_ch1 = diagnosis: SarcP	True
+GSM8768260	geo:GSE288459:GSM8768260	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768260	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768261	geo:GSE288459:GSM8768261	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768261	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768261	geo:GSE288459:GSM8768261	age	34	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768261	!Sample_characteristics_ch1 = age: 34	True
+GSM8768261	geo:GSE288459:GSM8768261	disease_free_text	Control	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768261	!Sample_characteristics_ch1 = diagnosis: Control	True
+GSM8768261	geo:GSE288459:GSM8768261	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768261	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768262	geo:GSE288459:GSM8768262	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768262	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768262	geo:GSE288459:GSM8768262	age	40	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768262	!Sample_characteristics_ch1 = age: 40	True
+GSM8768262	geo:GSE288459:GSM8768262	disease_free_text	SarcNP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768262	!Sample_characteristics_ch1 = diagnosis: SarcNP	True
+GSM8768262	geo:GSE288459:GSM8768262	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768262	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768263	geo:GSE288459:GSM8768263	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768263	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768263	geo:GSE288459:GSM8768263	age	46	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768263	!Sample_characteristics_ch1 = age: 46	True
+GSM8768263	geo:GSE288459:GSM8768263	disease_free_text	SarcNP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768263	!Sample_characteristics_ch1 = diagnosis: SarcNP	True
+GSM8768263	geo:GSE288459:GSM8768263	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768263	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768264	geo:GSE288459:GSM8768264	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768264	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768264	geo:GSE288459:GSM8768264	age	45	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768264	!Sample_characteristics_ch1 = age: 45	True
+GSM8768264	geo:GSE288459:GSM8768264	disease_free_text	SarcP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768264	!Sample_characteristics_ch1 = diagnosis: SarcP	True
+GSM8768264	geo:GSE288459:GSM8768264	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768264	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768265	geo:GSE288459:GSM8768265	sex	Male	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768265	!Sample_characteristics_ch1 = Sex: Male	True
+GSM8768265	geo:GSE288459:GSM8768265	age	63	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768265	!Sample_characteristics_ch1 = age: 63	True
+GSM8768265	geo:GSE288459:GSM8768265	disease_free_text	Control	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768265	!Sample_characteristics_ch1 = diagnosis: Control	True
+GSM8768265	geo:GSE288459:GSM8768265	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768265	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768266	geo:GSE288459:GSM8768266	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768266	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768266	geo:GSE288459:GSM8768266	age	61	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768266	!Sample_characteristics_ch1 = age: 61	True
+GSM8768266	geo:GSE288459:GSM8768266	disease_free_text	SarcNP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768266	!Sample_characteristics_ch1 = diagnosis: SarcNP	True
+GSM8768266	geo:GSE288459:GSM8768266	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768266	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True
+GSM8768267	geo:GSE288459:GSM8768267	sex	Female	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768267	!Sample_characteristics_ch1 = Sex: Female	True
+GSM8768267	geo:GSE288459:GSM8768267	age	41	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768267	!Sample_characteristics_ch1 = age: 41	True
+GSM8768267	geo:GSE288459:GSM8768267	disease_free_text	SarcNP	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768267	!Sample_characteristics_ch1 = diagnosis: SarcNP	True
+GSM8768267	geo:GSE288459:GSM8768267	tissue_free_text	Bronchoalveolar lavage	file	raw/fp-2f7af7c84adf/GSE288459_family.soft.gz	GSM8768267	!Sample_characteristics_ch1 = tissue: Bronchoalveolar lavage	True

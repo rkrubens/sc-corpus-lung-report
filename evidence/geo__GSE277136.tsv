@@ -1,0 +1,56 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM8514906	geo:GSE277136:GSM8514906	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8514906	geo:GSE277136:GSM8514906	author_cell_type	<column cell_label>	column	work/fp-34881988ffb8/cellmeta_BALF-1-AE.tsv.gz/cell_label			True
+GSM8514908	geo:GSE277136:GSM8514908	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8514908	geo:GSE277136:GSM8514908	author_cell_type	<column cell_label>	column	work/fp-34881988ffb8/cellmeta_BALF-2-AE.tsv.gz/cell_label			True
+GSM8514910	geo:GSE277136:GSM8514910	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8514910	geo:GSE277136:GSM8514910	author_cell_type	<column cell_label>	column	work/fp-34881988ffb8/cellmeta_BALF-3-AE.tsv.gz/cell_label			True
+GSM8514912	geo:GSE277136:GSM8514912	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+GSM8514912	geo:GSE277136:GSM8514912	author_cell_type	<column cell_label>	column	work/fp-34881988ffb8/cellmeta_BALF-4-AE.tsv.gz/cell_label			True
+GSM8514914	geo:GSE277136:GSM8514914	assay_ontology_term_id	EFO:0009900	derived	ols:efo		10x 5' v2	True
+		organism	Homo sapiens	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM8514906	geo:GSE277136:GSM8514906	donor_id	patient 1	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514906	!Sample_title = ICI-related pneumonitis patient 1, scRNA-seq	True
+GSM8514906	geo:GSE277136:GSM8514906	tissue_free_text	bronchoalveolar lavage fluid	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514906	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid	True
+GSM8514906	geo:GSE277136:GSM8514906	sample_collection_method	bronchoalveolar lavage	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		A total of 30ml of lavage fluid was retrieved from each patient	True
+GSM8514906	geo:GSE277136:GSM8514906	disease_free_text	immune checkpoint inhibitor-related pneumonitis	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514906	geo:GSE277136:GSM8514906	disease_ontology_term_id	MONDO:0043905	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514906	geo:GSE277136:GSM8514906	disease_stage	grade ≥2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514906	geo:GSE277136:GSM8514906	treatment	immune checkpoint inhibitor	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514906	!Sample_characteristics_ch1 = treatment: immune checkpoint inhibitor	True
+GSM8514906	geo:GSE277136:GSM8514906	suspension_type	cell	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Cell suspensions were barcoded through the 10x Chromium Single Cell platform	True
+GSM8514906	geo:GSE277136:GSM8514906	assay	10x 5' v2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2	True
+GSM8514908	geo:GSE277136:GSM8514908	donor_id	patient 2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514908	!Sample_title = ICI-related pneumonitis patient 2, scRNA-seq	True
+GSM8514908	geo:GSE277136:GSM8514908	tissue_free_text	bronchoalveolar lavage fluid	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514908	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid	True
+GSM8514908	geo:GSE277136:GSM8514908	sample_collection_method	bronchoalveolar lavage	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		A total of 30ml of lavage fluid was retrieved from each patient	True
+GSM8514908	geo:GSE277136:GSM8514908	disease_free_text	immune checkpoint inhibitor-related pneumonitis	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514908	geo:GSE277136:GSM8514908	disease_ontology_term_id	MONDO:0043905	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514908	geo:GSE277136:GSM8514908	disease_stage	grade ≥2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514908	geo:GSE277136:GSM8514908	treatment	immune checkpoint inhibitor	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514908	!Sample_characteristics_ch1 = treatment: immune checkpoint inhibitor	True
+GSM8514908	geo:GSE277136:GSM8514908	suspension_type	cell	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Cell suspensions were barcoded through the 10x Chromium Single Cell platform	True
+GSM8514908	geo:GSE277136:GSM8514908	assay	10x 5' v2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2	True
+GSM8514910	geo:GSE277136:GSM8514910	donor_id	patient 3	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514910	!Sample_title = ICI-related pneumonitis patient 3, scRNA-seq	True
+GSM8514910	geo:GSE277136:GSM8514910	tissue_free_text	bronchoalveolar lavage fluid	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514910	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid	True
+GSM8514910	geo:GSE277136:GSM8514910	sample_collection_method	bronchoalveolar lavage	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		A total of 30ml of lavage fluid was retrieved from each patient	True
+GSM8514910	geo:GSE277136:GSM8514910	disease_free_text	immune checkpoint inhibitor-related pneumonitis	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514910	geo:GSE277136:GSM8514910	disease_ontology_term_id	MONDO:0043905	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514910	geo:GSE277136:GSM8514910	disease_stage	grade ≥2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514910	geo:GSE277136:GSM8514910	treatment	immune checkpoint inhibitor	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514910	!Sample_characteristics_ch1 = treatment: immune checkpoint inhibitor	True
+GSM8514910	geo:GSE277136:GSM8514910	suspension_type	cell	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Cell suspensions were barcoded through the 10x Chromium Single Cell platform	True
+GSM8514910	geo:GSE277136:GSM8514910	assay	10x 5' v2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2	True
+GSM8514912	geo:GSE277136:GSM8514912	donor_id	patient 4	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514912	!Sample_title = ICI-related pneumonitis patient 4, scRNA-seq	True
+GSM8514912	geo:GSE277136:GSM8514912	tissue_free_text	bronchoalveolar lavage fluid	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514912	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid	True
+GSM8514912	geo:GSE277136:GSM8514912	sample_collection_method	bronchoalveolar lavage	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		A total of 30ml of lavage fluid was retrieved from each patient	True
+GSM8514912	geo:GSE277136:GSM8514912	disease_free_text	immune checkpoint inhibitor-related pneumonitis	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514912	geo:GSE277136:GSM8514912	disease_ontology_term_id	MONDO:0043905	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514912	geo:GSE277136:GSM8514912	disease_stage	grade ≥2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514912	geo:GSE277136:GSM8514912	treatment	immune checkpoint inhibitor	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514912	!Sample_characteristics_ch1 = treatment: immune checkpoint inhibitor	True
+GSM8514912	geo:GSE277136:GSM8514912	suspension_type	cell	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Cell suspensions were barcoded through the 10x Chromium Single Cell platform	True
+GSM8514912	geo:GSE277136:GSM8514912	assay	10x 5' v2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2	True
+GSM8514914	geo:GSE277136:GSM8514914	donor_id	patient 5	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514914	!Sample_title = ICI-related pneumonitis patient 5, scRNA-seq	True
+GSM8514914	geo:GSE277136:GSM8514914	tissue_free_text	bronchoalveolar lavage fluid	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514914	!Sample_characteristics_ch1 = tissue: bronchoalveolar lavage fluid	True
+GSM8514914	geo:GSE277136:GSM8514914	sample_collection_method	bronchoalveolar lavage	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		A total of 30ml of lavage fluid was retrieved from each patient	True
+GSM8514914	geo:GSE277136:GSM8514914	disease_free_text	immune checkpoint inhibitor-related pneumonitis	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514914	geo:GSE277136:GSM8514914	disease_ontology_term_id	MONDO:0043905	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514914	geo:GSE277136:GSM8514914	disease_stage	grade ≥2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		grade ≥2 immune checkpoint inhibitor-related pneumonitis	True
+GSM8514914	geo:GSE277136:GSM8514914	treatment	immune checkpoint inhibitor	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz	GSM8514914	!Sample_characteristics_ch1 = treatment: immune checkpoint inhibitor	True
+GSM8514914	geo:GSE277136:GSM8514914	suspension_type	cell	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Cell suspensions were barcoded through the 10x Chromium Single Cell platform	True
+GSM8514914	geo:GSE277136:GSM8514914	assay	10x 5' v2	file	raw/fp-34881988ffb8/GSE277136_family.soft.gz		Chromium Next GEM Single Cell 5’ Kit v2	True

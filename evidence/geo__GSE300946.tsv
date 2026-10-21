@@ -1,0 +1,182 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM9072551	geo:GSE300946:GSM9072551	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072551_cells.tsv.gz/sex			True
+GSM9072551	geo:GSE300946:GSM9072551	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072551_cells.tsv.gz/timepoint			True
+GSM9072551	geo:GSE300946:GSM9072551	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9072551	geo:GSE300946:GSM9072551	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072551	geo:GSE300946:GSM9072551	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072551_cells.tsv.gz/overall_celltype			True
+GSM9072552	geo:GSE300946:GSM9072552	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072552_cells.tsv.gz/sex			True
+GSM9072552	geo:GSE300946:GSM9072552	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072552_cells.tsv.gz/timepoint			True
+GSM9072552	geo:GSE300946:GSM9072552	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072552	geo:GSE300946:GSM9072552	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072552	geo:GSE300946:GSM9072552	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072552_cells.tsv.gz/overall_celltype			True
+GSM9072553	geo:GSE300946:GSM9072553	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072553_cells.tsv.gz/sex			True
+GSM9072553	geo:GSE300946:GSM9072553	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072553_cells.tsv.gz/timepoint			True
+GSM9072553	geo:GSE300946:GSM9072553	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072553	geo:GSE300946:GSM9072553	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072553	geo:GSE300946:GSM9072553	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072553_cells.tsv.gz/overall_celltype			True
+GSM9072554	geo:GSE300946:GSM9072554	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072554_cells.tsv.gz/sex			True
+GSM9072554	geo:GSE300946:GSM9072554	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072554_cells.tsv.gz/timepoint			True
+GSM9072554	geo:GSE300946:GSM9072554	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072554	geo:GSE300946:GSM9072554	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072554	geo:GSE300946:GSM9072554	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072554_cells.tsv.gz/overall_celltype			True
+GSM9072555	geo:GSE300946:GSM9072555	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072555_cells.tsv.gz/sex			True
+GSM9072555	geo:GSE300946:GSM9072555	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072555_cells.tsv.gz/timepoint			True
+GSM9072555	geo:GSE300946:GSM9072555	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9072555	geo:GSE300946:GSM9072555	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072555	geo:GSE300946:GSM9072555	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072555_cells.tsv.gz/overall_celltype			True
+GSM9072556	geo:GSE300946:GSM9072556	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072556_cells.tsv.gz/sex			True
+GSM9072556	geo:GSE300946:GSM9072556	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072556_cells.tsv.gz/timepoint			True
+GSM9072556	geo:GSE300946:GSM9072556	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072556	geo:GSE300946:GSM9072556	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072556	geo:GSE300946:GSM9072556	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072556_cells.tsv.gz/overall_celltype			True
+GSM9072557	geo:GSE300946:GSM9072557	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072557_cells.tsv.gz/sex			True
+GSM9072557	geo:GSE300946:GSM9072557	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072557_cells.tsv.gz/timepoint			True
+GSM9072557	geo:GSE300946:GSM9072557	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9072557	geo:GSE300946:GSM9072557	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072557	geo:GSE300946:GSM9072557	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072557_cells.tsv.gz/overall_celltype			True
+GSM9072558	geo:GSE300946:GSM9072558	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072558_cells.tsv.gz/sex			True
+GSM9072558	geo:GSE300946:GSM9072558	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072558_cells.tsv.gz/timepoint			True
+GSM9072558	geo:GSE300946:GSM9072558	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9072558	geo:GSE300946:GSM9072558	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072558	geo:GSE300946:GSM9072558	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072558_cells.tsv.gz/overall_celltype			True
+GSM9072559	geo:GSE300946:GSM9072559	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072559_cells.tsv.gz/sex			True
+GSM9072559	geo:GSE300946:GSM9072559	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072559_cells.tsv.gz/timepoint			True
+GSM9072559	geo:GSE300946:GSM9072559	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072559	geo:GSE300946:GSM9072559	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072559	geo:GSE300946:GSM9072559	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072559_cells.tsv.gz/overall_celltype			True
+GSM9072560	geo:GSE300946:GSM9072560	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072560_cells.tsv.gz/sex			True
+GSM9072560	geo:GSE300946:GSM9072560	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072560_cells.tsv.gz/timepoint			True
+GSM9072560	geo:GSE300946:GSM9072560	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072560	geo:GSE300946:GSM9072560	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072560	geo:GSE300946:GSM9072560	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072560_cells.tsv.gz/overall_celltype			True
+GSM9072561	geo:GSE300946:GSM9072561	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072561_cells.tsv.gz/sex			True
+GSM9072561	geo:GSE300946:GSM9072561	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072561_cells.tsv.gz/timepoint			True
+GSM9072561	geo:GSE300946:GSM9072561	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072561	geo:GSE300946:GSM9072561	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072561	geo:GSE300946:GSM9072561	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072561_cells.tsv.gz/overall_celltype			True
+GSM9072563	geo:GSE300946:GSM9072563	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072563_cells.tsv.gz/sex			True
+GSM9072563	geo:GSE300946:GSM9072563	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072563_cells.tsv.gz/timepoint			True
+GSM9072563	geo:GSE300946:GSM9072563	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9072563	geo:GSE300946:GSM9072563	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072563	geo:GSE300946:GSM9072563	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072563_cells.tsv.gz/overall_celltype			True
+GSM9072564	geo:GSE300946:GSM9072564	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072564_cells.tsv.gz/sex			True
+GSM9072564	geo:GSE300946:GSM9072564	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072564_cells.tsv.gz/timepoint			True
+GSM9072564	geo:GSE300946:GSM9072564	sex_ontology_term_id	PATO:0000383	derived	sex_map		female	True
+GSM9072564	geo:GSE300946:GSM9072564	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072564	geo:GSE300946:GSM9072564	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072564_cells.tsv.gz/overall_celltype			True
+GSM9072565	geo:GSE300946:GSM9072565	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9072565_cells.tsv.gz/sex			True
+GSM9072565	geo:GSE300946:GSM9072565	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9072565_cells.tsv.gz/timepoint			True
+GSM9072565	geo:GSE300946:GSM9072565	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9072565	geo:GSE300946:GSM9072565	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9072565	geo:GSE300946:GSM9072565	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9072565_cells.tsv.gz/overall_celltype			True
+GSM9802606	geo:GSE300946:GSM9802606	sex_ontology_term_id	<column sex>	column	work/fp-479141614fe1/reconciled/GSM9802606_cells.tsv.gz/sex			True
+GSM9802606	geo:GSE300946:GSM9802606	timepoint	<column timepoint>	column	work/fp-479141614fe1/reconciled/GSM9802606_cells.tsv.gz/timepoint			True
+GSM9802606	geo:GSE300946:GSM9802606	sex_ontology_term_id	PATO:0000384	derived	sex_map		male	True
+GSM9802606	geo:GSE300946:GSM9802606	disease_ontology_term_id	PATO:0000461	derived	pato_normal		normal	True
+GSM9802606	geo:GSE300946:GSM9802606	author_cell_type	<column overall_celltype>	column	work/fp-479141614fe1/reconciled/GSM9802606_cells.tsv.gz/overall_celltype			True
+		organism	Homo sapiens	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072551	geo:GSE300946:GSM9072551	donor_id	Subject 1	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 1 GSM4593888 GSM9072551	True
+GSM9072551	geo:GSE300946:GSM9072551	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072551_cells.tsv.gz		sex	True
+GSM9072551	geo:GSE300946:GSM9072551	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072551	geo:GSE300946:GSM9072551	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072551	geo:GSE300946:GSM9072551	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072551	geo:GSE300946:GSM9072551	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072551	geo:GSE300946:GSM9072551	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072552	geo:GSE300946:GSM9072552	donor_id	Subject 2	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 2 GSM4593889 GSM9072552	True
+GSM9072552	geo:GSE300946:GSM9072552	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072552_cells.tsv.gz		sex	True
+GSM9072552	geo:GSE300946:GSM9072552	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072552	geo:GSE300946:GSM9072552	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072552	geo:GSE300946:GSM9072552	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072552	geo:GSE300946:GSM9072552	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072552	geo:GSE300946:GSM9072552	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072553	geo:GSE300946:GSM9072553	donor_id	Subject 3	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 3 GSM4593890 GSM9072553	True
+GSM9072553	geo:GSE300946:GSM9072553	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072553_cells.tsv.gz		sex	True
+GSM9072553	geo:GSE300946:GSM9072553	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072553	geo:GSE300946:GSM9072553	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072553	geo:GSE300946:GSM9072553	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072553	geo:GSE300946:GSM9072553	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072553	geo:GSE300946:GSM9072553	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072554	geo:GSE300946:GSM9072554	donor_id	Subject 4	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 4 GSM4593891 GSM9072554	True
+GSM9072554	geo:GSE300946:GSM9072554	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072554_cells.tsv.gz		sex	True
+GSM9072554	geo:GSE300946:GSM9072554	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072554	geo:GSE300946:GSM9072554	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072554	geo:GSE300946:GSM9072554	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072554	geo:GSE300946:GSM9072554	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072554	geo:GSE300946:GSM9072554	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072555	geo:GSE300946:GSM9072555	donor_id	Subject 5	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 5 GSM4593892 GSM9072555	True
+GSM9072555	geo:GSE300946:GSM9072555	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072555_cells.tsv.gz		sex	True
+GSM9072555	geo:GSE300946:GSM9072555	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072555	geo:GSE300946:GSM9072555	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072555	geo:GSE300946:GSM9072555	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072555	geo:GSE300946:GSM9072555	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072555	geo:GSE300946:GSM9072555	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072556	geo:GSE300946:GSM9072556	donor_id	Subject 6	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 6 GSM4593893 GSM9072556	True
+GSM9072556	geo:GSE300946:GSM9072556	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072556_cells.tsv.gz		sex	True
+GSM9072556	geo:GSE300946:GSM9072556	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072556	geo:GSE300946:GSM9072556	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072556	geo:GSE300946:GSM9072556	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072556	geo:GSE300946:GSM9072556	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072556	geo:GSE300946:GSM9072556	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072557	geo:GSE300946:GSM9072557	donor_id	Subject 7	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 7 GSM4593894 GSM9072557	True
+GSM9072557	geo:GSE300946:GSM9072557	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072557_cells.tsv.gz		sex	True
+GSM9072557	geo:GSE300946:GSM9072557	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072557	geo:GSE300946:GSM9072557	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072557	geo:GSE300946:GSM9072557	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072557	geo:GSE300946:GSM9072557	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072557	geo:GSE300946:GSM9072557	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072558	geo:GSE300946:GSM9072558	donor_id	Subject 8	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 8 GSM4593895 GSM9072558	True
+GSM9072558	geo:GSE300946:GSM9072558	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072558_cells.tsv.gz		sex	True
+GSM9072558	geo:GSE300946:GSM9072558	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072558	geo:GSE300946:GSM9072558	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072558	geo:GSE300946:GSM9072558	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072558	geo:GSE300946:GSM9072558	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072558	geo:GSE300946:GSM9072558	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072559	geo:GSE300946:GSM9072559	donor_id	Subject 9	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 9 GSM4593896 GSM9072559	True
+GSM9072559	geo:GSE300946:GSM9072559	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072559_cells.tsv.gz		sex	True
+GSM9072559	geo:GSE300946:GSM9072559	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072559	geo:GSE300946:GSM9072559	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072559	geo:GSE300946:GSM9072559	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072559	geo:GSE300946:GSM9072559	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072559	geo:GSE300946:GSM9072559	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072560	geo:GSE300946:GSM9072560	donor_id	Subject 10	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 10 GSM4593897 GSM9072560	True
+GSM9072560	geo:GSE300946:GSM9072560	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072560_cells.tsv.gz		sex	True
+GSM9072560	geo:GSE300946:GSM9072560	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072560	geo:GSE300946:GSM9072560	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072560	geo:GSE300946:GSM9072560	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072560	geo:GSE300946:GSM9072560	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072560	geo:GSE300946:GSM9072560	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072561	geo:GSE300946:GSM9072561	donor_id	Subject 11	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 11 GSM8772534 GSM9072561	True
+GSM9072561	geo:GSE300946:GSM9072561	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072561_cells.tsv.gz		sex	True
+GSM9072561	geo:GSE300946:GSM9072561	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072561	geo:GSE300946:GSM9072561	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072561	geo:GSE300946:GSM9072561	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072561	geo:GSE300946:GSM9072561	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072561	geo:GSE300946:GSM9072561	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072563	geo:GSE300946:GSM9072563	donor_id	Subject 13	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 13 GSM8772536 GSM9072563	True
+GSM9072563	geo:GSE300946:GSM9072563	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072563_cells.tsv.gz		sex	True
+GSM9072563	geo:GSE300946:GSM9072563	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072563	geo:GSE300946:GSM9072563	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072563	geo:GSE300946:GSM9072563	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072563	geo:GSE300946:GSM9072563	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072563	geo:GSE300946:GSM9072563	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072564	geo:GSE300946:GSM9072564	donor_id	Subject 14	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 14 GSM8772537 GSM9072564	True
+GSM9072564	geo:GSE300946:GSM9072564	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072564_cells.tsv.gz		sex	True
+GSM9072564	geo:GSE300946:GSM9072564	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072564	geo:GSE300946:GSM9072564	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072564	geo:GSE300946:GSM9072564	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072564	geo:GSE300946:GSM9072564	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072564	geo:GSE300946:GSM9072564	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072565	geo:GSE300946:GSM9072565	donor_id	Subject 15	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 15 GSM8772538 GSM9072565	True
+GSM9072565	geo:GSE300946:GSM9072565	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9072565_cells.tsv.gz		sex	True
+GSM9072565	geo:GSE300946:GSM9072565	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072565	geo:GSE300946:GSM9072565	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9072565	geo:GSE300946:GSM9072565	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9072565	geo:GSE300946:GSM9072565	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9072565	geo:GSE300946:GSM9072565	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9802606	geo:GSE300946:GSM9802606	donor_id	Subject 12	file	raw/fp-479141614fe1/GSE300946_README.txt		Subject 12 GSM8772535 GSM9802606	True
+GSM9802606	geo:GSE300946:GSM9802606	sex	<map of column sex>	file	work/fp-479141614fe1/reconciled/GSM9802606_cells.tsv.gz		sex	True
+GSM9802606	geo:GSE300946:GSM9802606	disease_ontology_term_id	normal	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9802606	geo:GSE300946:GSM9802606	disease_free_text	healthy adult after endobronchial endotoxin (LPS) exposure	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		samples collected from healthy adults following lipopolysaccharide (LPS) exposure	True
+GSM9802606	geo:GSE300946:GSM9802606	treatment	endobronchial exposure to bacterial endotoxin (LPS)	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		endobronchial exposure to bacterial endotoxin	True
+GSM9802606	geo:GSE300946:GSM9802606	tissue_free_text	bronchoalveolar lavage cells	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True
+GSM9802606	geo:GSE300946:GSM9802606	sample_collection_method	bronchoalveolar lavage	file	raw/fp-479141614fe1/GSE300946_family.soft.gz		Bronchoalveolar lavage of healthy human adults after LPS exposure	True

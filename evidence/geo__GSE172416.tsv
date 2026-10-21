@@ -1,0 +1,6 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-63cde5744c9e/GSE172416_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5255579	geo:GSE172416:GSM5255579	tissue_free_text	Normal lung	file	raw/fp-63cde5744c9e/GSE172416_family.soft.gz	GSM5255579	!Sample_characteristics_ch1 = tissue: Normal lung	True
+GSM5255579	geo:GSE172416:GSM5255579	donor_id	No.1	file	raw/fp-63cde5744c9e/GSE172416_family.soft.gz	GSM5255579	!Sample_characteristics_ch1 = patient number: No.1	True
+GSM5255580	geo:GSE172416:GSM5255580	tissue_free_text	Normal lung	file	raw/fp-63cde5744c9e/GSE172416_family.soft.gz	GSM5255580	!Sample_characteristics_ch1 = tissue: Normal lung	True
+GSM5255580	geo:GSE172416:GSM5255580	donor_id	No.1	file	raw/fp-63cde5744c9e/GSE172416_family.soft.gz	GSM5255580	!Sample_characteristics_ch1 = patient number: No.1	True

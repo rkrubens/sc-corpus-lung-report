@@ -1,0 +1,18 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+		organism	Homo sapiens	file	raw/fp-1072a8624309/GSE193960_family.soft.gz		!Sample_organism_ch1 = Homo sapiens	True
+GSM5824331	geo:GSE193960:GSM5824331	tissue_free_text	SCLC tumor	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	tissue: SCLC tumor	True
+GSM5824331	geo:GSE193960:GSM5824331	tissue_type	tissue	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	tissue: SCLC tumor	True
+GSM5824331	geo:GSE193960:GSM5824331	disease_free_text	small cell lung cancer	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	SCLC tumor	True
+GSM5824331	geo:GSE193960:GSM5824331	disease_ontology_term_id	MONDO:0008433	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	Human SCLC tumor	True
+GSM5824331	geo:GSE193960:GSM5824331	suspension_type	cell	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	Library preparation for scRNA-seq	True
+GSM5824331	geo:GSE193960:GSM5824331	disease_stage	Relapsed	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	stage/treatment: Relapsed	True
+GSM5824331	geo:GSE193960:GSM5824331	treatment	etoposide and cisplatin; prophylactic cranial irradiation	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	Both patients received etoposide and cisplatin. Tumor 1 came from a patient who also received prophylactic cranial irradiation	True
+GSM5824331	geo:GSE193960:GSM5824331	sample_collection_method	bronchoscopy with transbronchial needle aspiration of a left hilar mass	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824331	collection method: bronchoscopy with transbronchial needle aspiration of a left hilar mass	True
+GSM5824332	geo:GSE193960:GSM5824332	tissue_free_text	SCLC tumor	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	tissue: SCLC tumor	True
+GSM5824332	geo:GSE193960:GSM5824332	tissue_type	tissue	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	tissue: SCLC tumor	True
+GSM5824332	geo:GSE193960:GSM5824332	disease_free_text	small cell lung cancer	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	SCLC tumor	True
+GSM5824332	geo:GSE193960:GSM5824332	disease_ontology_term_id	MONDO:0008433	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	Human SCLC tumor	True
+GSM5824332	geo:GSE193960:GSM5824332	suspension_type	cell	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	Library preparation for scRNA-seq	True
+GSM5824332	geo:GSE193960:GSM5824332	disease_stage	Stage 1B mixed SCLC/LCNEC, relapsed (EP standard of care)	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	stage/treatment: Stage 1B mixed SCLC/LCNEC, relapsed (EP standard of care)	True
+GSM5824332	geo:GSE193960:GSM5824332	treatment	etoposide and cisplatin	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	Both patients received etoposide and cisplatin.	True
+GSM5824332	geo:GSE193960:GSM5824332	sample_collection_method	Upper right lobectomy	file	raw/fp-1072a8624309/GSE193960_family.soft.gz	GSM5824332	collection method: Upper right lobectomy	True

@@ -1,0 +1,10 @@
+sample_id	sample_uid	field	value	source	ref	scope	quote	verified
+GSM7682693	geo:GSE240121:GSM7682693	assay_ontology_term_id	EFO:0009922	derived	ols:efo		10x 3' v3	True
+GSM7682693	geo:GSE240121:GSM7682693	disease_ontology_term_id	MONDO:0005065	derived	ols:mondo		mesothelioma	True
+		organism	Homo sapiens	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz	GSM7682693	!Sample_organism_ch1 = Homo sapiens	True
+GSM7682693	geo:GSE240121:GSM7682693	tissue_free_text	Microengineered mesothelioma tumor infused with CAR T cells	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz	GSM7682693	!Sample_characteristics_ch1 = tissue: Microengineered mesothelioma tumor infused with CAR T cells	True
+GSM7682693	geo:GSE240121:GSM7682693	disease_free_text	mesothelioma	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz	GSM7682693	!Sample_source_name_ch1 = Microengineered mesothelioma tumor infused with CAR T cells	True
+GSM7682693	geo:GSE240121:GSM7682693	tissue_type	organoid	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz		engineer three-dimensional organotypic constructs composed of human tumor explants	True
+GSM7682693	geo:GSE240121:GSM7682693	suspension_type	cell	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz	GSM7682693	to obtain single cell suspensions	True
+GSM7682693	geo:GSE240121:GSM7682693	assay	10x 3' v3	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz	GSM7682693	Chromium Single Cell 3’ Reagent Kit v3	True
+GSM7682693	geo:GSE240121:GSM7682693	treatment	infused with CAR T cells	file	raw/fp-9cdb53a42dd4/GSE240121_family.soft.gz	GSM7682693	!Sample_source_name_ch1 = Microengineered mesothelioma tumor infused with CAR T cells	True
